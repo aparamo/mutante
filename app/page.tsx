@@ -25,10 +25,10 @@ export default async function Home({
       <div className="flex flex-col items-start gap-4 md:flex-row md:justify-between md:gap-8 mb-8">
         <div className="flex-1 space-y-4">
           <h1 className="inline-block font-heading text-4xl tracking-tight lg:text-5xl">
-            Directorio de Expertos LEAD
+            Directorio de Especialistas en Desarrollo Sustentable
           </h1>
           <p className="text-xl text-muted-foreground">
-            Explora los perfiles y el banco de conocimiento de los líderes en desarrollo sustentable en México.
+            Explora los perfiles y el banco de conocimiento de especialistas en desarrollo sustentable en México.
           </p>
         </div>
       </div>

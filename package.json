@@ -21,6 +21,8 @@
     "mongoose": "^9.2.4",
     "mongoose-zod": "^0.1.2",
     "next": "16.1.6",
+    "pdf-parse": "^2.4.5",
+    "pdf2json": "^4.0.2",
     "react": "19.2.3",
     "react-dom": "19.2.3",
     "shadcn": "^4.0.0",
