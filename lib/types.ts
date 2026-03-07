@@ -26,7 +26,8 @@ export const ExpertSchema = z.object({
   name: z.string().min(1, "Name is required"),
   cohort: z.number().int().positive(),
   sector: z.string().optional(),
-  title: z.string().optional(),
+  title: z.string().optional(), // The historical title from the PDFs
+  currentTitle: z.string().optional(), // The updated/current job title found by AI
   email: z.string().email().optional().or(z.literal("")),
 
   // -- Phase 2 Fields (Enriched) --

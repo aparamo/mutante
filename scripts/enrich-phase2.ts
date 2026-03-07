@@ -102,19 +102,28 @@ async function main() {
 Tu tarea es investigar a profundidad y extraer la mayor cantidad posible de conocimiento, análisis y resultados sobre:
 
 Nombre: ${expert.name}
-Posible título/cargo (hace años): ${expert.title || 'N/A'}
+Título/cargo HISTÓRICO (muy antiguo): ${expert.title || 'N/A'}
 Sector: ${expert.sector || 'N/A'}
 Contexto: Fue parte del Programa LEAD-México del Colegio de México en la Cohorte ${expert.cohort}. Es un experto/a en Desarrollo Sustentable, Medio Ambiente o áreas afines en México o Latinoamérica.
 
 INSTRUCCIONES EXHAUSTIVAS:
-1. **Biografía y Aportaciones**: Redacta una biografía detallada (aprox. 300 palabras) sobre su trayectoria, impacto de sus ideas, qué análisis o tesis defiende, y cómo ha contribuido a su campo.
-2. **Obras, Publicaciones y Trabajos (references)**: Encuentra y lista sus **3 a 5 publicaciones y trabajos más importantes**. Para CADA obra, escribe en el campo "description" un resumen de por qué es importante, cuáles fueron sus hallazgos, su análisis o sus resultados principales. ¡SE CONCISO, máximo 2 o 3 oraciones por descripción!
-3. **Citas y Lecciones (citations)**: Extrae de **3 a 5 citas textuales** profundas. Busca en entrevistas, columnas de opinión, resúmenes de sus papers o transcripciones de YouTube. Queremos lecciones, ideas clave, datos crudos que hayan aportado, o descubrimientos.
+1. **Actualización de Perfil**: El cargo histórico provisto es viejo. Investiga a qué se dedica actualmente, su afiliación institucional más reciente y define su "currentTitle".
+2. **Biografía y Aportaciones**: Redacta una biografía detallada (aprox. 300 palabras) sobre su trayectoria, impacto de sus ideas, qué análisis o tesis defiende, y cómo ha contribuido a su campo.
+3. **Obras, Publicaciones y Trabajos (references)**: Encuentra y lista sus **3 a 5 publicaciones y trabajos más importantes**. Para CADA obra, escribe en el campo "description" un resumen de por qué es importante, cuáles fueron sus hallazgos, su análisis o sus resultados principales. ¡SE CONCISO, máximo 2 o 3 oraciones por descripción!
+4. **Citas y Lecciones (citations)**: Extrae de **3 a 5 citas textuales** profundas. Busca en entrevistas, columnas de opinión, resúmenes de sus papers o transcripciones de YouTube. Queremos lecciones, ideas clave, datos crudos que hayan aportado, o descubrimientos.
+
+REGLA CRÍTICA SOBRE LOS ENLACES (URLs):
+La Inteligencia Artificial tiende a inventar enlaces. ESTO ESTÁ ESTRICTAMENTE PROHIBIDO. 
+- SOLO puedes poner un enlace en el campo "url" o "sourceUrl" si es 100% real, verificado y provisto directamente por tu herramienta de Búsqueda en Google.
+- Si encuentras la referencia a una obra pero no tienes la liga exacta para verla o comprarla, DEJA EL CAMPO DE URL VACÍO (""). ¡NO INVENTES NINGÚN ENLACE!
+- Es 100% válido y deseable poner enlaces hacia "reseñas académicas", resúmenes (abstracts) en repositorios (como SciELO, Redalyc, Dialnet, Academia.edu, ResearchGate) si el libro/paper completo no está disponible.
+- Verifica que el formato del enlace empiece con https://.
 
 REGLA DE FORMATO: Devuelve la información estructurada estrictamente en un bloque de código JSON (empezando con \`\`\`json y terminando con \`\`\`).
 NO devuelvas texto fuera del bloque JSON.
 Estructura JSON esperada:
 {
+  "currentTitle": "Cargo, título o afiliación institucional más reciente y actualizada en el mundo real",
   "bio": "...",
   "topics": ["Tema 1", "Tema 2", "Tema 3"],
   "links": {
@@ -123,7 +132,7 @@ Estructura JSON esperada:
   "references": [
     { 
       "title": "Título completo de la obra", 
-      "url": "URL a la obra (Google Scholar, Academia.edu, Youtube, etc)", 
+      "url": "URL a la obra (Google Scholar, Academia.edu, Youtube, etc) O VACÍO si no hay link seguro", 
       "type": "video|article|book|social|website|other",
       "description": "Análisis profundo, hallazgos y resultados presentados en esta obra."
     }
@@ -132,7 +141,7 @@ Estructura JSON esperada:
     { 
       "quote": "Cita textual extensa, o lección profunda de sus análisis y estudios...", 
       "sourceTitle": "De dónde se extrajo", 
-      "sourceUrl": "URL de origen", 
+      "sourceUrl": "URL de origen O VACÍO si no hay link seguro", 
       "date": "Año o fecha aprox", 
       "context": "Contexto e impacto de la lección", 
       "topics": ["tema específico"] 
@@ -165,7 +174,9 @@ Estructura JSON esperada:
 
       if (!responseText || responseText.trim() === "") {
          console.warn(`Empty response from Gemini for ${expert.name}. Skipping...`);
-         continue; // Skip without updating isEnriched so it can be retried later
+         // Mark as enriched to avoid infinite loops on invalid names
+         await expertsCollection.updateOne({ _id: expert._id }, { $set: { isEnriched: true, error: "Empty response" } });
+         continue; 
       }
 
       // Extract JSON from markdown block if present
@@ -175,23 +186,22 @@ Estructura JSON esperada:
       // Cleanup trailing characters that might break JSON parse
       jsonString = jsonString.trim();
       if (!jsonString.endsWith("}")) {
-          // Sometimes it misses the closing bracket if it cuts off, or has garbage at the end
           const lastBrace = jsonString.lastIndexOf("}");
           if (lastBrace !== -1) {
               jsonString = jsonString.substring(0, lastBrace + 1);
           } else {
-              jsonString += "\n}"; // Try to forcefully close it
+              jsonString += "\n}"; 
           }
       }
 
       let enrichedData;
       try {
         enrichedData = JSON.parse(jsonString);
-      } catch (parseError) {
+      } catch (parseError: any) {
         console.error("Failed to parse JSON for", expert.name);
         console.error("Raw Output:", responseText.substring(0, 200) + "...");
-        console.error("Error processing expert", expert.name, parseError);
-        continue; // Skip this expert and continue the loop
+        await expertsCollection.updateOne({ _id: expert._id }, { $set: { isEnriched: true, error: "JSON Parse Error: " + parseError.message } });
+        continue; 
       }
 
       // 2. Generar Embedding para la biografía principal
@@ -201,6 +211,7 @@ Estructura JSON esperada:
       // 3. Preparar los datos actualizados del experto
       const updateData: Partial<Expert> = {
         isEnriched: true,
+        currentTitle: enrichedData.currentTitle,
         bio: enrichedData.bio,
         topics: enrichedData.topics || [],
         links: enrichedData.links || {},
