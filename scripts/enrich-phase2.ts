@@ -7,8 +7,8 @@ import { config } from "dotenv";
 
 config();
 
-const BATCH_SIZE = 10; // Procesamos de a 10 para avanzar más rápido
-const DELAY_MS = 3000; // 3 segundos entre llamadas
+const BATCH_SIZE = 20; // Procesamos de a 20 para avanzar sustancialmente en el banco de conocimiento
+const DELAY_MS = 5000; // 5 segundos entre llamadas
 
 // Schema de respuesta estructurada para Gemini
 const EnrichedExpertResponseSchema: Schema = {
@@ -40,7 +40,8 @@ const EnrichedExpertResponseSchema: Schema = {
         properties: {
           title: { type: SchemaType.STRING },
           url: { type: SchemaType.STRING, description: "URL to the content. MUST be a valid URL or empty string." },
-          type: { type: SchemaType.STRING, description: "Must be exactly one of: 'video', 'article', 'book', 'social', 'website', 'other'" }
+          type: { type: SchemaType.STRING, description: "Must be exactly one of: 'video', 'article', 'book', 'social', 'website', 'other'" },
+          description: { type: SchemaType.STRING, description: "Brief summary, findings, or relevance of this specific work." }
         }
       }
     },
@@ -82,8 +83,6 @@ async function main() {
   const expertsCollection = db.collection<Expert>("experts");
   const citationsCollection = db.collection<Citation>("citations");
 
-  // Buscamos expertos que NO hayan sido enriquecidos (o cuyo flag sea false/inexistente)
-  // Limitamos a BATCH_SIZE para no consumir todos los recursos o fallar por rate limits en una sola corrida.
   const pendingExperts = await expertsCollection.find({ isEnriched: { $ne: true } }).limit(BATCH_SIZE).toArray();
 
   if (pendingExperts.length === 0) {
@@ -98,34 +97,46 @@ async function main() {
     console.log(`Investigating: ${expert.name} (Cohort ${expert.cohort}, ${expert.sector || 'Unknown Sector'})`);
     
     try {
-      // 1. Prompt Gemini con Search Grounding
-      const prompt = `Investiga a fondo a esta persona:
+      // 1. Prompt Gemini con Search Grounding (Extendido y Exhaustivo)
+      const prompt = `Actúa como un Investigador Experto y Documentalista. Queremos construir la base de datos de un Sistema Experto de Conocimiento.
+Tu tarea es investigar a profundidad y extraer la mayor cantidad posible de conocimiento, análisis y resultados sobre:
+
 Nombre: ${expert.name}
 Posible título/cargo (hace años): ${expert.title || 'N/A'}
 Sector: ${expert.sector || 'N/A'}
 Contexto: Fue parte del Programa LEAD-México del Colegio de México en la Cohorte ${expert.cohort}. Es un experto/a en Desarrollo Sustentable, Medio Ambiente o áreas afines en México o Latinoamérica.
 
-Tarea: 
-1. Realiza una búsqueda en internet para encontrar su trayectoria actual, su trabajo, perfil de LinkedIn, redes, organizaciones.
-2. Encuentra referencias a sus libros, artículos científicos, videos de conferencias o ponencias.
-3. Extrae citas textuales profundas o lecciones fundamentales que haya dicho o escrito.
-4. Devuelve la información estructurada estrictamente en un bloque de código JSON (empezando con \`\`\`json y terminando con \`\`\`).
+INSTRUCCIONES EXHAUSTIVAS:
+1. **Biografía y Aportaciones**: Redacta una biografía detallada (aprox. 300 palabras) sobre su trayectoria, impacto de sus ideas, qué análisis o tesis defiende, y cómo ha contribuido a su campo.
+2. **Obras, Publicaciones y Trabajos (references)**: Encuentra y lista sus **3 a 5 publicaciones y trabajos más importantes**. Para CADA obra, escribe en el campo "description" un resumen de por qué es importante, cuáles fueron sus hallazgos, su análisis o sus resultados principales. ¡SE CONCISO, máximo 2 o 3 oraciones por descripción!
+3. **Citas y Lecciones (citations)**: Extrae de **3 a 5 citas textuales** profundas. Busca en entrevistas, columnas de opinión, resúmenes de sus papers o transcripciones de YouTube. Queremos lecciones, ideas clave, datos crudos que hayan aportado, o descubrimientos.
 
-El JSON DEBE tener la siguiente estructura exacta:
+REGLA DE FORMATO: Devuelve la información estructurada estrictamente en un bloque de código JSON (empezando con \`\`\`json y terminando con \`\`\`).
+NO devuelvas texto fuera del bloque JSON.
+Estructura JSON esperada:
 {
-  "bio": "Biografía profesional...",
-  "topics": ["Tema 1", "Tema 2"],
+  "bio": "...",
+  "topics": ["Tema 1", "Tema 2", "Tema 3"],
   "links": {
-    "linkedin": "url o vacío",
-    "twitter": "url o vacío",
-    "website": "url o vacío",
-    "organization": "url o vacío"
+    "linkedin": "url o vacío", "twitter": "url o vacío", "website": "url o vacío", "organization": "url o vacío"
   },
   "references": [
-    { "title": "Título", "url": "url", "type": "video|article|book|social|website|other" }
+    { 
+      "title": "Título completo de la obra", 
+      "url": "URL a la obra (Google Scholar, Academia.edu, Youtube, etc)", 
+      "type": "video|article|book|social|website|other",
+      "description": "Análisis profundo, hallazgos y resultados presentados en esta obra."
+    }
   ],
   "citations": [
-    { "quote": "Cita textual", "sourceTitle": "Título", "sourceUrl": "url", "date": "año", "context": "Contexto", "topics": ["tema"] }
+    { 
+      "quote": "Cita textual extensa, o lección profunda de sus análisis y estudios...", 
+      "sourceTitle": "De dónde se extrajo", 
+      "sourceUrl": "URL de origen", 
+      "date": "Año o fecha aprox", 
+      "context": "Contexto e impacto de la lección", 
+      "topics": ["tema específico"] 
+    }
   ]
 }
 `;

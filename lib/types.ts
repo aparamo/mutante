@@ -5,6 +5,7 @@ export const ReferenceSchema = z.object({
   title: z.string(),
   url: z.string().url(),
   type: z.enum(["video", "article", "book", "social", "website", "other"]).optional().default("other"),
+  description: z.string().optional(), // Brief summary, findings, or relevance
 });
 
 export type Reference = z.infer<typeof ReferenceSchema>;
