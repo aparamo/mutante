@@ -1,6 +1,6 @@
-import { connectToDatabase } from "./lib/db/mongodb";
-import { addReferenceAction } from "./lib/actions/expert-actions";
-import { downloadAndParsePdfAction } from "./lib/actions/pdf-actions";
+import { connectToDatabase } from "../../lib/db/mongodb";
+import { addReferenceAction } from "../../lib/actions/expert-actions";
+import { downloadAndParsePdfAction } from "../../lib/actions/pdf-actions";
 import { mock } from "bun:test";
 
 async function main() {

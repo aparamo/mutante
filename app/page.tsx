@@ -15,10 +15,26 @@ export default async function Home({
   const params = await searchParams;
   const q = typeof params.q === 'string' ? params.q : "";
   const cohort = typeof params.cohort === 'string' ? parseInt(params.cohort) : undefined;
-  const sector = typeof params.sector === 'string' ? params.sector : undefined;
+  
+  let selectedSectors: string[] = [];
+  if (Array.isArray(params.sector)) {
+    selectedSectors = params.sector;
+  } else if (typeof params.sector === 'string') {
+    selectedSectors = [params.sector];
+  }
 
-  const experts = await getExperts(q, cohort, sector);
-  const { cohorts, sectors } = await getCohortsAndSectors();
+  const experts = await getExperts(q, cohort, selectedSectors);
+  const { cohorts } = await getCohortsAndSectors();
+  
+  const masterSectors = [
+    "Academia",
+    "ONG",
+    "Gobierno",
+    "Iniciativa Privada",
+    "Organismo Internacional",
+    "Sector Popular",
+    "Finado"
+  ];
 
   return (
     <div className="container max-w-screen-2xl mx-auto py-8 px-4 w-full">
@@ -33,7 +49,7 @@ export default async function Home({
         </div>
       </div>
 
-      <DirectoryFilters cohorts={cohorts} sectors={sectors} />
+      <DirectoryFilters cohorts={cohorts} sectors={masterSectors} />
 
       <div className="mb-4 text-sm text-muted-foreground">
         Mostrando {experts.length} perfiles

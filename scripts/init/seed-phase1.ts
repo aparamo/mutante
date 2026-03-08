@@ -10,98 +10,68 @@ config();
 const COHORTS_DIR = path.join(process.cwd(), "docs", "l", "cohorts");
 
 /**
- * Parses a single markdown file from the cohorts directory.
+ * Parses a single structured markdown file from the cohorts directory.
  * @param filePath The path to the markdown file
  * @param cohortNumber The cohort number (extracted from filename)
  * @returns Array of parsed Expert objects
  */
 async function parseCohortFile(filePath: string, cohortNumber: number): Promise<Expert[]> {
   const content = await readFile(filePath, "utf-8");
-  const lines = content.split("\n").map(l => l.trim()).filter(l => l.length > 0);
+  const lines = content.split("\n").map(l => l.trim());
   
   const experts: Expert[] = [];
+  
+  let currentName = "";
+  let currentSector = "";
+  let currentTitle = "";
+  let currentEmail = "";
 
-  function isSectorLine(line: string) {
-    if (!line) return false;
-    const cleanLine = line.replace(/\s/g, '').toLowerCase();
-    return cleanLine.includes("academia") ||
-           cleanLine.includes("gobierno") ||
-           cleanLine.includes("ong") ||
-           cleanLine.includes("iniciativaprivada") ||
-           cleanLine.includes("organismointernacional") ||
-           cleanLine.includes("finada") ||
-           cleanLine.includes("finado") ||
-           cleanLine.includes("fellowslead-mexico");
+  for (const line of lines) {
+    if (line.startsWith("## ")) {
+      // If we already have a name, push the previous expert
+      if (currentName) {
+        try {
+          experts.push(ExpertSchema.parse({
+            name: currentName,
+            cohort: cohortNumber,
+            sector: currentSector,
+            title: currentTitle,
+            email: currentEmail,
+            references: [],
+            topics: []
+          }));
+        } catch (e) {
+          console.error(`Error parsing expert ${currentName} in cohort ${cohortNumber}:`, e);
+        }
+      }
+      // Start new expert
+      currentName = line.replace("## ", "").trim();
+      currentSector = "";
+      currentTitle = "";
+      currentEmail = "";
+    } else if (line.startsWith("**Sector:**")) {
+      currentSector = line.replace("**Sector:**", "").trim();
+    } else if (line.startsWith("**Cargo:**")) {
+      currentTitle = line.replace("**Cargo:**", "").trim();
+    } else if (line.startsWith("**Email:**")) {
+      currentEmail = line.replace("**Email:**", "").trim();
+    }
   }
 
-  let i = 0;
-  while (i < lines.length) {
-    const line = lines[i];
-
-    // Skip headers
-    if (line.includes("EL COLEGIO DE MÉXICO") || line.includes("PROGRAMA DE ESTUDIOS") || line.includes("F E L L O W S") || line.startsWith("C O H O R T E")) {
-      i++;
-      continue;
-    }
-
-    // Is it a name? (Next line is a sector)
-    if (i + 1 < lines.length && isSectorLine(lines[i + 1])) {
-      const name = line;
-      const sectorLine = lines[i + 1];
-      let sector = sectorLine.replace(/\s/g, '');
-      const titleParts = [];
-      let email = "";
-      
-      let j = i + 2;
-      while (j < lines.length) {
-        // Stop if we hit the next name
-        if (j + 1 < lines.length && isSectorLine(lines[j + 1])) {
-          break; // Next expert
-        }
-        
-        // Skip headers inside the block
-        if (lines[j].includes("EL COLEGIO DE MÉXICO") || lines[j].includes("PROGRAMA DE ESTUDIOS") || lines[j].includes("F E L L O W S") || lines[j].startsWith("C O H O R T E")) {
-          j++;
-          continue;
-        }
-
-        if (lines[j].includes("@")) {
-          email = lines[j].split(" ")[0]; // Take first part just in case there's spaces
-          // Email usually ends the block, but there could be edge cases. 
-          // We break to be safe and start looking for the next expert.
-          j++;
-          break; 
-        } else {
-          titleParts.push(lines[j]);
-        }
-        j++;
-      }
-
-      // Check if it's FINADO in the sector line
-      let title = titleParts.join(" ");
-      if (sector.toLowerCase().includes("finada") || sector.toLowerCase().includes("finado")) {
-         title = "FINADO/A";
-         sector = "N/A";
-      }
-
-      try {
-        const validExpert = ExpertSchema.parse({
-          name: name,
-          cohort: cohortNumber,
-          sector: sector,
-          title: title,
-          email: email || "",
-          references: [],
-          topics: []
-        });
-        experts.push(validExpert);
-      } catch (e) {
-        console.error(`Error parsing expert ${name} in cohort ${cohortNumber}:`, e);
-      }
-
-      i = j; // Move to the line after this expert
-    } else {
-      i++;
+  // Push the last expert
+  if (currentName) {
+    try {
+      experts.push(ExpertSchema.parse({
+        name: currentName,
+        cohort: cohortNumber,
+        sector: currentSector,
+        title: currentTitle,
+        email: currentEmail,
+        references: [],
+        topics: []
+      }));
+    } catch (e) {
+      console.error(`Error parsing expert ${currentName} in cohort ${cohortNumber}:`, e);
     }
   }
 

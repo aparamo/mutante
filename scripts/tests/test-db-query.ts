@@ -1,4 +1,4 @@
-import { connectToDatabase } from "./lib/db/mongodb";
+import { connectToDatabase } from "../../lib/db/mongodb";
 import { ObjectId } from "mongodb";
 
 async function main() {

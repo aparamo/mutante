@@ -5,36 +5,59 @@ import { ObjectId, Filter } from "mongodb";
 export async function getExperts(
   query: string = "",
   cohort?: number,
-  sector?: string,
+  sectors?: string[],
   enrichedOnly: boolean = false
 ): Promise<Expert[]> {
   const { db } = await connectToDatabase();
   const collection = db.collection<Expert>("experts");
 
   const filter: Filter<Expert> = {};
+  const andConditions: Filter<Expert>[] = [];
   
   if (query) {
     // Si hay query, buscamos en múltiples campos
-    filter.$or = [
-      { name: { $regex: query, $options: "i" } },
-      { title: { $regex: query, $options: "i" } },
-      { sector: { $regex: query, $options: "i" } },
-      { topics: { $regex: query, $options: "i" } },
-      { bio: { $regex: query, $options: "i" } },
-      { "links.organizationName": { $regex: query, $options: "i" } }
-    ];
+    andConditions.push({
+      $or: [
+        { name: { $regex: query, $options: "i" } },
+        { title: { $regex: query, $options: "i" } },
+        { sector: { $regex: query, $options: "i" } },
+        { topics: { $regex: query, $options: "i" } },
+        { bio: { $regex: query, $options: "i" } },
+        { "links.organizationName": { $regex: query, $options: "i" } }
+      ]
+    });
   }
   
   if (cohort) {
-    filter.cohort = cohort;
+    andConditions.push({ cohort });
   }
   
-  if (sector && sector !== "all") {
-    filter.sector = sector;
+  if (sectors && sectors.length > 0) {
+    // Map master sectors to regex patterns to catch variations like "Academia/ONG", "IniciativaPrivada", etc.
+    const sectorRegexMap: Record<string, string> = {
+      "Academia": "\\bacademia\\b",
+      "ONG": "\\bong\\b|\\bonginternacional\\b",
+      "Gobierno": "\\bgobierno\\b",
+      "Iniciativa Privada": "\\biniciativaprivada\\b|\\biniciativa privada\\b",
+      "Organismo Internacional": "\\borganismointernacional\\b|\\borganismo internacional\\b",
+      "Sector Popular": "\\bsectorpopular\\b|\\bsector popular\\b",
+      "Finado": "\\bfinad[oa]\\b"
+    };
+
+    const sectorOrConditions = sectors.map(sector => {
+      const pattern = sectorRegexMap[sector] || sector;
+      return { sector: { $regex: pattern, $options: "i" } };
+    });
+
+    andConditions.push({ $or: sectorOrConditions });
   }
 
   if (enrichedOnly) {
-    filter.isEnriched = true;
+    andConditions.push({ isEnriched: true });
+  }
+
+  if (andConditions.length > 0) {
+    filter.$and = andConditions;
   }
 
   const experts = await collection

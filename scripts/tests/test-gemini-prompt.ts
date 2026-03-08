@@ -1,5 +1,5 @@
 
-import { searchModel } from "./lib/ai/gemini";
+import { searchModel } from "../../lib/ai/gemini";
 import { config } from "dotenv";
 
 config();

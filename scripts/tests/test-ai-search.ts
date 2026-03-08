@@ -1,4 +1,4 @@
-import { findExpertPublicationsAction } from "./lib/actions/pdf-actions";
+import { findExpertPublicationsAction } from "../../lib/actions/pdf-actions";
 
 // Mock auth
 import { mock } from "bun:test";

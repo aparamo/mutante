@@ -1,6 +1,6 @@
-import { addReferenceAction } from "./lib/actions/expert-actions";
-import { downloadAndParsePdfAction } from "./lib/actions/pdf-actions";
-import { connectToDatabase } from "./lib/db/mongodb";
+import { addReferenceAction } from "../../lib/actions/expert-actions";
+import { downloadAndParsePdfAction } from "../../lib/actions/pdf-actions";
+import { connectToDatabase } from "../../lib/db/mongodb";
 import { mock } from "bun:test";
 
 mock.module("./auth", () => ({

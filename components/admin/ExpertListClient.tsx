@@ -148,6 +148,7 @@ export function ExpertListClient({ initialExperts }: { initialExperts: Expert[] 
 
 import { PublicationSearchDialog } from "./PublicationSearchDialog";
 import { EnrichmentDialog } from "./EnrichmentDialog";
+import { EditExpertDialog } from "./EditExpertDialog";
 
 import { findExpertPublicationsAction } from "@/lib/actions/pdf-actions";
 
@@ -412,20 +413,20 @@ function ExpertDetail({ expert, onUpdate, onDelete }: { expert: Expert, onUpdate
       )}
 
       {/* Basic Edit Modal Overlay (Placeholder for full edit form) */}
-      {isEditing && (
-         <div className="fixed inset-0 bg-black/50 z-50 flex justify-center items-center p-4">
-            <div className="bg-zinc-900 rounded-xl shadow-xl w-full max-w-2xl max-h-[90vh] overflow-y-auto">
-               <div className="p-6 border-b border-zinc-800 flex justify-between items-center sticky top-0 bg-zinc-900">
-                  <h3 className="text-xl font-bold">Editar Perfil</h3>
-                  <button onClick={() => setIsEditing(false)} className="text-zinc-500 hover:text-zinc-400">✕</button>
-               </div>
-               <div className="p-6 flex flex-col gap-4">
-                  <p className="text-sm text-zinc-400 mb-4">La edición de perfiles completos se implementará aquí. Por ahora, se puede editar en la base de datos.</p>
-                  <button onClick={() => setIsEditing(false)} className="bg-zinc-800 text-zinc-200 px-4 py-2 rounded-md font-medium w-fit ml-auto">Cerrar</button>
-               </div>
-            </div>
-         </div>
-      )}
+      <EditExpertDialog
+        isOpen={isEditing}
+        onClose={() => setIsEditing(false)}
+        expert={expert}
+        onSave={async (newData) => {
+          try {
+            await updateExpertAction(expert.id!, newData);
+            onUpdate({ ...expert, ...newData });
+            router.refresh();
+          } catch(e) {
+            throw e; // EditExpertDialog handles the error internally and shows it
+          }
+        }}
+      />
     </div>
     </>
   );

@@ -3,6 +3,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import Link from "next/link";
 import { Leaf } from "lucide-react";
+import { MobileNav } from "@/components/MobileNav";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -21,7 +22,8 @@ export default function RootLayout({
       <body className={`${inter.className} min-h-screen bg-background text-foreground antialiased`}>
         <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
           <div className="container flex h-14 max-w-screen-2xl items-center mx-auto px-4">
-            <div className="mr-4 hidden md:flex">
+            {/* Desktop Nav */}
+            <div className="mr-4 hidden md:flex w-full">
               <Link href="/" className="mr-6 flex items-center space-x-2">
                 <Leaf className="h-6 w-6 text-green-500" />
                 <span className="hidden font-bold sm:inline-block">
@@ -43,6 +45,8 @@ export default function RootLayout({
                 </Link>
               </nav>
             </div>
+            {/* Mobile Nav */}
+            <MobileNav />
           </div>
         </header>
         <main className="flex-1 flex flex-col items-center">
