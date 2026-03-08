@@ -9,8 +9,9 @@ async function main() {
       const model = genAI.getGenerativeModel({ model: m });
       await model.embedContent("hello");
       console.log(`✅ ${m} WORKS`);
-    } catch (e: any) {
-      console.log(`❌ ${m} FAILED: ${e.statusText || e.message}`);
+    } catch (e) {
+      const error = e as Error & { statusText?: string };
+      console.log(`❌ ${m} FAILED: ${error.statusText || error.message}`);
     }
   }
 }

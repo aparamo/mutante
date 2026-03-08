@@ -1,5 +1,5 @@
 import { google } from "@ai-sdk/google";
-import { streamText, Message } from "ai";
+import { streamText, UIMessage } from "ai";
 import { connectToDatabase } from "@/lib/db/mongodb";
 import { embeddingModel } from "@/lib/ai/gemini";
 
@@ -9,7 +9,7 @@ export const dynamic = 'force-dynamic';
 
 export async function POST(req: Request) {
   try {
-    const { messages }: { messages: Message[] } = await req.json();
+    const { messages }: { messages: UIMessage[] } = await req.json();
 
     // Obtenemos la última pregunta del usuario
     const lastMessage = messages[messages.length - 1];
@@ -17,7 +17,10 @@ export async function POST(req: Request) {
     // 1. Convertimos la pregunta del usuario a un vector (Embedding)
     let queryVector: number[] = [];
     try {
-      const embedResult = await embeddingModel.embedContent(lastMessage.content);
+      const lastMessageText = (lastMessage.parts.find(
+        (part): part is { type: 'text'; text: string } => part.type === 'text',
+      )?.text) ?? '';
+      const embedResult = await embeddingModel.embedContent(lastMessageText);
       queryVector = embedResult.embedding.values;
     } catch (error) {
       console.error("Error generating embedding for query:", error);
@@ -70,12 +73,15 @@ Si usas información de la base de conocimientos, menciona al experto que lo dij
 
     // 4. Generamos y transmitimos la respuesta usando Gemini
     const result = streamText({
-      model: google("gemini-2.5-flash"),
+      model: google("gemini-1.5-flash"),
       system: systemPrompt,
-      messages,
+      messages: messages.map(message => ({
+        role: message.role,
+        content: message.parts.map(part => (part.type === 'text' ? part.text : '')).join(''),
+      })),
     });
 
-    return result.toDataStreamResponse();
+    return result.toTextStreamResponse();
   } catch (error) {
     console.error("Chat API Error:", error);
     return new Response("Error procesando la solicitud.", { status: 500 });

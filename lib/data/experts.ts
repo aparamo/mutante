@@ -1,6 +1,6 @@
 import { connectToDatabase } from "../db/mongodb";
 import type { Expert, Citation } from "../types";
-import { ObjectId } from "mongodb";
+import { ObjectId, Filter } from "mongodb";
 
 export async function getExperts(
   query: string = "",
@@ -11,7 +11,7 @@ export async function getExperts(
   const { db } = await connectToDatabase();
   const collection = db.collection<Expert>("experts");
 
-  const filter: any = {};
+  const filter: Filter<Expert> = {};
   
   if (query) {
     // Si hay query, buscamos en múltiples campos
@@ -21,7 +21,7 @@ export async function getExperts(
       { sector: { $regex: query, $options: "i" } },
       { topics: { $regex: query, $options: "i" } },
       { bio: { $regex: query, $options: "i" } },
-      { "links.organization": { $regex: query, $options: "i" } }
+      { "links.organizationName": { $regex: query, $options: "i" } }
     ];
   }
   
@@ -42,44 +42,41 @@ export async function getExperts(
     .sort({ isEnriched: -1, cohort: 1, name: 1 }) // Priorizamos mostrar a los enriquecidos primero
     .toArray();
 
-  return experts.map(e => ({
-    ...e,
-    id: e._id?.toString(),
-    _id: undefined,
-  }));
+  return experts.map(doc => {
+    const { _id, ...rest } = doc;
+    return { ...rest, id: _id?.toString() };
+  });
 }
 
 export async function getExpertById(id: string): Promise<Expert | null> {
   const { db } = await connectToDatabase();
-  const collection = db.collection<Expert>("experts");
+  const collection = db.collection("experts");
 
-  let expert = null;
+  let expertDoc = null;
   try {
-     expert = await collection.findOne({ _id: new ObjectId(id) });
-  } catch (e) {
+     expertDoc = await collection.findOne({ _id: new ObjectId(id) }) as unknown as Expert | null;
+  } catch (error: unknown) {
+     console.error("Error fetching expert by ID:", error);
      return null;
   }
 
-  if (!expert) return null;
+  if (!expertDoc) return null;
 
-  return {
-    ...expert,
-    id: expert._id?.toString(),
-    _id: undefined,
-  };
+  const { _id, ...rest } = expertDoc;
+  return { ...rest, id: _id?.toString() };
 }
 
 export async function getCitationsByExpertId(expertId: string): Promise<Citation[]> {
   const { db } = await connectToDatabase();
   const collection = db.collection<Citation>("citations");
 
+  // In the Citation schema, the expertId is already a string, so no ObjectId conversion is needed here.
   const citations = await collection.find({ expertId }).toArray();
 
-  return citations.map(c => ({
-    ...c,
-    id: c._id?.toString(),
-    _id: undefined,
-  }));
+  return citations.map(doc => {
+    const { _id, ...rest } = doc;
+    return { ...rest, id: _id?.toString() };
+  });
 }
 
 export async function getCohortsAndSectors() {
@@ -87,7 +84,7 @@ export async function getCohortsAndSectors() {
   const collection = db.collection<Expert>("experts");
 
   const cohorts = await collection.distinct("cohort");
-  const sectors = await collection.distinct("sector");
+  const sectors = await collection.distinct("sector") as string[];
 
   return {
     cohorts: cohorts.filter(c => c != null).sort((a, b) => a - b),

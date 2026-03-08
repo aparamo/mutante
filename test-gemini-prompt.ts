@@ -1,4 +1,4 @@
-import { connectToDatabase } from "./lib/db/mongodb";
+
 import { searchModel } from "./lib/ai/gemini";
 import { config } from "dotenv";
 

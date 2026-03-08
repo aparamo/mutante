@@ -1,17 +1,28 @@
 "use client";
 
-import { useChat } from "ai/react";
+import { useChat } from "@ai-sdk/react";
+import { DefaultChatTransport } from "ai";
 import { Send, Bot, User, Leaf } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { ScrollArea } from "@/components/ui/scroll-area";
 import { Card } from "@/components/ui/card";
-import { useEffect, useRef } from "react";
+import { useState, useEffect, useRef } from "react";
 
 export default function KnowledgeChat() {
-  const { messages, input, handleInputChange, handleSubmit, isLoading } = useChat({
-    api: "/api/chat",
+  const [input, setInput] = useState("");
+  const { messages, sendMessage, status } = useChat({
+    transport: new DefaultChatTransport({ api: "/api/chat" }),
   });
+
+  const isLoading = status === "submitted" || status === "streaming";
+
+  const handleSubmit = (e: React.FormEvent) => {
+    e.preventDefault();
+    if (!input.trim() || isLoading) return;
+    sendMessage({ text: input });
+    setInput("");
+  };
 
   const scrollRef = useRef<HTMLDivElement>(null);
 
@@ -42,9 +53,9 @@ export default function KnowledgeChat() {
                 Soy un sistema experto impulsado por IA, entrenado con las publicaciones, tesis y entrevistas de decenas de especialistas en desarrollo sustentable.
               </p>
               <div className="flex flex-wrap justify-center gap-2 mt-4">
-                <BadgeHint text="¿Qué impacto tiene el maíz nativo frente al cambio climático?" onClick={() => handleInputChange({ target: { value: "¿Qué impacto tiene el maíz nativo frente al cambio climático?" } } as any)} />
-                <BadgeHint text="Háblame de la sobreexplotación de acuíferos" onClick={() => handleInputChange({ target: { value: "Háblame de la sobreexplotación de acuíferos" } } as any)} />
-                <BadgeHint text="¿Qué proponen sobre manejo forestal comunitario?" onClick={() => handleInputChange({ target: { value: "¿Qué proponen sobre manejo forestal comunitario?" } } as any)} />
+                <BadgeHint text="¿Qué impacto tiene el maíz nativo frente al cambio climático?" onClick={() => setInput("¿Qué impacto tiene el maíz nativo frente al cambio climático?")} />
+                <BadgeHint text="Háblame de la sobreexplotación de acuíferos" onClick={() => setInput("Háblame de la sobreexplotación de acuíferos")} />
+                <BadgeHint text="¿Qué proponen sobre manejo forestal comunitario?" onClick={() => setInput("¿Qué proponen sobre manejo forestal comunitario?")} />
               </div>
             </div>
           ) : (
@@ -75,7 +86,7 @@ export default function KnowledgeChat() {
                           : "bg-muted/50 rounded-tl-sm prose dark:prose-invert max-w-none text-sm"
                       }`}
                     >
-                      {m.content}
+                      {m.parts.map(part => (part.type === 'text' ? part.text : '')).join('')}
                     </div>
                   </div>
                 </div>
@@ -100,7 +111,7 @@ export default function KnowledgeChat() {
           <form onSubmit={handleSubmit} className="flex gap-2 relative">
             <Input
               value={input}
-              onChange={handleInputChange}
+              onChange={(e) => setInput(e.target.value)}
               placeholder="Haz tu pregunta al sistema experto..."
               className="flex-1 pr-12 rounded-full bg-muted/50 border-muted-foreground/20 focus-visible:ring-primary"
               disabled={isLoading}

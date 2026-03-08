@@ -1,7 +1,7 @@
 "use client";
 
 import { useRouter, useSearchParams, usePathname } from "next/navigation";
-import { useCallback, useState, useTransition } from "react";
+import { useState, useTransition } from "react";
 import { Input } from "@/components/ui/input";
 import { Search } from "lucide-react";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
@@ -16,7 +16,7 @@ export function DirectoryFilters({ cohorts, sectors }: DirectoryFiltersProps) {
   const router = useRouter();
   const pathname = usePathname();
   const searchParams = useSearchParams();
-  const [isPending, startTransition] = useTransition();
+  const [, startTransition] = useTransition();
 
   // Local state for immediate input feedback
   const [search, setSearch] = useState(searchParams.get("q") || "");
@@ -35,7 +35,7 @@ export function DirectoryFilters({ cohorts, sectors }: DirectoryFiltersProps) {
     });
   }, 300);
 
-  const handleSelectChange = (key: string, value: string) => {
+  const handleSelectChange = (key: string, value: string | null) => {
     const params = new URLSearchParams(searchParams);
     if (value && value !== "all") {
       params.set(key, value);

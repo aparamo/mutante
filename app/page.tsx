@@ -55,7 +55,7 @@ export default async function Home({
                 <div className="flex flex-wrap gap-2 mb-4">
                   <Badge variant="secondary">Cohorte {expert.cohort}</Badge>
                   {expert.sector && <Badge variant="outline">{expert.sector}</Badge>}
-                  {expert.isEnriched && <Badge variant="default" className="bg-green-600 hover:bg-green-700">Enriquecido</Badge>}
+                  {expert.isEnriched && <Badge variant="default" className="bg-amber-500 hover:bg-amber-600">Autocompletado</Badge>}
                 </div>
                 {expert.topics && expert.topics.length > 0 && (
                   <p className="text-xs text-muted-foreground line-clamp-2">

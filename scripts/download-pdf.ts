@@ -5,14 +5,15 @@ import PDFParser from "pdf2json";
 
 async function parsePDF(pdfPath: string, mdPath: string, fileName: string): Promise<void> {
     return new Promise((resolve, reject) => {
-        const pdfParser = new PDFParser(null, 1); // 1 = returns raw text
+        const pdfParser = new PDFParser(null, true); // true = returns raw text
 
-        pdfParser.on("pdfParser_dataError", (errData: any) => {
-            console.error(errData.parserError);
-            reject(errData.parserError);
+        pdfParser.on("pdfParser_dataError", (errData: unknown) => {
+            const error = (errData as { parserError: Error }).parserError;
+            console.error(error);
+            reject(error);
         });
 
-        pdfParser.on("pdfParser_dataReady", async (pdfData: any) => {
+        pdfParser.on("pdfParser_dataReady", async () => {
             try {
                 // The raw text is stored in pdfParser.getRawTextContent()
                 const text = pdfParser.getRawTextContent();

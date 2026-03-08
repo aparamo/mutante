@@ -1,165 +1,188 @@
-import { getExpertById, getCitationsByExpertId } from "@/lib/data/experts";
+import { connectToDatabase } from "@/lib/db/mongodb";
+import { Expert } from "@/lib/types";
+import { ObjectId } from "mongodb";
 import { notFound } from "next/navigation";
-import { Badge } from "@/components/ui/badge";
-import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
-import { ExternalLink, BookOpen, Quote, Linkedin, Twitter, Globe, Building2, ChevronLeft } from "lucide-react";
-import Link from "next/link";
-import { Button } from "@/components/ui/button";
+import { Search, ExternalLink, Book, FileText, CheckCircle2, Sparkles, Youtube, Globe, GraduationCap, Mic } from "lucide-react";
 
-export default async function ExpertProfile({ params }: { params: Promise<{ id: string }> }) {
+
+export default async function ExpertProfilePage({ params }: { params: { id: string } }) {
   const { id } = await params;
-  const expert = await getExpertById(id);
+  
+  if (!ObjectId.isValid(id)) return notFound();
 
-  if (!expert) {
-    notFound();
-  }
+  const { db } = await connectToDatabase();
+  const expert = await db.collection("experts").findOne({ _id: new ObjectId(id) }) as unknown as Expert | null;
 
-  const citations = await getCitationsByExpertId(id);
+  if (!expert) return notFound();
+
+  const TypeIcon = ({ type }: { type: string }) => {
+    switch (type) {
+      case 'book': return <Book size={18} className="text-blue-400" />;
+      case 'article': return <FileText size={18} className="text-emerald-400" />;
+      case 'video': return <Youtube size={18} className="text-red-400" />;
+      case 'thesis': return <GraduationCap size={18} className="text-purple-400" />;
+      case 'interview': return <Mic size={18} className="text-orange-400" />;
+      default: return <Globe size={18} className="text-zinc-500" />;
+    }
+  };
 
   return (
-    <div className="container max-w-screen-xl mx-auto py-8 px-4 w-full">
-      <div className="mb-6">
-        <Link href="/">
-          <Button variant="ghost" className="pl-0 hover:bg-transparent hover:text-primary">
-            <ChevronLeft className="mr-2 h-4 w-4" />
-            Volver al Directorio
-          </Button>
-        </Link>
-      </div>
-
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-        {/* Columna Izquierda: Perfil y Bio */}
-        <div className="md:col-span-2 space-y-8">
-          <div>
-            <h1 className="text-4xl font-bold tracking-tight mb-2">{expert.name}</h1>
-            <p className="text-xl text-muted-foreground mb-4">{expert.title}</p>
-            
-            <div className="flex flex-wrap gap-2 mb-6">
-              <Badge variant="secondary" className="text-sm">Cohorte {expert.cohort}</Badge>
-              {expert.sector && <Badge variant="outline" className="text-sm">{expert.sector}</Badge>}
-            </div>
-
-            {expert.topics && expert.topics.length > 0 && (
-              <div className="flex flex-wrap gap-2 mb-8">
-                {expert.topics.map(topic => (
-                  <Badge key={topic} variant="secondary" className="bg-primary/10 text-primary hover:bg-primary/20">
-                    {topic}
-                  </Badge>
-                ))}
-              </div>
-            )}
-
-            {expert.bio && (
-              <div className="prose dark:prose-invert max-w-none">
-                <h2 className="text-2xl font-semibold mb-4">Biografía y Aportaciones</h2>
-                <div className="text-muted-foreground leading-relaxed whitespace-pre-wrap">
-                  {expert.bio}
+    <div className="min-h-screen bg-zinc-950 text-zinc-100 py-12 selection:bg-indigo-500/30">
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        
+        {/* Header Profile Card */}
+        <div className="bg-zinc-900 rounded-3xl shadow-2xl border border-zinc-800/50 p-8 mb-10 overflow-hidden relative">
+          {/* Decorative background glow */}
+          <div className="absolute -top-24 -right-24 w-64 h-64 bg-indigo-600/10 blur-[100px] rounded-full pointer-events-none"></div>
+          
+          <div className="flex flex-col md:flex-row gap-8 items-start relative z-10">
+             <div className="w-28 h-28 bg-gradient-to-br from-indigo-500 to-blue-600 rounded-2xl flex items-center justify-center text-white text-4xl font-black shadow-lg rotate-3 shrink-0">
+               {expert.name.charAt(0)}
+             </div>
+             <div className="flex-1">
+                <div className="flex flex-wrap items-center gap-3 mb-3">
+                   <h1 className="text-4xl font-black tracking-tight text-white leading-tight">{expert.name}</h1>
+                   <div className="flex gap-2">
+                    {expert.isAiGenerated && !expert.isValidated && (
+                      <span className="flex items-center gap-1.5 text-[10px] uppercase tracking-widest font-bold text-amber-400 bg-amber-400/10 border border-amber-400/20 px-2.5 py-1 rounded-full">
+                          <Sparkles size={12}/> Borrador IA
+                      </span>
+                    )}
+                    {expert.isValidated && (
+                      <span className="flex items-center gap-1.5 text-[10px] uppercase tracking-widest font-bold text-emerald-400 bg-emerald-400/10 border border-emerald-400/20 px-2.5 py-1 rounded-full">
+                          <CheckCircle2 size={12}/> Verificado
+                      </span>
+                    )}
+                   </div>
                 </div>
-              </div>
-            )}
+                
+                <p className="text-xl text-zinc-300 font-medium mb-4 leading-relaxed">
+                   {expert.currentTitle || expert.title}
+                </p>
+
+                {expert.links?.organizationName && (
+                  <div className="flex items-center gap-2 mb-6">
+                     <span className="text-xs font-bold uppercase tracking-tighter text-zinc-500">Organización</span>
+                     {expert.links.organizationUrl ? (
+                        <a href={expert.links.organizationUrl} target="_blank" rel="noopener noreferrer" className="text-indigo-400 hover:text-indigo-300 transition-colors font-semibold flex items-center gap-1.5 group">
+                          {expert.links.organizationName} 
+                          <ExternalLink size={14} className="group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform"/>
+                        </a>
+                     ) : (
+                        <span className="text-zinc-300 font-semibold">{expert.links.organizationName}</span>
+                     )}
+                  </div>
+                )}
+
+                <div className="flex flex-wrap gap-2">
+                  {expert.topics?.map(topic => (
+                    <span key={topic} className="px-3 py-1 bg-zinc-800 text-zinc-300 rounded-lg text-sm font-semibold border border-zinc-700/50 hover:border-indigo-500/50 transition-colors cursor-default">
+                      {topic}
+                    </span>
+                  ))}
+                </div>
+             </div>
           </div>
 
-          {/* Publicaciones y Trabajos */}
-          {expert.references && expert.references.length > 0 && (
-            <div>
-              <h2 className="text-2xl font-semibold mb-4 flex items-center">
-                <BookOpen className="mr-2" /> Obras Cumbre y Publicaciones
-              </h2>
-              <div className="grid gap-4">
-                {expert.references.map((ref, idx) => (
-                  <Card key={idx}>
-                    <CardHeader className="pb-2">
-                      <CardTitle className="text-lg flex items-start gap-2">
-                        <span className="flex-1">{ref.title}</span>
-                        {ref.url && (
-                          <a href={ref.url} target="_blank" rel="noopener noreferrer" className="text-primary hover:text-primary/80">
-                            <ExternalLink className="h-5 w-5" />
-                          </a>
-                        )}
-                      </CardTitle>
-                      <CardDescription className="capitalize">{ref.type}</CardDescription>
-                    </CardHeader>
-                    {ref.description && (
-                      <CardContent>
-                        <p className="text-sm text-muted-foreground">{ref.description}</p>
-                      </CardContent>
-                    )}
-                  </Card>
+          {expert.bio && (
+            <div className="mt-10 pt-8 border-t border-zinc-800 relative z-10">
+              <h2 className="text-xs font-black text-zinc-500 uppercase tracking-[0.2em] mb-6">Biografía Profesional</h2>
+              <div className="prose prose-invert max-w-none text-zinc-400 leading-relaxed text-lg">
+                {expert.bio.split('\n').map((paragraph, i) => (
+                  <p key={i} className="mb-4 last:mb-0">{paragraph}</p>
                 ))}
               </div>
             </div>
           )}
+        </div>
 
-          {/* Citas y Lecciones */}
-          {citations && citations.length > 0 && (
-            <div>
-              <h2 className="text-2xl font-semibold mb-4 flex items-center">
-                <Quote className="mr-2" /> Lecciones y Citas Fundamentales
-              </h2>
-              <div className="space-y-6">
-                {citations.map((cit, idx) => (
-                  <div key={idx} className="relative pl-8 border-l-4 border-primary/50 py-2">
-                    <Quote className="absolute left-0 top-0 h-6 w-6 -translate-x-1/2 -translate-y-1/2 text-primary/30 bg-background" />
-                    <p className="text-lg italic mb-3">"{cit.quote}"</p>
-                    <div className="text-sm text-muted-foreground">
-                      <p className="font-medium">{cit.sourceTitle} {cit.date ? `(${cit.date})` : ""}</p>
-                      {cit.context && <p className="mt-1">Contexto: {cit.context}</p>}
-                      {cit.sourceUrl && (
-                        <a href={cit.sourceUrl} target="_blank" rel="noopener noreferrer" className="text-primary hover:underline inline-flex items-center mt-1">
-                          Ver fuente <ExternalLink className="ml-1 h-3 w-3" />
-                        </a>
-                      )}
+        {/* References Section */}
+        {expert.references && expert.references.length > 0 && (
+          <div className="space-y-8 relative">
+            <div className="flex items-center gap-4 mb-10">
+                <div className="h-px flex-1 bg-zinc-800"></div>
+                <h2 className="text-2xl font-black text-white flex items-center gap-3 italic tracking-tight">
+                  <Book className="text-indigo-500" />
+                  BIBLIOGRAFÍA & OBRAS
+                </h2>
+                <div className="h-px flex-1 bg-zinc-800"></div>
+            </div>
+
+            <div className="grid gap-6">
+              {expert.references.sort((a, b) => (b.isFundamental ? 1 : 0) - (a.isFundamental ? 1 : 0)).map((ref, idx) => {
+                const ecosiaUrl = `https://www.ecosia.org/search?q=${encodeURIComponent(expert.name + " " + ref.title)}`;
+
+                return (
+                  <div key={idx} className={`group bg-zinc-900/50 rounded-2xl p-6 border transition-all duration-300 ${ref.isFundamental ? 'border-indigo-500/40 bg-zinc-900 shadow-[0_0_20px_rgba(79,70,229,0.05)]' : 'border-zinc-800 hover:border-zinc-700'}`}>
+                    <div className="flex justify-between items-start gap-4 mb-4">
+                       <h3 className="text-xl font-bold text-white group-hover:text-indigo-300 transition-colors flex items-start gap-3">
+                         <span className="mt-1 bg-zinc-800 p-1.5 rounded-lg shrink-0"><TypeIcon type={ref.type} /></span>
+                         {ref.title}
+                       </h3>
+                       {ref.isFundamental && (
+                         <div className="bg-indigo-500/10 text-indigo-400 text-[10px] font-black uppercase tracking-widest px-3 py-1.5 rounded-full border border-indigo-500/20 flex items-center gap-1.5 shrink-0 shadow-sm">
+                           <Sparkles size={12}/> Esencial
+                         </div>
+                       )}
+                    </div>
+                    
+                    <div className="flex flex-wrap gap-x-4 gap-y-2 mb-4 text-[11px] font-black uppercase tracking-wider text-zinc-500">
+                       {ref.year && <span className="bg-zinc-800 px-2 py-0.5 rounded text-zinc-400 border border-zinc-700/50">{ref.year}</span>}
+                       {ref.isbn && <span className="text-indigo-400/80">ISBN: {ref.isbn}</span>}
+                       <span className="bg-zinc-800/50 px-2 py-0.5 rounded border border-zinc-700/30">TYPE: {ref.type}</span>
+                    </div>
+
+                    <p className="text-zinc-400 leading-relaxed mb-6 line-clamp-3 group-hover:line-clamp-none transition-all">
+                        {ref.description}
+                    </p>
+
+                    {ref.keywords && ref.keywords.length > 0 && (
+                      <div className="flex flex-wrap gap-2 mb-6">
+                        {ref.keywords.map(kw => (
+                          <span key={kw} className="text-[10px] font-bold text-zinc-500 bg-zinc-950 px-2 py-1 rounded border border-zinc-800/50 hover:text-indigo-400 hover:border-indigo-500/30 transition-colors">
+                            #{kw.toUpperCase()}
+                          </span>
+                        ))}
+                      </div>
+                    )}
+
+                    <div className="flex flex-wrap items-center justify-between gap-4 pt-6 border-t border-zinc-800/50">
+                       <div className="flex items-center gap-3">
+                        {ref.isValidated && ref.url ? (
+                            <a 
+                                href={ref.url} 
+                                target="_blank" 
+                                rel="noopener noreferrer"
+                                className="inline-flex items-center gap-2 text-sm font-bold text-white bg-indigo-600 hover:bg-indigo-500 px-5 py-2.5 rounded-xl transition-all shadow-lg shadow-indigo-600/10 active:scale-95"
+                            >
+                                LEER DOCUMENTO <ExternalLink size={16}/>
+                            </a>
+                        ) : (
+                            <a 
+                                href={ecosiaUrl} 
+                                target="_blank" 
+                                rel="noopener noreferrer"
+                                className="inline-flex items-center gap-2 text-sm font-bold text-zinc-300 bg-zinc-800 border border-zinc-700 hover:bg-zinc-700 hover:text-white px-5 py-2.5 rounded-xl transition-all shadow-sm active:scale-95"
+                            >
+                                <Search size={16}/> BUSCAR OBRA
+                            </a>
+                        )}
+                       </div>
+
+                       {ref.isValidated && ref.markdownPath && (
+                          <div className="flex items-center gap-2 bg-emerald-500/5 px-3 py-1.5 rounded-lg border border-emerald-500/10">
+                             <CheckCircle2 size={16} className="text-emerald-500"/>
+                             <span className="text-[10px] font-black text-emerald-500/80 uppercase tracking-tighter">Biblioteca Mutante</span>
+                          </div>
+                       )}
                     </div>
                   </div>
-                ))}
-              </div>
+                );
+              })}
             </div>
-          )}
-        </div>
+          </div>
+        )}
 
-        {/* Columna Derecha: Sidebar */}
-        <div className="space-y-6">
-          <Card>
-            <CardHeader>
-              <CardTitle>Contacto y Redes</CardTitle>
-            </CardHeader>
-            <CardContent className="space-y-4">
-              {expert.email && (
-                <div>
-                  <p className="text-sm font-medium text-muted-foreground">Email</p>
-                  <a href={`mailto:${expert.email}`} className="text-primary hover:underline break-all">
-                    {expert.email}
-                  </a>
-                </div>
-              )}
-              
-              {expert.links && (
-                <div className="space-y-3 pt-4 border-t">
-                  {expert.links.linkedin && (
-                    <a href={expert.links.linkedin} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-sm hover:text-primary transition-colors">
-                      <Linkedin className="h-4 w-4" /> LinkedIn
-                    </a>
-                  )}
-                  {expert.links.twitter && (
-                    <a href={expert.links.twitter} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-sm hover:text-primary transition-colors">
-                      <Twitter className="h-4 w-4" /> Twitter / X
-                    </a>
-                  )}
-                  {expert.links.website && (
-                    <a href={expert.links.website} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-sm hover:text-primary transition-colors">
-                      <Globe className="h-4 w-4" /> Sitio Web Personal
-                    </a>
-                  )}
-                  {expert.links.organization && (
-                    <a href={expert.links.organization} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-sm hover:text-primary transition-colors">
-                      <Building2 className="h-4 w-4" /> Organización
-                    </a>
-                  )}
-                </div>
-              )}
-            </CardContent>
-          </Card>
-        </div>
       </div>
     </div>
   );

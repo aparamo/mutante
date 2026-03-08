@@ -1,4 +1,4 @@
-import { GoogleGenerativeAI } from "@google/generative-ai";
+import { GoogleGenerativeAI, Tool } from "@google/generative-ai";
 
 const apiKey = process.env.GEMINI_API_KEY;
 if (!apiKey) {
@@ -15,7 +15,7 @@ export const searchModel = genAI.getGenerativeModel({
     {
       // Habilitamos la búsqueda en Google para que la IA traiga datos reales y actualizados
       googleSearch: {}, 
-    },
+    } as unknown as Tool,
   ],
 });
 
