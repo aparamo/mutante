@@ -8,7 +8,17 @@ export const ReferenceSchema = z.object({
   type: z.enum(["video", "article", "book", "social", "website", "other", "thesis", "interview"]).optional().default("other"),
   description: z.string().nullish(), // Brief summary, findings, or relevance
   year: z.number().int().nullish(), // Year of publication
+
+  // -- Professional Bibliography Fields --
   magazine: z.string().nullish(), // Name of the magazine/journal if it's an article
+  publisher: z.string().nullish(), // Editorial/Publisher
+  volume: z.string().nullish(), // Volume number
+  issue: z.string().nullish(), // Issue number
+  pages: z.string().nullish(), // Page range (e.g., "12-45")
+  doi: z.string().nullish(), // DOI identifier
+  city: z.string().nullish(), // City of publication
+  edition: z.string().nullish(), // Edition number
+
   fullCitation: z.string().nullish(), // Full, formatted citation (e.g., APA, Harvard)
   keywords: z.array(z.string()).optional().default([]), // Keywords related to the work
   isbn: z.string().nullish(), // ISBN if it's a book
@@ -91,6 +101,7 @@ export const CitationSchema = z.object({
   quote: z.string(), // The exact quote or synthesized fundamental lesson
   sourceTitle: z.string().optional(), // Title of the book, article, video
   sourceUrl: z.string().url().optional().or(z.literal("")), // Link to the source
+  pageNumber: z.string().optional(), // Page where the citation is found
   date: z.string().optional(), // Approximate date of the quote/lesson
   context: z.string().optional(), // Brief context of the quote
   topics: z.array(z.string()).optional().default([]), // Topics related to the quote

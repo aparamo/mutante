@@ -5,6 +5,8 @@ import { notFound } from "next/navigation";
 import { Search, ExternalLink, Book, FileText, CheckCircle2, Sparkles, Youtube, Globe, GraduationCap, Mic } from "lucide-react";
 
 
+import { ExpertReferenceItem } from "@/components/ExpertReferenceItem";
+
 export default async function ExpertProfilePage({ params }: { params: { id: string } }) {
   const { id } = await params;
   
@@ -15,20 +17,11 @@ export default async function ExpertProfilePage({ params }: { params: { id: stri
 
   if (!expert) return notFound();
 
-  const TypeIcon = ({ type }: { type: string }) => {
-    switch (type) {
-      case 'book': return <Book size={18} className="text-blue-400" />;
-      case 'article': return <FileText size={18} className="text-emerald-400" />;
-      case 'video': return <Youtube size={18} className="text-red-400" />;
-      case 'thesis': return <GraduationCap size={18} className="text-purple-400" />;
-      case 'interview': return <Mic size={18} className="text-orange-400" />;
-      default: return <Globe size={18} className="text-zinc-500" />;
-    }
-  };
-
   return (
     <div className="min-h-screen bg-zinc-950 text-zinc-100 py-12 selection:bg-indigo-500/30">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        
+        {/* ... (Header Profile Card and Bio Section remain same) ... */}
         
         {/* Header Profile Card */}
         <div className="bg-zinc-900 rounded-3xl shadow-2xl border border-zinc-800/50 p-8 mb-10 overflow-hidden relative">
@@ -109,76 +102,14 @@ export default async function ExpertProfilePage({ params }: { params: { id: stri
             </div>
 
             <div className="grid gap-6">
-              {expert.references.sort((a, b) => (b.isFundamental ? 1 : 0) - (a.isFundamental ? 1 : 0)).map((ref, idx) => {
-                const ecosiaUrl = `https://www.ecosia.org/search?q=${encodeURIComponent(expert.name + " " + ref.title)}`;
-
-                return (
-                  <div key={idx} className={`group bg-zinc-900/50 rounded-2xl p-6 border transition-all duration-300 ${ref.isFundamental ? 'border-indigo-500/40 bg-zinc-900 shadow-[0_0_20px_rgba(79,70,229,0.05)]' : 'border-zinc-800 hover:border-zinc-700'}`}>
-                    <div className="flex justify-between items-start gap-4 mb-4">
-                       <h3 className="text-xl font-bold text-white group-hover:text-indigo-300 transition-colors flex items-start gap-3">
-                         <span className="mt-1 bg-zinc-800 p-1.5 rounded-lg shrink-0"><TypeIcon type={ref.type} /></span>
-                         {ref.title}
-                       </h3>
-                       {ref.isFundamental && (
-                         <div className="bg-indigo-500/10 text-indigo-400 text-[10px] font-black uppercase tracking-widest px-3 py-1.5 rounded-full border border-indigo-500/20 flex items-center gap-1.5 shrink-0 shadow-sm">
-                           <Sparkles size={12}/> Esencial
-                         </div>
-                       )}
-                    </div>
-                    
-                    <div className="flex flex-wrap gap-x-4 gap-y-2 mb-4 text-[11px] font-black uppercase tracking-wider text-zinc-500">
-                       {ref.year && <span className="bg-zinc-800 px-2 py-0.5 rounded text-zinc-400 border border-zinc-700/50">{ref.year}</span>}
-                       {ref.isbn && <span className="text-indigo-400/80">ISBN: {ref.isbn}</span>}
-                       <span className="bg-zinc-800/50 px-2 py-0.5 rounded border border-zinc-700/30">TYPE: {ref.type}</span>
-                    </div>
-
-                    <p className="text-zinc-400 leading-relaxed mb-6 line-clamp-3 group-hover:line-clamp-none transition-all">
-                        {ref.description}
-                    </p>
-
-                    {ref.keywords && ref.keywords.length > 0 && (
-                      <div className="flex flex-wrap gap-2 mb-6">
-                        {ref.keywords.map(kw => (
-                          <span key={kw} className="text-[10px] font-bold text-zinc-500 bg-zinc-950 px-2 py-1 rounded border border-zinc-800/50 hover:text-indigo-400 hover:border-indigo-500/30 transition-colors">
-                            #{kw.toUpperCase()}
-                          </span>
-                        ))}
-                      </div>
-                    )}
-
-                    <div className="flex flex-wrap items-center justify-between gap-4 pt-6 border-t border-zinc-800/50">
-                       <div className="flex items-center gap-3">
-                        {ref.isValidated && ref.url ? (
-                            <a 
-                                href={ref.url} 
-                                target="_blank" 
-                                rel="noopener noreferrer"
-                                className="inline-flex items-center gap-2 text-sm font-bold text-white bg-indigo-600 hover:bg-indigo-500 px-5 py-2.5 rounded-xl transition-all shadow-lg shadow-indigo-600/10 active:scale-95"
-                            >
-                                LEER DOCUMENTO <ExternalLink size={16}/>
-                            </a>
-                        ) : (
-                            <a 
-                                href={ecosiaUrl} 
-                                target="_blank" 
-                                rel="noopener noreferrer"
-                                className="inline-flex items-center gap-2 text-sm font-bold text-zinc-300 bg-zinc-800 border border-zinc-700 hover:bg-zinc-700 hover:text-white px-5 py-2.5 rounded-xl transition-all shadow-sm active:scale-95"
-                            >
-                                <Search size={16}/> BUSCAR OBRA
-                            </a>
-                        )}
-                       </div>
-
-                       {ref.isValidated && ref.markdownPath && (
-                          <div className="flex items-center gap-2 bg-emerald-500/5 px-3 py-1.5 rounded-lg border border-emerald-500/10">
-                             <CheckCircle2 size={16} className="text-emerald-500"/>
-                             <span className="text-[10px] font-black text-emerald-500/80 uppercase tracking-tighter">Biblioteca Mutante</span>
-                          </div>
-                       )}
-                    </div>
-                  </div>
-                );
-              })}
+              {expert.references.sort((a, b) => (b.isFundamental ? 1 : 0) - (a.isFundamental ? 1 : 0)).map((ref, idx) => (
+                  <ExpertReferenceItem 
+                    key={idx} 
+                    reference={ref} 
+                    expertName={expert.name} 
+                    expertId={expert._id!.toString()} 
+                  />
+              ))}
             </div>
           </div>
         )}

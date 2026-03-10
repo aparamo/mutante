@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
-import { Leaf, Menu, Search, MessageSquare } from "lucide-react";
+import { Leaf, Menu, Search, MessageSquare, Book } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import {
   Sheet,
@@ -55,6 +55,14 @@ export function MobileNav() {
               >
                 <MessageSquare className="h-6 w-6" />
                 Chatbot
+              </Link>
+              <Link
+                href="/works"
+                className="text-xl font-medium flex items-center gap-3 text-foreground/70 transition-colors hover:text-foreground p-2 rounded-md hover:bg-accent"
+                onClick={() => setOpen(false)}
+              >
+                <Book className="h-6 w-6" />
+                Biblioteca
               </Link>
             </div>
           </div>

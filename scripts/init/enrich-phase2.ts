@@ -1,13 +1,13 @@
 import { connectToDatabase } from "../../lib/db/mongodb";
 import { searchModel, embeddingModel } from "../../lib/ai/gemini";
-import type { Expert, Reference, Citation } from "../../lib/types";
+import type { Expert, Reference } from "../../lib/types";
 import { z } from "zod";
 import { config } from "dotenv";
 import { ObjectId } from "mongodb";
 
 config();
 
-const BATCH_SIZE = 20; // Procesamos de a 20 para avanzar sustancialmente en el banco de conocimiento
+const BATCH_SIZE = 60; // Procesamos de a 20 para avanzar sustancialmente en el banco de conocimiento
 const DELAY_MS = 5000; // 5 segundos entre llamadas
 
 // Schema de validación Zod para la respuesta de la IA (Phase 2)
@@ -53,7 +53,6 @@ async function main() {
 
   const { db } = await connectToDatabase();
   const expertsCollection = db.collection<Expert>("experts");
-  const citationsCollection = db.collection<Citation>("citations");
 
   const pendingExperts = await expertsCollection.find({ isEnriched: { $ne: true } }).limit(BATCH_SIZE).toArray();
 

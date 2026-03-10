@@ -43,6 +43,12 @@ export default function RootLayout({
                 >
                   Chatbot
                 </Link>
+                <Link
+                  href="/works"
+                  className="transition-colors hover:text-foreground/80 text-foreground/60"
+                >
+                  Biblioteca
+                </Link>
               </nav>
             </div>
             {/* Mobile Nav */}

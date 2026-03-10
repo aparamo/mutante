@@ -2,20 +2,15 @@
 
 import { auth } from "@/auth";
 import { connectToDatabase } from "@/lib/db/mongodb";
-import { embeddingModel, searchModel } from "@/lib/ai/gemini";
+import { getEmbeddings, searchModel } from "@/lib/ai/gemini";
 import fs from "fs/promises";
 import path from "path";
-import { ObjectId } from "mongodb";
-import { Citation, CitationSchema, Expert } from "@/lib/types";
+import { ObjectId, OptionalId } from "mongodb";
+import { Citation, CitationSchema, Expert, Reference } from "@/lib/types";
 
-async function generateEmbedding(text: string): Promise<number[]> {
-  try {
-    const result = await embeddingModel.embedContent(text);
-    return result.embedding.values;
-  } catch (error) {
-    console.error("Error generating embedding:", error);
-    return [];
-  }
+export interface WorkWithAuthor extends Reference {
+  expertName: string;
+  expertId: string;
 }
 
 export async function extractCitationsAction(expertId: string, referenceTitle: string, markdownPath: string) {
@@ -27,11 +22,12 @@ export async function extractCitationsAction(expertId: string, referenceTitle: s
 
   try {
     const content = await fs.readFile(absolutePath, "utf-8");
-    const expert = await db.collection("experts").findOne({ _id: new ObjectId(expertId) }) as unknown as Expert | null;
+    const expertDoc = await db.collection("experts").findOne({ _id: new ObjectId(expertId) });
+    const expert = expertDoc as Expert | null;
     
     if (!expert) throw new Error("Expert not found");
 
-    // Take a large sample or chunk it. For now, let's take the first 30k characters 
+    // Take a large sample or chunk it. For now, let's take the first 40k characters 
     // to avoid token limits but get enough substance.
     const textToAnalyze = content.substring(0, 40000);
 
@@ -67,7 +63,7 @@ ${textToAnalyze}
     const citationDocs: Citation[] = [];
     for (const c of citations) {
       const citationText = `Experto: ${expert.name}. Obra: ${referenceTitle}. Cita: "${c.quote}"`;
-      const embedding = await generateEmbedding(citationText);
+      const embedding = await getEmbeddings(citationText);
 
       const rawCitation = {
         expertId: expertId,
@@ -91,7 +87,7 @@ ${textToAnalyze}
     }
 
     if (citationDocs.length > 0) {
-      await db.collection("citations").insertMany(citationDocs as unknown as Document[]);
+      await db.collection<Citation>("citations").insertMany(citationDocs as OptionalId<Citation>[]);
     }
 
     return { success: true, count: citationDocs.length };
@@ -133,12 +129,13 @@ export async function deleteCitationAction(citationId: string) {
     return { success: true };
 }
 
-export async function updateCitationAction(citationId: string, newQuote: string) {
+export async function updateCitationAction(citationId: string, newQuote: string, newPageNumber?: string) {
     const session = await auth();
     if (!session) throw new Error("Unauthorized");
     
     const { db } = await connectToDatabase();
-    const citation = await db.collection("citations").findOne({ _id: new ObjectId(citationId) });
+    const citationDoc = await db.collection("citations").findOne({ _id: new ObjectId(citationId) });
+    const citation = citationDoc as Citation | null;
 
     if (!citation) {
         return { success: false, error: "Citation not found." };
@@ -146,11 +143,11 @@ export async function updateCitationAction(citationId: string, newQuote: string)
 
     // Re-generate embedding for the new text
     const citationText = `Experto: ${citation.expertName}. Obra: ${citation.sourceTitle}. Cita: "${newQuote}"`;
-    const newEmbedding = await generateEmbedding(citationText);
+    const newEmbedding = await getEmbeddings(citationText);
 
     const result = await db.collection("citations").updateOne(
         { _id: new ObjectId(citationId) },
-        { $set: { quote: newQuote, embedding: newEmbedding } }
+        { $set: { quote: newQuote, pageNumber: newPageNumber, embedding: newEmbedding } }
     );
 
      if (result.modifiedCount === 0) {
@@ -158,6 +155,27 @@ export async function updateCitationAction(citationId: string, newQuote: string)
     }
     
     return { success: true };
+}
+
+export async function getAllWorksAction(): Promise<WorkWithAuthor[]> {
+  const { db } = await connectToDatabase();
+  
+  // We need to fetch experts to get their names and associate them with their references
+  const expertsDocs = await db.collection("experts").find({
+    "references.0": { $exists: true }
+  }).toArray();
+  
+  const experts = expertsDocs as unknown as Expert[];
+
+  const allWorks: WorkWithAuthor[] = experts.flatMap(expert => 
+    (expert.references || []).map(ref => ({
+      ...ref,
+      expertName: expert.name,
+      expertId: expert._id?.toString() || expert.id || ""
+    }))
+  );
+
+  return allWorks;
 }
 
 // Used when a reference is deleted

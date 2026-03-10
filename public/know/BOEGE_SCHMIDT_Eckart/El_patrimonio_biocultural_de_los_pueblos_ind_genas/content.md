@@ -1,0 +1,27381 @@
+# El patrimonio biocultural de los pueblos indígenas de México: hacia la conservación in situ de la biodiversidad y agrodiversidad en los territorios indígenas
+
+
+----------------Page (0) Break----------------
+
+----------------Page (1) Break----------------
+
+----------------Page (2) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+Hacia la conservación in situ de la biodiversidad y agrodiversidad en los territorios indígenas
+----------------Page (3) Break----------------
+
+----------------Page (4) Break----------------
+I n s t i t u t o N a c i o n a l d e A n t ro p o l o g í a e H i s t o r i a
+Comisión Nacional para el Desarrollo de los Pueblos Indígenas
+El patrimonio biocultural 
+de los pueblos indígenas de México
+Hacia la conservación in situ de la biodiversidad 
+y agrodiversidad en los territorios indígenas
+Eckart Boege
+----------------Page (5) Break----------------
+Primera edición 2008
+D.R. © Instituto Nacional de Antropología e Historia 
+Córdoba 45, Col. Roma, 06700, México, D.F.
+D.R. © Comisión Nacional para el Desarrollo de los Pueblos Indígenas
+Av. México-Coyoacán 343, Col. Xoco, 03330, México, D.F.
+ISBN: 978-968-0385-4
+To d o s l o s d e r e c h o s r e s e r v a d o s . Q u e d a p r o h i b i d a l a r e p r o d u c c i ó n p a r c i a l o t o t a l d e e s t a o b r a p o r c u a l q u i e r m é t o d o o p r o c e d i m i e n t o, 
+comprendida la reprografía y el tratamiento informático, la fotocopia o la grabación, sin la previa autorización por escrito de los titulares de 
+los derchos de esta edición.
+Impreso y hecho en México
+Colaboradores: Georgina Vidriales Chan, Isabel García Coll, Manolo Mondragón,
+Alfonso Juan Rivas, Martha Patricia Lozada, Fabio Soto.
+Diseño: Natalia Rojas Nieto.
+Cartografía e ilustraciones: Magdalena Juárez Vivas, Diana Morales, Juan Bazán y Jorge Aurelio Álvarez.
+Investigación iconográfica: Alejandra Betancourt.
+Créditos fotográficos
+Armando Betancourt:
+101, 171, 216, 220.
+Carlos Alvarado Bremer: 
+7, 12, 166 , 210d.
+Karina Boege:
+4, 179.
+Cortesía Coordinación General de Educación Intercultural y Bilingüe/Heriberto Rodríguez: 
+19, 25, 44, 50, 55, 56, 59, 61, 91, 158, 161, 235, 236, 
+242, 244, 264, 268.
+Cortesía Tosepan Titataniske: 
+94, 230, 263, 266, 270.
+Cortesía Grupo Vicente Guerrero, A.C.:
+ 27.
+Federico Vargas Somoza: 
+14, 32, 37, 53, 73, 85, 98, 292.
+Fotografías de Bibiana López Cano, Fernando Mata y Carlos Millfan: 
+28, 29, 30, 41, 87, 183, 187, 269.
+Genaro Vázquez: 
+203.
+Ricardo Garibay: 
+241.
+SAGARPA
+: 
+247.
+Georgina Vidriales: 
+187, 267.
+Salatiel Barragán: 
+10, 17, 20, 23, 24, 26, 31, 35i., 35d., 38, 47, 48, 68, 77, 80, 90, 97, 102, 103, 105, 108, 112, 113, 115, 121, 123, 128, 130, 136, 139, 146, 149, 157, 162, 165, 
+175, 199, 210i., 217, 238, 251, 273, 274, 278.
+Cortesía 
+CEDICAM
+: 
+182, 186, 252.
+p. 4:
+ Mazorcas de maíz nativo,Vicente Guerrero, Tlaxcala. 
+p. 7:
+ Planta de maíz nativo.
+Boege Schmidt, Eckart.
+El patrimonio biocultural de los pueblos indígenas de México / Eckart Boege; colaboradores Georgina Vidrales Chan... [et al.]. México: 
+Instituto Nacional de Antropología e Historia: Comisión Nacional para el Desarrollo de los Pueblos Indígenas, 2008.
+344 p.: fotos, mapas, il.; 28 cm.
+ISBN: 978-968-03-0385-4
+1. Grupos étnicos México-Regiones bioculturales. 2 Grupos étnicos-México Ecología. 3. Conservación de la biodiversidad-México. 4. 
+Conocimiento ecológico tradicional-México. 5. Suelo (uso del)-México. I. Vidrales Chan, Georgina, colab. II. García Coll, Isabe l, colab. III. 
+Mondragón, Manolo, colab. IV. Rivas, Alfonso, Juan, colab. V. Lozada, Martha Patricia, colab. VI. Soto, Fabio, colab. VII. t.
+LC: QH107 B63
+----------------Page (6) Break----------------
+
+----------------Page (7) Break----------------
+ Agradecimientos 
+11
+Introducción 
+13
+De la conservación de facto a la conservación in situ 
+33
+Regiones, territorio, lenguas y cultura de los pueblos indígenas 
+49
+Lengua, cultura y biodiversidad 
+49
+Regiones y territorios de los pueblos indígenas 
+52
+Metodología para la delimitación de los territorios de los pueblos indígenas contemporáneos
+63
+Conclusiones respecto a los territorios actuales de los pueblos indígenas
+70
+Construyendo las regiones bioculturales prioritarias para la conservación in situ
+y el desarrollo sustentable 
+81
+La captación de agua en los territorios indígenas, cuencas e isoyetas de precipitación anual 
+82
+Las regiones hidrológicas, las cuencas y la captación de agua correspondientes a los territorios 
+de los pueblos indígenas
+84
+La cubierta vegetal y el uso del suelo en los territorios de los pueblos indígenas 
+99
+Las zonas ecológicas que conforman la cubierta de vegetación en los territorios indígenas 
+101
+Evaluación general de la cobertura de la vegetación primaria y secundaria en los territorios 
+indígenas
+130
+Índice
+----------------Page (8) Break----------------
+Las regiones bioculturales para la conservación y desarrollo de la biodiversidad 
+137
+Criterios para definir las regiones bioculturales prioritarias para la conservación 
+137
+Las regiones bioculturales según los inventarios de la diversidad biológica domesticada y 
+semidomesticada
+159
+Los territorios de los pueblos indígenas como laboratorios de domesticación, experimentación 
+y manipulación genética de las especies silvestres, semisilvestres y domesticadas 
+159
+Los inventarios de la agrobiodiversidad en los territorios de los pueblos indígenas de México 
+185
+Tejiendo la red biocultural de conservación y desarrollo. Las experiencias 
+de reapropiación de los recursos naturales por los pueblos indígenas
+231
+Consideraciones generales 
+231
+Experiencias en la gestión ambiental de los ecosistemas por parte de las comunidades y los ejidos 
+en los territorios de los pueblos indígenas. Definiendo las regiones bioculturales 
+de conservación y desarrollo 
+237
+Programas para el mejoramiento de la funcionalidad de los ecosistemas naturales: conservación y 
+restauración de la cubierta de vegetación primaria y secundaria principalmente arbórea 
+con cubierta de muy alto valor biológico y de especies en vías de extinción
+239
+Iniciativas de conservación de las comunidades indígenas
+242
+Siglas, acrónimos y notas sobre la cartografía 
+275
+Bibliografía
+279
+Anexos
+293
+----------------Page (9) Break----------------
+
+----------------Page (10) Break----------------
+11
+L
+as siguientes personas aclararon dudas de manera generosa, dedicaron parte de su tiempo 
+para revisar el manuscrito y hacer sugerencias valiosas, y asimismo permitieron el acceso 
+a las bases de datos actualizadas, sin las cuales este trabajo hubiese sido imposible: 
+Mi querida compañera Luisa Paré, del
+IIS
+-
+UNAM
+; doctor Víctor M. Toledo, del Centro de Investiga-
+ciones de los Ecosistemas, 
+UNAM
+, Unidad Morelia; maestro Antony Challenger, asesor del subse-
+cretario de Planeación y Política Ambiental de la Semarnat, quien generosamente revisó la primera 
+versión; doctor Gerardo Bocco de la Dirección General de Investigación en Ordenamiento Ecoló-
+gico y Conservación del Instituto Nacional de Ecología; doctor Enrique Serrano del 
+CDI
+-
+PNUD
+; in-
+geniero Francisco Chapela, Coinbio; doctor Gerardo Segura, Procymaf-Conafor; biólogo Gilberto 
+Hernández, 
+UAM
+-
+I
+, Departamento de Biología; doctor Rafael Ortega Pazcka, Universidad Autóno-
+ma de Chapingo; doctor Antonio Turrent,
+INIFAP
+; doctor Jorge Soberón, secretario ejecutivo de la 
+Conabio; licenciada Regina Barba, jefa de la Unidad Coordinadora de Participación Social y 
+Transparencia de la Semarnat (2000-2006); antropólogo Ricardo Garibay, quien me propuso realizar 
+este trabajo; doctor Fernando Tudela, subsecretario de Planeación y Política Ambiental de la Se-
+marnat; ingeniero Manolo Mondragón y doctor Hipólito Rodríguez del 
+CIESAS
+-Golfo, y finalmente, 
+agradezco al Instituto Nacional de Antropología e Historia, mi institución, por el apoyo recibido.
+Agradecimientos
+P. 10
+Pastizal con secador rústico de tabaco, los Tuxtlas, Veracruz.
+----------------Page (11) Break----------------
+
+----------------Page (12) Break----------------
+13
+Introducción
+L
+os Acuerdos de San Andrés Sakam Ch’en de los Pobres, firmados por el 
+EZLN
+ y el gobierno de 
+Ernesto Zedillo no fueron respetados por ese ni por el siguiente gobierno. Sin embargo, con-
+tienen respuestas clave para la adecuada inserción de la sociedad indígena en la nación mexi-
+cana: planteaban las cuestiones de la territorialidad, la autodeterminación, las autonomías
+1
+ dentro de la 
+Constitución, la defensa de las lenguas y cultura indígenas, el acceso colectivo y cuidado de sus recur-
+sos naturales y medios de comunicación autónomos. Al respecto, el territorio de los pueblos indígenas 
+es un referente necesario para cualquier política que busque desarrollar la cultura, los recursos naturales 
+y el bienestar de los pueblos indígenas. Es decir, para desarrollar el concepto de patrimonio biocultural 
+de los pueblos indígenas es imprescindible clarificar la dimensión de la territorialidad de los pueblos 
+indígenas en un espacio determinado. Así, desglosamos el patrimonio biocultural de los pueblos indí-
+genas en los siguientes componentes: recursos naturales bióticos intervenidos en distintos gradientes 
+de intensidad por el manejo diferenciado y el uso de los recursos naturales según patrones culturales, 
+los agroecosistemas tradicionales, la diversidad biológica domesticada con sus respectivos recursos fito-
+genéticos desarrollados y/o adaptados localmente. Estas actividades se desarrollan alrededor de prácti-
+cas productivas ( praxis ) organizadas bajo un repertorio de conocimientos tradicionales
+2
+ ( corpus ) y rela-
+cionando la interpretación de la naturaleza con ese quehacer, el sistema simbólico en relación con el 
+sistema de creencias ( cosmos ) ligados a los rituales y mitos de origen (Toledo et al., 1993; 2001). En las 
+1
+ La autonomía es un sistema por el cual grupos socioculturales ejercen el derecho a la autodeterminación. Véase discu-
+sión exhaustiva en Díaz-Polanco (1999).
+2
+ El
+PNUMA
+ (s.f.), al explicar los alcances del Convenio de la Diversidad Biológica, da la siguiente definición: “Bajo cono-
+cimiento tradicional se entiende las prácticas de las comunidades indígenas y locales de todo el mundo. Concebido a partir 
+de la experiencia adquirida a través de los siglos, y adaptado a la cultura y al entorno locales, el conocimiento tradicional s e 
+transmite por vía oral, de generación en generación. Tiende a ser de propiedad colectiva y adquiere la forma de mitos, histo-
+rias, canciones, folclor, refranes, valores culturales, leyes comunitarias, idioma local y prácticas agrícolas, incluso abarca la 
+evolución de las especies vegetales y razas animales. El cono cimiento tradicional básicamente es de naturaleza práctica, en 
+especial en los campos de la agricultura, pesca, salud, horticultura y silvicultura”.
+P.12
+ Manto de la virgen o ololiuhqui ( Ipomoea violacea L. ).
+----------------Page (13) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+14
+regiones bioculturales se generan diversos paisa-
+jes entre la vegetación natural y los agroecosiste-
+mas a veces itinerantes de la actividad agrícola.
+Si consideramos que la mayoría de los 
+agricultores a nivel mundial practican la agricul -
+tura tradicional, no se trata de un tema irrelevante 
+en el problema de la crisis ambiental nacional y 
+mundial provocada por la sociedad dominante y 
+que involucra decididamente a las sociedades 
+subalternas. Postulamos aquí, junto con Toledo et 
+al . (2001) —y adelantamos conclusiones—, que 
+los pueblos indígenas de México son clave para 
+generar un nuevo modelo de sociedad, donde se 
+intenta afrontar la crisis civilizatoria y ambiental a 
+nivel mundial. 
+Revisando la importancia biológica de los 
+principales territorios indígenas, se estima que al-
+canzan entre 12 y 20 por ciento de las áreas del 
+planeta bajo manejo humano (Toledo et al ., 2001). 
+Este enfoque implica que los pueblos indígenas y 
+sus organizaciones se replantean las políticas te-
+rritoriales y públicas. El presente trabajo tiene 
+como finalidad aportar información básica para 
+diseñar una estrategia nacional de conservación, 
+Niño purhépecha en San Bartolomé Cocucho, Michoacán.
+----------------Page (14) Break----------------
+Introducción
+15
+desarrollo y custodia de la biodiversidad y agro-
+biodiversidad mesoamericana. 
+Cabe destacar que la crisis ambiental o “défi-
+cit ecológico” renovado e intensificado por la glo-
+balización de la economía, se podría medir en las 
+cuentas nacionales anuales mediante el balance 
+entre la capacidad biológica de regeneración para 
+mantener los servicios ambientales básicos en un 
+nivel determinado y la pérdida anual misma; pe-
+ro si la tendencia persiste, será cada vez más críti-
+ca. Por ejemplo, si hacemos el balance anual en-
+tre lo que se usa y destruye de los recursos bióticos 
+y lo que se repone, en octubre de 2006 la Tierra 
+rebasó la capacidad biológica para recuperarse. El 
+siguiente “ciclo anual” inicia en condiciones pre-
+carias (Footprint network, 2006) el deterioro se va 
+acumulando, reduciéndose así las posibilidades 
+de la biorregulación de la vida en el planeta. En la 
+actualidad, 45 por ciento de los ecosistemas natu-
+rales del mundo están severamente impactados y 
+han dejado de ser funcionales, el restante 55 por 
+ciento sostiene los servicios ambientales para la 
+vida del planeta y se calcula que para 2025 la cifra 
+anterior será sólo de 30 por ciento (Ramos, 2004). 
+Al respecto, Vitousek y colaboradores (1997) se-
+ñalan que la economía humana se apropia de 25 
+por ciento de toda la producción primaria neta 
+(microorganismos, plantas y animales) generada 
+mediante fotosíntesis en la tierra y en el mar. En 
+la parte terrestre afirman que esta cifra llega a 40 
+por ciento. En estos momentos en que los proce-
+sos de globalización entran en nuevas etapas de 
+“descreme” y destrucción de áreas de vegetación 
+natural, se realizan estudios con más información 
+de la que disponían Vitousek y colegas. En efec-
+to, Haberl et al. (2007) utilizan todo tipo de infor-
+mación proveniente de los sistemas de informa-
+ción geográfica para concluir que la dominancia 
+humana y la transformación del uso de la tierra en 
+los ecosistemas terrestres ha sido considerable, de 
+manera que se aprecian cambios sustanciales ne-
+gativos en los ciclos biogeoquímicos que impac-
+tan la habilidad de los ecosistemas para propor-
+cionar los recursos ambientales necesarios para la 
+reproducción de la vida y de los propios humanos. 
+Incluso, advierten que con esta perspectiva hay 
+que observar con cautela la sustitución en aparien-
+cia sustentable de los energéticos de origen fósil 
+por biomasa, en caso de que las grandes plantacio-
+nes —cuyo objetivo sería acaparar energía fotosin-
+tética— sustituyan los bosques y selvas primarias 
+(vegetación natural en ecosistemas poco interve-
+nidos) y secundarias (vegetación natural interveni-
+da por el hombre o por un fenómeno natural, en 
+regeneración en diversas fases sucesionales). 
+ En esta situación, ¿qué les corresponde a los 
+pueblos indígenas? El alto índice de deterioro am-
+biental en el México contemporáneo vaticina una 
+drástica reducción de los recursos naturales en las 
+primeras décadas del siglo
+XXI
+. El deterioro am-
+biental no sólo implica pérdida de biodiversidad, 
+sino también la aceleración de los procesos de de-
+sertificación, pérdida de suelos, incapacidad de 
+captación de agua, salinización de suelos por riego 
+inadecuado, pérdida de reservas de agua fósil, in-
+trusión de agua salina en las costas, deterioro o de-
+saparición de lagunas costeras, contaminación 
+creciente y aguda de agua y suelo; en resumen, la 
+salud y funcionalidad de los ecosistemas, y con 
+ello la degradación de los recursos ambientales, 
+básicos para la supervivencia humana y del país. 
+Respecto a la pérdida de vegetación primaria, una 
+investigación reciente evaluó la reducción a partir 
+de un estudio comparado con datos de los años de 
+cobertura de vegetación recolectados por el 
+INEGI
+en el año 1993 y en el 2002 (Semarnat). Siguiendo 
+el modelo, Velázquez et al. (en prensa) destacan 
+que el deterioro de los bosques y selvas es tal que 
+en 2020 sobrevivirán en México sólo 30 por ciento 
+de los bosques primarios; según nuestro estudio, 
+ya estamos en esta situación en los territorios de 
+los pueblos indígenas. Los indígenas no destru-
+----------------Page (15) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+16
+yen la vegetación primaria más aceleradamente 
+que otros sectores sociales. Lo que sucede es que 
+el modelo general de Velázquez se basa en la eva-
+luación de toda la vegetación primaria de México, 
+incluyendo desiertos y semidesiertos, siendo que 
+la mayor parte de los territorios indígenas no se 
+encuentran en esos ecosistemas. La tendencia de 
+deterioro de la vegetación primaria se acentúa en 
+orden de uno a tres para las selvas tropicales. 
+Los orígenes multicausales del deterioro im-
+plican respuestas múltiples. Por ello, la crisis am-
+biental debe ser entendida sobre una base de 
+aproximaciones diferenciadas según la evaluación 
+de un amplio espectro de variables: culturales, so-
+ciales, económicas, políticas y ecológicas. La inte -
+racción entre las ciencias sociales y las biológicas 
+adquiere relevancia para estudiar estos sistemas 
+complejos. Si bien el mercado globalizante y el uso 
+generalizado de la energía alinea y aliena a las enti-
+dades ecológico-culturales que actúan en peque -
+ñas escalas, las respuestas multipolares deben par-
+tir de acciones pluriculturales (Leff, 1998). Ante la 
+importancia y los aportes de los territorios de los 
+pueblos indígenas a la biodiversidad, los ecosiste-
+mas y sus recursos ambientales, pensamos que sin 
+la incorporación de los pueblos indígenas a las es-
+trategias de conservación y desarrollo de las polí-
+ticas públicas, México no podrá cumplir con los 
+propósitos comprometidos en la Convención de 
+Biodiversidad en sus versiones de Río de Janeiro 
+y de Johannesburgo, y de las conferencias subsi-
+guientes para contribuir al desarrollo sustentable.
+Cientos de trabajos científicos han documen-
+tado el conocimiento ecológico tradicional, mis-
+mos que se refieren a tecnologías, saberes y expe-
+riencias en el manejo de los recursos naturales, 
+instituciones de acceso y prácticas simbólicas al 
+interaccionar con la naturaleza. Estos trabajos con 
+frecuencia destacan los procesos adaptativos y di-
+námicos de las culturas a los distintos ambientes o 
+paisajes naturales. Las investigaciones permiten 
+desarrollar una teoría y práctica biocultural (Ovie-
+do et al ., 2000) a la crisis planetaria del medio am-
+biente. En otras palabras, esta manera de pensar 
+implica que la sociedad en su conjunto reconozca 
+que la conservación de la biodiversidad debe es-
+tar relacionada con la diversidad cultural de los 
+pueblos indígenas. Lo “tradicional” de los pue-
+blos indígenas se refiere aquí a cómo es adquirido 
+o usado el conocimiento por las culturas únicas de 
+los pueblos indígenas, incluidas las diferencias 
+de grupos de edad y género.
+El enfoque biocultural para la conservación y 
+el desarrollo sustentable alrededor de los pueblos 
+indígenas es estratégico para países megadiversos 
+como México. Baste examinar la siguiente figura 
+para darnos cuenta de la posición del país en el 
+ámbito internacional.
+0APÞA .UEVA
+'UINEA
+)NDONESIA
+#OLOMBIA
+#HINA
+0ER Þ
+-ALASIA
+%CUADOR
+-ADAGASCAR
+)NDIA
+!USTRALIA
+-ÏXICO
+:AIRE
+"RASIL
+.IGERIA
+#AMERÞN
+0AÓSES CON GRAN DIVERSIDAD
+CULTURAL
+0AÓSES CON GRAN DIVERSIDAD
+BIOLØGICA
+FIGURA 1.
+ Países con gran diversidad cultural y biológica. 
+Morán K., citado en Conabio, 1998.
+Los países que se muestran en la intersección 
+son los que combinan alta biodiversidad con una 
+diversidad cultural importante. En efecto, la ma-
+yor biodiversidad del planeta se concentra en las 
+regiones tropicales y subtropicales, pero también 
+es importante la que se encuentra en los desier-
+tos, en las zonas templadas, así como en las mon-
+tañas, con altos índices de endemismos (especies o 
+variedades únicas que no se encuentran en otros 
+lugares del planeta).
+----------------Page (16) Break----------------
+Introducción
+17
+El concepto biodiversidad es muy reciente, 
+pero no así las prácticas de su uso por parte de los 
+pueblos indígenas. La convivencia con la bio-
+diversidad regional ha hecho que esas comunida-
+des probaran, desecharan o desarrollaran el uso de 
+plantas, insectos y animales como alimento, medi-
+cina, vestimenta, limpieza corporal o vivienda. Por 
+esta razón, los pueblos indígenas y las comunida-
+des locales han sido reconocidos como sujetos 
+sociales centrales para la conservación y el desa-
+rrollo sustentable en el artículo 8j del Convenio 
+sobre Diversidad Biológica (
+CDB
+) de la Organiza-
+ción de las Naciones Unidas (
+ONU
+), así como en 
+las respectivas Conferencias de Partes post Río de 
+Janeiro, de las cuales México es signatario. Cabe 
+recordar que el mencionado artículo señala que 
+cada una de las partes signatarias tiene obligatoria-
+mente que integrar en su legislación nacional el 
+respeto, la preservación del conocimiento, las 
+innovaciones y prácticas, y los estilos de vida rele -
+vantes para la conservación y el uso sustentable 
+de la biodiversidad (Oviedo et al ., 2000).
+México es uno de los 12 países megadiversos
+3
+del mundo que albergan entre 60 y 70 por ciento 
+de la biodiversidad total del planeta (Mittermeier 
+y Goettsch, 1992) y por ello tiene un estatus espe-
+cial tanto en la conservación de las especies como 
+de los ecosistemas. Myers et al . (2000) ubican al 
+país dentro de las áreas críticas amenazadas ( hot 
+spots )
+4
+ a nivel mundial. Oaxaca, Chiapas, Vera-
+cruz, Guerrero y Michoacán concentran la mayor 
+diversidad a nivel nacional y también tienen la 
+3
+ Rzedowski (1998) calcula que México tiene casi 27 000 
+especies de plantas superiores. Una evaluación, por los tipos 
+de vegetación que albergan los territorios indígenas, indica 
+que hay por lo menos 15 000 especies de plantas macroscó-
+picas de las posibles 30 000 que se encuentran en el México 
+megadiverso.
+4
+ Término acuñado por Norman Myers; se define como 
+un área que representa una unidad biogeográfica que con-
+tiene por lo menos 0.5 por ciento de las 300 000 especies de 
+plantas vasculares endémicas y que ha perdido 70 por cien-
+to, o más, de su vegetación primaria.
+mayor presencia de pueblos indígenas. Por ello, 
+una de las líneas estratégicas para el manejo sus-
+tentable de los recursos naturales (biodiversidad, 
+suelos, recursos hídricos, servicios ambientales) 
+que se proponen en este trabajo es el reconoci-
+miento de los pueblos indígenas como sujetos 
+sociales centrales para la conservación y el desa-
+rrollo a nivel nacional. 
+En efecto, la añeja experiencia de los pueblos 
+indígenas como operadores de los ecosistemas 
+Niñas lacandonas, Chiapas.
+----------------Page (17) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+18
+contiene una energía social importante para fre-
+nar el deterioro social, cultural y ambiental en los 
+procesos de globalización tal como se presentan 
+en la actualidad. 
+Los campesinos con influencia mesoamerica-
+na y los pueblos indígenas intervienen tanto en 
+las áreas naturales protegidas como fuera de ellas. 
+La experiencia indica que cuando se presentan 
+condiciones políticas y sociales adecuadas, la pro-
+tección indígena y campesina de los recursos na-
+turales por medio de paisajes manejados es relati-
+vamente eficiente en algunas áreas del país. Así lo 
+consignan los manejos forestales comunitarios en 
+la Sierra de Juárez, Oaxaca, en Quintana Roo, Du-
+rango y Michoacán, entre otros. Varias regiones 
+consideradas prístinas desde el punto de vista 
+biológico son paisajes en donde interviene directa 
+o indirectamente la mano de la cultura humana, 
+modificando las relaciones entre especies, comu-
+nidades vegetales y animales, en los ecosistemas 
+y los servicios ambientales en su conjunto. 
+En este trabajo se analiza la importancia de los 
+pueblos indígenas respecto a la cubierta de vege-
+tación primaria y secundaria, a la diversidad bioló-
+gica y agrobiodiversidad del país, así como en el 
+tema de los servicios ecosistémicos (como el caso 
+del agua, la conservación de la diversidad biológi-
+ca o captura de carbono, mantenimiento de los 
+suelos, etcétera) que aportan sus territorios. Con 
+ello hacemos hincapié en un tema central para la 
+sobrevivencia del país: la generación de estrate-
+gias nacionales para fortalecer las comunidades 
+de los pueblos indígenas en sus prácticas de con-
+servación biocultural in situ. En síntesis, quere-
+mos aportar un sistema de información ambiental 
+centrado en el reconocimiento de los pueblos in-
+dígenas, en sus comunidades, ejidos y pequeña 
+propiedad, es decir, en sus organizaciones, como 
+actores fundamentales para la conservación de la 
+biodiversidad y agrobiodiversidad que se encuen-
+tra en sus territorios.
+México, por su particular geografía montañosa 
+enclavada entre dos océanos, donde confluyen las 
+vegetaciones neárticas y neotropicales en forma 
+de embudo, presenta una alta diversidad en espa-
+cios relativamente pequeños, característica que 
+dificulta su conservación. En México y Centro-
+américa los paisajes naturales y culturales cam-
+bian en pocos kilómetros. Con frecuencia, las co-
+munidades florísticas en los diversos tipos de 
+vegetación son relativamente pequeñas en cuan -
+to a su extensión, lo que las hace muy vulnerables 
+ante la intervención humana o el cambio climáti-
+co global. Halffter (2005), uno de los fundadores 
+del concepto de reservas de la biosfera con parti-
+cipación social, en un artículo reciente destaca el 
+hecho de que las políticas de conservación se han 
+centrado en áreas específicas pensando en sitios 
+en donde hay altas concentraciones de especies 
+por área determinada (diversidad alfa). Sin sosla-
+yar la importancia de este enfoque, resulta que 
+uno de los componentes de la riqueza biológica 
+en México reside en el ensamble diferente de 
+especies de un mismo tipo de vegetación debido 
+a la heterogeneidad topográfica, de suelos, de 
+microclimas, u orientación hacia la luz, etcétera. 
+Además, tenemos en los territorios de los pueblos 
+indígenas manchones de distintos tipos de ecosis -
+temas de vegetación natural e intervenida, usos 
+del suelo agrícola y ganadero permanente o semi-
+permanente; todo ello conforma un ensamble 
+paisajístico natural-cultural. Estos conjuntos de 
+diversidad biológica ocurren en los más variados 
+ambientes y entre predio y predio pueden aso-
+ciarse algunos tipos de vegetación afines conside-
+rados corredores o conectores a los “archipiélagos 
+de conservación” y que Halffter (2005) propone 
+como un método de protección de la diversidad 
+biológica. 
+La supervivencia de los pueblos indígenas ba-
+sada en la agricultura está relacionada con el uso 
+de estos ecosistemas naturales y la manera en que 
+----------------Page (18) Break----------------
+Introducción
+19
+se insertan en ellos para satisfacer sus necesidades 
+básicas. La dependencia de las vicisitudes climá-
+ticas, tanto del ciclo anual de las lluvias como de la 
+temporada de heladas, y los distintos pisos ecoló-
+gicos en muy cortas distancias y barreras naturales 
+en las regiones montañosas, los obligó a desarro-
+llar estrategias agrícolas basadas en la diversidad 
+biológica para satisfacer dichas necesidades. No 
+se trató de producir mucho con una sola especie 
+de gramínea o leguminosa —como en el Cercano 
+Oriente, Asia o ahora Norteamérica—, sino pro-
+ducir en cantidades moderadas una amplia gama 
+de cultivos y especies para enfrentar la diversidad 
+geográfica, biótica y los ciclos anuales climáticos 
+con frecuencia erráticos. Esta estrategia producti-
+va garantiza suficiente biomasa y bioenergía para 
+satisfacer las necesidades básicas de la población. 
+Asimismo, de este proceso se deriva la enorme va-
+riedad de especies, razas y adaptaciones regiona-
+les de diversas plantas usadas dentro del sistema 
+Niños de Yonosuxi, Oaxaca.
+----------------Page (19) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+20
+cultural (alimentos, medicinas, implementos, etcé-
+tera) de origen mesoamericano; a esto se le deno-
+mina agrobiodiversidad. Estas estrategias múlti-
+ples no sólo se refieren a la domesticación del 
+maíz, frijol, calabaza o jitomate en un intercambio 
+de germoplasma con las variedades arvenses o ru-
+derales; también se refiere al manejo de especies 
+silvestres útiles “ya sea propagadas vegetativa-
+mente como las cactáceas o magueyes o por semi-
+llas, dejando en pie especies útiles como el mez-
+quite, guajes, chupandia, nopales y otras cactáceas 
+comestibles” (Casas et al., 2000). Los territorios 
+indígenas son verdaderos laboratorios biocultura-
+les donde, con un peso histórico-cultural impor-
+tante, se practica todavía el intercambio entre 
+plantas silvestres, arvenses o ruderales y plantas 
+netamente domesticadas. Estos laboratorios bio-
+culturales incluyen 
+la tolerancia, la inducción y protección selectiva de 
+individuos de especies útiles durante perturbacio-
+nes intencionales de la vegetación. Este manejo 
+puede determinar procesos de selección artificial 
+(selección in situ ) y ocasionar divergencias morfoló-
+gicas significativas entre poblaciones silvestres y 
+manejadas, como lo ilustran los casos de los queli -
+tes, de árboles como los guajes o como cactáceas 
+(columnares y nopales). La selección artificial in 
+situ es un mecanismo de domesticación incipiente 
+que se lleva a cabo en el presente, y posiblemente 
+desde los tiempos pre-agrícolas (Casas et al ., 2000). 
+Una parte importante de las plantas cultivadas 
+que sustentan el sistema alimentario mundial ac-
+tual fue domesticada por los pueblos indígenas de 
+América. Estas plantas y sus productos han llega-
+do a nuestras manos pasando por un largo proceso 
+de selección, diversificación, innovación, inter-
+cambio con otras regiones, adaptación, mejora-
+miento genético, uso y manejo, actividades reali-
+zadas principalmente por poblaciones indígenas y 
+campesinas.
+La biodiversidad culturalmente creada es pro-
+ducto de un largo proceso de intercambio y de 
+selección cultural sistemática. A éste se agregan 
+las plantas medicinales, que pueden pertenecer a 
+la vegetación primaria, secundaria, de semicultivo 
+y de cultivo. Esta extraordinaria riqueza no se en-
+cuentra en otros territorios indígenas del orbe. Sin 
+pueblos indígenas y campesinos esta experiencia 
+civilizadora se perdería para México y la humani-
+dad. De ellas, la Comisión Nacional de Biodiversi-
+Niña nahua de Tehuacán, Puebla.
+----------------Page (20) Break----------------
+Introducción
+21
+dad (Conabio, 1998) consigna entre 3 500 a 4 000 
+especies de plantas medicinales utilizadas regu-
+larmente por la población mexicana. Los pueblos 
+indígenas utilizan de 5 000 a 7 000 especies de 
+plantas en diversas actividades culturales. El siste-
+ma alimentario de los pueblos indígenas se basa 
+en la extraordinaria cantidad de 1 000 a 1 500 espe-
+cies con sus variantes, mientras que el sistema ali-
+mentario mundial se centra en 15 especies (Caba-
+llero, 1985). De las especies principales 15.4 por 
+ciento del sistema alimentario mundial provienen 
+de las plantas domesticadas en Mesoamérica (Co-
+nabio, 2006a) y cuyo germoplasma (original) se 
+encuentra principalmente en los territorios de los 
+pueblos indígenas.
+No es casual que varios de esos centros de di-
+versificación biológica coincidan en parte con las 
+regiones donde se encuentran actualmente los 
+pueblos indígenas. Antes de la introducción de la 
+Revolución Verde y de la dependencia de los fito-
+mejoradores “científicos” y de las compañías pú-
+blicas y privadas de control de semillas, el sistema 
+alimentario nacional se basaba en el germoplasma 
+y en la experiencia campesina mesoamericana, 
+además de poseer determinada influencia agríco-
+la arábigo-española en algunas áreas. 
+En la figura 2 se muestran los lugares donde las 
+culturas nativas domesticaron las plantas que con-
+forman la base del sistema alimentario mundial.
+Estas regiones, conocidas como “Centros Va-
+vilov”, son refugios irremplazables de biodiversi-
+dad y esenciales para la alimentación humana. 
+Vavilov, el autor de esta clasificación, dice que el 
+agrónomo o agricultor que quiera mejorar sus va-
+riedades de maíz u otros cultivos tiene que tener 
+acceso a especímenes originales provenientes de 
+sus centros de origen y diversificación genética, 
+incluyendo los parientes silvestres. Independien-
+temente de que la papa sea cultivada en Alema-
+nia, Irlanda o Idaho, para ser viable como alimen-
+to, ésta necesita para su mejoramiento de las 
+variadísimas cepas que se encuentran sólo en su 
+centro de domesticación, esto es, en el altiplano 
+andino. Por otro lado, existen experiencias amar-
+gas que apuntalan la necesidad de conservar la 
+mayor variedad de especies en sus centros de ori-
+gen para enfrentar problemas de la erosión gené-
+tica y la vulnerabilidad de los cultivos. Y es que la 
+apuesta actual de los sistemas alimentarios masi-
+vos es de muy pocos cultivos y líneas genéticas 
+(como promueven actualmente las empresas 
+transnacionales de las semillas) (Fowler y Moo -
+ney, 1990) los hace vulnerables a eventos climáti-
+cos extraordinarios y/o incidencia de plagas. La 
+literatura señala que un cambio climático mínimo 
+como en el invierno europeo de 1845, en especial 
+caluroso y húmedo, provocó que en Irlanda el hon-
+go Phytophora infestans infectara de manera masiva 
+la papa de una sola línea genética; como conse-
+cuencia se presentó una hambruna generalizada, 
+muriendo casi un millón de personas (Gore, 1993). 
+Asimismo, el riesgo de utilizar pocas líneas gené-
+ticas para producir el maíz híbrido tipo Texas im-
+plicó que ahí se perdieran masivamente las cose-
+chas por la infestación del Helmithosporium maydis 
+raza T en los años setenta del siglo pasado, lo cual 
+promovió que la Academia Nacional de Ciencias 
+de Estados Unidos estableciera un comité de es-
+pecialistas para estudiar la vulnerabilidad genéti -
+ca de los principales cultivos en Estados Unidos. 
+El comité encontró que la diversidad genética de 
+muchos de los cultivos importantes para ese país 
+era peligrosamente estrecha. Por ejemplo, 96 por 
+ciento de los frijoles sembrados en Estados Uni-
+dos procedían de sólo dos variedades y 95 por cien-
+to de los cacahuates cultivados, de sólo nueve 
+variedades. El fenómeno es extrapolable a nume -
+rosos cultivos y países, y datos más recientes mues-
+tran una clara tendencia al empeoramiento de la 
+situación. En Asia, una sola población de Oryza 
+nivara de arroz fue la que opuso resistencia al vi-
+rus Grassy Stunt, que pudo haber infectado a todas 
+----------------Page (21) Break----------------
+22
+las poblaciones de arroz de alto rendimiento, y 
+que de no existir la variedad mencionada hubiese 
+generado hambrunas catastróficas en pleno final 
+del siglo 
+XX
+.
+Menos de 120 especies cultivadas de plantas 
+proporcionan al sistema alimentario mundial 90 
+por ciento de los alimentos, y sólo 12 especies ve-
+getales y cinco especies animales suministran más 
+de 70 por ciento de los alimentos. Únicamente 
+cuatro especies vegetales (papa, arroz, maíz y tri-
+go) y tres especies animales (vacas, cerdos y po-
+llos) aportan más de la mitad (Esquinas, 2003).
+Va v i l o v ( 1 9 2 7 ) a n a l i z a b a c o n s t a n t e s g e o g r á f i -
+cas en estos centros de origen y de diversificación. 
+Estos centros se caracterizan por ubicarse dentro 
+de barreras naturales (orográficas, de vegetación y 
+climáticas) de concentración en espacios relativa -
+mente delimitados de variedades, de la misma es-
+pecie o especies afines, y agricultores nativos que 
+por centurias o milenios han cultivado y transfor-
+mado de manera ininterrumpida estas especies. 
+Otra característica importante para determinar los 
+centros de origen es la presencia de parientes sil-
+vestres que intercambian su germoplasma con las 
+especies domesticadas. Esta ecuación se presenta 
+en pocas regiones del mundo, y México y Centro-
+américa son, según Vavilov, unas de ellas. Por tan-
+to, México, junto con los países de Centroaméri-
+ca, pertenecen a la categoría de centro de origen 
+primario y secundario, de diversificación genéti-
+ca, de endemismos (en algunas zonas ecológicas 
+hasta 70 por ciento), de una alta incidencia de los 
+parientes silvestres, de pervivencia hasta la actua-
+lidad de procesos de domesticación ininterrumpi-
+da de “plantas útiles”, por lo tanto tiene la respon-
+sabilidad de desarrollar políticas de conservación 
+NORTEAMÉRICA
+MESOAMÉRICA
+MEDITERRÁNEO
+ANDES
+COLOMBIA
+SUR DE BRASIL
+Y PARAGUAY
+ABISINIA
+ASIA
+CENTRAL
+SUROESTE ASIÁTICO
+BIRMANIA
+CHINA
+SUDESTE ASIÁTICO
+Maíz
+Frijoles
+Chile
+Jitomate
+Papas
+Quinua
+Girasol
+Avena
+Colza
+Mandioca
+Mandioca
+Cebada
+Trigo
+Mijo
+Trigo
+Centeno
+Cebada
+Trigo
+Arvejas
+Mijo cola
+de zorro
+Soya
+Arroz
+Arroz
+Trigo enano
+Plátano
+Caña de azúcar
+Ñame
+Arroz
+C
+ENTROS DE ORIGEN Y DIVERSIDAD DE LA AGRICULTURA
+FIGURA 2. 
+Centros de origen y diversificación de plantas según Vavilov (1927).
+----------------Page (22) Break----------------
+Introducción
+23
+y desarrollo que tomen en cuenta a los pueblos 
+indígenas y comunidades campesinas. 
+La actividad del origen está aún presente en el 
+germoplasma actual. Los pueblos indígenas han
+coevolucionado (Oviedo et al., 2000) con los ecosis-
+temas, seleccionando algunos rasgos de plantas o 
+animales y desechando otros, de manera que se 
+construye así la biocultura de las “gentes de los 
+ecosistemas” (Dasman, 1964). Es así que, con la 
+presión de la selección humana de las plantas, en 
+un sustratum de presiones naturales (suelo, hume-
+dad, clima, así como la presencia de parientes sil-
+vestres) se van domesticando las plantas en un 
+laboratorio “biocultural”. Este autor propone el 
+concepto de “gentes de los ecosistemas” para 
+ubicar a los productores que desde siempre se han 
+relacionado directamente con los ecosistemas y se 
+distinguen del resto de la sociedad que desempe-
+ña un papel predominante de “consumidor”.
+5
+ Así 
+se formó el patrimonio fitogenético en nuestro 
+país, mismo que debe relacionarse con los dere-
+chos colectivos de los campesinos y pueblos indí-
+genas ( farmers rights )
+6
+ y con el reconocimiento y 
+desarrollo de sus agroecosistemas. En México, el 
+patrimonio fitogenético de las “gentes de los eco-
+sistemas” reviste una situación particular única 
+para cada pueblo indígena: su presencia ininte-
+rrumpida en una o más zonas ecológicas semi-
+5
+ El autor distingue entre sociedades cosmopolitas, que 
+no dependen directamente de los ecosistemas ni conviven 
+con ellos, que no conocen el entorno de la producción que 
+consumen, y las sociedades que están en contacto directo 
+con los ecosistemas, que por lo común se consideran parte 
+de la naturaleza. Éstas dependen directamente de ella para 
+satisfacer sus necesidades básicas como vivienda, alimenta-
+ción, medicina y bienestar espiritual (Dasman, 1964).
+6
+ La discusión acerca de los derechos colectivos de los 
+recursos fitogenéticos se enmarca en la disputa por el control 
+de los mismos. La contradicción que en torno a este proble-
+ma se plantea es que se proteja con patentes las variedades 
+generadas, pero el soporte natural de todos los desarrollos 
+genéticos que es la biodiversidad y agrodiversidad de los 
+países de origen permanece como bien natural y, en este 
+sentido, disponible para toda la humanidad, por costumbre 
+accesible a cualquiera sin trabas (Aboites y Martínez, 1995).
+desérticas, templadas y selváticas húmedas y se-
+mihúmedas, refleja un abanico impresionante 
+de interacción (coevolución) en todos los ámbitos 
+de la cultura (caza, recolección, agricultura trashu-
+mante, de temporal, de humedad, medicina, cons-
+trucción, simbólico, ritual). De esta manera, el 
+patrimonio biocultural de los pueblos indígenas 
+se traducirá en bancos genéticos, de plantas y ani-
+males domesticados, semidomesticados, agroeco-
+sistemas, plantas medicinales, conocimientos, ri-
+tuales y formas simbólicas de apropiación de los 
+territorios. En torno a la agricultura desarrollaron 
+su espiritualidad e interpretaron la naturaleza. 
+Las culturas indígenas participan de saberes y ex-
+periencias milenarios en el manejo de la biomasa y 
+la biodiversidad. En casi 350 generaciones de siem-
+bra de maíz (Antonio Turrent, 2005, comunicación 
+personal), los indígenas construyeron un pa trimo-
+Hombre indígena chapoleando o chapeando, región 
+de la Huasteca veracruzana.
+----------------Page (23) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+24
+nio genético invaluable de esta especie “ban dera” 
+de Mesoamérica. 
+En este trabajo intentaré definir para México 
+la ubicación de estos bancos genéticos vivos, los 
+cuales albergan información de la interacción en-
+tre plantas silvestres y domesticadas, en el su-
+puesto de un proceso de evolución biocultural 
+ininterrumpido, a pesar de la conquista española, 
+las migraciones y desplazamientos poblacionales.
+El hecho de que México sea uno de los centros 
+de origen y diversificación genética de la agricul-
+tura debe tener un tratamiento especial desde el 
+punto de vista del desarrollo cultural, político, so-
+cial, científico y agrícola. El Estado y la sociedad 
+en México no han reconocido el papel activo que 
+desempeña y pueden desempeñar los pueblos 
+indígenas y comunidades campesinas conservan-
+do in situ y desarrollando recursos fitogenéticos 
+como el germoplasma “cultivado” por ellos, en el 
+sentido más amplio de la palabra. Se ha prestado 
+poca atención a la conservación local de varieda-
+des de plantas y animales originales y a los facto-
+res ambientales y bióticos que han permitido la 
+domesticación de dichos recursos fitogenéticos. 
+Esto es grave debido a que se tienen datos preci -
+sos del proceso de erosión genética del sistema 
+alimentario mundial a través de los fenómenos de 
+agricultura industrial, acaparamiento y otorga -
+miento de patentes a empresas transnacionales. 
+La agricultura industrial ha provocado la erosión 
+genética en la mayoría de los cultivos que susten-
+tan el sistema alimentario mundial, además ha ge-
+nerado grandes problemas ambientales, como la 
+pérdida de suelos, compactación, contaminación 
+de cuerpos de agua y de contribuir al cambio cli-
+mático global. Es en el siglo 
+XX
+, con la agricultura 
+industrial, que se generaliza la amenaza hacia los 
+centros de origen y se pone en peligro uno de 
+los tesoros más importantes que tienen México y 
+Centroamérica: diversidad biológica y agrobio-
+diversidad. 
+Hombre arando la tierra con yunta de bueyes, 
+Michoacán.
+----------------Page (24) Break----------------
+Introducción
+25
+La pérdida directa de la agrobiodiversidad in-
+dígena puede reducir dramáticamente la seguri-
+dad alimentaria nacional y mundial. Los peligros 
+de la reducción de la agrobiodiversidad incluyen: 
+1) vulnerabilidad incrementada a ataques de in-
+sectos y enfermedades; 2) efectos negativos en la 
+nutrición humana, porque la oferta de la diversi-
+dad de alimentos se pierde aceleradamente; 3) in-
+cremento de riesgos económicos; 4) pérdida de la 
+viabilidad de varios agroecosistemas, y 5) reduc-
+ción de la seguridad alimentaria. Lo más grave en 
+una situación de cambio climático es que si se pier-
+de el germoplasma de las plantas indígenas, se 
+reducen las posibilidades de que futuras genera-
+ciones puedan utilizarlas, se dilapida el conoci-
+miento humano acumulado y se ponen en riesgo 
+las comunidades rurales.
+El presente estudio tiene varias deudas teóri-
+co-metodológicas. Siguiendo a Leff (1998) y a To-
+ledo (múltiples ensayos) este trabajo reconoce los 
+siguientes puntos: 
+1 ) Que la crisis ambiental actual es parte de la 
+crisis civilizatoria de Occidente. 
+2) Que el deterioro global es parte del límite 
+entrópico (Georgescu-Roegen, 1971) de un mo-
+delo de desarrollo basado en la lógica del creci-
+miento económico sin límites, de un uso indis-
+criminado de la energía fósil no renovable que 
+destruye la energía neguentrópica (biomasa) de 
+manera minera, además que desarticula sistemas 
+naturales, sociales y culturales de las diferentes 
+comunidades humanas en el mundo.
+3) Que la incorporación de los instrumentos 
+del mercado, la elevación de la productividad, la 
+conservación de la biodiversidad y los servicios 
+ambientales no han logrado soluciones viables a 
+la crisis ambiental y solución de la pobreza (Stern, 
+2007). Una de las grandes fallas del mercado es 
+precisamente la incapacidad para incorporar al 
+sistema de precios los enormes déficit ambienta-
+les que implica la actividad humana. 
+4) Que el conocimiento va más allá del con-
+cepto occidental de ciencia. Éste reúne saberes 
+de las culturas milenarias y que son parte del pen-
+samiento complejo del cual hay que partir para 
+replantear el modelo civilizatorio dominante.
+Participante en el Foro Indígena sobre Migración en Tlapa, Guerrero.
+----------------Page (25) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+26
+5) Que una estrategia neguentrópica tiene que 
+replantear el modelo civilizatorio, que incorpore 
+la visión del mundo pluricultural y multipolar que 
+incluya tanto la emancipación de los indígenas co-
+mo de la sociedad civil. 
+6) Que un nuevo proceso civilizatorio requiere 
+de un modelo de desarrollo que integre, entre 
+otros, a los pueblos indígenas y campesinos en tér-
+minos de economía, sociedad, medio ambiente y 
+cultura. Si la situación económica de éstos es rela-
+tivamente marginal en el mercado, no lo es respec-
+to a la sociedad. Ésta debe ponderar la multifun-
+cionalidad nacional de los campesinos y pueblos 
+indígenas con sus sistemas agrosilvopastoriles 
+desde una perspectiva neguentrópica.
+7
+7) Que la sustentabilidad como principio ético 
+sugiere, en primera instancia, una reflexión filosó-
+fica acerca de la naturaleza del ser humano en su 
+contexto de subsistencia. La sociedad humana 
+puede relacionarse con su medio ambiente de ma-
+nera enajenada y detonar procesos irreversibles 
+de degradación ambiental, como está sucediendo 
+en los procesos de globalización del mercado. Sin 
+embargo, la sociedad humana no es de naturaleza 
+depredadora; en algunos contextos históricos, po-
+líticos, económicos y culturales la sociedad opera 
+no sólo dentro de los límites de regeneración eco-
+sistémica, sino que se integra a la dinámica bioló-
+gica como un actor estimulante. 
+8) Que la perspectiva ambiental del desarrollo 
+trasciende la vía unidimensional del crecimiento 
+económico, abriendo múltiples opciones produc-
+tivas, nuevas formas de vida social y una diversi-
+dad de proyectos culturales.
+Como antecedente directo del presente libro 
+están diversos trabajos de V. M. Toledo, en espe-
+cial el “Atlas etnoecológico de México y Centro 
+América; fundamentos, métodos y resultados” 
+(Toledo et al., 2001). En este notable ensayo se 
+usa por primera vez en nuestro medio el concepto 
+de diversidad biocultural, citando una compila-
+ción que relaciona la lengua, el conocimiento y el 
+medio ambiente (Maffi, 2001). Este extenso tra-
+bajo ha sido el intento más sistemático para eva-
+luar la biodiversidad dentro de los territorios indí-
+genas, ya que refiere varios temas importantes 
+como los centros de origen o la relación de las re-
+giones terrestres prioritarias para la conservación 
+de la biodiversidad (
+RTP
+)-(Conabio, 2000) con los 
+pueblos indígenas. Además, el “Atlas” contiene 
+una bibliografía extensa en donde se puede con-
+7
+ Este punto se analiza en los dos últimos capítulos de 
+obra de Maffi (ed.) (2001). 
+Mujer con niño, Veracruz.
+----------------Page (26) Break----------------
+27
+Introducción
+L
+os centros de origen y diversidad genética “Vavi-
+lov” se denominan así porque su creador afirma-
+ba que el agrónomo o agricultor que deseara mejorar 
+sus variedades de maíz u otros cultivos debía tener ac-
+ceso a especímenes originales provenientes de sus 
+centros de origen y de los centros de diversificación, 
+incluyendo los parientes silvestres. Vavilov estudió y 
+visitó los distintos centros de origen y los caracterizó 
+como regiones localizadas dentro de barreras natura-
+les (orográficas, de vegetación y climáticas) que con -
+centran, en espacios relativamente pequeños, una 
+gran cantidad de variedades de la misma especie o 
+especies afines, así como la presencia de agricultores 
+nativos que por centurias o milenios han cultivado 
+(sembrado, seleccionado y transformado) de modo in-
+interrumpido estas especies. Se trata de laboratorios na-
+turales y culturales que subsisten hasta la actualidad. 
+Los centros de origen tienen presencia de parien-
+tes silvestres y con frecuencia presentan un flujo ge-
+nético en las dos vías: de las plantas silvestres a las 
+domesticadas y de las domesticadas a las silvestres. 
+Existen además plantas domesticadas que se “asilves-
+traron” y que ahora aparecen como silvestres.
+El proceso de domesticación y diversificación es en 
+Mesoamérica un proceso dinámico, aun en las zonas 
+rurales donde no se presentan actualmente los pares 
+silvestres. 
+Los procesos de domesticación son de larga du-
+ración y no terminan con la obtención de los especíme-
+nes domesticados a partir de los silvestres. Más allá de 
+los territorios originales, los indígenas y campesinos 
+mesoamericanos han dispersado y adaptado en todo 
+el país el germoplasma original, combinando —en 
+caso de presencia— estos recursos con los pares silves-
+tres que aparecen en las regiones y creando nuevas 
+variedades que se adaptan a los distintos microclimas. 
+Si bien no siempre aparecen los pares silvestres en una 
+región determinada, el proceso de diversificación ininte -
+Los centros de origen y diversidad genética “Vavilov” en tiempos 
+de la globalización
+Mazorcas del fondo regional de maíz nativo en Vicente Guerrero, Tlaxcala.
+----------------Page (27) Break----------------
+28
+El patrimonio biocultural de los pueblos indígenas de México
+rrumpido sigue, de manera que todo el país (incluyen-
+do Centroamérica y partes de Norteamérica) son cen-
+tros de origen y diversidad.*
+Los centros de origen, con sus respectivas especies 
+domesticadas en los territorios de los pueblos indíge-
+nas, tienen una expresión material de redes de relacio-
+nes que construyen el conocimiento colectivo. Por ello, 
+los derechos colectivos son para los pueblos indígenas 
+una prolongación de los derechos territoriales, ya que 
+el territorio y el conocimiento conforman una unidad 
+indisoluble. La noción de territorio de los pueblos indí -
+genas debe ser entendida como garantía de continui-
+dad de los conocimientos acerca de la biodiversidad y 
+agrobiodiversidad (Toledo Llancaqueo, 2007). 
+Aun en regiones donde hoy no aparece gran ri-
+queza de variedades de las especies domesticadas, hay 
+especímenes originales con características notables de 
+importancia comercial, alimenticia e industrial (Ortega 
+P. , c o m u n i c a c i ó n p e r s o n a l ) .
+Los recursos fitogenéticos mesoamericanos son 
+parte del patrimonio cultural y conocimiento de los 
+pueblos indígenas y deben ser reconocidos como dere-
+chos de propiedad colectiva en la modalidad sui gene-
+ris. Se trata de recursos biológicos colectivos como pa-
+trimonio cultural de los pueblos indígenas.
+En México existen varios centros públicos y priva-
+dos, nacionales e internacionales de investigación agro-
+pecuaria que tienen procedimientos ex situ de con-
+servación y almacenaje de germoplasma nativo. Las 
+colectas se realizan sin entablar convenios ni contratos 
+que expresen por lo menos el compromiso de reparti-
+ción de beneficios mutuos entre los productores indíge-
+nas y campesinos, como de manera laxa lo exige el 
+Convenio sobre Diversidad Biológica (
+CDB
+) en su artí-
+culo 8 inciso j . El material fitogenético, producto de 
+decenas y hasta cientos de generaciones de selección, 
+adaptación cultural a medios en ocasiones hostiles, es 
+expropiado y de acceso abierto para otros centros de 
+investigación, públicos o privados, así como compa-
+ñías transnacionales comercializadoras de semillas. Así, 
+las compañías transnacionales producen semillas de 
+corte comercial mezclando germoplasma y mante-
+niendo en secreto el origen de su germoplasma. Acce-
+so abierto para los recursos fitogenéticos indígenas y 
+acceso restringido comercial a lo que con esos recursos 
+generaron las transnacionales. Mientras los organis -
+mos públicos de investigación no cobraban regalías ni 
+obtenían patentes con el germoplasma nativo, había 
+una especie de retribución social a la “expropiación” 
+de las semillas de origen nativo. Sin embargo, hoy en 
+día es significativo que en México la mayoría de las se-
+millas (92 por ciento) para la producción comercial del 
+maíz se realizan por cinco compañías trasnacionales. 
+Ante esta situación los recursos fitogenéticos 
+mesoamericanos deben reconocerse legalmente como 
+de “origen” y como recursos biológicos colectivos, y a 
+los pueblos indígenas y comunidades campesinas co-
+mo los custodios de los mismos. Se han ensayado op-
+ciones viables al respecto, como la denominación de 
+origen para el maíz blanco gigante en el valle Sagrado 
+Inca en Perú (Inocente, Sumar y Loaiza, 2006).
+*Blake (2005) describe los procesos de origen, evolución y 
+dispersión histórica del maíz.
+Cultivo de una milpa en los Tuxtlas.
+----------------Page (28) Break----------------
+Introducción
+29
+sultar para cada pueblo indígena distintos temas, 
+lo que el autor denomina cosmos, corpus y praxis .
+Otra fuente de inspiración es el extraordinario li-
+bro de Antony Challenger (1998)
+8
+ en colaboración 
+con J. Caballero: Utilización y conservación de los ti-
+pos de vegetación terrestres de México. Se trata del tex-
+to más completo sobre la historia ambiental y usos 
+de los grandes ecosistemas terrestres en México 
+que se haya escrito hasta ahora. Ha sido necesario 
+consultar constantemente ese texto debido a que 
+varios de los temas referidos en el presente traba-
+jo están desarrollados en la obra mencionada con 
+gran conocimiento de causa.
+Una escuela importante —en la cual se adscri-
+be este libro— es la que estableció el maestro E. 
+Hernández X. (1985, 1987, 1993) y sus seguidores 
+acerca de los agroecosistemas mesoamericanos y 
+8
+ Este texto contiene una recopilación sistemática y ex-
+haustiva de los sistemas productivos indígenas y campesinos 
+por zonas ecológicas del país.
+el papel fundamental de los campesinos y pue-
+blos indígenas para el conocimiento y desarrollo 
+de nuestro país. Desde la muerte del maestro va-
+rios temas que él planteaba han sido retomados, 
+incluso en discusiones internacionales, como los 
+derechos de los agricultores ( farmers rights ) frente 
+a las grandes compañías productoras de semillas, 
+o bien el estatus de países como el nuestro que 
+siendo centro de origen de la agricultura deben 
+obedecer a aquellos que dictan las políticas inter-
+nacionales, mucho más pobres en agrobiodiversi-
+dad y cultura indígena. Varios son los seguidores 
+de esta corriente de interpretación de la agricultu-
+ra llamada “tradicional”, plasmada en la reciente 
+obra colectiva Sin maíz no hay país (Esteva y Ma-
+rielle [eds.], 2003), y que me ha inspirado para es-
+tudiar las áreas prioritarias de la agrobiodiversidad 
+en territorios indígenas. 
+Otro autor cuyo espíritu ronda este libro es 
+Guillermo Bonfil, cuya obra paradigmática culmi -
+na en el México profundo: una civilización negada. 
+E
+n el Convenio sobre Diversidad Biológica y en la Ley General del Equilibrio 
+Ecológico y la Protección del Ambiente se define a los “recursos genéticos, 
+organismos o partes de ellos, o cualquier otro componente biótico de los ecosiste-
+mas de valor o utilidad real o potencial para el ser humano”. El adjetivo “colectivo” 
+implica que el recurso biológico es manejado por colectividades, integradas por una 
+amplia gama de actores que incluye comunidades, ejidos y pueblos (indígenas), así 
+como otras agrupaciones de individuos cuyas actividades principales se relacionan 
+con el establecimiento de acuerdos y reglas consensadas en torno a la conservación 
+y al uso de los recursos biológicos en cuestión y su coordinación, así como sobre los 
+beneficios de la apropiación y las formas colectivas de gestión. Lo “colectivo” centra 
+el trabajo del programa en el sector social rural y en la construcción de espacios de 
+identidad común en torno a la apropiación de los recursos. Así, un recurso biológico 
+colectivo (
+RBC
+) definido con base en un producto derivado de un recurso y producido en 
+un territorio, se puede constituir en un eje ordenador de acciones regionales de conser-
+vación in situ de la diversidad biológica y desarrollo comunitario (Larson y Neyra, 2004).
+Los recursos biológicos colectivos
+----------------Page (29) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+30
+Finalmente, la intención del presente trabajo 
+es profundizar en algunos aspectos que los auto-
+res mencionados ya desarrollaron. En ese sentido, 
+debe leerse como complemento de las aproxima-
+ciones ya iniciadas.
+El objetivo principal de este estudio es reva-
+lorar el papel y la importancia de los pueblos 
+indígenas en la nación mexicana, y sus posibles 
+aportes como sujetos sociales para enfrentar la 
+crisis ambiental nacional y mundial. Para ello, es 
+necesario lograr varios objetivos particulares, 
+como 1) definir los territorios de los pueblos indí-
+genas en el México actual; 2) evaluar la “produc-
+ción de agua” y la biodiversidad en los territorios 
+de los pueblos indígenas; 3) evaluar la agrobiodi-
+versidad en los territorios de los pueblos indíge-
+nas; 4) proponer, con base en el análisis de los 
+materiales, políticas para definir las áreas biocultu-
+rales prioritarias para la conservación in situ de los 
+ecosistemas con sus servicios ambientales que 
+incluyen el agua y el suelo, y 5) hacer un recuento 
+de caminos ya andados de comunidades indíge-
+nas que apuntalen la conservación y el desarrollo.
+Los movimientos de defensa de los bosques 
+en ejidos y comunidades campesinas e indígenas 
+durante los años ochenta del siglo pasado, las “Jun-
+tas de Buen Gobierno” (Caracoles) de los munici-
+pios autónomos zapatistas en Chiapas, la intensa 
+participación de los pueblos de la Sierra Juárez en 
+Oaxaca en la discusión acerca de contaminación 
+transgénica de los maíces nativos, la reapropiación 
+de los agaves silvestres para la producción de mez-
+cal por parte de los nahuas y campesinos de Gue-
+rrero, el movimiento de producción de café orgá -
+nico de sombra en esquemas de mercado justo 
+para los pequeños productores, y la generación de 
+áreas focales para la conservación y uso de la agro-
+biodiversidad mesoamericana serían algunas mues-
+tras en la historia reciente de la reapropiación del 
+manejo de los recursos naturales por parte de las 
+comunidades indígenas y campesinas en el mun-
+do globalizado. En estas nuevas condiciones, el 
+saber ambiental indígena es una sistematización 
+de conocimientos que puede plantear alternativas 
+a un mundo que respete la pluralidad y la otredad 
+más allá de los poderosos instrumentos del poder 
+y el mercado. En otro marco teórico, Ostrom (2000) 
+apuntala uno de los temas más importantes para 
+la conservación y desarrollo de la biodiversidad y 
+agrobiodiversidad en las comunidades y ejidos de 
+los pueblos indígenas: la creación de instituciones 
+de autogestión estables con reglas claras y apren-
+dizaje para la acción común respecto al uso sus-
+tentable de los recursos naturales. Y no es un tema 
+menor, ya que las áreas donde se encuentra prin-
+cipalmente la biodiversidad a nivel nacional son 
+precisamente las tierras de uso común.
+Niñas de los Tuxtlas.
+P. 31
+ Ofrenda en un cultivo de la Sierra Gorda.
+----------------Page (30) Break----------------
+
+----------------Page (31) Break----------------
+
+----------------Page (32) Break----------------
+33
+De la conservación de facto
+a la conservación in situ
+H
+ay dos formas por lo menos para conservar la diversidad biológica: una que confina la vida 
+silvestre a áreas determinadas en un mar de páramos de agricultura industrial y otra mile-
+naria que proviene de una larga tradición de intervención humana cuyos patrones de uso 
+de los recursos han propiciado, beneficiado y mante nido la diversidad biológica. Esta tesis subyace 
+en el artículo 8 inciso J del Convenio sobre Diversidad Biológica (
+CDB
+) que se refiere a los usos y co-
+nocimientos tradicionales de las comunidades indígenas y “locales”. 
+La biodiversidad y la agrobiodiversidad son dos componentes que permiten analizar los territo-
+rios de los pueblos indígenas como prioritarios para la conservación y el desarrollo. En efecto, las 
+culturas de los pueblos indígenas como “gentes de los ecosistemas” han tenido una práctica cultural 
+de largo plazo con el medio ambiente. Las técnicas usadas son de bajo riesgo, de modo que aun even-
+tos poco frecuentes o extraordinarios, como una secuencia de varios años de sequía extrema, o inun-
+daciones, no destruyen el patrimonio ecológico. Este tipo de relación positiva con la naturaleza de 
+larga duración la llamaremos conservación de facto. La conservación de facto en territorios de los pue-
+blos indígenas se refiere a sistemas resilientes, siempre y cuando las condiciones de larga duración lo 
+permitan. En momentos de exacerbación de la globalización, la resiliencia de los ecosistemas en te-
+rritorios indígenas está cuestionada.
+Una forma de reducir los riesgos climáticos (sequía, heladas o exceso de lluvias) en la producción 
+de alimentos ha sido el aprovechamiento de “pisos ecológicos” o de distintos tipos de vegetación en 
+zonas serranas de México. En zonas de topografía quebrada, las comunidades indígenas han podido 
+establecerse en territorios que combinan un amplio espectro de condiciones, de modo que en un año 
+malo para las tierras bajas es posible cosechar en las partes altas; o si la producción agrícola es pobre, 
+queda el recurso de recolectar alimentos del bosque o de las selvas, además de los proporcionados 
+por la caza. Por esta razón, la diversidad de paisajes y las estrategias de producción múltiple son los 
+recursos más importantes de estas antiguas culturas. 
+Otra forma de reducir el riesgo ambiental es apostándole a la diversidad dentro de una misma parce-
+la. De este modo, los cultivos múltiples en una área de siembra, como distintas variedades de maíz o 
+P. 32
+ Tronco de árbol.
+----------------Page (33) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+34
+la siembra mixta de cereales con leguminosas, so-
+lanáceas y cucurbitáceas permiten que si las con-
+diciones de una temporada agrícola no son muy 
+buenas para el cultivo principal, aún haya cosecha 
+de las variedades o especies más resistentes, aun-
+que de menor rendimiento. Esta estrategia no da 
+excedentes abundantes para el mercado de larga 
+distancia. Sin embargo, como cultivos especiali-
+zados, reconocidos en el mercado por su singula -
+ridad, podrían desempeñar un papel importante, 
+como lo hacen los llamados productos orgánicos. 
+Es muy común que en zonas de larga tradición 
+cultural los productores tengan pa rcelas con di -
+versas especies o variedades, a pesar de que los 
+técnicos agropecuarios convencionales insistan 
+en que con el empleo de variedades de alto ren -
+dimiento se pueden obtener mayores beneficios 
+económicos. La reducción del riesgo es un ele-
+mento muy valioso en las culturas tradicionales 
+y es común que se pague con una disminución 
+en los rendimientos. Por estas y otras razones, las 
+comunidades indígenas en las zonas de culturas 
+tradicionales, como Mesoamérica
+1
+ o los Andes, 
+han resguardado diversos paisajes, especies y va-
+1
+ Este concepto fue desarrollado por Kirchhoff en 1943, 
+a partir de consideraciones de Clark Wissler y Eduard Seler. 
+Las principales características de los pueblos mesoamerica-
+nos que Kirchhoff consideró son: 1) utilización de un bastón 
+plantador; 2) cultivo del maíz y su transformación en nixta-
+mal con el empleo de cal, y luego en masa; 3) producción de 
+papel, aguamiel y pulque a partir del maguey; 4) práctica de la 
+autoflagelación y sacrificios humanos con fines religiosos; 5)
+cultivo del cacao; 6) construcción de pirámides escalonadas 
+como basamento de los templos; 7) práctica del juego de pe-
+lota; 8) fabricación de armas con bordes pétreos; 9 ) escritura; 
+y 10) sociedad jerarquizada (Kirchhoff, 1960). Mesoamérica 
+comprende cinco zonas geográficas en México: área maya, 
+que ocupa Centroamérica y el sureste de México; zona de 
+Oaxaca, que abarca ese estado hasta el Istmo de Tehuante-
+pec y el sur de Puebla; zona del Golfo, correspondiente a 
+Ve r a c r u z y Ta b a s c o ; o c c i d e n t e d e M é x i c o , q u e i n c l u y e G u e-
+rrero, Michoacán, Jalisco, Colima, Nayarit y partes de Zaca-
+tecas y el Altiplano Central, que comprende el estado de 
+México, Hidalgo, Tlaxcala, Morelos y Querétaro, así como la 
+porción septentrional de Puebla y el Distrito Federal. Meso-
+américa se extiende hasta Centroamérica (Guatemala, Beli-
+ce, y parte de Nicaragua, Salvador, Honduras y Costa Rica). 
+riedades. Al considerar la diversidad biológica 
+como un recurso para su supervivencia y desa-
+rrollo, las comunidades mesoamericanas se han 
+convertido en “resguardadoras” principales de 
+una parte importante del patrimonio biológico 
+de la Tierra. 
+Sin embargo, en las últimas décadas, las po-
+líticas de industrialización de la agricultura y el 
+llamado desarrollo rural intentaron fomentar la 
+producción mediante técnicas de alto rendi -
+miento, estableciendo como estrategia producti-
+va central la especialización a gran escala. Esta 
+aproximación no incorpora en su diseño el riesgo 
+ambiental (deterioro de suelos, acceso al agua, 
+contaminación, pérdida de cultígenos no comer-
+ciales), social y aun económico. Respecto a la fac-
+tura ecológica que han de pagar las generaciones 
+futuras, podemos afirmar que la agricultura indus -
+trial de la revolución verde reduce la diversidad 
+genética de especies y sus variedades, y deteriora 
+la capacidad de otorgar servicios ambientales de los 
+agroecosistemas. Las zonas de poca biodiversidad, 
+como el Bajío o La Laguna, se vieron favorecidas 
+por estas políticas. Las zonas de alta biodiversidad 
+en el sur de México se vieron marginadas.
+2
+Diferenciar entre la conservación de facto , in 
+situ y ex situ es un recurso para indicar que la con-
+servación de facto se refiere a tradiciones de larga 
+duración de manejo o aproximación de la rela-
+ción naturaleza-sociedad de los pueblos indíge -
+nas. Una política in situ debe ser responsabilidad 
+explícita de la nación para la conservación y el 
+desarrollo de la biodiversidad y la agrobiodiver -
+sidad. Jarvis et al . (2000), citados en Gil (2006),
+definen la conservación in situ como “la conser-
+vación de ecosistemas, hábitat naturales y el 
+mantenimiento y recuperación de poblaciones 
+viables de las especies en sus entornos naturales, 
+2
+ Declaratoria y presentación de Servicios Ambientales 
+de Oaxaca, A.C., Oaxaca, 2002.
+----------------Page (34) Break----------------
+De la conservación de facto a la conservación in situ
+35
+y, e n e l c a s o d e l a s e s p e c i e s d o m e s t i c a d a s o c u l t i -
+vadas, en el entorno donde han desarrollado sus 
+propiedades distintivas”. Agregan que
+la conservación in situ de los recursos domestica-
+dos se enfoca a los campos de los agricultores como 
+parte de los agroecosistemas existentes, mientras 
+que otros tipos de conservación in situ se ocupan 
+de las poblaciones silvestres que crecen en sus há-
+bitat originales, que constituyen sus “reservas ge -
+néticas”. La conservación in situ tiene ventajas 
+significativas: 1) la conservación tanto del material 
+genético como de los procesos que originan la di-
+versidad; 2) la sustentabilidad de los programas de 
+fitomejoramiento depende en cierta forma de la 
+disponibilidad continua de variación genética que 
+pueda mantenerse y desarrollarse en los campos 
+de los agricultores, y 3) permite la conservación de 
+un gran número de especies en un solo sitio. 
+Se puede agregar que además se cuenta con el 
+conocimiento empírico de millones de agriculto-
+res. Esta responsabilidad adquiere una dimen-
+sión específica con los pueblos indígenas, misma 
+que trataré de dilucidar en el presente trabajo. 
+Hay varias formas de conservación ex situ ,
+3
+ co-
+mo los jardines botánicos, zoológicos y la genera-
+ción de bancos específicos de germoplasma. Este 
+tipo de conservación que se enfoca sobre todo en 
+las especies y en sus variantes es importante, pero 
+tiene limitaciones graves por su costo, por el aisla-
+miento de sus ecosistemas y por la interrupción 
+de los procesos evolutivos en sus condiciones na -
+turales. Enfoco la atención en este trabajo en la 
+búsqueda sistemática para la conservación in situ
+como política explícita que convoca la conserva-
+ción y los saberes ambientales de los que han 
+convivido directamente con los ecosistemas. 
+3
+ Casas (2001) utiliza el concepto ex situ para indicar el 
+uso de los cultígenos fuera de su ámbito natural original e 
+inmediato, de manera que aquí se describe una de las condi-
+ciones de domesticación y adaptación de las plantas cultura-
+les. En este trabajo utilizo el concepto ex situ para la conser-
+vación del germoplasma en laboratorios y en parcelas 
+especializadas. 
+Pasiflora. Ninfa, Quintana Roo.
+----------------Page (35) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+36
+A partir de la evolución del conocimiento de 
+la biodiversidad, es necesario replantear las prio-
+ridades y actividades de la bioconservación y 
+asociarlas al concepto de desarrollo sustentable.
+Para ello es necesario definir qué se entiende 
+aquí por biodiversidad, ya que según la acepción, 
+se formulan las políticas para su conservación. 
+1) Un organismo viviente contiene genes que 
+definen las características específicas de este or-
+ganismo.
+2) Las especies definidas como organismos 
+que pueden reproducirse entre sí, aun cuando 
+existen variaciones en una misma especie. Una 
+especie es producto de miles o millones de años 
+de evolución. 
+3) Los individuos de especies determinadas 
+necesitan formar comunidades para que la carac-
+terística “especie” se conserve, reproduzca o 
+evolucione. Es decir, una especie no se puede 
+definir sólo describiendo al individuo o sus ca-
+racterísticas específicas.
+4) Las especies por sí solas no pueden sobre-
+vivir, evolucionar o desarrollarse si no interaccio-
+nan en “co-evolución” con otras especies. La 
+compleja interacción abiótica y biótica, energéti-
+ca, cadenas tróficas, la ubicación, el metabolis-
+mo, recurso-desecho-recurso, forman ecosiste -
+mas, los cuales son difíciles de delimitar porque 
+interaccionan en su conjunto. Por ejemplo, hay 
+ecosistemas tropicales húmedos, secos, de bos-
+que templado, de montaña. 
+Williams-Linera (2007) describe la diversi -
+dad biológica en sus tres componentes: 1) se ma-
+nifiesta a escala local y se puede medir por la 
+riqueza de especies en un área determinada (di -
+versidad alfa); 2) se expresa en la unión de gru-
+pos o especies distintos dentro de los mismos 
+ecosistemas en una “mesoescala”, debido a la 
+heterogeneidad topográfica y ambiental que 
+cambia las condiciones microclimáticas en dis-
+tancias geográficas muy cortas; el recambio de 
+grupos o especies del mismo ecosistema puede 
+ser muy alto (diversidad beta); la complementa-
+riedad entre los fragmentos tiene importancia 
+para la conservación de los bosques y selvas, ya 
+que otros grupos de especies, flora, fauna y hon-
+gos, dependen de la estructura vegetal y podrán 
+tener también una riqueza complementaria, y 
+3) en una escala de paisaje, la diversidad incluye 
+distintos ecosistemas de vegetación natural e in -
+tervenida de bosques y selvas, e inmersas en una 
+matriz formada por espacios dedicados a usos del 
+suelo agrícola y ganadero permanente o intermi-
+tente, y que contribuyen a mantener la biodiver-
+sidad regional; por ello, es muy importante la 
+conservación de la diversidad biológica de un pai-
+saje determinado (diversidad gamma). La cuali-
+dad más importante de la biodiversidad es la de 
+impulsar las trampas de energía complejas y per-
+fectas, adaptadas a cada condición ambiental es-
+pecífica, y que los desechos generados por el me-
+tabolismo del sistema se tornan recursos accesibles 
+para el siguiente ciclo energético (dicho sea de 
+paso, el humano en la época industrial utiliza la 
+energía entrópicamente, lo que quiere decir que 
+en el metabolismo el desecho se vuelve energía 
+calórica no accesible al siguiente ciclo, como pro -
+ductos contaminantes que se acumulan en la at-
+mósfera, suelos y mares). 
+El metabolismo de los ecosistemas propor-
+ciona los siguientes servicios ambientales bási-
+cos (Millennium Ecosystem Assessment, 2005): 
+1) de soporte (como la capacidad de los ecosistemas 
+de capturar la energía solar y convertirla en tejido 
+vegetal, o productividad primaria, de la cual de-
+pendemos todos los seres vivos); 2) de regulación
+(regular la composición química de la atmósfera, 
+la temperatura global, capacidad de intervenir en 
+el ciclo del agua —evotranspiración, infiltración, 
+escurrimiento—, el control de la erosión, control 
+de vectores responsables de enfermedades, cali -
+dad del aire); 3) de provisión de bienes (agua, 
+----------------Page (36) Break----------------
+De la conservación de facto a la conservación in situ
+37
+alimentos, medicinas y fibras); 4) de conservación 
+in situ de acervos genéticos endémicos domesticados 
+(E.B.) , y 5) culturales (recreación, educación y 
+simbólicos, como lugares sagrados).
+Ante la complejidad de lo que significa la bio-
+diversidad hay varias aproximaciones y enfoques 
+posibles para la protección in situ (Johnson, 
+1995), enfoques que dependen de los objetivos 
+de la conservación:
+1) La aproximación genética. La estrategia 
+de conservación para preservar algunas caracterís-
+ticas genéticas es una opción limitada a determi-
+nadas especies. Esta aproximación podría apor-
+tar información indispensable para el éxito o no 
+de especies raras o amenazadas. También es útil 
+para identificar las prioridades en la conserva -
+ción de especies domesticadas relacionadas con 
+sus parientes silvestres; en especial, en aquellas 
+donde se sospecha que existe vulnerabilidad 
+genética. Las prioridades de conservación de la 
+diversidad biológica dentro del enfoque gené-
+tico tienen objetivos muy específicos, relativa-
+mente fáciles de definir. Se ha acusado a las trasna-
+cionales de fomentar las áreas naturales protegidas 
+(
+ANP
+) para tener acceso monopólico a un acervo 
+genético amplio, que podría utilizar la biotecnolo-
+gía. Reforzando esa idea, en México hubo inten-
+tos para que la compañía bioprospec tora Diversa 
+Corporation, con sede en San Diego, California, 
+junto con la 
+UNAM
+ revisaran de manera sistemáti-
+ca los inventarios genéticos en terrenos de pro-
+piedad federal (léase áreas naturales protegidas) 
+(Nadal, 1999). Con este convenio, en sólo diez 
+años Diversa Corporation hubiese tenido la pro-
+piedad para comercializar las secuencias de 
+ADN
+de las especies de interés de prácticamente to-
+das las 
+ANP
+. Afortunadamente, la alerta ciudada-
+na abortó ese esquema de bioprospección. Por 
+ello, se debe regular de manera decidida la apro-
+piación de los recursos biológicos genéticos por 
+Hoja elegante.
+----------------Page (37) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+38
+intereses de terceros. Por otro lado, sería reduc-
+cionista plantear que el papel de las 
+ANP
+sea úni-
+camente de reservorios genéticos estratégicos 
+para los intereses trasnacionales. Para las necesi-
+dades de conservación local y global, las 
+ANP
+ son 
+importantes para preservar —aunque de modo 
+parcial— los recursos biológicos en los países 
+megadiversos. En ese sentido las 
+ANP
+ podrían ser 
+parte de los reservorios genéticos de recursos bio-
+lógicos no privatizables recuperados como deto -
+nador de desarrollo del país. 
+La aproximación genética se ha realizado en 
+México de manera ex situ por los jardines botáni-
+cos y sobre todo en laboratorios de conservación 
+de germoplasma como el Centro Internacional 
+para el Mejoramiento del Maíz y del Trigo (
+CI
+-
+MM
+y
+T
+), el Instituto Nacional de Investigaciones 
+Forestales, Agrícolas y Pecuarias (
+INIFAP
+) y el Co-
+legio de Posgraduados de Chapingo, y en menor 
+grado en instituciones de provincia, entre otras. 
+El 
+INIFAP
+ tiene la colección de semillas más im-
+portante ex situ de México, incluyendo parte del 
+maíz, frijol, amaranto, chiles y jitomates. Esta 
+aproximación es costosa, ya que requiere de una 
+amplia infraestructura de laboratorios. Además, 
+los requerimientos de colecta son complejos y 
+por lo general los intereses científicos sobre los 
+genes separan la investigación de los actores que 
+generaron y reprodujeron por siglos ese germo -
+plasma. Así, por ejemplo, la descontextualización 
+en las colectas de maíz del 
+CIMM
+y
+T
+ del medio na-
+tural y social impide ubicar de manera estraté-
+gica la conservación de los agroecosistemas que 
+lo generó, sus procesos evolutivos y los servicios 
+ambientales intrínsecos de los ecosistemas como 
+diversidad biológica. Enfocarse en el germoplas-
+ma del maíz responde sólo parcialmente a las ne-
+cesidades de proteger y desarrollar la agrobiodi -
+versidad mesoamericana en su lugar de origen.
+2) La aproximación por especies. La unidad 
+para generar políticas para la conservación de la 
+biodiversidad ha sido la idea de número de espe-
+cies por área determinada. Con frecuencia se se-
+leccionan las prioridades de conservación in situ
+mediante criterios como las “especies bandera”, 
+las “especies en vía de extinción” o “amenazadas”, 
+por ejemplo. Esta selección puede sesgar y restrin-
+gir de manera importante las políticas de conser-
+vación, ya que se realiza sin entender la dinámica 
+ecosistémica o de comunidades. Las prioridades 
+para un grupo de especies no necesariamente son 
+importantes para otro grupo taxonómico. 
+3) La aproximación ecosistémica. Este acer-
+camiento, que podríamos llamar de “protección 
+Flores de nopal ( Opuntia sp. ).
+----------------Page (38) Break----------------
+De la conservación de facto a la conservación in situ
+39
+de las cajas negras”, poco conoce las dinámicas de 
+conservación de las áreas naturales de libre flujo 
+e intercambio genético y de sus procesos evolu-
+tivos. La estrategia de conservación in situ me-
+diante esta aproximación es sencilla. Una vez 
+que se clasifican los hábitat o ecosistemas y se 
+define su tamaño no sólo se protegen las espe-
+cies amenazadas (que posiblemente requerirían 
+un tratamiento especial como tales) sino también 
+la diversidad general de las especies. Además, se 
+protegen los procesos evolutivos y los servicios 
+ambientales que estos sistemas proporcionan. 
+Esta aproximación no requiere necesariamente 
+del conocimiento de los ciclos completos de las 
+interacciones biológicas y geofísicas que les per-
+miten sobrevivir, pero presenta dificultades para 
+definir y recortar metodológicamente los eco-
+sistemas naturales, sus límites y su protección. 
+4) La aproximación biocultural. El Convenio 
+sobre Diversidad Biológica ha adoptado el en-
+foque ecosistémico para abordar tres objetivos, 
+que deben aplicarse estrictamente en todos los 
+ámbitos geográficos: a) conservación regional de 
+la diversidad biológica; b) utilización sostenible 
+de sus componentes, y c) participación justa y 
+equitativa de la utilización de los recursos gené -
+ticos (
+UICN
+, 2000). Para ello, la Conferencia de 
+Partes sostiene que es necesario desarrollar siste-
+mas de planificación biorregional a escalas 
+adecuadas, a partir de los grupos sociales que ha-
+bitan y utilizan la diversidad biológica. Los eco-
+sistemas no son unidades biológicas aisladas; el 
+humano es un componente del ecosistema. El 
+concepto de diversidad biológica involucra 
+genes, especies, poblaciones, comunidades y 
+ecosistemas y servicios ambientales vitales. Sin 
+embargo, el estudio de cada uno de estos aspec-
+tos ha crecido con tiempos y ritmos distintos y 
+ha sido fragmentado o especializado en las disci-
+plinas de la biología. Paradójicamente, el con-
+cepto de conservación y desarrollo y sus distintas 
+aproximaciones provienen de disciplinas dife -
+rentes a las biológicas. La presencia humana en 
+todos los ecosistemas y sus partes vitales exige 
+una aproximación a ellos como sistemas comple -
+jos que dé cuenta de las relaciones de contorno 
+de cada uno de los subsistemas que lo compo-
+nen. Así, los ecosistemas adquieren una dimen-
+sión distinta ya que su devenir ha sido modifica-
+do por los sistemas de intervención humana 
+(Millennium Ecosystem Assessment, 2005).
+Hoy estamos ante un cambio paradigmático 
+de la conservación en el cual se considera que to-
+dos los componentes de un paisaje determinado 
+están integrados, de modo que las áreas natura-
+les protegidas y no protegidas forman una unidad 
+funcional. La conservación in situ , con una visión 
+integrada, toma en cuenta no sólo las prioridades 
+que exige la conservación biológica, sino que las 
+ubica en los términos culturales, políticos, socia-
+les y económicos que satisfagan las necesidades 
+humanas básicas. Esta aproximación es compleja 
+y poco explorada, ya que en la fijación de las prio-
+ridades de conservación pueden intervenir más 
+variables que las estrictamente biológicas. Sin em-
+bargo, una estrategia de este tipo podría proteger 
+mejor la megadiversidad de México, esto es, la 
+diversidad beta, sobre todo en las vastas regiones 
+montañosas en donde viven los pueblos indíge-
+nas y las comunidades campesinas en general. 
+Como en todas las otras aproximaciones, lo 
+importante es trabajar en las escalas apropiadas. 
+En esta última manera de concebir la conserva-
+ción podemos ubicar el tema que nos ocupa en 
+este libro: la conservación in situ de la diversidad 
+biológica y agrobiológica en territorios de los 
+pueblos indígenas de México. En sentido estric-
+to, el concepto adecuado para este libro sería in 
+etno situ (Challenger, 1998). 
+En el siglo pasado, los taxónomos de la Es-
+cuela Mexicana de Biólogos avanzaron a grandes 
+pasos en el recuento de la diversidad biológica 
+----------------Page (39) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+40
+en México (Toledo y Ordóñez, 1993). La docu-
+mentación de su extraordinaria riqueza permitió 
+que los especialistas clasificaran al país entre las 
+diez naciones megadiversas a nivel mundial (To-
+ledo et al ., 2001). No obstante, esta noción ha 
+tenido pocas repercusiones en el ámbito social y 
+político, salvo si tomamos en cuenta las áreas na-
+turales protegidas. México tiene, por un lado, la 
+enorme responsabilidad de preservar esta rique-
+za y, por el otro, el desafío de incorporar esta 
+megabiodiversidad como uno de los pivotes de 
+su desarrollo. Amplios territorios de los pueblos 
+indígenas son portadores de esta megabiodiver-
+sidad. En este sentido, en combinación con los 
+conocimientos antropológicos, varios biólogos y 
+agrónomos han desarrollado una disciplina im-
+portante: la etnoecología, cuyos exponentes más 
+destacados para México, entre muchos otros se-
+rían B. Berlin, Víctor Manuel Toledo, Robert 
+Bye, Alejandro Casas, Javier Caballero, Bruce F. 
+Benz, Cristina Mapes, Rafael Lira, Miguel Mar-
+tínez Alfaro, Janis Alcorn, Patricia Colunga, 
+Daniel Zizumbo, Efraín Hernández X., Rafael 
+Ortega P., Mauricio Bellón, Abel Muñoz, Alejan-
+dro de Ávila, Arturo Gómez Pompa, etcétera. 
+Así concebida, la conservación in situ es parte 
+del cambio frente al paradigma científico-comer-
+cial dominante. En este sentido, las políticas 
+públicas deben admitir el conocimiento de los 
+productores y productoras campesinos e indíge -
+nas en su calidad de actores activos dentro de los 
+procesos productivos, e incluso como socios en 
+la construcción de un sistema alimentario nacio-
+nal sustentable, soberano y autosuficiente. 
+La conservación in situ que de manera explíci-
+ta se ha dado en la nación mexicana es el Sistema 
+Nacional de Áreas Protegidas de México (Sinanp) 
+y a nivel estatal y municipal se establecen otras 
+categorías de protección. Este sistema nacional de 
+áreas protegidas federales (Conanp, 2005) com -
+prende las áreas terrestres y marinas, mismas que 
+se incluyen en las siguientes categorías de protec -
+ción: Parques Marinos Nacionales, Reservas de la 
+Biosfera, Zonas de Refugio Submarino, Áreas de 
+Protección de la Flora y Fauna, Área de Protec -
+ción de los Recursos Naturales, Santuarios, Zonas 
+de Protección Forestal, Parque Nacional, Área de 
+Protección de Flora y Fauna Silvestres y Acuáti -
+ca. Estas distintas categorías de protección tie-
+nen procedimientos administrativos diferencia-
+les (en caso que existan). 
+En el capítulo referente al análisis de la rique-
+za de la biodiversidad en territorio indígena se 
+puede apreciar que de las 18 727 860 hectáreas 
+que tienen las 
+ANP
+ federales en el territorio nacio-
+nal, 1 467 034 de hectáreas son parte de los terri-
+torios de los pueblos indígenas. Es decir, en este 
+momento no existe un procedimiento específico 
+que eleve a alguna categoría de protección a mi-
+llones de hectáreas en que se encuentran los pue-
+blos indígenas. Las 
+ANP
+ tienen un conjunto de 
+variantes que no siempre logran la conservación 
+ni la integración de las poblaciones locales en la 
+administra ción de las mismas. A veces, los polígo -
+nos de estas áreas han quedado en el papel o no 
+hay recursos para ejercer la protección. 
+En las 
+ANP
+ no se protege territorialmente la 
+agrobiodiversidad ni los agroecosistemas creados 
+por los pueblos indígenas y campesinos. La ex-
+cepción es la Reserva de la Biosfera de Manan-
+tlán, única área natural que se creó para proteger 
+el teocintle.
+A partir de estos trabajos, el debate respecto 
+a la conservación de los recursos fitogenéticos in 
+situ-ex situ ha estado presente en el ámbito acadé-
+mico (Ortega et al., 2003a). Sin embargo, a pesar 
+de que constantemente se ha expresado la nece-
+sidad de impulsar la conservación de la agrobio-
+diversidad in situ , defendiendo la postura de Her-
+nández X., poco se ha hecho en la práctica. 
+Escribía el maestro Hernández X. (en Ortega 
+et al ., 2003a) que la conservación ex situ es impor-
+----------------Page (40) Break----------------
+De la conservación de facto a la conservación in situ
+41
+Agave.
+tante porque se tienen colecciones de plasma 
+germinal de todo el mundo fuera de sus áreas de 
+origen; además, teóricamente se incluyen los me-
+jores materiales utilizados en el fitomejoramien-
+to, creando así una gama de materiales conserva-
+dos y manejados en centros mundiales de origen. 
+Otra de las ventajas de la conservación ex situ es 
+que resguardan especímenes de germoplasma 
+extintos o en vía de extinción. La gran desventa-
+ja para los fitomejoradores indígenas y campesi-
+nos es que de estos bancos de libre acceso se 
+extrae plasma germinal que ellos produjeron, y 
+en combinación con recursos fitogenéticos de 
+otras partes generan especímenes, iniciándose en 
+consecuencia la enajenación, monopolización, 
+restricción y discriminación al acceso del germo-
+plasma nativo. Por ejemplo, las empresas trasna-
+cionales productoras de semillas han tenido el 
+libre acceso a las semillas que se encuentran en 
+los bancos de germoplasma del 
+CIMM
+y
+T
+, generan 
+híbridos y especímenes mejorados, y mantienen 
+en secreto el origen de las mismas. Éste es un 
+tema importante que implica la pérdida de la so -
+beranía nacional sobre el sistema alimentario, 
+por un lado, y la monopolización de los sistemas 
+alimentarios, por otro.
+Una desventaja más de la conservación ex situ
+es el alto costo del mantenimiento y de la repro-
+ducción del germoplasma, por lo que los países 
+ricos en biodiversidad, pero con insuficientes re-
+cursos económicos, no pueden sostener adecua-
+damente estos centros. Un último inconveniente 
+es que los bancos de germoplasma aíslan a los espe-
+címenes recolectados de sus procesos evolutivos.
+Por ello, es imperativo conservar in situ los re-
+cursos fitogenéticos originales, con los siguientes 
+objetivos: 1) mantener los sitios naturales, donde 
+se utilicen y manipulen los materiales genéticos 
+básicos para el consumo alimentario; 2) mante-
+ner y desarrollar los materiales genéticos mediante 
+sistemas agrícolas que permitan la continuidad 
+del proceso evolutivo y de consumo cultural, y 
+3) promover en la comunidad mundial el libre 
+acceso a estos materiales (Hernández X., y M. 
+Zarate 1991), siempre y cuando se reconozca su 
+origen y se evite que alguien los patente y lucre 
+por encima de los productores originales. 
+Hace algunos años se pensaba que la conser-
+vación in situ significaba construir vallas y man-
+tener a los agricultores y al germoplasma en algo 
+parecido a una caja de cristal. Sin embargo, los 
+agroecosistemas más tradicionales son dinámi-
+cos y es necesario promover intercambios gené-
+ticos para resolver la acumulación de mutaciones 
+----------------Page (41) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+42
+perjudiciales. Para que esto suceda es preciso: 1) el 
+intercambio regional del material genético; 2) es-
+tudios sistemáticos de fitomejoramiento con 
+centros de investigación interesados, y 3) capacita-
+ción técnica local para la creación de fitomejora-
+dores del germoplasma indígena.
+La conservación in situ como objetivo de la 
+política pública debe reconocer a los campesinos 
+y pueblos indígenas en sus ecosistemas como los 
+resguardadores de reservorios de germoplasma, 
+el cual es estratégico para el sistema alimentario 
+nacional y mundial. Tal estrategia debe impul-
+sarse desde la visión que propone Leff (1998: 
+67) de un mundo pluricultural y multipolar que 
+promueve la emancipación de los pueblos indí-
+genas y comunidades campesinas.
+¿Qué ventajas tendría la conservación in situ
+en los territorios de los pueblos indígenas y co-
+munidades locales? La variabilidad en los recur -
+sos fitogenéticos indígenas es resultado de su 
+cultivo en distintos pisos ecológicos y micro hábi-
+tat. A diferencia de la agricultura industrial a 
+gran escala, que produce sus monocultivos en 
+grandes extensiones y terrenos planos preferen-
+temente con riego, la mayoría de los productores 
+de milpa cultivan sus terrenos en unidades de 
+menos de cinco hectáreas, en la montaña y con 
+un sistema de temporal sujeto a las vicisitudes del 
+clima y de las plagas. Para asegurar la cosecha, la 
+agricultura mesoamericana no desarrolló grandes 
+sistemas de riego ni monocultivos. Su principal 
+estrategia productiva fue “botánica” (Rojas, 
+1988; Terán y Rasmussen, 1994), en el sentido 
+de desarrollar las variedades de una misma plan -
+ta para enfrentar cualquier contratiempo, y a su 
+vez asociarlas con otras especies. Los grandes es-
+tudiosos de la evolución de las sociedades meso-
+americanas hicieron más hincapié en las grandes 
+construcciones o infraestructura de los sistemas 
+agrícolas; sin embargo, como lo demuestran los 
+estudios de Hernández X. (1987) y Rojas (1988), 
+uno de los pilares centrales de las fuerzas produc-
+tivas de las culturas mesoamericanas e indígenas 
+desde la Colonia hasta ahora ha sido el manejo, 
+domesticación y diversificación de la agrobiodi-
+versidad. El concepto de progreso y moderni-
+dad, la visión de la “revolución verde” del desa-
+rrollo agrícola e industrial, así como el dominio 
+de las trasnacionales en el establecimiento de la 
+agricultura industrializada, se reflejó en la investi-
+gación agronómica dominante, y aún es parte del 
+desprecio de las políticas públicas tanto de una 
+parte de los centros de investigación como de los 
+responsables de la política agrícola del país. 
+Se ha dejado de lado el manejo de la agrodiversi-
+dad, que implica el conocimiento del medio y un 
+trabajo de domesticación y manejo de los recursos 
+genéticos de plantas bajo una organización social 
+que dispone de hombres y mujeres empeñados 
+en esta tarea, movidos por un sistema cultural que 
+les permite una visión, una identidad y un sentido 
+de la vida. La agrodiversidad implica que se ha 
+domesticado una parte de la diversidad biológica, 
+por lo que requiere ser analizada con una catego-
+ría particular, sobre todo porque es un elemento 
+vital del desarrollo, pero que su falta de reconoci-
+miento ha impedido su conservación, protección, 
+aliento e incluso su incorporación a la economía 
+de mercado (Blanco, 2006).
+Estamos ahora en condiciones de definir la agro-
+biodiversidad mesoamericana, como la diversi -
+dad biológica que los indígenas domesticaron y 
+diversificaron para asegurar la satisfacción de sus 
+necesidades básicas, generando una gama de 
+agroecosistemas que van desde la intervención 
+en la vegetación natural, la parcela o la milpa, has-
+ta el huerto familiar. El diseño de los espacios de 
+cultivo intenta asegurar los mejores resultados y 
+el ensamble entre las plantas cultivadas, y las ar-
+venses, e intenta desarrollar interacciones positi-
+----------------Page (42) Break----------------
+De la conservación de facto a la conservación in situ
+43
+vas entre las mismas. Se construyen así agroeco-
+sistemas en donde un tipo de cultivo protege al 
+otro, que genera nichos de humedad, que sostie-
+ne a las enredaderas, que repele a las plagas, y 
+que mejora y restituye los nutrientes del suelo 
+(que es una de las funciones de algunas legumi-
+nosas), etcétera. Es decir, la sustentabilidad de 
+los agroecosistemas depende del ensamble en -
+tre los distintos elementos de los policultivos, 
+que en el caso de Mesoamérica depende de muy 
+pocos insumos exteriores. 
+Para resumir lo anterior, en los territorios de 
+los pueblos indígenas siguen los procesos de do-
+mesticación y diversificación, por lo que podría-
+mos llamarlos laboratorios fitogenéticos de larga 
+duración en constante transformación. Según la 
+FAO
+ los recursos fitogenéticos se definen como las 
+plantas cultivadas, cultivares en desuso, varieda-
+des locales, los pares silvestres, las arvenses próxi-
+mas a las variedades cultivadas, y estirpes especia-
+les que resultan de la selección de ese material 
+genético.
+4
+ Esta definición debe aplicarse a la agro-
+biodiversidad nativa o indígena de México. 
+Especial atención para la conservación in situ 
+merecen los centros de origen (Toledo et al .,
+2001) primarios y de diversificación, tanto de la 
+diversidad biológica como de la diversidad de las 
+plantas cultivadas. Estos centros de domestica-
+ción son áreas geográficas donde las especies 
+fueron adaptadas y que en la actualidad presen-
+tan una alta variabilidad genética, en la cual se 
+incluyen los parientes semidomesticados o silves-
+tres. En esos centros se incrementa la diversidad 
+genética disponible para los agricultores me-
+diante la hibridación o la introgresión (Mapes, 
+1991). Las fronteras entre lo específicamente 
+natural y las plantas culturales mesoamericanas 
+no son claras. Las especies silvestres, ruderales y 
+4
+ Véase el Tratado Internacional sobre los Recursos Fito-
+genéticos para la Alimentación y la Agricultura, 
+FAO
+, 2001.
+semidomesticadas acompañan a las domestica-
+das en un constante intercambio del flujo gené-
+tico en el interior de los sistemas regionales, for-
+mando paisajes y ecosistemas funcionales de 
+larga duración.
+Esta cuestión no es un tema menor, ya que 
+para la conservación in situ se requieren áreas na-
+turales y zonas de cultivo juntas, además de algu-
+nos microhábitat donde el agricultor pueda de-
+sarrollar su destreza. Estos espacios son campos 
+de producción y experimentación a la vez. Las 
+regiones montañosas o selváticas en que habita 
+la mayoría de los pueblos indígenas reúnen estas 
+condiciones complejas. La producción maya, por 
+ejemplo, toma en cuenta el área de la milpa re-
+cién desmontada, visualiza desde el principio 
+qué árboles va a dejar, genera rodales manipula-
+dos, toma en cuenta porciones de selva en distin-
+to estado sucesional donde se tiene una agricul-
+tura se misilvestre con tubérculos, árboles frutales 
+—como el chicozapote ( Manilkara zapota) , las 
+guayas ( Meliococcus bijugatus )—; el huerto fami-
+liar con frecuencia contiene frutales que provie-
+nen de especies arbóreas y arbustivas de la selva, 
+animales silvestres domesticados, como patos 
+pijije ( Dendrocygna autumnales ), guajolotes silves-
+tres ( Agrio charis ocellata ) o algún tepescuintle o 
+pecarí. Es ev idente que estos sistemas agrosil-
+vopastoriles son marginales respecto a la agricul-
+tura industrializada, pero que, sin embargo, ma-
+nejan, manipulan y elaboran un conocimiento 
+concreto como “gente de los ecosistemas”. Este 
+conocimiento concreto es “la selva culta” a la que 
+se refiere Descola (1996) para los pueblos achuar 
+de Ecuador.
+La lógica y el paradigma de la agricultura in-
+dustrializada es otra. Los agricultores dependen 
+de semillas, insumos y energía, es decir, del uso 
+intensivo de la energía fósil y sus consecuencias 
+negativas para el medio ambiente. Las semillas 
+son más genéricas y están diseñadas por los mo-
+----------------Page (43) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+44
+nopolios agroindustriales para obtener una pro-
+ducción a gran escala con características homo-
+géneas, que se desarrollan en áreas favorables 
+para la agricultura, como suelos profundos, pla-
+nos, sistemas de riego y mecanizables. En Méxi-
+co, estas condiciones se presentan sólo en un ter-
+cio de las tierras arables. El desarrollo industrial 
+y los procesos masivos de urbanización requirie-
+ron del aumento sustancial de la productividad 
+de la agricultura de escala. Así, la revolución ver-
+de aumentó drásticamente la productividad del 
+campo, de manera que la agricultura creció más 
+rápido que la población. Sin embargo, el sistema 
+intensivo en energía e insumos, desplazando bos-
+ques y selva primarios, se orientó a producir pro-
+teína animal y no a cubrir las necesidades básicas 
+de la población. Miles de campesinos quedaron 
+excluidos de los sistemas de producción que im-
+pulsó la revolución verde o la ganadería extensi-
+va. Por otro lado, las condiciones naturales y los 
+subsidios norteamericanos a su agricultura hacen 
+que el maíz, sorgo y arroz mexicano sean menos 
+competitivos, lo que conlleva a la quiebra de los 
+productores que participan en el mercado.
+En este marco, al imponerse las semillas de 
+alta productividad de tipo industrial y monopóli -
+co sobre la variabilidad de los cultivos mesoame-
+ricanos, se genera lo que podríamos denominar la 
+erosión genética de los principales cultígenos del 
+sistema alimentario mundial y nacional. Los pro-
+ductores y consumidores del campo pierden co-
+nocimientos importantes de la cultura agrícola 
+tradicional.
+La concepción industrializada y productivista 
+influyó en la investigación para el fitomejora-
+miento en México. Hasta la década de 1970 los 
+Detalle de una cerca, Jiquipilco El Viejo, Estado de México.
+----------------Page (44) Break----------------
+De la conservación de facto a la conservación in situ
+45
+cuatro grandes programas de fitomejoramiento 
+del Instituto Nacional de Investigaciones Agríco-
+las se basaban en selecciones o líneas de no más 
+de cinco maíces nativos. En la mayoría de los pro-
+gramas se intentó utilizar germoplasma y mu -
+tantes introducidos del extranjero. El éxito fue 
+limitado debido a la fuerte incidencia de enfer-
+medades causadas por la introducción de mate-
+riales exóticos (Ortega et al ., 1991: 177 ) .
+Ortega concluye que ha sido muy limitado el 
+uso de materiales nativos para el fitomejoramien-
+to. Esto se explica por 1) la resistencia y dificul-
+tades generalizadas entre los fitomejoradores 
+para incorporar nuevo germoplasma a sus pro-
+gramas; 2) las nuevas series de colectas con rendi-
+mientos sobresalientes estuvieron individual-
+mente en desventaja en cuanto a la altura de la 
+planta y el acame, en comparación con el germo-
+plasma convencional y con las poblaciones que 
+ya se tenían formadas, y 3) el predominio del 
+material colectado por la Fundación Rockefeller 
+(principal financiador del 
+CIMM
+y
+T
+ durante mu-
+cho tiempo) no tuvo el enfoque de favorecer las 
+variedades y razas indígenas para su uso en Mé-
+xico (Ortega et al ., 1991: 180). Se puede agregar 
+que las políticas dictadas por Conasupo respecto 
+de la compra de maíz a los productores discrimi-
+nó de manera sistemática las variedades indíge-
+nas, especialmente las variedades de color.
+A pesar de las anteriores afirmaciones, todavía 
+existen reductos importantes para la conservación 
+in situ. (Aragón et al ., 2006). Por ello, es necesario 
+abandonar la idea de que el mejoramiento recae 
+sólo en los centros de investigación públicos o en 
+las grandes compañías semilleras trasnacionales. 
+Más bien, es deseable incorporar la fuerza cam-
+pesina indígena para conservar, introducir, re-
+combinar y mejorar el germoplasma indígena. 
+El objetivo campesino e indígena de produ-
+cir semillas y desarrollar su fitomejoramiento no 
+es exclusivamente la productividad para un ingre-
+so mercantil. Se trata de satisfacer necesidades cul-
+turales, culinarias, estéticas y rituales, entre otras.
+Un tema que en México no ha sido discutido 
+explícitamente es el aprovechamiento a ultranza 
+que hacen las grandes compañías productoras y 
+comercializadoras de semillas de los conocimien-
+tos de los campesinos y de los pueblos indíge-
+nas, ya que patentan sus semillas y monopolizan 
+su distribución.
+5
+El estímulo a la conservación in situ no signi-
+fica interrumpir ni aislar de los procesos evoluti-
+vos al germoplasma original, ni rechazar la intro-
+ducción de innovaciones por parte de los mismos 
+campesinos o fitomejoradores de las institucio-
+nes. Se trata de evitar la expropiación y destruc-
+ción de sus conocimientos y prácticas y de gene-
+rar escuelas campesinas de fitomejoradores de 
+semillas, de mejoramiento de sus agroecosiste-
+mas, que puedan garantizar los procesos evoluti-
+vos por regiones del germoplasma indígena. En 
+México, los múltiples centros de investigación y 
+enseñanza agrícola deberían considerar este as-
+pecto como parte constitutiva de sus planes de 
+extensión, investigación y enseñanza (Ortega, 
+comunicación personal).
+En conclusión, podemos afirmar que la di-
+mensión de la conservación in situ rebasa el para-
+digma agronómico, conservacionista y académico, 
+y destaca el papel activo —y el carácter de sujeto 
+y no objeto social— de los campesinos y los pue-
+blos indígenas, ya que ellos integran la conser-
+vación de la biodiversidad y el uso de la agrobiodi-
+versidad. El objetivo de las políticas sociales para 
+la conservación in etno situ debería ser mantener a 
+largo plazo el funcionamiento complejo de los eco-
+sistemas y sus servicios ambientales para el bien-
+estar de los productores y la sociedad en su con-
+5
+ Esta discusión se dio con inusitada vehemencia en la 
+India, país megadiverso, tanto en diversidad biológica como 
+en la agrobiodiversidad. Véase Swaminathan (1996). 
+----------------Page (45) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+junto, lo que incluye el desarrollo de la cultura de 
+los pueblos indígenas en una nueva dimensión. 
+En el caso de la conservación del germoplas-
+ma indígena y campesino de facto, in situ y ex situ ,
+podemos adelantar con Ortega (2000) las siguien-
+tes conclusiones:
+1) Con la conservación de facto se han mante-
+nido vivos los ecosistemas y paisajes durante lar-
+gos periodos. Los pueblos indígenas con su cul-
+tura mesoamericana han “coevolucionado” con 
+la flora y fauna, participando en esa proeza cultu-
+ral de domesticar o semidomesticar un abanico 
+de especies que conforma 15.4 por ciento del sis-
+tema alimentario mundial. La reforma agraria 
+permitió, en parte, la reorganización de los territo-
+rios, y se crearon nuevos modelos comunitarios 
+de silvicultura después de varios movimientos so-
+ciales. Sin embargo, la revolución verde, el aban-
+dono del campo por el Estado, la expropiación o 
+negación del germoplasma domesticado por pro-
+gramas oficiales de la Secretaría de Agricultura, 
+los subsidios norteamericanos a su agricultura de 
+exportación y las nuevas oleadas de emigración 
+ponen en riesgo este tipo de conservación.
+2) Con la conservación in situ como política de 
+una nueva aproximación hacia el campo mexi-
+cano se evita que se pierdan valores sociales, cul-
+turales y ecológicos centrales: a) no se detienen 
+los procesos evolutivos, de domesticación, de di-
+versificación, ni la adaptación de las especies a las 
+nuevas condiciones ambientales; en especial en 
+el contexto del cambio climático global; b) las po-
+blaciones silvestres proporcionan materiales que 
+evolucionan de acuerdo con los cambios en el cli-
+ma, enemigos naturales, contaminación, etcétera; 
+el principio básico de reserva genética es conser-
+var la suficiente diversidad que permita a las es-
+pecies llevar a cabo su potencial evolutivo com-
+pleto. La conservación de un lugar en donde 
+crece una especie no necesariamente implica que 
+se conserva su variación genética; es necesario 
+disponer de estrategias diseñadas de acuerdo con 
+las necesidades de cada especie o pariente silves -
+tre; c) se evita la erosión genética (por manipula-
+ción de las colecciones) del acervo genético nacio-
+nal, y d) se evita el flujo unilateral de los recursos 
+genéticos desde los productores campesinos e in -
+dígenas hacia los bancos de germoplasma nacio -
+nales e internacionales, las instituciones acadé -
+micas y las empresas trasnacionales. 
+3) La conservación ex situ , más interesada en 
+los genes y, a veces, en el fitomejoramiento de 
+las variedades, no ha redundado en una experien-
+cia de intercambio fructífero entre los producto-
+res campesinos indígenas y los centros de inves-
+tigación públicos. 
+P. 47
+ Cerca viva en Ocotillo, San Luis Potosí.
+----------------Page (46) Break----------------
+
+----------------Page (47) Break----------------
+
+----------------Page (48) Break----------------
+49
+Regiones, territorio, lenguas 
+y cultura de los pueblos indígenas
+Lengua, cultura y biodiversidad
+1
+E
+n este capítulo presentaré el marco teórico y metodológico para definir los territorios de los 
+pueblos indígenas contemporáneos.
+En un estudio reciente (Harmon, 2001) se señala la correlación global entre la diversidad de 
+lenguas “endémicas” y la megadiversidad biológica. Así, de los 25 países con mayor número de len-
+guas indígenas, 10 son megadiversos. Estas correlaciones se deben, entre otras, a la variedad de suelos, 
+ecosistemas, climas, barreras geográficas y de economías de subsistencia y de intercambio local y regio-
+nal. Por ejemplo, la accidentada geografía podría explicar la diversificación lingüística en las sierras 
+mexicanas. El mismo estudio propone la posibilidad de que fenómenos ecológicos de pequeña escala 
+se deban a esta correlación de la diversidad biológica-lingüística, en donde las poblaciones adaptan sus 
+culturas a las características ambientales y transforman el ambiente a partir de sus conocimientos. 
+También se habla de “coevolución”, de pequeños grupos sociales con los ecosistemas locales. Este 
+concepto es de suma importancia, ya que los grupos indígenas desde sus orígenes intervienen, que-
+man, seleccionan y generan diversidad regional al provocar constantemente estados sucesionales dife-
+rentes. Por otro lado, al crear agroecosistemas con cultivos múltiples se desarrollan elementos comple-
+jos de coevolución entre las especies cultivadas, como simbiosis entre leguminosas, bacterias fijadoras 
+de nitrógeno y gramíneas como el maíz. 
+En las últimas décadas, estudiosos de múltiples disciplinas han insistido en la asociación de la pér-
+dida de especies biológicas, de la funcionalidad de los ecosistemas, y la reducción de su capacidad para 
+generar servicios ambientales básicos, con el deterioro de las culturas y los grupos lingüísticos. En efec-
+to, en este trabajo nos referimos a los pueblos indígenas asentados en los territorios de la más alta diver-
+sidad biológica del mundo. 
+1
+ Esta sección está inspirada por las discusiones realizadas en la última década que relacionan lengua, conocimiento y 
+medio ambiente. Véase Maffi (2001).
+P. 48
+ Mujer huichola de Jalisco.
+----------------Page (49) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+50
+Si bien varios autores se han referido a la pérdi-
+da de la diversidad biológica (Wilson, 1989: 108-
+116), es menos conocida la relación entre la pérdi-
+da de las especies y el deterioro de las lenguas y 
+las culturas del mundo. Se estima que existen ac -
+tualmente más de 6 000 lenguas en el planeta. 
+Sin embargo, varias pertenecen a comunidades 
+relativamente pequeñas, y por ello están en ries-
+go de perderse. El caso de México es muy impor-
+tante en esta discusión, ya que todas las lenguas 
+de los pueblos indígenas son “endémicas” y se 
+localizan en regiones geográficas determinadas, 
+por lo que representan una filosofía de territorios, 
+ecosistemas y prácticas determinadas (Boege, 
+1998). Son lenguas ágrafas (aunque históricamen-
+te algunas tuvieron escritura) que no tienen más 
+documentación que la práctica cultural, y cuya 
+pérdida es equiparable con la que sufren las espe-
+cies o los ecosistemas. Si se pierde una especie o 
+un paisaje, la humanidad habrá perdido conoci-
+miento de los pueblos en cuestión. Al perder un 
+idioma desaparece el conocimiento cultural de 
+las relaciones humanas, los saberes ambientales, 
+las formas de vida y las concepciones del mundo 
+de sus hablantes. Mühlhäusler (1996) estableció 
+la noción de “ecologías lingüísticas”, que define 
+como relaciones de redes que no sólo se refieren 
+al ámbito lingüístico y social, sino a la interrela-
+Mujer indígena otomí cargando leña, Jiquipilco El Viejo, Estado de México.
+----------------Page (50) Break----------------
+Regiones, territorio, lenguas y cultura de los pueblos indígenas
+51
+ción entre la concepción del mundo y el medio 
+ambiente.
+2
+ Las lenguas son el principal instru-
+mento cultural utilizado para desarrollar, mante-
+ner y transmitir el conocimiento generado en la 
+praxis cotidiana y, en el ámbito ecológico, para 
+usar y transformar los ecosistemas
+Sin embargo, la crisis por la pérdida de las len-
+guas es mucho mayor que la generada por la pér-
+dida de la misma biodiversidad. Se estima que a 
+nivel global 90 por ciento de las 6 000 lenguas na-
+tivas desaparecerán en los siguientes 100 años 
+(Oviedo, Maffi y Larsen, 2000: 13). Por tanto, es 
+crucial preguntar acerca de la crisis de extinción 
+tanto de la naturaleza como de la cultura y la dis-
+rupción del complejo entramado de las relaciones 
+ecológicas con contenido tanto natural como cul-
+tural ( idem ). Como consecuencia de esta crisis, las 
+adaptaciones locales a los ecosistemas se pierden 
+debido a las modalidades de consumo de mercan-
+cías producidas en otras latitudes en economías 
+de escala. En este contexto, Chapin (1992) afirma 
+que la adaptación y resistencia de las culturas lo-
+cales y de los pueblos indígenas a estas situacio-
+nes cambiantes se da cuando éstas logran mante-
+ner su autonomía y retener el control de los 
+procesos de cambio. 
+Desde el punto de vista histórico, la transfor-
+mación ecológica y sociocultural, así como la de 
+los territorios indígenas, ha sido desigual, de ma-
+nera que no se trata de culturas estáticas y con re-
+sultados homogéneos. La migración, colonización 
+y la pérdida de las lenguas han sido procesos diná-
+micos desde antes de la Colonia. No todos los 
+pueblos indígenas tienen la misma presencia en 
+un territorio determinado. En este continuo mo-
+vimiento de subordinación y búsqueda de la auto-
+nomía, la reforma agraria desde los años treinta del 
+siglo pasado, reforzó y dio un sello a los territorios 
+2
+ Al respecto, Toledo et al. (2001) desarrollan una biblio-
+grafía muy completa .
+de los pueblos indígenas, pero sin reconocerlos. 
+Asimismo, se observa una lenta pero segura re-
+apropiación de los recursos naturales, en especial 
+de los forestales, por parte de varias comunidades 
+campesinas e indígenas. Se trata de un proceso 
+continuo de lucha por la autonomía y el control 
+colectivo de los recursos y de los poderes locales. 
+En la situación actual, de cambio sociocultural 
+y económico generado por la nueva globalización, 
+se reorganizan los paradigmas para analizar y defi-
+nir políticas específicas para las bioculturas mino-
+ritarias. Los conocimientos locales no se pudieron 
+ni se pueden expresar o traducir fácilmente a las 
+lenguas dominantes; éstas no son un vehículo 
+equivalente para expresar significados lingüísti-
+cos, culturales y ecológicos de los grupos sociales 
+subalternos. En el proceso de globalización y uni-
+versalización de la mercancía, presenciamos una 
+ruptura en las interacciones de larga duración en-
+tre la sociedad indígena y la naturaleza. En múlti-
+ples casos observamos la desaparición de la diver-
+sidad cultural a favor de sociedades alineadas a la 
+monocultura global, cuya base es la economía de 
+mercado a gran escala sostenida por la sobreex-
+plotación y expoliación “cortoplacista” de los re-
+cursos naturales. Posey y Dutfield (1996), llaman 
+la atención acerca de este fenómeno que afecta 
+tanto a las sociedades industrializadas como a las 
+indígenas, por la interdependencia y la crisis a es -
+cala global que genera. Como consecuencia de 
+esta situación se impone el fortalecimiento de los 
+derechos de autonomía y del manejo de los recur-
+sos naturales por parte de los pueblos indígenas 
+como estrategia global para la conservación y el 
+desarrollo de la biodiversidad. La ecología como 
+ciencia nos enseña que la diversidad es un prerre-
+quisito para la supervivencia biológica del plane-
+ta. Modelos culturales que se basan en monocul-
+turas y monocultivos representan riesgos muy 
+altos frente a cualquier contingencia (Oviedo, 
+Maffi y Larsen, 2000: 15).
+51
+----------------Page (51) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+52
+Sin embargo, estas relaciones de larga dura-
+ción entre la sociedad indígena y la naturaleza 
+están en la base de la identidad sociocultural de 
+los territorios originales. Por lo anterior, uno de los 
+componentes para definir el territorio es esta rela-
+ción con la naturaleza, el conocimiento estableci-
+do y readaptado mediante la praxis cotidiana y el 
+patrimonio biocultural asociado al manejo de la 
+biodiversidad y la agrobiodiversidad.
+Regiones y territorios 
+de los pueblos indígenas
+3
+En el siguiente ensayo voy a aproximarme a un 
+concepto de territorio contrastándolo con el de 
+región indígena, usado oficialmente, y que sea 
+útil a los pueblos indígenas contemporáneos para 
+impulsar políticas propias de autonomía y auto-
+determinación, el reconocimiento de recursos 
+naturales y biológicos colectivos, de propiedad 
+intelectual y que, además, pueda servir para reali-
+zar un inventario biocultural que incluya los re-
+cursos hídricos. La definición de los territorios 
+será la clave para la evaluación espacial del patri-
+monio biocultural de los pueblos indígenas. Al 
+preguntar por los territorios de los pueblos indí -
+genas nos encontramos con los problemas de una 
+reforma constitucional incompleta, declarativa y 
+poco práctica. Y es que los componentes espacia-
+les, políticos y administrativos de los territorios 
+son agendas pendientes, que tendrán que ser 
+abordadas a la brevedad posible. Por lo anterior, 
+lo que propongo en las siguientes páginas como 
+territorios actuales es una aproximación usando 
+los datos más actualizados y los defino como es-
+pacios geográficos ocupados por los pueblos indí-
+3
+ El concepto de pueblo indígena se usa aquí tal como lo 
+definió la Constitución Política de los Estados Unidos Mexi-
+canos en su artículo 2
+o
+, inciso 1.
+genas con una actividad de largo aliento de convi-
+vencia, uso y transformación de los paisajes, 
+principalmente modelado por la cultura de origen 
+meso, árido y oasis América, transformados entre 
+otros por la Colonia y los procesos agrarios con-
+temporáneos.
+El artículo 2
+o
+ de la Constitución Política de los 
+Estados Unidos Mexicanos, legislado en su forma 
+actual por el Congreso de la Unión en 2001, reco-
+noce a los distintos grupos autóctonos de México 
+el carácter de pueblo y los define como pueblo indí-
+gena . Esto nos lleva de inmediato a la discusión de 
+finales del siglo 
+XIX
+ y principios del 
+XX
+ acerca de la 
+cuestión nacional. La pregunta era si podría haber 
+pueblos sin territorio, y si esta situación era transi-
+toria, o bien se maneja un concepto restringido de 
+pueblo (Díaz-Polanco, 1999: 159). Este asunto 
+rebasa el ámbito académico, ya que en ella se tra-
+tan consecuencias políticas como se mostró, por 
+ejemplo, en la discusión “territorial” de la autode-
+terminación, autonomía y derechos humanos (Sta-
+venhagen, 2001; López y Rivas, 2000; Díaz-Po-
+lanco, 1999) dentro del marco de la Constitución, 
+que se impulsó en los acuerdos de San Andrés, 
+misma que posteriormente las cámaras de Dipu-
+tados y Senadores dejó en una gran ambigüedad. 
+Las reformas constitucionales de 2001 reconocen 
+que “El derecho de los pueblos indígenas a la li-
+bre determinación se ejercerá en un marco cons-
+titucional de autonomía que asegure la unidad 
+nacional”. El reconocimiento de los pueblos y co-
+munidades indígenas se hará en las constitucio-
+nes y leyes de las entidades federativas, “las que 
+deberán tomar en cuenta, además de los princi-
+pios generales establecidos en los párrafos ante-
+riores de este artículo, criterios etnolingüísticos y 
+de asentamiento físico”. Ante el carácter declara-
+tivo, difícilmente traducible a acciones por parte 
+de los pueblos indígenas, las instituciones que 
+desarrollan políticas públicas hacia los pueblos 
+indígenas tienen una referencia regional. 
+----------------Page (52) Break----------------
+Regiones, territorio, lenguas y cultura de los pueblos indígenas
+53
+Por otro lado, el enfoque regional en la cues-
+tión indígena ha dominado en el pensamiento 
+indigenista. En efecto, Aguirre Beltrán, teórico 
+del indigenismo,
+4
+ creó el concepto de regiones 
+de refugio como marco para la acción indigenista 
+(Aguirre Beltrán, 1991); éstas definieron el ámbito 
+territorial en que se desarrollaron los centros coor-
+dinadores del Instituto Nacional Indigenista (
+INI
+)
+para la intervención de la política indigenista. 
+Posteriormente se relacionaron las políticas públi-
+cas indigenistas con el desarrollo regional (políti-
+4
+ El concepto de indigenismo se refiere a la política de 
+una entidad exterior, por ejemplo el Estado o la Iglesia (pas-
+toral indigenista), hacia los pueblos indígenas. El indigenis-
+mo no es una política impulsada por las mismas organizacio-
+nes indígenas para reforzar su identidad como pueblo.
+ca abandonada desde hace más de dos décadas) 
+por medio del concepto de macrocuencas, como 
+las del Tepalcatepec, el Papaloapan o Balsas. 
+Después de abandonada la política de regio-
+nes por macrocuencas, el número de centros 
+coordinadores se elevó drásticamente a 60 (cuan -
+do el doctor Aguirre Beltrán era subsecretario de 
+Educación Pública, en el régimen del presidente 
+Echeverría). La finalidad era acabar con las “regio-
+nes de refugio” y las relaciones “dominicales” o 
+de dominio que se establecían regionalmente en-
+tre los grupos de poder y los indígenas. “Estos úl-
+timos sujetos a la explotación de los grupos de 
+población culturalmente más avanzados, enclaus -
+trados en sus regiones de refugio, viviendo una 
+vida de mera subsistencia y manteniendo incon-
+Niña puréhpecha del Paracutín, Michoacán.
+----------------Page (53) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+54
+movibles sus antiguos valores y patrones de con-
+ducta, a favor de un conservatismo tenaz que crea 
+motivaciones y actitudes contrarias al cambio y a 
+la transformación” (Aguirre Beltrán, 1987). 
+ En el régimen de López Portillo, los pueblos 
+indígenas fueron “reclasificados” según su condi-
+ción de marginación por la Coordinación General 
+del Plan Nacional de Zonas Deprimidas y Gru-
+pos Marginados (Coplamar); con este enfoque 
+indigenista, la política pública diluyó la especifi-
+cidad cultural y lingüística y la convirtió en un 
+problema de marginación. Este enfoque, con sus 
+distintas modalidades, sigue vigente. Podemos 
+concluir, entonces, que los conceptos generados 
+por las políticas públicas han sido funcionales pa-
+ra la acción indigenista, según cada periodo sexe -
+nal, pero no para los propios pueblos indígenas. 
+En consecuencia, la Comisión Nacional de De-
+sarrollo de los Pueblos Indígenas (
+CDI
+) ha deter-
+minado “las regiones indígenas de México” co-
+mo marco de los indicadores para la acción de las 
+políticas públicas. Como unidad de planeación 
+del desarrollo, la región indígena es la unidad de 
+acción de políticas y programas de gobierno, y tra-
+dicionalmente se define por un conjunto de mu-
+nicipios. El concepto rescata, de las regiones de 
+refugio de Aguirre Beltrán, el carácter “de región 
+cultural” concebida como los territorios “donde 
+las comunidades indígenas, en su mayoría vincu-
+ladas con la población mestiza, realizan los proce-
+sos de reproducción generando una dinámica 
+económica, social y cultural que resulta parti-
+cular”. La finalidad de tal proceder es “proponer 
+una nueva tipología de los municipios que per-
+mita determinar con mayor precisión unidades 
+políticas administrativas donde se encuentran 
+asentados los pueblos indígenas” (Serrano, 2006: 
+citando un documento de trabajo del Instituto Na-
+cional Indigenista 1993). Tenemos 26 regiones 
+que organizan la población indígena según el ti-
+po de municipio: 1) 655 municipios netamente in-
+dígenas, de los cuales 481 tienen más de 70 por 
+ciento, y 174 de 40 a 70 por ciento de población 
+de indígena. Estos 655 “municipios indígenas” 
+abarcan un área del 25 866 726 hectáreas (toman-
+do en cuenta los municipios definidos en el cen -
+so de población 2000), esto es, 13.3 por ciento del 
+territorio nacional, con una población de más de 
+seis millones de indígenas (Serrano, 2006). 
+La clasificación de regiones indígenas de la 
+CDI
+incluye, aparte de los 655 municipios netamente 
+indígenas, a otros 190 “con presencia de pobla-
+ción indígena”, mismos que concentran 3.2 millo-
+nes de indígenas. Finalmente, existen 1 572 mu-
+nicipios con población indígena dispersa o sin 
+población indígena que suman 934 943 indígenas 
+(Serrano, 2006). Así, pienso que los 655 munici-
+pios indígenas podrían, en una primera aproxima-
+ción aceptable, ser reconocidos constitucionalmen-
+te como territorios de los pueblos indígenas de 
+México donde se ejerciera la autodeterminación 
+y autonomía. Los 190 municipios con presencia 
+de población indígena podrían ser definidos co-
+mo regiones interculturales que requieren una 
+política cultural específica hacia las minorías dis -
+persas y de pérdida acelerada de condiciones cul-
+turales y lingüísticas indígenas. 
+ La concepción de regiones organizadas con 
+base en los municipios de las distintas entidades 
+federativas es de utilidad para las políticas públicas 
+porque éstas son instrumentos nacionales de 
+administración política y territorial de la población 
+indígena. Es un instrumento para ejercer la políti-
+ca pública hacia los indígenas desde la federación, 
+estados y municipios, incluyendo las culturales, 
+como por ejemplo las universidades intercultura-
+les o las radios comunitarias que administra la 
+CDI
+. Puede relacionar las políticas públicas con los 
+tres niveles de gobierno (federal, estatal y muni-
+cipal); los censos del 
+INEGI
+ están organizados 
+en esos tres ámbitos, incluyendo las localidades, y 
+también puede hacer mediciones de impacto co-
+----------------Page (54) Break----------------
+Regiones, territorio, lenguas y cultura de los pueblos indígenas
+55
+mo la pérdida de lengua, migración, marginación, 
+etcétera. 
+Sin embargo, las unidades territoriales del mu-
+nicipio y los límites de los estados poco coinciden 
+con las de los pueblos indígenas. Cuando en las 
+localidades examinamos los espacios donde se 
+ubican los pueblos indígenas, observamos que és-
+tos se encuentran divididos artificialmente; en 
+primer lugar, en la distribución del territorio na-
+cional por estados una misma población lingüísti-
+ca puede ser contigua a dos o tres estados, lo que 
+obliga a sus habitantes a pertenecer a formas dife-
+rentes de organización político-administrativa y 
+ser sometidos a distintas leyes estatales. De esta 
+manera, existen municipios con localidades de 
+diferentes grupos étnicos, lo que los fragmenta 
+cultural, lingüística y políticamente. Si agrupa-
+mos las localidades mayoritariamente indígenas 
+en los municipios clasificados con “presencia in-
+dígena” con las del municipio contiguo, veremos 
+que con frecuencia forman agrupaciones com-
+pactas por pueblo indígena. La forma de orga-
+nizar a los pueblos indígenas por municipios no 
+promueve la organización territorial por pueblo 
+indígena. 
+Los distritos son la segunda forma de distribu-
+ción territorial dentro de los estados. Si bien los 
+distritos no representan órganos de gobierno, sí 
+integran por lo menos algunos niveles de organiza-
+ción administrativa y de política electoral. Sin em-
+bargo, por lo que a nuestro tema respecta, no son 
+funcionales, puesto que casi no existen distritos 
+que engloben uno o varios pueblos indígenas de 
+manera íntegra. La excepción conocida es el distri-
+to mixe de Oaxaca (Nahmad, 2003).
+Respecto al tercer nivel de gobierno, el muni-
+cipio, la reforma constitucional de 2001 nos indi -
+ca que “las constituciones y leyes de las entida-
+des federativas reconocerán y regularán estos 
+derechos en los municipios, con el propósito de 
+fortalecer la participación y representación políti-
+ca de conformidad con sus tradiciones y normas 
+internas”. El municipio libre tampoco fue esta-
+blecido según la presencia o ausencia de los pue -
+blos indígenas en una región determinada. Así, 
+tenemos la convivencia de varios pueblos indíge-
+nas en un municipio, lo que no permitiría ejercer 
+el derecho de autodeterminación y autonomía a 
+una etnia específica. 
+Las localidades son la siguiente forma organiza-
+tiva a la qu e alude la Constitución que, en su mo-
+dalidad de núcleos agrarios, con frecuencia une 
+Pareja indígena otomí de Jiquipilco El Viejo, Estado 
+de México.
+----------------Page (55) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+56
+las formas de gobierno indígena con las agrarias. 
+Ubicar el derecho a la autodeterminación y auto-
+nomía en casi 24 000 localidades con mayoría de 
+hogares indígenas es igualmente reduccionista 
+respecto al conjunto de cada pueblo indígena. Sin 
+embargo, es importante señalar que una de las 
+conquistas más importantes de los pueblos indí-
+genas en el siglo 
+XX
+ fue recuperar sus tierras por 
+medio de lo que en México se llama propiedad 
+social (ejidos y comunidades). Los núcleos agra-
+rios —ejidales y comunales—, además de formas 
+de propiedad privada en condueñazgo (surgidos 
+de la compra de sus propias tierras en el porfiria-
+to) y netamente de propiedad privada, son las 
+modalidades de la territorialidad expresada en las 
+distintas formas de propiedad. Son las unidades 
+en que se da el manejo individual y colectivo de 
+los bienes comunes. Respecto a este tipo de co-
+munidades agrarias, la Constitución establece 
+que es imperativo 
+conservar y mejorar el hábitat y preservar la inte-
+gridad de sus tierras en los términos establecidos 
+en esta constitución [...] Acceder, con respeto a las 
+formas y modalidades de propiedad y tenencia de 
+la tierra establecidas en esta Constitución y a las 
+Mujer indígena cuida el rebaño, Jiquipilco El Viejo, Estado de México.
+----------------Page (56) Break----------------
+Regiones, territorio, lenguas y cultura de los pueblos indígenas
+57
+leyes de la materia, así como a los derechos adqui-
+ridos por terceros o por integrantes de la comuni-
+dad, al uso y disfrute referente de los recursos na-
+turales de los lugares que habitan y ocupan las 
+comunidades, salvo aquellos que corresponden a 
+las áreas estratégicas, en términos de esta Consti-
+tución. Para estos efectos las comunidades podrán 
+asociarse en términos de ley. 
+En mi opinión, la crítica del movimiento indí-
+gena a las reformas constitucionales de 2001 resu-
+me con nitidez la discusión acerca de si los pue-
+blos indígenas son sujetos de interés público o de 
+derecho público (Zolla y Zolla, 2004). Los autores 
+citados nos dicen: 
+La remisión a los estados para que sean éstos los 
+que reconozcan en sus constituciones a los pueblos 
+y comunidades como sujetos de derecho, situación 
+que podría dar lugar a que existan distintas catego-
+rías de indígenas, dependiendo de la entidad fede-
+rativa en que se asienten; negación del sustento te-
+rritorial al ejercicio de autodeterminación de los 
+pueblos; las limitaciones a la libre determinación y 
+a la autonomía,
+entre ellas al uso y disfrute de los recursos natura-
+les que es el tema que ocupa este libro. Los pue-
+blos indígenas como sujetos “de interés público” 
+y no sujetos “de derecho” refleja la concepción 
+de que los indígenas son los pobres de los pobres, 
+y que lo que hay que atacar fundamentalmente 
+es la pobreza con programas genéricos para todos 
+los pobres de México. En el decenio de 1980 re-
+surgieron discusiones respecto a la territorialidad 
+desde los mismos pueblos indígenas, y en espe-
+cial a partir de 1994, cuando se definieron las ba -
+ses para los Acuerdos de San Andrés, en los años 
+subsiguientes al levantamiento zapatista en Chia -
+pas. En la discusión de los Acuerdos de San An-
+drés para proponer una nueva Ley de Derechos y 
+Cultura de los Pueblos Indígenas, la presencia de 
+localidades con distintas lenguas en los munici -
+pios generó confusiones teórico-metodológicas 
+para definir regiones, distritos o comarcas indíge-
+nas. Sin embargo, más adelante veremos que los 
+territorios en donde se encuentran los indígenas 
+por lo general no están tan mezclados, de manera 
+que hoy es posible adscribir —con el criterio et-
+nolingüístico de la primera lengua en las localida-
+des— un territorio determinado a los distintos 
+pueblos indígenas. También habrá situaciones de 
+contorno donde se comparten espacios con más 
+de una lengua indígena. La confusión teórico-
+metodológica la origina el mismo establecimiento 
+de los municipios. Es decir, para instituir las re-
+giones etnolingüísticas, la metodología empleada 
+tanto en el sector público como en el académico 
+se basa en los municipios que tienen más de un 
+porcentaje determinado de hablantes de lengua 
+indígena. 
+¿Cómo generar una base confiable de la defini-
+ción de los territorios indígenas en donde se pueda 
+decir a qué pueblo indígena pertenecen? Por un 
+lado, con la herramienta de los censos de pobla-
+ción y con la aproximación etnolingüística tene-
+mos la posibilidad de acercarnos de manera sincró-
+nica a los territorios demarcados histórica y 
+socialmente. Por el otro, los censos también dan 
+cuenta, parcialmente, de la migración regional y 
+suprarregional de miembros de una familia indí-
+gena o incluso de familias enteras. Estas migracio-
+nes pertenecen, de manera generalizada, a las es-
+trategias de reproducción económico-social y a 
+veces cultural que garantizan la subsistencia de los 
+hogares indígenas en su lugar de origen. Por su-
+puesto que existen otras modalidades de migra-
+ción, una de las cuales puede ser definitiva. Éste 
+es un fenómeno creciente y cambiante, y su mag-
+nitud se explica por las políticas económicas y so-
+ciales que generan una crisis en los lugares de ori-
+gen. De hecho, el recuento de la población en 
+----------------Page (57) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+58
+2005 (
+INEGI
+, 2000, 2005) reporta por primera vez 
+desde los años cincuenta del siglo pasado una infle-
+xión en el crecimiento de la población indígena en 
+términos absolutos y relativos (véase el cuadro 1). 
+El principal bien de exportación de México, 
+después del petróleo, es la fuerza de trabajo. La 
+misma tesis podemos desarrollar para los pueblos 
+indígenas: su principal capital es la generación de 
+mano de obra que produce riqueza en otras latitu-
+des. Cada vez más hay menos jóvenes en las co-
+munidades de origen, lo que pone en riesgo la 
+transmisión de la cultura, el conocimiento, la len-
+gua y la identidad (en la región del lago de Pátz-
+cuaro, por ejemplo, el promedio de edad de los 
+agricultores activos es de 60 años. (M. Astier co-
+municación personal).
+ De ninguna manera podemos adscribir el 
+concepto territorio de pueblos indígenas a los asenta-
+mientos indígenas que se encuentran en barrios o 
+localidades de California o Virginia, en Estados 
+Unidos, o bien en el Valle del Fuerte, Cancún o el 
+Distrito Federal. Sería una confusión teórico-me-
+todológica y política, relacionar el fenómeno so-
+cial de la reproducción de los hogares indígenas 
+con el espacio que se genera en el destino de una 
+migración. Si bien la migración y la reproducción 
+social, temporal o definitiva, en el lugar de desti-
+no generan nuevas situaciones sociales, culturales 
+y económicas, tienen como referente identitario 
+durante un largo periodo a las localidades, muni-
+cipios o regiones de ese territorio “original”. La 
+territorialidad indígena está fuertemente ligada al 
+modo de vida generado alrededor del conoci-
+miento y el manejo de los ecosistemas, y por me-
+dio de bienes tangibles e intangibles creados his-
+tóricamente. 
+En este trabajo me enfocaré en la discusión de 
+territorios de los pueblos indígenas pensando en 
+aquellos históricos-sociales tal como se presentan, 
+hoy por hoy, de manera sincrónica, a partir de los 
+criterios etnolingüísticos y sociológicos de “hogar 
+indígena”.
+La aproximación a los territorios indígenas vía 
+la clasificación de presencia o ausencia de hablan-
+tes de una lengua indígena en los distintos muni-
+cipios tiene sentido cuando esta presencia es muy 
+alta y controlada por la propia población indígena, 
+como en el caso de los 655 municipios aludidos. 
+Sin embargo, los municipios que tienen más de 
+un pueblo indígena presentan un centro urbano 
+donde se realizan transacciones comerciales, ad-
+ministrativas y políticas, el cual no refleja necesa-
+HLI
+* de 5 años y más
+0 a 4 años
+5 y más no 
+HLI
+*
+HLI
+* de 5 años y más afuera 
+de sus hogares
+2005
+Porcentaje respecto a la población 
+nacional 2005
+CUADRO 1. 
+Cuantificación de la población indígena con base en el criterio hogar. 
+Comparativo entre 2000 y 2005
+Población indígena 2000 
+Fuente:
+CDI
+-
+PNUD
+ 2002 y 
+CDI
+-
+PNUD
+ 2006. * Hablantes de lengua indígena.
+HLI
+* de 5 años y más
+0 a 4 años
+5 y más no 
+HLI
+*
+HLI
+* de 5 años y más afuera 
+de sus hogares
+2000
+Porcentaje respecto a la población 
+nacional 2000
+5 863 022 
+1 251 164
+2 899 401
+240 040
+10 253 627
+10.5
+5 856 975 
+1 113 763
+2 719 520
+413 313
+10 103 571
+9.8
+Población indígena 2005
+----------------Page (58) Break----------------
+Regiones, territorio, lenguas y cultura de los pueblos indígenas
+59
+riamente los intereses de los habitantes indíge-
+nas, ya que su población o la élite que gobierna es 
+sobre todo mestiza.
+A continuación, intentaré desarrollar una se-
+gunda aproximación de territorio que se estable-
+ce a partir de las localidades y núcleos agrarios con 
+mayoría de población indígena, y que dé cuenta 
+exactamente de los espacios donde viven hoy en 
+día los pueblos indígenas. 
+Con base en el X Censo de Población y Vi-
+vienda 2000 del 
+INEGI
+ y los Indicadores Socioeco-
+nómicos de los Pueblos Indígenas de México 2000 
+elaborados por el Conapo, el 
+INI
+ y el 
+PNUD
+ (Se-
+rrano et al. , 2002: 47), la estimación más alta de 
+población indígena en México llega a 10 253627 
+habitantes, esto es, 10.5 por ciento del total. Este 
+cálculo se realiza de la siguiente manera: para es-
+tablecer el criterio de pertenencia y el de auto-
+adscripción (limitado por la encuesta para el cen -
+so de población 2000 de 
+INEGI
+), se usa el criterio 
+etnolingüístico. En este sentido, el XII Censo 
+General de Población y Vivienda 2000, registra a 
+los hablantes de lengua indígena que tengan cin-
+co años y más, lo que nos daría una población de 
+6 044 547 de indígenas. A esta cantidad se agregan 
+los niños y niñas de 0 a 4 años. Aun siguiendo el 
+criterio etnolingüístico, no todos los miembros de 
+los hogares indígenas hablan alguna lengua indí-
+gena. A los hablantes de lengua indígena se les 
+suman 4 209 080 de habitantes de los hogares en 
+Caserío de Metlatonoc, Guerrero.
+----------------Page (59) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+60
+los cuales un cónyuge o su ascendiente inmediato 
+practican alguna lengua indígena. Esta estima -
+ción nos introduce a la discusión acerca de quién 
+pertenece a un grupo indígena según el criterio 
+lingüístico. 
+Al respecto, vale insistir de acuerdo con la 
+CDI
+y el 
+PNUD
+, que la aproximación metodológica ha-
+cia el tamaño de la población indígena de México 
+utilizando el criterio de hogar indígena es la que 
+tiene mayores ventajas, en tanto que introduce 
+en la discusión los factores sociales, culturales y 
+demográficos que aparecen en las variables cen-
+sales. Siempre siguiendo la metodología 
+CDI
+-
+PNUD
+, utilizamos el concepto “población indíge-
+na” el cual se construye a partir de los hogares 
+indígenas en donde por lo menos un cónyuge o 
+su ascendiente inmediato declaró en el Censo de 
+Población 2000 ser hablante de lengua indígena. 
+Con esta metodología de “población indígena” 
+compuesta por hogares, el II Conteo de Población 
+y Vivienda 2005 reporta, por primera vez en 55 
+años, una inflexión del crecimiento, de manera 
+que para ese año se reportan 10 103 571.
+El criterio etnolingüístico plasmado en los 
+censos permite dar cuenta de la dinámica lingüís-
+tica de los distintos pueblos (Serrano, 2006), y en 
+especial de la existencia, pérdida o preservación 
+del idioma en los distintos grupos de edad. Con 
+esta aproximación se genera una base de datos 
+con georreferencia, en la que se ubican las locali-
+dades por porcentaje de población en hogares in-
+dígenas, de hablantes de lengua indígena y por el 
+tipo de municipios en que se encuentran (Serra-
+no et al. , 2002). La metodología aplicada en el es-
+tudio referido se realizó con base en los resultados 
+estadísticos y no tiene su equivalente para definir 
+el sentido de pertenencia en el terreno cultural, 
+político, administrativo e histórico. Los mapas 
+que se generan a partir de los censos y las locali-
+dades que tienen cierto porcentaje de población 
+en hogares indígenas representa la aproximación 
+más adecuada para identificar y definir la ubica-
+ción de los pueblos indígenas. Según el texto ci-
+tado, existen 62 lenguas registradas en 32 estados 
+de la República (De la Vega, 2001: 26).
+Esta clasificación no deja de ser problemática 
+ya que si utilizamos el criterio de inteligibilidad 
+entre los hablantes para definir las lenguas, encon-
+tramos que en las mismas hay variantes que hacen 
+difícil decidir si el grado de diferenciación devie-
+ne en una nueva lengua.
+5
+ Por ello, el Instituto Lin-
+güístico de Verano (
+ILV
+) reconoce muchas más 
+lenguas; el método que usaron para medir la inte-
+ligibilidad entre las variantes dialectales de una 
+misma lengua fue escoger palabras sueltas de una 
+variante y presentarlas a los miembros de otra va-
+riante, se mide cuántas palabras entienden para 
+evaluar que “tiene una inteligibilidad de x por 
+ciento”; cuando el porcentaje rebasa cierto nivel, 
+afirman que es otra lengua. Sin embargo, es im-
+prescindible que se generen procesos unificadores 
+mediante una política cultural. Para clasificar des-
+de el punto de vista lingüístico a los pueblos indí-
+genas, el Instituto Nacional de Lenguas Indíge-
+nas (
+INALI
+) ha realizado un trabajo minucioso con 
+los siguientes criterios: 1) familias lingüísticas; 
+2) 68 agrupaciones lingüísticas, y 3) 364 variantes 
+lingüisticas que deberían denominarse lenguas.
+6
+5
+ El 
+INEGI
+(2005) reconoce las siguientes lenguas para los 
+mixtecos, zapotecos, chinantecos, amuzgos, chontales, po-
+puluca y tepehuano: lenguas mixtecas (mixteco, mixteco de 
+la costa, mixteco de la Mixteca Alta, mixteco de la Mixteca 
+Baja, mixteco de la zona mazateca, mixteco de Puebla y ta-
+cuate), lenguas zapotecas (zapoteco de Cuixtla, zapoteco de 
+Ixtlán, zapoteco del Istmo, zapoteco del rincón, zapoteco 
+sureño, zapoteco Valles Centrales y zapoteco vijano), len-
+guas chinantecas (chinanteco, chinanteco de Lalana, chi-
+nanteco de Ojitlán, chinanteco de Petlapa, chinanteco de 
+Usila y chinanteco de Valle Nacional), lenguas amuzgas 
+(amuzgo de Guerrero y Amuzgo de Oaxaca), lenguas chon-
+tales (chontal de Tabasco y chontal de Oaxaca), lenguas po-
+polucas (popoluca de la sierra, popoluca de Oluta y popoluca 
+de Texistepec), y lenguas tepehuanes (tepehuano de Du-
+rango y tepehuano de Chihuahua). 
+6
+ Instituto Nacional de Lenguas Indígenas (2007), www.
+inali.gob.mx/catálogo2007.
+----------------Page (60) Break----------------
+Regiones, territorio, lenguas y cultura de los pueblos indígenas
+61
+En este trabajo nos referiremos a principal-
+mente a las agrupaciones lingüísticas cuya clasifi-
+cación aproximada usa el Censo de Población y 
+Vivienda 2000 del 
+INEGI
+. Con la nueva clasifica-
+ción oficial del 
+INALI
+, el 
+INEGI
+ tendrá que reagru-
+par en el futuro las lenguas. Las variantes tienen 
+que ver con procesos históricos diferenciados, 
+movimientos poblacionales y aislamiento geográ-
+fico. Las variantes de agrupaciones lingüísticas 
+mayores tienen —igual que los pueblos indíge-
+nas pequeños— el problema de la pérdida de len-
+gua, ya que puede haber muy pocos que hablan 
+la variante y por ello se pasa al español como len-
+gua principal.
+Los nombres de las lenguas tienen que ser re-
+definidos como lo proponen los integrantes de los 
+pueblos indígenas, ya que las designaciones ac-
+tuales frecuentemente las pusieron los conquis-
+tadores. Así, a los otomíes se les debe reconocer 
+como hñahñu , a los tarahumaras como rarámuri , a 
+los mixes como ayuuk , a los seris k’onkaak , etc. Por 
+ello, en el cuadro 5 se indica cómo cada pueblo se 
+autodenomina y sería deseable que esta nomen -
+clatura fuera reconocida constitucionalmente, al 
+igual que las denominaciones geográficas de los 
+territorios en donde se practican los idiomas de 
+los pueblos indígenas.
+El criterio etnolingüístico utilizado en los cen-
+sos de población por hogares permite esclarecer 
+la dinámica lingüística de los distintos pueblos, 
+en particular si existe pérdida del idioma o no. Con 
+esta aproximación se genera una base de datos por 
+localidades con una georreferencia a partir de x
+porcentaje (y más) de hogares con hablantes de len-
+gua indígena (Serrano et.al. , 2002). La metodolo-
+gía aplicada en el estudio referido se realiza con 
+base en los resultados estadísticos y no presenta 
+un equivalente para definir el sentido de perte-
+nencia en el terreno cultural, político, administra -
+tivo e histórico. Los mapas creados a partir de los 
+ Iglesia en la Sierra Norte de Puebla.
+----------------Page (61) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+62
+Los territorios de los pueblos indígenas
+N
+egados por los estados nacionales, los espacios 
+en que hoy viven los pueblos indígenas no son 
+territorios reconocidos como autonómicos en donde la 
+población indígena pueda reproducir su cultura, eco-
+nomía y sociedad. Por ello, su delimitación es difícil más 
+no imposible. Detrás de la negación a la autodetermi-
+nación por parte del Estado mexicano, está el temor 
+infundado de la balcanización del país mismo que no 
+es el tema desde los movimientos indígenas. Cuando 
+se habla de territorio, se piensa en límites, en el adentro 
+y el afuera. Es evidente que los límites municipales en 
+su generalidad coinciden con los espacios en donde 
+vive mayoritariamente la población indígena. Sin em-
+bargo, en un municipio pueden vivir distintos pueblos 
+indígenas. Asimismo, frecuentemente localidades con-
+tiguas a los municipios indígenas que pertenecen a las 
+mismas etnias pueden estar en un municipio aledaño 
+sin que se reconozca como parte de un municipio indí -
+gena. Tampoco los límites de los distritos judiciales, 
+electorales y estatales coinciden. En la actualidad, la 
+Constitución mexicana ignora que una abrumadora 
+mayoría de la población indígena vive en espacios geo-
+gráficos importantes y cuyas localidades muestran 
+contigüidad de carácter lingüístico. Es obvio que el ser 
+indígena no sólo lo define la lengua que habla, sin em -
+bargo, sí podemos afirmar que los que hablan lengua 
+indígena son el núcleo de los pueblos indígenas. Una 
+región indígena, como es definida por la 
+CDI
+, abarca 
+uno o más municipios de mayoría indígena, mas no 
+puede dar cuenta de áreas que se pueden adscribir a tal 
+o cual pueblo indígena. Los territorios de los pueblos 
+indígenas que propongo en este libro, permiten deter-
+minar áreas geográficas compactas por pueblo indíge -
+na. Se trata de una aproximación que se puede calificar 
+como el núcleo duro, en donde la composición pobla-
+cional es de un 80.9 por ciento de hogares indígenas.
+El territorio tiene varias interpretaciones, acepciones 
+y dimensiones. Para nuestro caso, tenemos “la dimen-
+sión política , que se refiere a la jurisdicción, gobierno, 
+normas, y decisiones” (Toledo Llancaqueo 2007), que 
+en México se expresa atomizadamente en núcleos 
+agrarios por lo general contiguos de un mismo pueblo 
+indígena, y legalmente en alguna representación (no 
+ejercida) en los cabildos municipales. “La dimensión 
+cultural que es un espacio socialmente organizado, esto 
+es, un espacio siginifcativo culturalmente, en el cual se 
+localizan, distribuyen y organizan las redes sociales del 
+asentamiento, significados” ( idem ), y acciones colecti-
+vas de un grupo. La dimensión cultural incluye el terri-
+torio simbólico , ocupado por los pueblos indígenas en 
+sus peregrinaciones, rituales religiosos, los lugares don-
+de el mito de origen le asigna un nombre a los ríos, ce-
+rros y montañas en lengua indígena, que la nomencla-
+tura de la cartografía oficial ignora. “La dimensión 
+natural del territorio se refiere a los recursos naturales, 
+agua, tierra y vegetación” ( idem ). La estrecha relación 
+entre lengua, actividad productiva y la dimensión natu-
+ral se refiere a los “los conocimientos de los pueblos in-
+dígenas sobre biodiversidad [que] se han generado en 
+interacción con sus territorios y están compuestos por 
+el conjunto de usos, costumbres e informaciones sobre 
+los organismos vivientes y los complejos ecosistemas en 
+los que viven. Estos conocimientos generalmente se 
+producen de manera colectiva y son de carácter inter-
+generacional y acumulativo, además son producidos y 
+mantenidos en el contexto cultural y biológico. Desde 
+este punto de vista, el territorio es para los indígenas 
+una prolongación una expresión material de la red de 
+relaciones que construye el conocimiento colectivo. Por 
+esto, los derechos intelectuales colectivos son para los 
+indígenas una prolongación de los derechos territoria-
+les, ya que el territorio y el conocimiento conforman 
+una unidad indisoluble. De hecho, la noción de territo-
+rio indígena debe ser entendida como garantía de con-
+tinuidad de los conocimientos sobre biodiversidad” 
+( idem ) y sede de las lenguas autóctonas.
+----------------Page (62) Break----------------
+Regiones, territorio, lenguas y cultura de los pueblos indígenas
+63
+censos y la identificación de las localidades que 
+tienen cierto porcentaje de hablantes de una len-
+gua indígena representan hoy por hoy la aproxi-
+mación más precisa para definir la ubicación y los 
+territorios de los pueblos indígenas. Se trata de de-
+finir territorios por la densidad de ocupación de los 
+pueblos indígenas contemporáneos de México.
+Entonces, ¿qué es el territorio de los pueblos 
+indígenas? El territorio es un concepto pero tam-
+bién un referente identitario, es un paisaje cultu-
+ral y una historia social y natural. Para acercanos a 
+su descripción propongo una metodología que 
+puede ser perfeccionada cuando se revisen de 
+nuevo las territorialidades entre el movimiento 
+indígena y el Estado mexicano. Por lo pronto, con-
+sidero territorios de los pueblos indígenas las por-
+ciones en donde hoy viven los pueblos indígenas, 
+según los registros del Censo Nacional de Po-
+blación y Vivienda 2000 efectuado por el 
+INEGI
+. Si 
+le damos la dimensión agraria de las localidades 
+mayoritariamente indígenas, e incorporamos ade-
+más algunos accidentes geográficos con población 
+indígena, se tiene un núcleo duro de los territorios 
+indígenas actuales que representa 14.3 por ciento 
+de toda la República mexicana.
+Para definir en el ámbito nacional los territo-
+rios actuales de los pueblos indígenas, la aproxima-
+ción etnolingüística es la que más recursos geográ-
+fico-territoriales nos ofrece, independientemente 
+de la definición de lengua, familias lingüísticas, 
+agrupaciones lingüísticas, variantes lingüísticas, 
+como lo presenta el
+INALI
+(2007). Los censos de 
+localidades con georreferencia nos ayudan a ubi -
+car a la población que practica el idioma predomi-
+nante. Esta aproximación etnolingüística y social 
+(hogares) sólo podría ser complementada y supera-
+da por la autoadscripción de cada población, que 
+iría más allá de si habla alguna lengua indígena. 
+El criterio de asociar a los hablantes con los ho-
+gares (Serrano et al. , 2002) implica asociar tam-
+bién a la familia como la unidad a partir de la cual 
+los pueblos indígenas se reproducen cultural, eco-
+nómica y socialmente. Asimismo, esta metodolo-
+gía puede documentar la pérdida lingüística como 
+producto de la crisis en que se encuentran inmer-
+sos los pueblos indígenas.
+Este trabajo tiene como objetivo hacer un ba-
+lance de la diversidad biocultural en los territorios 
+de los pueblos indígenas. Por tanto, trataremos de 
+reconstruir los territorios actuales según la pre-
+sencia de los pueblos indígenas que los habitan. 
+El concepto territorio le da a esta aproximación 
+un enfoque específico, ya que las culturas de los 
+pueblos indígenas se desarrollan en ecosistemas 
+determinados que han usado y transformado, en 
+algunos casos, durante milenios o siglos. 
+Metodología para la delimitación de 
+los territorios de los pueblos indígenas 
+contemporáneos
+A partir de las consideraciones anteriores, utilicé 
+los siguientes criterios para redefinir los territorios 
+de los pueblos indígenas.
+1) Criterio de las localidades de 40 por ciento y 
+más de hogares de hablantes de lengua indígena. 
+Para evaluar la composición poblacional en un es-
+pacio determinado, así como sus inventarios bio-
+culturales y de captación de agua, se requiere un 
+instrumento de mayor precisión territorial que la 
+delimitación municipal según la presencia o no 
+de hablantes de lengua indígena. Por ello, el pun-
+to de partida fue la elaboración de una base de da-
+tos que incluyera todas las localidades en que vi-
+ven los pueblos indígenas, que identificara de 
+qué pueblo se trataba y cuántos habitantes indí-
+genas hay. Para desarrollar este criterio se depuró 
+la base completa del Censo General de Población 
+y Vivienda (datos por localidad) para el año 2000 
+con el siguiente enfoque: en la base completa 
+para el país existen 206 816 registros, de los cua-
+----------------Page (63) Break----------------
+S
+IMBOLOGÍA DE LAS LENGUAS MIXTECAS
+SIER
+R
+AM
+A
+DRE
+D
+EL S
+U
+R
+S
+I
+ER
+R
+A
+JUÁ
+R
+E
+Z
+OAXACA
+GUERRERO
+Huajuapan
+de León
+San Miguel 
+Ejutla
+Miahuatlán
+Santa María Ayoquezco
+Acatlán
+Chiautla
+de Tapia
+ Amuzgos
+Oaxaca
+Chilpancingo
+O
+C
+É
+A
+N
+O
+P
+A
+C
+Í
+F
+I
+C
+O
+Mixteco de Tlaltempan
+Mixteco de Villa de Tututepec
+Mixteco de Xochistlahuaca
+Mixteco Yosondúa
+Mixteco de Zapotitlán
+Mixteco del este
+Mixteco del este central
+Mixteco del noreste
+Mixteco del noroeste
+Mixteco del noroeste bajo
+Mixteco del noroeste medio
+Mixteco del oeste
+Mixteco del oeste alto 
+Mixteco del oeste central
+Mixteco del oeste de la costa
+Mixteco del sur medio
+Mixteco del sureste central
+Mixteco del suroeste
+Mixteco de San Pedro Tiolá
+Mixteco de Santa María Huazolotitlán
+Mixteco de Santa María Yosoyua
+Mixteco de Santiago Amoltepec
+Mixteco de Santo Domingo Tonalá
+Mixteco de Santa Inés de Zaragoza
+Mixteco de Sierra sur noroeste 
+Mixteco de Sierra sur oeste
+Mixteco de Tlahuapa
+Mixteco Tlalistaquilla de Maldonado
+Mixteco alto de Valles
+Mixteco bajo de Valles
+Mixteco central
+Mixteco central de Guerrero
+Mixteco de Atlamajalcingo
+Mixteco de Ayutla
+Mixteco Cañada bajo
+Mixteco de Cañada central
+Mixteco de Coapanatoyac
+Mixteco de Guerrero central alto
+Mixteco de Guerrero de la costa central
+Mixteco de Guerrero de la costa este
+Mixteco de Guerrero del este medio
+Mixteco de Guerrero del norte
+Mixteco de Guerrero del norte central
+Mixteco de Ixtayutla
+Mixteco de la frontera Puebla- Oaxaca
+Mixteco del norte bajo
+Mixteco de Ñumi
+Mixteco de Oaxaca de la costa central a
+Mixteco de Oaxaca de la costa central b
+Mixteco de Oaxaca de la costa de noroeste
+Mixteco de Oaxaca de la costa oeste central
+Mixteco de San Agustín Tlacotepec
+Mixteco de San Antonio Huitepec
+Mixteco de San Juan Teita
+Mixteco de San Juan Tamazola
+Mixteco de San Luis Acatlán
+Mixteco de San Mateo Peñasco
+Mixteco de San Miguel Piedras
+99º
+17º
+18º
+16º
+98º
+97º
+ L
+ENGUAS MIXTECAS
+----------------Page (64) Break----------------
+Regiones, territorio, lenguas y cultura de los pueblos indígenas
+65
+les 199 391 son datos de localidades con las varia-
+bles del Censo de Población y con valores de coor-
+denadas de su ubicación espacial. Partimos de la 
+información de la población indígena que desa-
+rrolló el programa Indicadores de la Población 
+Indígena de México 2002, elaborada por 
+CDI
+y
+PNUD
+, a partir del X Censo de Población y Vivien-
+da 2000 del 
+INEGI
+. Este método es muy interesan-
+te cuando se trata de microetnias. En el
+INEGI
+no 
+están contabilizados aquellos que tienen menos 
+de cinco años. Por ello, la 
+CDI
+ y el
+PNUD
+desarrolla-
+ron una aproximación metodológica para el tama-
+ño de la población indígena de México que utiliza 
+el criterio de hogar indígena. Esta aproximación 
+ofrece las mayores ventajas, en tanto que introdu -
+ce en el análisis los factores sociales, culturales y 
+demográficos que aparecen en las variables censa-
+les. Se considera “hogar indígena” aquel en el cual 
+el jefe(a) del hogar o su cónyuge o alguno de los 
+ascendientes de cualquiera de ambos habla algu-
+na lengua indígena; así, se considera que todos 
+sus integrantes son parte de la población indígena 
+de México. De este modo el 
+CDI
+-
+PNUD
+maneja la 
+cifra para la población indígena de 10 220 863 ha -
+bitantes (esta cifra no incluye a los hablantes de 
+lenguas indígenas en viviendas colectivas, ni a los 
+indígenas que han emigrado a Estados Unidos). 
+Con esta aproximación, al concepto de “población 
+indígena” se le agrega el criterio social además del 
+etnolingüístico. Asimismo, la aproximación por 
+hogares indígenas permite conocer la dinámica 
+lingüística de los distintos pueblos. En especial, 
+refleja la preservación o la pérdida del idioma por 
+grupos de edad.
+Para generar las regiones indígenas en Méxi-
+co, la 
+CDI
+ y el 
+PNUD
+ definieron a los municipios in-
+dígenas como los que tienen 40 por ciento, o más 
+de población en hogares indígenas. La 
+CDI
+ y el 
+PNUD
+ consideraron importante la presencia indí-
+gena que, aun teniendo un porcentaje menor del 
+40 por ciento, es igual o mayor a 5 000 personas en 
+una región determinada. Hasta aquí la metodolo-
+gía 
+CDI
+-
+PNUD
+. Al igual que la 
+CDI
+ y el 
+PNUD
+, inicio 
+el análisis del territorio con las localidades que 
+tienen 40 por ciento o más de población indígena. 
+De este modo tenemos a nivel nacional 23 084
+localidades con 40 por ciento y más, de hogares 
+con población indígena. De esas 23 084 localida-
+des, 22 616 presentan contigüidad con otras indí-
+genas, o bien forman un núcleo agrario aislado, 
+mayoritariamente indígena. 
+2) Criterio de la contigüidad. Para ubicar todas 
+las localidades indígenas que tengan 40 por cien -
+to y más de hogares se desarrolló una primera 
+aproximación espacial, proyectando un polígono 
+alrededor de cada localidad. Esta metodología, 
+ideada por Thiessen, consiste en crear polígonos
+7
+7
+ En la literatura se conocen como “polígonos de Thies-
+sen o Vernier”.
+CUADRO 2. 
+Población en localidades con presencia indígena por hogares dentro de los 
+territorios de los pueblos indígenas
+Porcentaje de localidades con 
+presencia indígena por hogares
+1 487 192
+6 075 714
+829 038
+8 391 944
+De 40 a 69.9
+De 70 a 100
+Otros
+TOTAL
+2 390
+18 216
+2 010
+22 616
+800 158
+5 824 535
+167 745
+6 792 438
+Número de
+localidades
+Población total Población 
+indígena
+Fuente:
+----------------Page (65) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+66
+al unir los puntos de las localidades indígenas en-
+tre sí, y trazar las mediatrices de los segmentos de 
+la unión de manera que el perímetro de los polí-
+gonos generados sea equidistante a los puntos 
+vecinos y con el fin de definir así su área de in-
+fluencia. Con esta aproximación tenemos la cer-
+teza de la ubicación de la población indígena en 
+territorios sin todavía definir sus límites exactos.
+Crear los territorios con este núcleo compacto 
+de localidades indígenas tiene varias ventajas. En 
+primer lugar, se pueden incorporar a los territorios 
+indígenas las localidades que se encuentran en 
+franca minoría en municipios y que no tenían ex -
+presión territorial y política alguna. En segundo 
+lugar, se pueden excluir las partes no indígenas de 
+los municipios con alta presencia indígena. En ter -
+cer lugar, a diferencia de las regiones indígenas de 
+la 
+CDI
+, en este caso podemos ubicar territorios por 
+grupo etnolingüístico. Este criterio fue aplicado a 
+todos los territorios de los pueblos indígenas, con 
+excepción del territorio de los zoques de Chimala-
+pas y de los maya-lacandones de la selva Lacando -
+na. La razón de esta diferencia es que en sus terri-
+torios no forman localidades contiguas, ya que 
+éstas son los polígonos de los decretos agrarios, a 
+las cuales hay que restarles áreas que han sido ocu -
+padas por colonos, generalmente otros indígenas. 
+Con el criterio de la contigüidad se logró defi-
+nir las áreas más densamente pobladas por pue-
+blos indígenas. Este criterio permite determinar 
+un núcleo consolidado de localidades en donde 
+hay un promedio de 80.9 por ciento de presencia 
+indígena. Por ende, y para efectos de este trabajo, 
+el criterio de 40 por ciento y más de hogares da la 
+certeza de la presencia indígena en espacios que 
+precisaremos en la siguiente sección. 
+FIGURA 1. 
+ Polígonos de Thiessen desarrollados con localidades de distinto tamaño y composición de la población indígena. 
+Los polígonos de color azul claro representan localidades de 30 por ciento de población indígena, los azul oscuro, de 40 a 
+70 por ciento, mientras que los de color rosa representan localidades de 70 a 100 por ciento. Nótese la contigüidad de los 
+polígonos desde los azules hasta los rosas. Las nubes de polígonos pequeños denotan mayor densidad de población.
+----------------Page (66) Break----------------
+Regiones, territorio, lenguas y cultura de los pueblos indígenas
+67
+95º96º
+97º
+17º
+16º
+OAXACA
+CHIAPAS
+Golfo de Tehuantepec
+SIERRA DE TEHUAN
+TEPEC
+Salina Cruz 
+Juchitán
+Santiago
+ Astata 
+Puerto Ángel
+Santiago Zacatepec 
+Tlacolula 
+Puerto 
+Escondido 
+Nuevo Ixcatlán
+Suchilapan
+Oaxaca
+S
+IMBOLOGÍA DE LAS LENGUAS ZAPOTECAS
+Zapoteco de la costa central
+Zapoteco de la costa este
+Zapoteco de la costa noreste
+Zapoteco de la costa oeste
+Zapoteco de la montaña del Istmo, alto
+Zapoteco de la planicie costera
+Zapoteco de la Sierra sur, del este bajo
+Zapoteco de la Sierra sur, del norte
+Zapoteco de la Sierra sur, del sureste alto
+Zapoteco de la Sierra sur, del sureste bajo
+Zapoteco de la Sierra sur, noreste alto
+Zapoteco de la Sierra sur, noroeste
+Zapoteco de la Sierra sur, noroeste bajo
+Zapoteco de la Sierra sur, noroeste medio
+Zapoteco de Petapa
+Zapoteco de Quiavicuzas
+Zapoteco de San Antonio el Alto
+Zapoteco de San Baltazar Chichicapam
+Zapoteco de San Felipe Tejalápam
+Zapoteco de San Miguel Aloápam
+Zapoteco de San Vicente Coatlán
+Zapoteco de Santa María Quiegolani
+Zapoteco de Santigo Yaveo
+Zapoteco de Texmelucan
+Zapoteco de Valles del sur
+Zapoteco de Valles, de suroeste alto
+Zapoteco de Valles, del centro 
+Zapoteco de Valles, del centro bajo
+Zapoteco de Valles, del este central
+Zapoteco de Valles, del este medio
+Zapoteco de Valles, del noreste
+Zapoteco de Valles, del noroeste bajo
+Zapoteco de Valles, del noroeste medio
+Zapoteco de Valles, del oeste central
+Zapoteco de Valles, del suroeste central
+Zapoteco de Valles, del suroeste medio
+Zapoteco de Valles, noroeste
+Zapoteco de Valles, norte
+Zapoteco de Valles, oeste
+Zapoteco de Zimatlán de Álvarez
+Zapoteco del oeste de Tuxtepec
+Zapoteco serrano, del noroeste
+Zapoteco serrano, del noroeste bajo
+Zapoteco serrano, del oeste
+Zapoteco serrano, del oeste medio
+Zapoteco serrano, del sureste
+Zapoteco serrano, del sureste bajo
+Zapoteco serrano, del sureste medio
+L
+ENGUAS ZAPOTECAS
+----------------Page (67) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+68
+3) Criterio de la ocupación espacial de las lo-
+calidades en núcleos agrarios. Los polígonos de 
+Thiessen no reflejan la topografía ni los límites de 
+los núcleos agrarios ni los límites físicos entre la 
+población mayoritariamente indígena y no indí-
+gena. De esta manera, la siguiente tarea fue expan-
+dir los polígonos hacia los límites irregulares de 
+los núcleos agrarios, según el 
+INEGI
+ (2002). En este 
+trabajo contamos con la información del VIII Cen-
+so Ejidal que presenta 30 305 ejidos y comunida-
+des agrarias con alrededor de 105 millones de hec-
+táreas. Para expandir cada polígono a los límites 
+que marca la tenencia de la tierra ejidal o de bienes 
+comunales, se utilizaron 12 501 polígonos de nú -
+cleos agrarios. En este caso se trata de 21 080 248
+hectáreas en territorio indígena enlistadas en el Re-
+gistro Agrario Nacional a finales de 2002 (VIII Cen-
+so ejidal 2002). Tenemos, además, 6 952 845 de 
+hectáreas que corresponden principalmente a la 
+pequeña propiedad o a algunos ejidos y comunida-
+des que están en litigio y que no aparecen en el 
+registro agrario. Esta superficie se obtuvo con los 
+polígonos de Thiessen antes mencionado.
+Predomina la propiedad ejidal con 91.9 por 
+ciento en los núcleos agrarios, y los bienes comu-
+nales se expresan con 8.1 por ciento, (
+INEGI
+ 2008) 
+excepto en el estado de Oaxaca, que alberga 50 
+por ciento de todas las tierras comunales del país. 
+Históricamente, las instituciones agrarias na-
+cionales han desarrollado una política explícita 
+para “ejidalizar” los territorios comunales de los 
+pueblos indígenas. Con este mecanismo es más 
+fácil que accedan fuerzas externas al usufructo de 
+los recursos naturales y a la apropiación privada 
+Anciano que carga un burro con bolsas de granos.
+----------------Page (68) Break----------------
+Regiones, territorio, lenguas y cultura de los pueblos indígenas
+69
+del territorio, creándose así —por lo menos de 
+manera teórica— mercados de tierras y las bases 
+para la nueva concentración de la tierra por el ca-
+pital privado. Esto se acentúa a partir de las refor-
+mas al artículo 27 constitucional en 1992, que 
+permiten convertir vía Procede los bienes comu-
+nales en ejidales y así llegar paulatinamente a la 
+desincorporación de la llamada propiedad social. 
+Sin embargo, este último pronóstico no se con-
+cretó ya que el número de ejidos y comunidades 
+agrarias creció 4 por ciento, pasando de 30 305 en 
+2001 a 31 518 en 2007 (
+INEGI
+2008).
+Desde el Porfiriato, algunos pueblos indíge-
+nas tuvieron la posibilidad de comprar como pro-
+piedad privada su propio territorio comunal. Por 
+ejemplo, en la sierra mazateca de Oaxaca; en Zon-
+golica, Veracruz; en la Sierra Norte de Puebla, o 
+bien en Pantepec, Simojovel, San Cristóbal de las 
+Casas, Salto de Agua y San Juan Cancuc, Chiapas. 
+En cada uno de estos lugares advertimos un pre-
+dominio de la pequeña propiedad o bien la mo-
+dalidad del “condueñazgo”, presente todavía en 
+la Huasteca veracruzana. En el trabajo de Toledo 
+(Toledo et al ., 2001), citando a la Procuraduría 
+Agraria, encontramos que se estima que 300 mil 
+familias indígenas tienen sus tierras en propiedad 
+privada. 
+Que predomine la modalidad ejidal sobre la 
+comunal no significa que se eliminen las tierras 
+de uso común. Éstas pueden tener acceso colec-
+tivo con reglas claras mediante los acuerdos de las 
+comunidades agrarias o bien pueden ser apropia-
+das por poderosos locales o abandonadas por no 
+ser tierras aptas para la agricultura. Las tierras de 
+uso común conservan una gran porción de la ve-
+getación natural (92.4 %) frente a los predios par-
+celados (
+INEGI
+ 2008). Estas tierras proporcionan, 
+asimismo, la leña que consumen los hogares cam-
+pesinos e indígenas. Así, de los siete millones 199 
+mil hectáreas de superficie titulada y certificada 
+en los ejidos y comunidades indígenas en el año 
+2002, 4.7 millones corresponde al área de uso co -
+mún, mientras que la tercera parte —esto es, dos 
+millones de hectáreas— corresponde al usufructo 
+individual de los parcelarios (Robles y Concheiro, 
+2004). El 
+INEGI
+ (2008) reporta que de 105.9 millo-
+nes de hectáreas de tierra propiedad social a nivel 
+nacional, 65.4 millones son de uso común. Cuan -
+do se trata de tierras aprovechables desde el pun-
+to de vista agrícola, el Procede ha impulsado la 
+parcelación, a veces de la totalidad de los ejidos, 
+lo que hace prácticamente inviable el aprovecha-
+miento colectivo de los bosques y selvas.
+8
+ Esta 
+área aumentará si la certificación agraria avanza; 
+sin embargo, muchas comunidades indígenas se 
+niegan entrar al Procede por temor, entre otras ra-
+zones, a la privatización y pérdida de sus tierras. 
+Al respecto, la discusión teórica impulsada a 
+nivel mundial se enfoca en el control de los recur-
+sos por el gobierno de los bienes comunes, cuan-
+do las tierras de uso común tienen esta caracte-
+rística específica (Ostrom, 2000). No ha habido 
+atención suficiente por parte de las políticas 
+públicas a las formas de gobierno de los bienes 
+comunes con relación a la conservación y el desa-
+rrollo. Al contrario, a partir de las reformas cons-
+titucionales al Artículo 27, la Procuraduría Agra-
+ria, en su programa del Procede, inició ilegalmente 
+procesos de parcelación de áreas de uso común 
+de bosques y selvas, haciendo más difícil el apro -
+vechamiento racional. Especialmente, en el su-
+reste se encontraron modalidades indirectas de 
+8
+ Un ejemplo dramático serían las acciones de la Secreta-
+ría de la Reforma Agraria —o su antecesor, el Deparamento 
+de Asuntos Agrarios y Colonización (
+DAAC
+)— y el Procede 
+en los territorios nahua y popolucas en los Tuxtlas, Veracruz. 
+Aquí se negaron los títulos coloniales de tierras comunales, 
+se “ejidalizaron” las tierras comunales muy parcialmente 
+respecto a su titulación original, se expropiaron partes para 
+obras de Pemex que después no se realizaron, caciques loca-
+les indígenas y no indígenas se apropiaron parte de las tie-
+rras. Procede para contrarrestar este proceso distribuyó la 
+tierra en parcelas individuales y las comunidades pierden así 
+los últimos manchones de selvas y bosques. (Lazos y Paré, 
+2000; Velázquez, 2004).
+----------------Page (69) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+70
+repartición del bosque y las selvas en parcelas 
+de igual tamaño, aunque de modo formal aparez-
+can como de uso común. Por otro lado, a pesar de 
+que existan las tierras de uso común en tal magni-
+tud, casi no se destinan recursos públicos para de -
+sarrollar y conservar esos espacios. Por ejemplo, la 
+Sagarpa destina los fondos regionales a tierras agrí-
+colas y ganaderas, mientras que el resto de la tie-
+rra no ha obtenido históricamente apoyo alguno. 
+Los recursos aplicados al desarrollo forestal son, 
+en comparación, muy exiguos.
+4) Criterio de los límites municipales compar-
+tidos. Existen espacios que, por la falta de infor-
+mación de la tenencia, son difíciles de adscribir a 
+tal o cual localidad. Si en estos espacios no hay lo-
+calidades con población no indígena significativa, 
+se aplica por igual el criterio de la contigüidad. 
+Si se trata de límites municipales, con la situación 
+descrita se incorpora el territorio hasta el límite 
+municipal. 
+5) Criterio del contorno compartido por ejidos, 
+comunidades o agrupaciones de pequeñas pro-
+piedades que tienen menos de 40 por ciento de 
+hogares de población indígena. Casi todos los te-
+rritorios tienen miembros dispersos de su comu-
+nidad etnolingüística en sus contornos. Se trata 
+de localidades con hogares indígenas que convi-
+ven con otras localidades no indígenas dentro de 
+ejidos y comunidades o de pequeñas propieda-
+des. El problema para definir el límite territorial 
+de estas localidades es de orden metodológico. 
+Las localidades indígenas contiguas se incluye-
+ron en los territorios sin conocer exactamente el 
+límite territorial real. Una solución menos subje -
+tiva para resolver el problema es generalizar un 
+criterio uniforme identificando las localidades 
+indígenas con las limítrofes no indígenas, de ma -
+nera que cada una se convierte en centro de los po-
+lígonos de Thiessen. La línea equidistante (me-
+diatriz) entre las distintas localidades indígenas y 
+no indígenas indica el límite del territorio. 
+Conclusiones respecto a los territorios actuales 
+de los pueblos indígenas 
+Como se podrá observar, la definición de los terri-
+torios es parte de un proceso cultural, social y polí-
+tico, y se efectúa por aproximaciones. A los munici-
+pios indígenas de las regiones planteadas por la 
+CDI
+ se añadieron las localidades indígenas conti-
+guas a los municipios clasificados “con presencia 
+indígena”; y viceversa, a los municipios netamen -
+te indígenas se les quitaron partes que no tenían 
+localidades indígenas. Los territorios definidos 
+con la metodología propuesta son el “núcleo du-
+ro” mínimo de los pueblos indígenas actuales, en 
+los que se pueden desarrollar políticas autonómi-
+cas, sociales, culturales, económicas que irradien 
+hacia sus periferias. Los territorios indígenas defi-
+nidos aquí con criterios etnolingüísticos y por hoga-
+res pueden ser la plataforma inicial para otras comu-
+nidades que deseen adscribirse o asumirse como 
+parte de éstos, sin que necesariamente hablen el 
+idioma respectivo. Por ejemplo, en la Sierra Norte 
+de Oaxaca varias comunidades se autoadscriben 
+como zapotecas, y aunque el idioma se ha perdi-
+do, la cultura permanece. La adscripción volunta-
+ria es una asignatura pendiente que puede resol -
+verse con una reforma constitucional al artículo 
+2
+o
+, al reconocerse los territorios autonómicos. 
+Por las escalas en que se manejó el sistema de 
+información geográfica, los límites propuestos no 
+son aptos para litigios entre núcleos agrarios. La 
+contigüidad lingüística de las localidades, la do -
+minancia de los hogares indígenas (en 80.9 % de 
+la población total) y su ubicación dentro de los 
+núcleos agrarios y límites municipales permite 
+replantear políticas nacionales y la de los propios 
+pueblos indígenas, y definir a partir de estos te -
+rritorios: 1) formas de organización sociopolítica 
+(comarcas o distritos) que necesariamente reba-
+san a los municipios, distritos judiciales y límites 
+estatales. Las formas de representación política 
+----------------Page (70) Break----------------
+Regiones, territorio, lenguas y cultura de los pueblos indígenas
+71
+Maya
+Tarahumara
+Mixteco
+Zapoteco
+Tepehuán
+Tzeltal
+Huichol
+Zoque
+Chol
+Mixe
+Nahua Gro., Altiplano, Edomex, Oax.
+Nahua
+SLP
+,
+SNP
+,
+NVER
+Maya Lacandón
+Tzotzil
+Chinanteco
+Yaqui
+Cora
+Tlapaneco
+Otomí
+Mayo
+Chatino
+Tojolabal
+Huasteco
+Nahua de Zongolica-Pico de Orizaba
+Cucapa
+Amuzgo
+Purhépecha
+Chontal de Oaxaca
+Seri
+Mazateco
+Totonaca
+Cuicateco
+Pame
+Popoluca
+Mazahua
+Paipai
+Huave
+1 019
+147
+351
+276
+28
+309
+48
+106
+316
+103
+160
+865
+24
+345
+269
+2
+13
+51
+262
+81
+19
+114
+245
+108
+8
+22
+47
+16
+1
+112
+136
+31
+11
+81
+129
+1
+5
+5 343 576
+2 296 183
+1 433 276
+1 302 777
+1 043 235
+690 080
+633 621
+621 857
+564 518
+541 162
+517 769
+499 624
+488 704
+489 748
+462 390
+430 223
+352 286
+281 176
+254 485
+224 228
+202 546
+184 810
+170 395
+148 430
+146 521
+131 093
+128 548
+126 644
+118 656
+112 748
+99 902
+94 212
+93 367
+91 772
+86 285
+68 326
+67 184
+2 097 278
+351 189
+267 520
+471 053
+139 301
+234 694
+199 330
+56 808
+227 816
+139 883
+146 044
+448 079
+1 370
+284 575
+189 090
+19 097
+14 761
+13 253
+234 142
+96 896
+20 531
+45 824
+80 317
+200 558
+8 811
+25 053
+87 496
+9 289
+93 566
+202 506
+214 046
+10 102
+11 112
+18 047
+39 606
+0
+39 695
+7 440 854
+2 647 372
+1 700 796
+1 773 830
+1 182 536
+924 774
+832 951
+678 665
+792 334
+681 045
+663 813
+947 703
+490 074
+774 323
+651 480
+449 320
+367 047
+294 429
+488 627
+321 124
+223 077
+230 634
+250 712
+348 988
+155 332
+156 146
+216 044
+135 933
+212 222
+315 254
+313 948
+104 314
+104 479
+109 819
+125 891
+68 326
+106 879
+CUADRO 3. 
+Propiedad social y privada en los territorios de los pueblos indígenas
+Pueblo
+indígena 
+Polígonos de 
+ejidos y bienes 
+comunales
+Superficie de 
+ejidos o bienes 
+comunales
+(hectáreas)
+Propiedad 
+privada 
+(hectáreas)
+Superficie total
+de territorios 
+indígenas 
+(hectáreas)
+----------------Page (71) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+72
+Nahua del sur de Veracruz
+Nahua de Michoacán
+Guarijio
+Triqui
+Pima
+Chontal de Tabasco
+Quiché
+Popoloca
+Nahua de Durango
+Kiliwa
+Kanjobal
+Pápago
+Mame
+Ixil
+Chocho
+Kikapu
+Cochimi
+Tepehua
+Jacalteco
+Chichimeca Jonaz
+Nahua
+Kumiai
+Matlatzinca
+Chuj
+Chuj - Kanjobal
+Kekchi
+TOTAL
+45
+1
+8
+20
+3
+39
+3
+19
+4
+1
+25
+1
+10
+3
+5
+1
+1
+11
+1
+3
+8
+1
+2
+2
+1
+2
+6 081
+64 806
+56 159
+52 250
+51 734
+43 064
+40 364
+31 369
+29 692
+29 529
+27 546
+23 401
+16 660
+14 644
+14 444
+8 136
+6 937
+6 466
+4 115
+3 777
+3 654
+3 539
+1 774
+1 675
+1 216
+683
+257
+21 080 248
+31 487
+20 059
+30 764
+4 556
+10 703
+39 042
+1 045
+12 580
+7 053
+11
+7 631
+0
+21 152
+0
+3 610
+103
+1 133
+4 912
+0
+742
+10
+5 829
+2 396
+5 877
+0
+3 412
+6 952 845
+96 293
+76 218
+83 014
+56 290
+53 767
+79 406
+32 414
+42 272
+36 582
+27 557
+31 032
+16 660
+35 796
+14 444
+11 746
+7 040
+7 599
+9 027
+3 777
+4 396
+3 549
+7 603
+4 071
+7 093
+683
+3 669
+28 033 093
+CUADRO 3. 
+Propiedad social y privada en los territorios de los pueblos indígenas 
+(C
+ONTINUACIÓN
+)
+Pueblo
+indígena 
+Polígonos de 
+ejidos y bienes 
+comunales
+Superficie de 
+ejidos o bienes 
+comunales
+(hectáreas)
+Propiedad 
+privada 
+(hectáreas)
+Superficie total
+de territorios 
+indígenas 
+(hectáreas)
+culturales hacia aquellos indígenas que viven en los 
+alrededores de los territorios (por lo menos tres 
+millones a nivel nacional), y 3) formas de defensa 
+del patrimonio biocultural, con políticas de mane-
+jo sustentable de recursos naturales, desde las or -
+ganizaciones indígenas. En efecto, la apropiación 
+de los recursos naturales desempeña un papel 
+crucial en el futuro de los pueblos indígenas.
+podrían ser múltiples, como sería la asamblea de 
+representantes de comunidades o grupos de co -
+munidades por variantes lingüísticas que según 
+el 
+INALI
+ serían lo equivalente a las lenguas; 2) for-
+mas de organización sociocultural, donde se defi-
+nan políticas lingüísticas, culturales, de educación, 
+de universidades interculturales, y las radios comu -
+nitarias; desde este núcleo duro se irradian políticas 
+----------------Page (72) Break----------------
+Regiones, territorio, lenguas y cultura de los pueblos indígenas
+73
+Esta propuesta metodológica permite superar 
+discusiones públicas acerca de cómo definir los 
+territorios cuando se presenta más de un pueblo 
+indígena en uno o varios municipios. La cuestión 
+básica es que los municipios y sus cabeceras no 
+fueron organizados en función de las identidades 
+de los pueblos indígenas, sino como centros de 
+relaciones de poder. Por ello, la idea de la remuni-
+cipalización se estancó rápidamente. 
+Se puede objetar que esta metodología sosla-
+ya la profundidad histórica. En efecto, la metodo-
+logía hace un corte sincrónico ubicado en el esta-
+do de cosas actuales con cara al futuro, sin tratar 
+de entrar en el pantanoso e ideológico proceso de 
+legitimar “territorios históricos”. Lo cierto es que 
+lo que observamos hoy como territorios es la su-
+perficie de procesos históricos complejos. En esta 
+complejidad incluimos polígonos con población 
+indígena afuera de su territorio original, mismos 
+que se formaron en procesos de relocalizaciones 
+masivas y colonización; por ejemplo, en Uxpana-
+pa, Veracruz; la zona reclamada por Chiapas de 
+Chimalapas y Oaxaca; en Montes Azules o al sur 
+del municipio de Calakmul, Campeche. 
+La utilización genérica de las lenguas de los 
+pueblos indígenas (por ejemplo: otomí, zapoteco, 
+mixteco, nahua, etcétera) puede dar una idea de 
+unidad territorial para los portadores de las len-
+guas específicas, cuando en realidad alguna re-
+gión ya se ha separado lingüística y culturalmen-
+te por siglos. Sin embargo, tal como se propone 
+esta aproximación puede ser el inicio para el re-
+conocimiento constitucional de los territorios de 
+los pueblos indígenas. Las variantes lingüísticas 
+de un grupo lingüístico pueden agruparse por afi-
+nidades regionales. 
+Con los criterios anteriores se generaron los 
+polígonos de los territorios de los pueblos indí-
+genas actuales. En estos territorios viven en total 
+8 391 944 habitantes, de los cuales 6 792 438 son 
+Pescador del lago Yuriria.
+----------------Page (73) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+74
+población indígena, lo que nos da una abrumado-
+ra presencia en ese territorio de por lo menos 80.9 
+por ciento. Estos territorios densamente habita-
+dos por la población indígena suman 28 033 092 
+hectáreas, las que representan el 14.3 por ciento 
+del territorio nacional.
+Del cuadro 4 se puede concluir que 6.2 por 
+ciento de las localidades con población predomi-
+nantemente indígena tiene menos de 100 habi-
+tantes; 80 por ciento vive en poblaciones de entre 
+100 y 4 999 habitantes, y el 13.5 por ciento en ciu-
+dades con poblaciones de entre 5 000 y 58 697 ha-
+bitantes indígenas. Es así como el carácter rural 
+domina en los territorios.
+Si se considera como ciudades a las que tienen 
+un núcleo urbano con más de 5 000 habitantes, 
+entonces tendríamos en los territorios indígenas 
+alrededor de 80 ciudades con 994 648 habitantes 
+indígenas (véase el anexo 1) con una presencia de 
+hogares indígenas de 40 por ciento y más. 
+Una vez definido el “núcleo duro” de los terri-
+torios de los pueblos indígenas podemos exami -
+nar cómo se distribuyen los habitantes indígenas 
+que viven dispersos en el territorio nacional. 
+Así de los 10 113 411 de población total indígena 
+3 339 857 vive afuera de manera dispersa, 33 por 
+ciento del total, en 28 344 localidades con uno o 
+más hogares indígenas. Sin embargo, de estos ha-
+bitantes indígenas que viven en el exterior de los 
+territorios, 3 172 772 se ubican en un promedio de 
+50 kilómetros a la redonda a partir de los límites 
+territoriales. Podrían considerarse migrantes de 
+larga distancia dentro de la República mexicana 
+565 163 indígenas. La presencia de este “col -
+chón” de población indígena alrededor de los te-
+rritorios puede tener varias explicaciones: 1) los lí-
+mites entre una región netamente indígena con la 
+no indígena no son precisos y las dos regiones tie-
+nen un área de influencia importante; 2) se trata 
+de territorios históricos en que la población ha per-
+dido y está perdiendo su lengua; 3) hay en este 
+“colchón” zonas agrícolas de riego que atraen ma-
+no de obra indígena; 4) hay ciudades cercanas en 
+donde los indígenas se arraigan por más de una 
+generación, y 5) hay zonas indígenas históricas en 
+los alrededores de las ciudades y se convierten 
+en barrios o colonias que mantienen una estrecha 
+relación rural-urbano y urbano-rural, como podría 
+CUADRO 4. 
+Distribución de la población indígena según el tamaño de las localidades
+Habitantes indígenas 
+por localidades en los 
+territorios de los pueblos 
+indígenas
+Localidades Población indígena 
+por hogares
+Porcentaje de la 
+población indígena 
+según tamaño de 
+localidades
+1 a 99
+100 a 499
+500 a 999
+1 000 a 4 999
+5 000 a 9 999
+10 000 a 19 999
+20 000 a 29 999
+49 946
+58 697
+TOTAL
+11 965
+7 496
+1 832
+1 231
+68
+17
+5
+1
+1
+22 616
+446 601
+1 800 289
+1 271 140
+2 326 785
+476 629
+236 923
+125 428
+49 946
+58 697
+6 792 438
+6.6
+26.5
+18.7
+34.3
+7.0
+3.5
+1.8
+0.7
+0.9
+100.0
+----------------Page (74) Break----------------
+Regiones, territorio, lenguas y cultura de los pueblos indígenas
+75
+CUADRO 5. 
+Los territorios de los pueblos indígenas en México
+*
+Pueblo indígena 
+en español y número 
+de variantes 
+o lenguas
+**
+Nombre que se otorga cada 
+pueblo en su lengua
+***
+Extensión 
+territorios 
+indígenas 
+(hectáreas)
+Población 
+indígena
+dentro
+de los 
+territorios
+Porcentaje 
+de 
+población 
+indígena
+dentro 
+de los 
+territorios
+Población 
+indígena 
+fuera
+de los 
+territorios
+Porcentaje 
+población 
+indígena 
+fuera de los 
+territorios
+Población
+ indígena 
+total 
+(dentro y 
+fuera de los 
+territorios)
+Aguacateco
+Ixil: 2
+Kiliwa
+Motozintleco
+Cochimi
+Kickapoo
+Ixcateco
+Kumiai
+Cucapa
+Paipai
+Kaqchikel
+K’iche’
+Seri
+Maya-lacandón
+Pápago
+Pima: 3
+Jacalteco: 2
+Chocholteco: 3
+Tlahuica
+Matlatzinca
+Kekchi
+Chuj-(y-Chuj-Kanjobal)
+Guarijio: 2
+Chichimeca-jonaz
+Tacuate
+Chontal de Oaxaca: 3
+Tepehua: 3
+Pame: 2
+Kanjobal
+Huave: 2
+Cuicateco: 3
+Qyool
+Ixil
+ Ko’lew
+-
+M’Tipa
+Kikapooa
+ Xwja
+Ti’pai m Kamia 
+Es’pei o kuapá
+Kwa’ala, jaspuy pai
+Kaqchikel
+K’iche’
+Konkaak o cmiique iitom
+Hach winik, jach-t’aan.
+Tohono,otham, 
+O’oob o otam, tohono o’otham
+Abuxubal, Jakalteko-Popti’
+Ru nixa ngligua, ngiba
+Tlahuia, pjiekakjoo
+Botuná, matlalzinka
+Q’eqchi’
+Chuj y Chuj Kanjobal, Koti’
+Macurawe o Varolio, warihó
+ Uza
+-
+Slijuala xanuc
+Hamasipini, lhichiwíin
+Xi’úl, xi’iuy
+Kanjobal
+Mero Ikooc, ombeayiüts
+Y’an yivacu o Nduudu yu, duaku
+-
+14 444
+27 557
+-
+7 599
+7 040
+-
+7 603
+155 332
+68 326
+-
+32 414
+212 222
+490 074
+16 660
+53 767
+3 777
+11 746
+-
+4 071
+3 669
+7 776
+83 014
+4 396
+-
+135 933
+9 027
+104 479
+31 032
+106 879
+104 314
+-
+12
+24
+-
+123
+115
+19
+84
+211
+162
+-
+572
+657
+807
+4
+517
+1 016
+858
+-
+1 336
+1 425
+2 118
+1 538
+2 403
+3 617
+6 173
+10 637
+10 501
+11 038
+17 907
+18 335
+-
+80
+100
+-
+63
+85
+11
+44
+75
+42
+-
+90
+99
+100
+0
+48
+85
+64
+-
+86
+92
+86
+60
+82
+100
+72
+94
+85
+76
+97
+97
+15
+3
+-
+67
+71
+20
+158
+106
+69
+221
+482
+64
+9
+2
+818
+567
+185
+483
+1 549
+217
+130
+355
+1 029
+528
+3
+2 359
+682
+1 843
+3 515
+583
+556
+100
+20
+-
+100
+37
+15
+89
+56
+25
+58
+100
+10
+1
+0
+100
+52
+15
+36
+100
+14
+8
+14
+40
+18
+0
+28
+6
+15
+24
+3
+3
+ 15
+ 15
+ 24
+ 67
+ 194
+ 135
+ 177
+ 190
+ 280
+ 383
+ 482
+ 636
+ 666
+ 809
+ 822
+ 1 084
+ 1 201
+ 1 341
+ 1 549
+ 1 553
+ 1 555
+ 2 473
+ 2 567
+ 2 931
+ 3 620
+ 8 532
+11 319
+12 344
+14 553
+18 490
+18 891
+* El 
+INEGI
+(2000) no registra el ku’ahl, mam, olulteco, q’tok, sayulteco, teko, texistepequeño, akateco, ayapaneco. En cambio, se menciona el 
+tacuate que es una variante del mixteco. Véase Catálogo de Lenguas 
+INALI
+. http://www.inali.gob.mx/catalogo2007/#agrupaciones.
+** 
+INALI
+ (2007).
+*** Zolla y Zolla (2004); 
+INALI
+ (2007).
+----------------Page (75) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+76
+CUADRO 5. 
+Los territorios de los pueblos indígenas en México
+*
+(Continuación)
+Pueblo indígena 
+en español y número 
+de variantes 
+o lenguas
+**
+Nombre que se otorga cada 
+pueblo en su lengua
+***
+Extensión 
+territorios 
+indígenas 
+(hectáreas)
+Población 
+indígena
+dentro
+de los 
+territorios
+Porcentaje 
+de 
+población 
+indígena
+dentro 
+de los 
+territorios
+Población 
+indígena 
+fuera
+de los 
+territorios
+Porcentaje 
+población 
+indígena 
+fuera de los 
+territorios
+Población
+ indígena 
+total 
+(dentro y 
+fuera de los 
+territorios)
+Cora: 8
+Trique: 4
+Mame
+Popoloca: 4
+Yaqui
+Tepehuán 3
+Huichol: 4
+Amuzgo: 4
+Tojolabal
+Chatino: 6
+Popoluca
+Zoque
+Chontal-de-Tabasco: 4
+Mayo
+Tlapaneco: 9
+Tarahumara: 5
+Mixe: 6
+Chinanteco: 11
+Purhépecha
+Huasteco: 3
+Chol: 2
+Mazateco: 11
+Mazahua: 2
+Totonaco: 7
+Tzeltal: 4
+Tzotzil: 7
+Otomí: 9
+Mixteco: 81
+Zapoteco: 62
+Maya-Yuc.
+Nahua: 31
+TOTALES
+Nayeri
+Tinujei o driki
+Mam
+Runixa ngiigua, ngiwa
+Hiak-nooki
+Ódami u o’dam
+Wirraritari o wirrárika
+tzáñcuc (tzjon non)
+Tojolwinin’otik, tojol-ab’al
+Kitse cha’tnio o cha’cña, cha’ jna’a
+Núntaha’yi i
+O’de püt
+Yokot’anob o yokot’an
+yorem-nokki
+Me’phaa
+Rarámuri, rarómari raicha
+Ayuukjä’äy, ayuujk
+Tsa ju jmí
+P’urhépecha
+Teenek
+Winik o lakty’añ
+Ha shuta enima, enna
+Jñatio, jnatrjo
+Tachihuiin
+Winik a tel o k’op
+Batsil Inc.’otik o Batzil k’op
+Hña hñu o hñähñü
+Ñuu savi 
+Benni’za , Been’za, Bene xon,
+Maaya t’aan
+Macehuale, Nahua
+367 047
+56 290
+35 796
+42 272
+449 320
+1 18 536
+832 951
+156 146
+230 634
+223 077
+ 109 819
+678 665
+79 406
+321 124
+294 429
+2 647 372
+681 045
+651 480
+216 044
+250 712
+792 334
+315 254
+125 891
+313 948
+924 774
+774 323
+488 627
+1 700 796
+1 773 830
+7 440 854
+2 173 146
+28 033 092
+16 711
+16 694
+3 982
+20 185
+16 986
+27 395
+26 230
+46 733
+41 784
+48 981
+51 826
+63 097
+49 069
+57 504
+104 517
+66 051
+121 475
+156 614
+131 094
+178 846
+189 261
+225 265
+217 057
+271 194
+326 891
+386 222
+343 706
+457 734
+485 791
+956 956
+1 594 117
+6 792 177
+85
+81
+18
+89
+61
+75
+60
+86
+77
+88
+91
+80
+62
+56
+91
+58
+93
+82
+67
+87
+83
+93
+80
+78
+94
+90
+63
+69
+67
+65
+51
+4 334
+2 954
+3 946
+18 131
+2527
+10 901
+8 974
+17 305
+7 392
+12 564
+6 883
+5 153
+15 525
+30 625
+45 205
+9 808
+48 375
+9 242
+35 096
+65 978
+27 126
+38 684
+15 918
+53 043
+74 984
+19 501
+42 802
+199 125
+206 130
+244 674
+504 699
+1 518 281
+3 318 240
+15
+19
+82
+11
+39
+25
+40
+14
+23
+12
+9
+20
+38
+44
+9
+42
+7
+18
+33
+13
+17
+7
+20
+22
+6
+10
+37
+31
+33
+35
+49
+1 866 
+19 665
+20 640
+22 113
+22 712
+27 887
+36 369
+43 535
+54 125
+54 348
+55 864
+56 979
+78 622
+79 694
+102 709
+114 325
+114 426
+130 717
+191 710
+197 072
+205 972
+227 945
+241 183
+270 100
+346 178
+346 392
+429 024
+542 831
+663 864
+730 465
+1 461 655
+3 112 398
+10 110 417
+----------------Page (76) Break----------------
+Regiones, territorio, lenguas y cultura de los pueblos indígenas
+77
+ser el área de Texcoco, o Milpa Alta. El inciso 5 vale 
+especialmente para los nahuas de la zona metro -
+politana, donde viven 722 371 hablantes. 
+Atención especial merece el fenómeno migra-
+torio en la península de Yucatán. La relación co-
+munidades de origen con ciudades y zonas atrac-
+toras en el Caribe mexicano, se ha mantenido 
+estrecha. En general, desde antes de que se desa-
+rrollaran los procesos migratorios masivos, las ciu-
+dades de la península tenían una altísima presen-
+cia de indígenas mayas con predominancia de 
+más de 50 por ciento como, por ejemplo, Vallado-
+lid, Hunucmá. Mérida es, junto con las ciudades 
+de México y Cancún, la que más indígenas alber -
+ga. En Mérida tenemos una inmigración débil 
+acumulada y moderada reciente, esto es, que se 
+trata de una ciudad con gran presencia indígena 
+de larga duración. En el año 2000, 200 963 habi-
+tantes mayas yucatecos —de un total de 664
+550—, esto es 30 por ciento, vivían en la ciudad. 
+Cancún, la ciudad que fue construida por manos 
+mayas, tiene 121 600 habitantes indígenas de una 
+población de 410 117 habitantes esto es 29 por 
+ciento. A diferencia de Mérida, Cancún, Playa del 
+Carmen, Cozumel y en general la costa caribeña 
+mexicana presentan procesos inmigratorios acu-
+mulados y recientes de muy altos a extremos. En 
+Chetumal el ritmo disminuyó ligeramente, ya 
+que pasó de inmigración fuerte a moderada. 
+La fuente básica para la formación territorial 
+de los pueblos indígenas es la propiedad social 
+que se expresa principalmente en ejidos y bienes 
+comunales. En efecto, tenemos por lo menos 
+6 081 ejidos y bienes comunales completos que 
+junto a los fragmentos de propiedad social suma-
+ron 21 080 248 hectáreas del total de 28 033 092. 
+La propiedad social en territorios de los pueblos 
+indígenas abarca por lo menos 77.6 por ciento. 
+Este hecho marca definitivamente las bases de su 
+organización y territorialización. 
+Pareja indígena popoloca, Puebla.
+----------------Page (77) Break----------------
+ESTADOS UNIDOS MEXICANOS
+Isla Ángel 
+de la Guarda
+Isla Cedros
+Isla Tiburón
+Isla Santa
+Margarita
+Archipiélago Juárez
+Isla Cerralvo
+Islas Marías
+G
+O
+L
+F
+O
+D
+E
+C
+A
+L
+I
+F
+O
+R
+N
+I
+A
+O
+C
+É
+A
+N
+O
+P
+A
+C
+í
+F
+I
+C
+O
+P
+URHÉPECHA
+N
+AHUA
+DE
+ M
+ICHOACÁN
+P
+ÁPAGO
+T
+EPEHUÁN
+N
+AHUA DE
+ D
+URANGO
+H
+UICHOL
+C
+ORA
+K
+ILIWA
+P
+AIPAI
+C
+OCHIMÍ
+K
+UMIAI
+C
+UCAPÁ
+S
+ERI
+Y
+AQUI
+M
+AYO
+T
+EPEHUÁN
+T
+ARAHUMARA
+P
+IMA
+G
+UARIJÍO
+D
+E
+S
+I
+E
+R
+T
+O
+D
+E
+A
+L
+T
+A
+R
+S
+I
+E
+R
+R
+A
+D
+E
+S
+A
+N
+P
+E
+D
+R
+O
+M
+Á
+R
+T
+I
+R
+S
+I
+E
+R
+R
+A
+L
+O
+S
+H
+O
+R
+N
+I
+T
+O
+S
+16º
+114º
+112º
+110º 108º 106º 104º
+102º
+18º
+20º
+22º
+24º
+26º
+28º
+30º
+----------------Page (78) Break----------------
+ESTADOS UNIDOS DE AMÉRICA
+Isla Cozumel
+Arrecife Alacranes
+Banco 
+Chinchorro
+GOLFO
+DE
+MÉXICO
+T
+ZELTAL
+T
+ZELTAL
+I
+XIL
+M
+AME
+M
+AYA
+T
+ZOTZIL
+T
+ZOTZIL
+Z
+OQUE
+M
+IXE
+C
+UICATECO
+T
+RIQUI
+N
+AHUA
+Z
+ONGOLICA
+M
+AZATECO
+P
+OPOLOCA
+Y
+ C
+HOCHO
+T
+OTONACA
+T
+EPEHUA
+H
+UASTECO
+P
+AME
+O
+TOMÍ
+M
+AZAHUA
+N
+AHUA
+DE
+ G
+UERERO
+,
+A
+LT I P L A N O
+, EDOMEX, O
+AX
+.
+N
+AHUA
+DE
+ S
+AN
+ L
+UIS
+ P
+OTOSÍ
+,
+SIERRA NORTE DE
+ P
+UEBLA
+,
+NORTE DE
+ V
+ERACRUZ
+A
+MUZGO
+T
+LAPANECO
+M
+IXTECO
+C
+HATINO
+Z
+APOTECO
+DEL SUR
+Z
+APOTECO
+VALLES
+CENTRALES
+Z
+APOTECO
+DEL
+ I
+STMO
+C
+HONTAL
+DE
+ O
+AXACA
+H
+UAVE
+C
+HINANTECO
+P
+OPOLUCA
+T
+OJOLABAL
+J
+ACALTECO
+K
+ANJOBAL
+M
+AYA
+L
+ACANDÓN
+C
+HOL
+C
+HOL
+C
+HONTAL
+N
+AHUA DEL
+SUR DE
+ V
+ERACRUZ
+T
+ERRITORIOS ACTUALES DE LOS PUEBLOS INDÍGENAS EN
+ M
+ÉXICO
+100º
+98º 96º 94º
+92º
+90º 88º
+----------------Page (79) Break----------------
+
+----------------Page (80) Break----------------
+81
+P
+ara definir las regiones prioritarias bioculturales para la conservación y el desarrollo sustentable 
+es necesario analizar la captación de agua y la riqueza biológica tanto natural como domesticada 
+en los territorios de los pueblos indígenas. La aproximación se hará de la siguiente manera.
+I. Estudiar la captación de agua y la localización de los territorios de los pueblos indígenas respecto 
+a las cuencas, así como realizar el inventario de captación y producción de agua en territorios indíge-
+nas, según las isoyetas de precipitación anual.
+II. Determinar la riqueza biológica natural en los territorios de los pueblos indígenas; se realizará 
+mediante dos grandes aproximaciones: 1) el análisis de la Cartografía de Uso del Suelo y Vegetación 
+(series II y III) (
+INEGI
+,1993 y 2002 respectivamente), y 2) el análisis geográfico de cuatro instrumentos 
+institucionales para el diagnóstico y protección de la biodiversidad mexicana, del cual se “propone 
+que se deriven políticas concretas para su preservación, conservación, rehabilitación y recuperación” 
+(Soberón, 2000): a) las áreas naturales protegidas (
+ANP
+) reconocidas por el Sistema Nacional de Áreas 
+Naturales Protegidas (Sinanp) en distintas modalidades, así como las estatales y municipales, b) las 
+regiones terrestres prioritarias (
+RTP
+), c) las regiones hidrológicas prioritarias (
+RHP
+), desde el punto de 
+vista de la riqueza biológica, y d) las áreas de importancia para la conservación de las aves (
+AICA
+).
+1
+III. Analizar la agrobiodiversidad tomando en cuenta los centros de origen y diversificación de las 
+plantas domesticadas en Mesoamérica en el conjunto de los territorios de los pueblos indígenas en un 
+área de influencia de diez kilómetros más allá de los límites.
+Se conjuntarán los tres grandes rubros para definir las regiones bioculturales prioritarias para la con-
+servación in situ de la biodiversidad de los pueblos indígenas.
+1 
+En este estudio no se tomó en cuenta a las Unidades de Conservación, Manejo y Aprovechamiento sustentable de la 
+Vida Silvestre (
+UMAS
+) por carecer de información georreferenciada de los ecosistemas en los cuales se encuentran.
+Construyendo las regiones bioculturales 
+prioritarias para la conservación in situ
+y el desarrollo sustentable
+P. 80
+ Cenote Zacatón, Tamaulipas.
+----------------Page (81) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+82
+La captación de agua en los territorios 
+indígenas, cuencas e isoyetas de 
+precipitación anual
+En esta parte presento un estudio de la captación 
+de agua de los territorios de los pueblos indígenas 
+para las cuencas (alta, media y baja) utilizando las 
+isoyetas de precipitación media anual. Con esta 
+metodología se tiene una aproximación del papel 
+de los territorios de los pueblos indígenas en la 
+captura de agua para el riego de planicies, para las 
+lagunas costeras, para las presas hidroeléctricas, 
+etcétera, y del papel de las regiones y territorios 
+indígenas dentro de eventos especiales como tor-
+mentas y ciclones tropicales. La importancia de 
+la ubicación de los territorios de los pueblos indí-
+genas estriba en que la mayoría de los mismos se 
+ubican por lo general en las cabeceras de cuenca, 
+lugares clave en la captura de agua para el resto 
+de los ecosistemas y para la sociedad. En la siguien-
+te parte no presento un balance de agua (o balan-
+ce hídrico), sino sólo la captación de lluvia según 
+las isoyetas de precipitación anual, esto es: super-
+ficie del territorio indígena “por” precipitación 
+GUATEMALA
+Tuxtla 
+Gutiérrez
+Villahermosa
+Oaxaca
+Palenque
+Tenosique
+Tupilco
+Ocosingo
+Bahías de 
+Huatulco
+La Tinaja 
+Tapachula
+San Cristóbal
+de las Casas
+Frontera
+Ciudad del Carmen
+Acayucan
+Coatzacoalcos
+Veracruz
+Puerto 
+Escondido
+Tuxtepec 
+Córdoba 
+Tehuacán 
+Escárcega
+Comitán
+19º
+18
+797º
+6
+5
+3
+4
+2
+GOLFO 
+DE TEHUANTEPEC
+GOLFO 
+DE MÉXICO
+Río
+ Papaloapan
+Río Atoyac
+Río Tehuantepec
+Río Astata y otros
+Laguna
+Superior
+Laguna
+Inferior
+Mar Muerto
+Río
+Copalita
+Río Colotepec
+ y otros
+Río
+Coatzacoalcos
+Río Tonalá 
+Río Grijalva–
+Villahermosa
+Río Grijalva– 
+Concordia
+Río Huixtla
+Río Grijalva– 
+Tuxtla Gutiérrez
+Río Lacantún
+Río Chixoy
+Río Pijijiapan
+y otros
+Laguna
+de Términos
+Laguna
+del Carmen
+Laguna
+Machona
+SIMBOLOGÍA
+Precipitación en milímetros
+De 350 a 550
+550 a 700
+700 a 900
+900 a 1100
+1100 a 1900
+1900 a 3250
+3250 a 3750
+3750 a 4250
+4250 a 4600
+Principales cuencas
+P
+RECIPITACIÓN EN LOS TERRITORIOS INDÍGENAS
+----------------Page (82) Break----------------
+83
+media anual = captación en millones de metros 
+cúbicos por territorio indígena.
+El territorio mexicano se ha subdivido de ma-
+nera convencional en 38 regiones hidrológicas, 
+incluyendo las islas del Golfo de Baja California. 
+Sin embargo, cada una de estas regiones está con-
+formada por una o más cuencas hidrológicas, mis-
+mas que van a ser recortadas por los territorios de 
+los pueblos indígenas. Este recorte permite anali-
+zar la captación de agua, contabilizada en millo-
+nes de metros cúbicos (Mm
+3
+). Con ello intentaré 
+responder a la pregunta ¿cuál es la contribución 
+en la captación de agua por cuenca de cada pue-
+blo indígena?
+La captación de agua que se calcula en la pre-
+cipitación (obtenida de las isoyetas) por superfi-
+cie es parte del ciclo hidrológico, en el cual una 
+parte regresa al ciclo mediante la evaporación y 
+transpiración, sin que sea accesible directamente 
+para uso humano. Según la condición del am-
+biente, esto es, la calidad de la vegetación natural, 
+los suelos, la precipitación y la captación de agua: 
+1) se intercepta (bosques, selvas, acahuales —bos-
+ques y selvas secundarios—, cultivos, pastizales, 
+etc.); 2) se evapora según la temperatura, veloci-
+dad de los vientos, estación del año, del día, etc.; 
+3) se evo-transpira según las cubiertas vegetales; 
+4) se infiltra según las condiciones del suelo y su 
+capacidad de retención; si la cubierta vegetal es 
+buena, los suelos tienen suficiente porosidad para 
+generar de manera óptima la infiltración; hay ti-
+pos de suelos que lentamente liberan el agua 
+mientras que otros son impermeables, y 5) los es-
+currimientos superficiales y subsuperficiales que 
+se generan principalmente cuando la capacidad 
+de infiltración es excedida por cambios de topo-
+grafía dependiendo del clima y calidad de la ve-
+getación. La dinámica del ciclo del agua se altera 
+gravemente cuando la cubierta vegetal (sobre 
+todo en su estrato arbóreo) es trastocada por acti-
+vidades humanas inadecuadas. Cuando esto suce-
+de, la evaporación, y en el caso de las laderas, la 
+velocidad del agua y su descarga superficial au -
+mentan de modo significativo, de manera que 
+aun con índices de precipitación alta las cuencas 
+se vacían con rapidez. Tenemos así los llamados 
+ríos de respuesta rápida con avenidas de agua im-
+petuosas. Es notoria la ubicación de los territorios 
+de los pueblos indígenas dentro de las cuencas y 
+subcuencas; su ubicación domina claramente en 
+las cabeceras de cuenca. Las corrientes que co-
+rresponden a las cabeceras en la clasificación de 
+Strahler Horton (García e Hinojosa, 2001) domi-
+nan las corrientes de agua con las categorías 1, 2, 3 
+de 7. Las ramificaciones más alejadas de la corrien-
+te principal reciben la categoría 1; la conjunción 
+de dos dendritas 1 forman la ramificación 2; la 
+unión de las categorías 2 de las corrientes gene-
+ran la categoría 3, y así sucesivamente. Para me -
+jorar la captación y formación de los acuíferos, en 
+el manual de la ciudad de Nueva York, además 
+de mitigar los impactos de tormentas extremas, 
+esta clasificación de Strahler-Horton es muy útil 
+porque propone procedimientos claros para cada 
+categoría. 
+En la clasificación hidrológica de las cuencas, 
+la parte que corresponde a las categorías 1 y 2 es la 
+que tiene laderas más fuertes, así cuando aumen-
+ta la velocidad del agua junto con el flujo y la pen-
+diente da el gradiente de erosión. Las categorías 
+3 y 4 se consideran zonas de recarga de los acuí-
+feros, ya que la velocidad y la pendiente son 
+menores, con una capacidad erosiva también me -
+nor. Las categorías 5 y 6 se consideran zonas de 
+saturación de agua sin erosión, y la categoría 7 es 
+área de inundación en las planicies. 
+Los servicios ecosistémicos que corresponden 
+a las categorías espaciales 1, 2 y 3 se pueden carac-
+terizar de la siguiente forma: al captar el agua, las 
+laderas con vegetación pueden controlar par-
+cialmente el flujo de agua y regular mejor el vacia-
+miento de la cuenca; al reducir el flujo y veloci-
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+----------------Page (83) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+84
+dad de agua, la erosión del suelo disminuye y con 
+ello el azolvamiento de las corrientes de las cate-
+gorías 5, 6 y 7. El tema del azolvamiento no es 
+menor, ya que en tormentas extremas los ríos sa-
+len de sus cauces y generan inundaciones consi-
+derables en las planicies. Asimismo, si no se redu-
+ce la velocidad del agua y se regula de alguna 
+manera el flujo, se generan ríos de rápida respues-
+ta a lluvias fuertes y tormentas extremas. Por lo 
+anterior, las compensaciones por servicios ambien-
+tales a los moradores de las cuencas altas debe 
+darse principalmente a los que custodian las co-
+rrientes de agua de las categorías 1, 2 y 3.
+Con la erosión del suelo se disminuye la infil-
+tración o la capa porosa, lo que ocasiona la desapa-
+rición de los manantiales y su posibilidad de apro-
+vechamiento cuenca abajo o de generación de 
+mantos de acuíferos. Los ríos y las lagunas se azol-
+van por la pérdida del suelo cuenca arriba, y el 
+arrastre de materiales genera inundaciones espe-
+cialmente en eventos extraordinarios de lluvia. 
+La sola presencia de la vegetación fomenta al me-
+nos los siguientes servicios ambientales: 1) capta-
+ción, retención y liberación paulatina del agua; 
+2) retención y generación de suelo; 3) regulación 
+de la composición atmosférica porque la captura 
+de CO
+2
+ deviene en la fijación del carbono en los 
+organismos, incluyendo la materia orgánica del 
+suelo y la liberación del oxígeno, y 4) permanen-
+cia y desarrollo de la diversidad biológica; éste es 
+uno de los servicios ambientales menos obvio, pe-
+ro de suma importancia para el buen funciona-
+miento de los ecosistemas.
+En el siguiente segmento evaluaré la impor-
+tancia de la captación de agua en los territorios de 
+los pueblos indígenas.
+Las regiones hidrológicas, las cuencas y la 
+captación de agua correspondientes a los 
+territorios de los pueblos indígenas
+De la sierra tarahumara: pima, guarijío, 
+tarahumara y tepehuán de Chihuahua
+Las cabezas de cuenca del río Fuerte (vertiente 
+del Pacífico) se encuentran dentro de los territo-
+rios de los pueblos tarahumara y tepehuán, mien-
+tras que la cabeza del río Conchos (en vertiente 
+del Golfo) se encuentra principalmente en área 
+de influencia del territorio tarahumara. Los tepe-
+huanes se encuentran también en el parteaguas 
+de la cuenca del río Sinaloa. Los pimas forman 
+parte de la cabecera de la cuenca del río Yaqui, 
+mientras que los guarijíos forman parte de la ca-
+becera de la cuenca del río Mayo. 
+Las isoyetas de precipitación anual de las ca-
+bezas de cuenca de los ríos Fuerte, Conchos, Si-
+naloa y Mayo, ubicadas dentro de los territorios 
+indígenas, son las que tienen registrada la mayor 
+cantidad de lluvias anuales. 
+El río Conchos da servicio a la presa El Grane-
+ro, misma que surte a los distritos de riego 005 de 
+Delicias y 090 del bajo Conchos, que se encuen-
+tran en la zona limítrofe con Estados Unidos. To-
+1
+3
+3
+3
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+2
+2
+2
+1
+1
+FIGURA 1.
+ Zonas críticas (categorías 1, 2, 3) para determinar 
+las áreas de alto riesgo en las partes altas de las cuencas. 
+Sistema Horton-Strahler para clasificar la posición de las 
+corrientes de agua, velocidad y flujo. Los territorios de 
+los pueblos indígenas se encuentran principalmente en las 
+categorías 1, 2 y 3, esto es, de alto riesgo
+----------------Page (84) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+85
+das las demás cuencas de los territorios indígenas 
+drenan hacia el Mar de Cortés. Los ríos son inter-
+ceptados por una red de represas hidroeléctricas 
+que dan servicio a las grandes ciudades de la cos-
+ta y a los sistemas de riego de las llanuras costeras 
+semidesérticas del noroeste de México, donde se 
+da una de las agriculturas comerciales y de expor-
+tación más importantes del país. También las ciu-
+dades de Cajeme, Navojoa, Ciudad Obregón y 
+Guamuchil reciben agua de los sistemas men-
+cionados.
+Las regiones hidrológicas, las cuencas y la captación 
+de agua correspondientes a la Zona Huicot (tepehuán 
+del sur de Durango), Huichol (cora y nahua de 
+Durango), del Tancítaro (Purhépecha) y Nevado de 
+Toluca (otomíes y mazahuas) 
+Esta área de estudio forma parte de tres grandes 
+cuencas: 1) ríos Lerma-Santiago; 2) San Pedro, y 
+3) Acaponeta. La primera es una de las cuencas 
+más grandes de México y tiene su origen en las 
+montañas que rodean el valle de Toluca, destacan-
+do el macizo montañoso del Nevado de Toluca. 
+En esta zona se encuentra la cabeza de cuenca del 
+río Lerma, escurrimiento que da servicio a la ciu-
+dad de México a partir de un proceso de trasvase, 
+a varios distritos de riego y a ciudades como Gua-
+dalajara, que extrae agua del lago de Chapala. 
+Las cabeceras de las tres cuencas se encuen-
+tran en parte de los territorios indígenas. La cali-
+dad de la captación de agua depende del carácter 
+montañoso e inclinación de las laderas, así como 
+de la cubierta vegetal que presenta una mayor 
+densidad de vegetación y de las isoyetas con una 
+mayor precipitación en los parteaguas. Éstas se 
+recargan en esta cabecera, y en el caso de la prime-
+ra da servicio a dos represas enormes: Aguamilpa 
+y El Cajón, así como los sistemas de riego para la 
+producción de caña de azúcar, tabaco y plátano 
+de las planicies, y a la red de abastecimiento de 
+las ciudades de Tepic, Acaponeta y Tuxpan, ade-
+Los Panales, Sierra de Los lobos, Guanajuato. 
+----------------Page (85) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+86
+Las regiones hidrológicas, las cuencas y la captación 
+de agua correspondientes a la Sierra Norte de Puebla, 
+Hidalgo, Veracruz y San Luis Potosí: huastecos, pames, 
+nahuas, otomíes, totonacos. 
+La Sierra Madre Oriental con cara a la vertiente 
+del Golfo de México tiene una importancia pri-
+mordial en la captación de agua. Las isoyetas de 
+precipitación anual llegan en las serranías a más 
+de 4000 mm anuales. En la caída de la sierra hacia 
+el Golfo habitan los pueblos indígenas huasteco, 
+pame, nahua, otomí y totonaco. Asimismo, en la 
+sombra de humedad, en Hidalgo y San Luis Po-
+tosí se encuentran zonas áridas habitadas por los 
+pame y otomíes del valle del Mezquital. De he -
+cho, los cambios en la precipitación, como en la 
+altura, posibilitan el desarrollo de varios tipos de 
+vegetación en distancias relativamente peque-
+ñas. En la Sie rra Norte, los huastecos y nahuas vi -
+ven en la ca beza de cuenca de uno de los afluen -
+tes del río Pánuco, el Moctezuma. El sistema de 
+los ríos de la cuenca del Pánuco forma una serie 
+de humedales en la planicie costera. La cuenca 
+del río Tuxpan tiene altos valores de precipita-
+ción anual en la cabecera, está habitada por oto-
+míes, nahuas y totonacos. La cuenca del río Cazo-
+nes tiene una configuración similar a la anterior, y 
+su cabecera está habitada por comunidades na -
+huas y totonacas. La cuenca del río Tecolutla tie-
+ne en su cabecera igualmente los valores de preci-
+pitación anual más altos (mayores a 4 000 mm), 
+región que comparten nahuas y totonacos. Estos 
+últimos extienden su presencia prácticamente 
+hasta la costa. La cuenca forma humedales impor -
+tantes en su salida hacia el mar.
+En 1999 se presentaron en toda esta sierra 
+eventos especiales de lluvia durante tres días, pre-
+cipitándose en sólo 24 horas más de 420 mm, ori-
+ginando uno de los mayores desastres por inunda-
+ción que se haya vivido en México. En efecto, las 
+inundaciones de 1999 generaron en la región 
+muertes, miles de damnificados y pérdidas econó-
+más del sistema de humedales costeros. De la sa-
+lud de estos ecosistemas depende la captación de 
+agua para las presas Aguamilpa y El Cajón.
+En efecto, si la deforestación avanza, el azolve 
+por arrastre de suelo hacia las presas las hará invia-
+bles en el mediano o largo plazo. Asimismo, el dis-
+trito de riego con agricultura de escala, sobre todo 
+del tabaco, depende de la salud de las presas y de 
+los ecosistemas de los territorios indígenas men-
+cionados. La ciudad de Tepic igualmente se nu-
+tre del agua de la sierra Huicot.
+Las isoyetas de precipitación anual con valores 
+regionales más altos coinciden con los territorios 
+indígenas. Estas serranías son también amortigua-
+dores de eventos extraordinarios como tormentas 
+tropicales, huracanes y ciclones. Estos sucesos tie-
+nen una recurrencia de 2 a 4 años en la parte norte 
+de la región Huicot; de 5 a 7 años en el territorio 
+huichol, y en la parte media de 8 a 26 años.
+2
+ Cuan-
+do entra un huracán en la zona se generan desla-
+ves, erosión severa y sobre todo desbordamiento 
+de los principales ríos e inundaciones en las plani-
+cies costeras. En la región Huicot se provocan pre-
+cipitaciones intensas que derivan en inundacio-
+nes en las partes bajas (planicies y costa); entre los 
+años 1950 a 1989 se registraron de 91 a 135 even-
+tos de alta intensidad de lluvias, lo que provocó 
+136 inundaciones (
+INI
+, 2000).
+El territorio purhépecha se ubica en el macizo 
+montañoso del Tancítaro. Se trata de un partea-
+guas que vierte hacia la cuenca Lerma-Chapala 
+por un lado y a la cuenca del Tepaltepec-Balsas 
+por otro. También se localizan los sistemas de rie-
+go que de ahí se generan. Por otro lado, las localida-
+des mazahuas y otomíes están representadas por 
+puntos en una de las cabeceras de cuenca del siste-
+ma Lerma- Chapala, desde el Nevado de Toluca. 
+2
+ Véase el mapa “Estados afectados por la penetración 
+de ciclones tropicales, según su periodo de recurrencia 1961-
+1988”, en 
+INI
+(2000).
+----------------Page (86) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+87
+Ritual para pedir la lluvia el día de la Santa Cruz, manantial en Albarrada, Chiapas.
+micas considerables (
+INI
+, 2000: 32). La pregunta 
+obligada es si con un buen manejo de las laderas, 
+y con la preservación de las cubiertas de vegeta-
+ción, el desastre hubiese sido menor. La velocidad 
+de vaciamiento de las cuencas depende necesaria-
+mente de la calidad de la cubierta vegetal. Hubo 
+deslaves importantes y millones de toneladas de 
+suelo se fueron hacia las planicies costeras y el 
+mar elevando el lecho de los ríos, situación que 
+devino en el desbordamiento de los mismos. 
+Las regiones hidrológicas, las cuencas y la captación 
+de agua correspondientes a la Montaña de Guerrero 
+y Mixteca alta y baja: nahua de Guerrero, tlapaneca, 
+mixteco, amuzgo, triqui
+El pueblo indígena nahua de Guerrero y sus colin-
+dantes de Puebla, así como los pueblos tlapaneca, 
+mixteco de Guerrero y Oaxaca, amuzgo de Gue-
+rrero y Oaxaca y los triqui conforman lo que lla-
+mamos la Montaña de Guerrero y la Mixteca alta 
+y baja. La delimitación de la región es problemá-
+tica porque los estados dividen a los mixtecos y a 
+los amuzgos a pesar de que los territorios forman 
+una unidad social y lingüística, que es el criterio 
+que sigo a lo largo de este trabajo.
+Los territorios indígenas se ubican principal-
+mente en los parteaguas de varias subcuencas 
+que alimentan al río Balsas y a varios ríos de la ver-
+tiente del océano Pacífico. Para la vertiente del 
+Atlántico se encuentra el parteaguas del Papa-
+loapan.
+La cuenca del río Balsas es una de las más gran-
+des e importantes del país. Se forma entre las sie-
+rras Madre Oriental y Occidental. Hacia la ver-
+----------------Page (87) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+88
+FIGURA 2.
+ Territorios rarámuris y tepehuán y áreas de riego en la costa de Sonora y Sinaloa. Los rarámuris y tepehuanes 
+“producen” agua para alimentar las lagunas costeras, las grandes represas para la generación de energía eléctrica y el riego de 
+la agricultura comercial, principalmente de exportación. En la imagen se observan los límites de los territorios indígenas; en las 
+planicies costeras los canales de riego de la agricultura comercial en Sinaloa y Sonora. 
+tiente del Pacífico, la cuenca del Balsas tiene 
+longitudinalmente su cabecera de cuenca colin-
+dando con varias cuencas y ríos que se originan 
+en esas cabeceras. Los ríos forman en su salida al 
+mar las llamadas isla barrera, mismas que forman 
+un rosario de lagunas costeras muy dinámicas y 
+vitales para las pesquerías ribereñas. En las cabe-
+ceras de cuenca, las isoyetas señalan una concen-
+tración mayor de humedad por la influencia de 
+los vientos húmedos provenientes del océano Pa-
+cífico que se condensan en las laderas. Al otro la-
+do del parteaguas, de cara a la cuenca del Balsas, 
+las isoyetas señalan una sombra de humedad. Los 
+nahuas de la Montaña de Guerrero tienen princi-
+palmente sus territorios hacia la cuenca del Bal-
+sas-Mezcala, del río Tlapaneco, y una pequeña 
+fracción se ubica en el parteaguas del río Papaga-
+yo. Los tlapanecas se ubican en la cuenca alta del 
+Papagayo, en la cabecera del río Marquelia, mien-
+tras que los mixtecos de esta zona se ubican ex-
+clusivamente en la cuenca alta del río Nexpa. La 
+cuenca del río Ometepec tiene en su cabecera a 
+los mixtecos y en su parte media a los amuzgos, 
+mientras que los mixtecos de la Mixteca baja se 
+encuentran en una pequeña cuenca con salida al 
+mar de la laguna Notengo.
+Sorprende el nivel de precipitación en el terri-
+torio mixteco, ya que va desde los 350 mm hasta 
+los 3 250 mm anuales. Los tlapanecos también 
+tienen un rango impresionante, entre 450 mm y 
+----------------Page (88) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+89
+2250 mm, en un territorio relativamente peque-
+ño. Viven en el parteaguas de tres cuencas: Papa-
+gayo, Nexpa y Ometepec. 
+Las regiones hidrológicas, las cuencas y la captación 
+de agua correspondientes a la sierra sur de Oaxaca: 
+chatino y zapoteco del Istmo, chontal 
+de Oaxaca, huave y mixe 
+Los pueblos indígenas de la sierra sur de Oaxaca 
+ocupan una extensión aproximada de 800 000 ha; 
+se trata de pueblos serranos que viven en los par-
+teaguas de las cuencas. Así, los chatinos abarcan 
+una pequeña porción de las cabeceras de cuencas 
+del río Verde, que da servicio a un distrito de riego 
+en las planicies costeras y a la laguna de Chacahua, 
+que es una área natural protegida. Hacia el otro 
+lado del parteaguas y mirando directamente hacia 
+el océano Pacífico, los territorios chatinos son ca-
+beza de la cuenca del río Grande, Colotepec, y 
+otras más pequeñas que desembocan en las lagu-
+nas costeras. Los zapotecos del sur se encuentran 
+en los parteaguas de un sistema de cuencas y mi-
+crocuencas que se denominan cuencas de la Barra 
+de Coyula y del río Copalita. Este sistema de ríos 
+también da servicio a las lagunas costeras. Final-
+mente, la cuenca del río Tehuantepec en el parte-
+aguas con la cuenca del río Coatzacoalcos tiene a 
+mixes y, en los valles, a representantes del pueblo 
+zapoteco. Sus territorios abastecen a la presa Beni -
+to Juárez y al distrito de riego que se encuentra en 
+el istmo de Tehuantepec, en territorio zapoteco.
+Las cabezas de cuenca del río Atoyac B que 
+forma el río Verde son de alto impacto de huraca-
+nes y en especial en una parte pequeña de la 
+cuenca del río Verde donde se ubican los munici-
+pios mixtecos de Santo Domingo Nuxiño, Santo 
+Tomás Mazatepec y Santa Inés de Zaragoza, y los 
+municipios triqui. En estos lugares hubo varios 
+eventos extraordinarios de lluvia mayores a 400 
+mm en 24 horas durante el periodo de 1940 a 
+1980 (
+INI
+2000). 
+Las regiones hidrológicas, las cuencas y la captación 
+de agua correspondientes a las sierras Norte de 
+Oaxaca y Zongolica de Veracruz: mixes, zapotecos, 
+chinantecos, mazatecos, cuicatecos y nahuas de 
+Zongolica 
+Esta región de los territorios indígenas es cabeza 
+de cuenca de uno de los ríos más importantes del 
+país: el Papaloapan. Las isoyetas de precipitación 
+anual señalan valores por arriba de los 4 000 mm 
+de lluvias al año. La sierra de Juárez forma una 
+barrera montañosa que capta la humedad prove-
+niente del Golfo de México, de tal manera que 
+en su ladera oriente se precipita la mayor parte de 
+la lluvia mientras de su lado occidente se forma 
+una sombra de humedad con precipitaciones ba-
+jas y que conforma regiones con vegetación xeró-
+fita del valle de Cuicatlán-Tehuacán. En estas se-
+rranías se originan los afluentes del río Papaloapan 
+y allí se encuentran los territorios de los pueblos 
+indígenas. En las áreas en donde terminan las se-
+rranías y comienza la planicie costera se encuen -
+tran dos presas importantes, la Cerro de Oro y la 
+Miguel Alemán, cuyo objetivo original fue amorti-
+guar el impacto de las avenidas de agua en even-
+tos extraordinarios como los de 1946 que inunda-
+ron ampliamente la planicie costera. Estas dos 
+presas se utilizan para generación de energía eléc-
+trica y están en un proceso de azolvamiento seve-
+ro. De la salud de los ecosistemas que se encuen-
+tran en los territorios indígenas depende el azolve 
+o no de las presas y de los sistemas más importan-
+tes de humedales de México. En esta zona se pro-
+vocaron más de 136 eventos de inundaciones du-
+rante 1950-1989 (
+INI
+, 2000). 
+La sierra de los Tuxtlas es cabeza de cuenca 
+tanto del río Papaloapan como del Coatzacoalcos. 
+Las isoyetas nos muestran las más altas precipita-
+ciones del país: entre 4 000 y 4 500 mm anuales. 
+Sólo en las partes serranas y en las cabezas de 
+cuenca se conservan las selvas altas y bosques me-
+sófilos de montaña, mientras que en la mayoría 
+----------------Page (89) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+90
+del territorio dominan los pastizales inducidos 
+por la ganadería extensiva. En esta zona se regis-
+tran eventos de depresiones tropicales con preci-
+pitaciones de más de 400 mm en 24 horas. Esta 
+área fue severamente afectada por las lluvias to-
+rrenciales de 1999. Entre 1950 y 1989 (
+INI
+, 2000: 
+33) se produjeron más de 136 inundaciones. Esta 
+región alimenta al sistema de agua potable de 
+Coatzacoalcos y Minatitlán. 
+Las regiones hidrológicas, las cuencas y la captación 
+de agua correspondientes a la cuenca de los ríos 
+Coatzacoalcos y Tonalá: mixes y zapotecos, zoques 
+de Chimalapas, mazatecos y chinantecos, mixtecos 
+relocalizados en Uxpanapa
+Las bases de datos consultadas muestran que de 
+cara al Golfo de México se registran las más altas 
+precipitaciones del país (entre 3000 y 4 500 mm 
+anuales). Estos eventos tienen lugar en las cabe-
+ceras de la cuenca del río Coatzacoalcos, justo en 
+el parteaguas de la vertiente del Golfo y del Pací-
+fico. En este parteaguas, en su parte Pacífico, el 
+territorio mixe forma parte de una de las cabece-
+ras del río Tehuantepec, del río de los Perros y del 
+Te q u i l a , m i e n t r a s q u e h a c i a l a v e r t i e n t e d e l P a -
+cífico el territorio está en una zona de recarga de 
+la cuenca de una parte seca que se encuentra en 
+la sombra de humedad. Los eventos de inunda -
+ción registrados para el Pacífico están entre los 91 
+y 135 para el periodo de 1950 a 1989, mientras 
+que para la vertiente del Golfo se registraron más 
+de 136 en el mismo periodo.
+En la cabeza de la cuenca del río Tonalá la pre-
+cipitación anual es aún más alta, ya que se alcan-
+zan valores de hasta 4 500 mm anuales y más. En 
+esta zona habitan los zoques al igual que en Chi -
+malapas. 
+Las regiones hidrológicas, las cuencas y la captación 
+de agua correspondientes a los territorios de los pueblos 
+indígenas de la cuenca del río Grijalva-Usumacinta: 
+alto Grijalva, Grijalva medio y Usumacinta
+Las cuencas del Usumacinta y del Grijalva for-
+man un sistema complejo y formidable que invo-
+lucran selvas y bosques, territorios importantes 
+de los pueblos indígenas. Se conforma práctica-
+mente de tres cuencas: Usumacinta, alto y medio 
+Grijalva; es difícil separar las cuencas ya que sur-
+can las planicies de Tabasco donde forman un sis-
+tema de humedales altamente productivo desde 
+el punto de vista ecológico (pantanos de Centla y 
+laguna de Términos). Su origen está en las sie-
+rras, en parte del macizo montañoso de los Chi-
+malapas, los Altos de Chiapas y la Sierra Madre 
+del Sur. La selva Zoque y Lacandona son en par-
+te los grandes captadores de agua; sin embargo, 
+de manera especial las serranías con cara al Golfo 
+en donde las isoyetas de precipitación anual nos 
+marcan valores de 4 000 a 5 000 mm.
+Niña tojolabal de Chinkultik, Chiapas.
+----------------Page (90) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+91
+La Sierra del Sur de Chiapas —donde conver-
+gen diversos pueblos indígenas: tzotziles, tezelta-
+les, tojolabales, mames, kanjobales, chujs y jacal-
+tecos— es la principal proveedora de agua de la 
+depresión del Grijalva. En efecto, esta sierra tie-
+ne altos índices de precipitación, en especial ha-
+cia Guatemala y en el parteaguas entre la vertien-
+te del Golfo de México y la del Pacífico. En esta 
+zona existen áreas de bosque mesófilo donde 
+llueven entre 2000 y 3500 mm anuales. 
+En el lado de la depresión del Grijalva se ubi-
+can varias comunidades tzeltales, así como en di-
+rección a la frontera con Guatemala se encuentran 
+comunidades mames, kanjobales y chuj. En el 
+otro lado de la depresión, hacia el parteaguas entre 
+la cuenca del Grijalva y el Usumacinta, se encuen-
+tran varias comunidades tzeltales. La cuenca alta 
+del Grijalva da servicio a las presas La Concordia, 
+Angostura y Sumidero. 
+La parte correspondiente del parteaguas ha-
+cia la cuenca del Pacífico tiene pocas localidades 
+correspondientes a pueblos indígenas. En el Gri-
+jalva medio, alrededor de la Reserva de la Bios-
+fera del Ocote, se encuentran comunidades tzo-
+tziles que colonizaron la parte oriental. 
+En los Altos de Chiapas de cara hacia las pla-
+nicies de Tabasco, están los bosques mesófilos en 
+sitios de muy alta precipitación habitados princi-
+palmente por zoques, tzeltales y choles, y unas 
+localidades tzotziles. Ubicados principalmente 
+en el parteaguas, los distintos pueblos indígenas 
+de la depresión del alto Grijalva se localizan en las 
+cabeceras de cuenca: en específico, en el partea-
+guas de la Sierra Madre del Sur de Chiapas, don-
+de se encuentra el bosque mesófilo. Los tojola-
+bales viven en una de las cabeceras de cuenca del 
+Usumacinta en la selva Lacandona. Se trata de 
+áreas con alto riesgo hidrometereológico, tanto 
+de influencias de eventos de ciclones tropicales 
+del Atlántico como del Pacífico.
+Las regiones hidrológicas, las cuencas y la captación 
+de agua correspondientes a los territorios de los 
+pueblos indígenas de la costa de Chiapas y el río 
+Pijijiapan respectivamente
+En el parteaguas entre la cuenca Grijalva-La Con-
+cordia y del río Pijijiapan de la Reserva del Triunfo 
+se encuentran asentadas algunas comunidades 
+tzeltales. Hacia el lado de la costa de Chiapas una 
+pequeña porción corresponde a este grupo étnico.
+Apantle en Jiquipilco El Viejo, Estado de México.
+----------------Page (91) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+92
+CUADRO 1.
+ Resumen de captura de agua por cuenca , dentro de los territorios indígenas
+*
+Región 
+hidrológica
+Cuenca Pueblo
+indígena
+21.25
+67.91
+21.55
+20.72
+37.23
+49.30
+30.42
+56.32
+73.10
+23.92
+57.04
+15.56
+58.68
+37.20
+33.23
+77.27
+42.30
+30.79
+32.89
+29.87
+17.42
+64.35
+30.06
+138.64
+3 207.85
+3 056.99
+5 298.21
+4 112.05
+26 999.74
+3 703.68
+1 636.31
+8 677.54
+1 562.07
+12 040.22
+819.04
+2 273.08
+1 538.65
+899.48
+26 997.34
+23 676.07
+6 797.86
+11 147.27
+2 366.16
+1 275.64
+9 104.57
+12 161.09
+652.34
+4 723.37
+14 186.50
+25576.28
+11 044.93
+54 769.35
+12 174.32
+2 905.52
+11 871.56
+6 529.94
+21 109.98
+5 264.62
+3 873.46
+4 135.81
+2 706.52
+34 936.77
+55 969.91
+22 075.46
+ 33 891.86
+7 922.15
+7 322.65
+14 149.54
+40 455.37
+Cucapa, Kiliwa, Paipai
+Nahua Gro., Altiplano Edomex y Oax., 
+Mixteco, Tlapaneco, Zapoteco
+Nahua Gro. Altiplano Edomex y Oax., 
+Mixteco, Tlapaneco
+Nahua
+SLP
+ 
+SNP
+y
+NVER
+, Nahua Gro., Altiplano 
+Edomex y Oax.
+Tarahumara
+Chinanteco, Mazateco, Mixe, Mixteco, Nahua 
+del Sur de Veracruz, Popoloca, Popoluca, 
+Totonaca, Tzeltal, Tzotzil, Zapoteco, Zoque
+Nahua Gro., Altiplano Edomex y Oax.,
+Mixteco, Tlapaneco
+Amuzgo, Mixteco, Zapoteco
+Amuzgo, Mixteco, Tlapaneco, Triqui
+Amuzgo, Mixteco, Tlapaneco
+Amuzgo, Chatino, Chocho, Mixe, Mixteco, 
+Triqui, Zapoteco
+Nahua de Michoacán
+Zapoteco
+Chatino, Mixteco, Zapoteco
+Chontal de Oaxaca, Huave, Zapoteco
+Chol, Chuj, Chuj - Kanjobal, Kanjobal, Mame, 
+Maya Lacandón, Tojolabal, Tzeltal, Tzotzil, Zoque
+Chol, Chontal de Tabasco, Tzeltal, Tzotzil, Zoque
+Tojolabal, Tzeltal, Tzotzil, Zapoteco, Zoque
+Chol, Chontal de Tabasco, Maya Lacandón, 
+Tzeltal, Zoque
+Cora, Huichol
+Mazahua, Nahua, Otomí
+Cora, Huichol, Tepehuán
+Nahua
+SLP
+ 
+SNP
+y
+NVER
+, Nahua Gro., Altiplano 
+Edomex y Oax., Huasteco, Matlatzinca, Mazahua, 
+Mixteco, Nahua, Otomí, Tepehua, Totonaca
+Baja California 
+Noreste
+Balsas
+Bravo-Conchos
+Coatzacoalcos
+Costa Chica-
+Río Verde
+Costa de 
+Michoacán
+Costa de 
+Oaxaca
+Grijalva-
+Usumacinta
+Lerma-
+Santiago
+Pánuco
+Lago Salado-
+Arroyo del Diablo
+Río Tlapaneco
+Río Balsas-Mezcala
+Río Atoyac-A
+Río Florido
+Río Coatzacoalcos
+Río Papagayo
+Río Ometepec o Grande
+Río Ometepec o Grande
+Río Nexpa y otros
+Río Atoyac-B
+Río Cachán o 
+Calcomán y otros
+Río Copalita y otros
+Río Colotepec y otros
+Río Astata y otros
+Río Lacantún
+Río Grijalva-Villa Hermosa
+Río Grijalva-Tuxtla Gutiérrez
+Río Chixoy
+Santiago-Aguamilpa
+Río Lerma-Toluca
+Río Huaynamota
+Río Moctezuma
+Captura 
+de agua en 
+Mm
+3
+ de la 
+totalidad 
+de la cuenca
+Captura 
+de agua 
+en Mm
+3
+en la 
+cuenca 
+Porcentaje 
+de captura 
+de agua en 
+la cuenca
+* Sólo con valores mayores o iguales a 15 por ciento de captación de agua expresada en millones de metros cúbicos (Mm
+3)
+.
+----------------Page (92) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+93
+Las regiones hidrológicas, las cuencas y la captación 
+de agua correspondientes a los territorios de los 
+pueblos indígenas de la Península de Yucatán
+Las regiones hidrológicas de la Península de Yuca-
+tán se clasifican de la siguiente manera: Yucatán 
+Norte, Este y Oeste, con sus respectivas cuen cas. 
+No hay escurrimientos superficiales, en especial 
+en el norte, por lo que el sistema de cuenca no es 
+muy claro. En efecto, la Península de Yucatán es 
+una plataforma cárstica relativamente reciente, 
+sin cabezas hidrostáticas, donde se infiltra rápida-
+mente y cuyos acuíferos drenan lentamente de 
+sur a norte hacia la costa.
+Conclusiones
+En los territorios de los pueblos indígenas de Mé-
+xico se captan anualmente 364 387.47 Mm
+3 
+de 
+agua en promedio anual. Esta cifra comparada con 
+la captación nacional, que es de 1 566 301.39 Mm
+3 
+,
+significa 23.3 por ciento del total nacional, esto en 
+cuanto a captación vertical. Si se descuenta la evo-
+transpiración, los territorios de los pueblos indíge-
+CUADRO 1.
+ Resumen de captura de agua por cuenca, dentro de los territorios 
+indígenas
+(Continuación)
+Región 
+hidrológica
+Cuenca Pueblo 
+indígena
+57.86
+34.27
+32.11
+59.10
+20.23
+66.40
+67.41
+41.93
+57.66
+34.50
+87.85
+77.60
+71.42
+26.96
+33.69
+38.96
+49.16
+50 392.13
+9 295.92
+4 406.87
+16 311.07
+348.99
+6 103.02
+5 116.90
+4 297.90
+7 856.83
+2 249.95
+39 662.74
+14 438.05
+18 916.63
+5 401.67
+5 693.12
+4 406.13
+364387.47
+87 092.44
+27 123.95
+13 722.29
+27 598.63
+1 725.04
+9 191.16
+7 591.17
+10 251.31
+13 625.12
+6 522.10
+45 146.30
+18 604.81
+26 487.60
+20 037.81
+16 900.53
+11 310.73
+741179.2
+Chinanteco, Chocho, Cuicateco, Mazateco, 
+Mixe, Mixteco, Nahua del Sur de Veracruz, 
+Nahua Zongolica - Pico de Orizaba, Popoloca, 
+Popoluca, Zapoteco
+Cora, Huichol, Nahua de Durango, Tepehuán
+Cora, Huichol, Nahua de Durango, Tepehuán
+Mayo, Tarahumara, Tepehuán
+Mayo
+Chontal de Oaxaca, Huave, Mixe, Zapoteco
+Cucapa, Huave, Mixteco, Tzotzil, Zapoteco, Zoque
+Nahua
+SLP SNP
+y
+NVER
+, Huasteco, Otomí, 
+Tepehua, Totonaca
+Nahua
+SLP SNP
+ y
+NVER
+, Totonaca
+Nahua
+SLP SNP
+ y
+NVER
+, Otomí, Totonaca
+Maya
+Kanjobal, Maya
+Chol, Maya, Otomí, Totonaca, Tzeltal, Tzotzil
+Chol, Ixil, Kekchi, Maya, Nahua, Quiché, Tzotzil
+Chol, Chontal de Tabasco, Ixil, Kanjobal, Kekchi, 
+Mame, Maya, Quiché, Tzeltal, Tzotzil
+Chol, Maya, Quiché, Tzeltal
+Papaloapan
+Presidio-
+San Pedro
+Sinaloa
+Tehuantepec
+Tuxpan-Nautla
+Yucatán Norte
+Yucatán Este
+Yucatán Oeste
+TOTAL
+Río Papaloapan
+Río San Pedro
+Río Acaponeta
+Río Fuerte
+Estero de Bacorehuis
+Río Tehuantepec
+Laguna Superior e Inferior
+Río Tuxpan
+Río Tecolutla
+Río Cazones
+Yucatán
+Quintana Roo
+Cuencas Cerradas-B
+Bahía de Chetumal y otras
+Río Champotón y otros
+Cuencas Cerradas-A
+Captura 
+de agua en 
+Mm
+3
+ de la 
+totalidad de 
+la cuenca
+Captura 
+de agua 
+en Mm
+3
+en la 
+cuenca 
+Porcentaje 
+de captura 
+de agua en 
+la cuenca
+----------------Page (93) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+94
+nas suministran 121 462.49 Mm
+3 
+ de agua, misma 
+que sirve para el abasto de los territorios, para el 
+equilibrio de los ecosistemas y para la sociedad 
+en general. 
+En su mayoría, los territorios de los pueblos 
+indígenas se ubican en las cabezas de cuencas, 
+ahí donde principalmente están las categorías 1, 2 
+y 3 dentro de la clasificación de Strahler-Holton, 
+es decir, donde se captura el agua y adquiere la 
+mayor velocidad en el escurrimiento, y que reci -
+ben un impacto directo de eventos extraordina-
+rios, como los huracanes o tormentas tropicales
+El cuadro 1 posiciona a los pueblos indígenas 
+de manera especial en el tema de la “producción” 
+del agua ante la creciente demanda nacional. El 
+cuadro 2 presenta una correlación importante en-
+tre territorios indígenas y precipitación, la com-
+paración del territorio que abarcan las isoyetas de 
+precipitación anual a nivel nacional con los terri-
+torios indígenas arroja los siguientes valores: 
+Los porcentajes en el cuadro 2 se establecen 
+respecto a los valores nacionales. A partir de los 
+valores de precipitación en territorios indígenas 
+comparados con los nacionales podemos concluir
+que si bien éstos abarcan 14.3 por ciento del terri-
+torio nacional, se encuentran en la mitad o más 
+de los territorios donde más precipitación hay. 
+Los pueblos indígenas que más altos valores al-
+canzan —4 000 mm y más— en la precipitación 
+son los mame, choles, zoques, chinantecos, ma-
+zatecos, nahuas de Zongolica, nahuas de la Sierra 
+Norte de Puebla, nahuas de los Tuxtlas, popolu-
+Río de la zona de Cuetzalan, Puebla. 
+----------------Page (94) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+95
+cas, y totonacos. Estas regiones se consideran 
+como de alto impacto de tormentas tropicales o 
+huracanes, así como nortes con carga de agua in-
+usual. A veces son áreas de confluencia de dos o 
+más fenómenos climáticos. El buen manejo de las 
+laderas puede redundar en la mitigación de desga-
+jamientos de cerros e inundaciones graves en las 
+planicies principalmente costeras.
+En los territorios indígenas se captura el agua 
+para la mayoría de las presas que en el norte del 
+país forman los distritos de riego de la agricultura 
+de alto rendimiento y de sistemas importantes 
+para la generación de electricidad. Asimismo, ciu-
+dades importantes, incluyendo el Distrito Fede-
+ral, son abastecidas de agua parcial o totalmente 
+por los pueblos indígenas. Sin embargo, no exis-
+ten prácticamente procesos compensatorios para 
+los pueblos indígenas por este servicio. En este 
+sentido, llama la atención que no haya una clara 
+política pública con relación a los pueblos indí-
+genas para que conserven la salud de los ecosis-
+temas de estas cabeceras de cuenca en sus territo-
+rios. Al contrario, según Peña (2004: 93), la gestión 
+del agua a nivel nacional es un campo de conflic-
+tividad con los pueblos indígenas; desde las ciu-
+dades el agua se considera “dada” y no se admite 
+la necesidad de procedimiento compensatorio 
+para los dueños de los territorios ni obras para me -
+jorar la captación. Asimismo, el trasvase entre 
+cuencas para el abastecimiento de las ciudades 
+puede reducir drásticamente el acceso de las co-
+munidades al agua, tanto para consumo humano 
+como para la pequeña irrigación (caso de los ma-
+zahuas y la ciudad de México). El intento de apro-
+piación de los manantiales por parte de la indus-
+tria refresquera es una realidad en algunos estados 
+de la República (por ejemplo, Oaxaca). 
+En el año 2000, 42 por ciento de hogares indí-
+genas carecían de agua entubada y 70 por ciento 
+carecía de servicios de saneamiento de las aguas 
+servidas (Peña, 2004: 93). En la administración 
+del agua, los usuarios (las comunidades) entregan 
+su trabajo gratis para generar la infraestructura del 
+abastecimiento. La administración del agua en 
+los territorios indígenas por parte de los usuarios 
+(riego y hogares) tiene varias modalidades que 
+van desde acuerdos comunitarios para mantener 
+forestado tal o cual manantial, comités de riego 
+cuando hay escasez de agua para la irrigación, 
+hasta la formación de comités para la introduc-
+ción y la conservación del agua para uso domésti-
+co. Destaca aquí el trabajo de faena (comunitario 
+obligatorio) para la construcción de cajas de agua, 
+zanjas y colocación de tuberías. Los comités de 
+agua velan por el mantenimiento y el buen funcio-
+namiento del abasto de agua. 
+Ante la importancia del papel de los territorios 
+de los pueblos indígenas para la captación de 
+CUADRO 2. 
+Área de precipitación anual respecto del territorio nacional y los territorios indígenas
+6.24
+30.74
+43.66
+53.45
+63.98
+66.94
+8 532 005
+14 371 309
+3 668 474
+1 136 878
+192 073
+35 526
+136 710 019
+46 756 953
+8 402 636
+2 126 886
+300 197
+53 071
+<1 000
+1 000 a 2 000
+2 000 a 3 000
+3 000 a 4 000
+4 000 a 4 500
+> 4 500
+Precipitación anual
+rangos (mm)
+Territorio nacional
+ isoyetas de precipitación 
+anual (por hectárea)
+Territorio indígena isoyetas 
+de precipitación anual 
+(por hectárea)
+Porcentaje respecto a los 
+valores nacionales
+----------------Page (95) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+96
+agua cuenca arriba, debe impulsarse una alianza 
+estratégica entre pueblos indígenas y Estado para 
+garantizar el derecho humano de acceso al agua 
+de las poblaciones indígenas, así como políticas 
+de retribución como parte del desarrollo susten-
+table para estas zonas. La política de desarrollo 
+sustentable en los territorios de los pueblos indí-
+genas pasa por el fortalecimiento y empoderamien-
+to de las organizaciones locales y regionales para 
+el manejo del bien común. Asimismo, las estrate-
+gias de organización y de manejo de las cuencas 
+requieren ordenamientos territoriales para forta-
+lecer las reglas del gobierno de ese bien común. 
+De la integridad de los ecosistemas depende la 
+calidad de la captación d e agua, la infiltración, la 
+evotranspiración y los escurrimientos superficia-
+les y subsuperficiales. La velocidad del vaciamien-
+to de la cuenca depende, asimismo, de la calidad 
+de la cubierta vegetal. Los ecosistemas naturales 
+en su mayor complejidad son los mejores méto -
+dos para la infiltración del agua y dosifican el escu-
+rrimiento superficial y la evotranspiración.
+Por otro lado, la remoción de la vegetación ge-
+nera erosión del suelo, acelera el escurrimiento y 
+el vaciamiento de la cuenca, así como el azolva-
+miento de los cuerpos de agua naturales y artifi-
+ciales, incluyendo ríos, lagunas costeras y presas, 
+lo que pone en entredicho la sustentabilidad y 
+funcionamiento a mediano y largo plazos de las 
+mismas. Casi todas las cabezas de cuencas están 
+perdiendo suelos, las presas se están azolvando y 
+la sustentabilidad de la generación de electrici-
+dad a largo plazo tiene una merma importante ya 
+que las presas pierden su capacidad de almace-
+namiento para el riego. En efecto, los territorios 
+de los pueblos indígenas tarahumara, huicot, ma-
+zahua otomí, nahua de Zongolica-Córdoba, Sie -
+rra Norte de Puebla, Huasteca, la Costa y Sierra 
+Sur de Oaxaca, la Mixteca Alta, el alto Papa-
+loapan, los Valles Centrales y zona centro de 
+Chiapas presentan niveles de alta a muy alta ero-
+sión hídrica (de 50 a 200 toneladas de suelo fértil) 
+(Bravo y Reséndiz, 1996). 
+El alto riesgo hidrometereológico que se mani-
+fiesta por la incursión recurrente de los huracanes 
+en las laderas de las sierras, repercute en las pla-
+nicies costeras, ya que los suelos deslavados se 
+arrastran con gran fuerza azolvando los cauces de 
+los ríos y lagunas costeras, lo que provoca graves 
+inundaciones. La prevención y el manejo adecua-
+do de los desastres hidrometereológicos, el res-
+guardo de la población y de los bienes, y la con -
+servación de suelos no están adecuadamente 
+desarrollados en nuestro país, de manera que se 
+privilegia la remediación inmediata antes que 
+evitar los efectos graves. 
+Por lo anterior, en un ambiente de huracanes 
+y lluvias torrenciales cada vez más intensas, así 
+como de sequías prolongadas, la protección de la 
+vegetación natural, la reforestación en curvas a ni-
+vel, el manejo de laderas en la agricultura y la ga-
+nadería son clave en los territorios de los pueblos 
+indígenas y comunidades campesinas. 
+Como conclusión general podemos afirmar 
+que los territorios de los pueblos indígenas y las 
+comunidades que en ellos viven son ignorados co-
+mo custodios, guardianes, o proveedores de agua. 
+Por ello, es necesario desarrollar una política en 
+que la sociedad reconozca su papel como guardia-
+nes o “proveedores de agua”. En efecto, no están 
+representados los propietarios del bosque ni los 
+actores sociales, como ejidos y comunidades, en 
+los consejos de cuenca, y por esta vía no hay una 
+plataforma para negociar.
+P. 97
+ Selva subcaducifolia en el sur de Puebla.
+----------------Page (96) Break----------------
+
+----------------Page (97) Break----------------
+
+----------------Page (98) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+99
+La cubierta vegetal y el uso del suelo 
+en los territorios de los pueblos indígenas
+Una vez definidos los territorios de los pueblos in-
+dígenas se puede ubicar desde la Cartografía de 
+Uso del Suelo y Vegetación (series I, II y III) la cu-
+bierta vegetal que contiene vegetación primaria, 
+secundaria arbórea y arbustiva y herbácea, así como 
+las áreas agrícolas de riego y temporal, y plan-
+taciones y zonas ganaderas. Cabe decir que en este 
+caso se trata de un inventario de gran visión a una 
+escala de 1:250 000, que no refleja escalas y me-
+diciones necesarias para el manejo forestal susten -
+table. 
+Para los efectos del presente trabajo utilizaré 
+la 
+CUSV
+ Serie III 2004 del 
+INEGI
+ (en adelante la 
+“Serie III”). Con esta información se destacará 
+la importancia relativa de los pueblos indígenas 
+respecto a los valores nacionales, aunque mos-
+tremos la numeralia de las cubiertas en términos 
+absolutos.
+La Serie III no identifica la calidad del bosque 
+o la selva ni la diversidad beta —esto es, el ensam-
+ble de especies de un mismo tipo de vegetación 
+en distintas regiones— tampoco se especifica 
+quién controla los recursos. Los procesos de dis-
+turbio pueden ser originados por factores natura -
+les como incendios naturales, inundaciones, se-
+quías prolon gadas o los efectos de un volcán en 
+erupción, los cuales se han vivido en los últimos 
+100 años en mayor o menor intensidad. Frecuen -
+temente, los disturbios son funcionales a los eco -
+sistemas. La resiliencia es efectiva cuando a estos 
+desastres no anteceden o siguen perturbaciones 
+de origen antrópico. Los desmontes a gran escala 
+y de manera tecnificada, generalmente inducida 
+por programas gubernamentales, dejaron grandes 
+cicatrices sin que la vegetación ni la fauna se re-
+cuperarán. Otras grandes perturbaciones son la 
+extracción de suelo, fauna y vegetación por perio-
+dos prolongados sin planes de control y de recu-
+peración. Esta “extracción minera” tiene efectos 
+acumulativos y reducir gravemente la funcionali -
+dad de los ecosistemas. Los procesos de ganade-
+ría extensiva y la apertura de la frontera agrícola y 
+urbana aún son las principales causas de la destruc-
+ción de la cubierta vegetal primaria y secundaria. 
+La vegetación arbórea primaria y secundaria 
+comprende los macizos forestales y selváticos 
+más cohesionados, mientras la vegetación secun-
+daria arbustiva y herbácea nos permite observar 
+varios procesos sucesionales, así como la intensi -
+dad de perturbación y fragmentación. En la prime-
+ra categoría es difícil determinar lo que se deno-
+mina “el descreme” de las especies comerciales. 
+Así tenemos, por ejemplo, en Chimalapas y en las 
+selvas de Quintana Roo y Campeche en algunos 
+ejidos y comunidades el “descreme” del cedro y 
+la caoba sin que ninguna estrategia importante in-
+tente reponer las “existencias” de estas especies. 
+No tenemos un registro sistemático de la fauna 
+que permita evaluar los procesos de defaunación 
+creciente. En el estudio mencionado podemos ad-
+vertir que la ganadería afecta en mayor medida a 
+la vegetación primaria, mientras que la secundaria 
+sufre relativamente un cambio mayor debido a la 
+agricultura (Instituto Geografía de la 
+UNAM
+, 2002).
+Nos proponemos hacer aquí el estudio de la 
+vegetación primaria y secundaria en los territorios 
+de los pueblos indígenas siguiendo las definicio-
+nes de vegetación primaria y secundaria y de uso 
+del suelo propuestas en la Serie III .
+La Serie III muestra en general menores índi-
+ces de deforestación que el Inventario Forestal 
+2000. Habría que estudiar las razones de esta apa-
+rente desaceleración.
+El sistema de clasificación de la vegetación uti-
+lizado es el denominado Sistema de clasificación del 
+INEGI
+ para comunidades vegetales primarias de Méxi-
+P. 98
+Peñascos, Sierra de San Luis de la Paz, Guanajuato.
+----------------Page (99) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+100
+co , adaptado a partir del sistema de clasificación 
+convencional de la 
+CUSV
+ Serie II y la versión digi-
+tal de la Serie I, del 
+INEGI
+. Este sistema utiliza una 
+combinación de criterios para clasificar y describir 
+comunidades vegetales; parte de un punto de vis-
+ta descriptivo del paisaje y da más importancia a 
+diferentes aspectos para caracterizar el tipo repre -
+sentativo de comunidad vegetal.
+1) Agrupación de tipos de vegetación relaciona-
+dos ecológica y/o florísticamente, a las cuales se 
+denomina “formaciones de vegetación”. Éstas se 
+refieren a grandes tipos de cubiertas vegetales, 
+definidas tanto desde el punto de vista florístico, 
+fisonómico como ecológico.
+2) Caracterización de comunidades vegetales 
+por su afinidad ecológica y composición florística 
+denominados “tipos de vegetación”. Tipos de cu-
+bierta vegetal definidos por sus dominancias flo-
+rísticas, fisonómicas y/o sus características ecológi-
+cas. La clasificación de la vegetación que utiliza 
+el 
+INEGI
+ se basa principalmente en los trabajos de 
+Miranda y Hernández (1963), Flores et al. (1971) y 
+Rzedowski (1978). Este último considera los si-
+guientes ecosistemas vegetales: bosque de conífe-
+S
+IMBOLOGÍA DE LOS DIFERENTES TIPOS DE VEGETACIÓN
+Agricultura
+Ganadería
+Vegetación hidrófila
+Bosque de coníferas
+Bosque de encinos
+Bosque mesófilo
+Selva alta perenifolia
+Selva subcaducifolia
+Selva subhúmeda caducifolia
+Matorral xerófilo
+Selva espinosa
+Z
+ONAS ECOLÓGICAS EN TERRITORIOS DE LOS PUEBLOS INDÍGENAS DEL SURESTE DE
+ M
+ÉXICO
+----------------Page (100) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+101
+ras, bosque de encino, bosque mesófilo de monta-
+ña, matorral xerófilo, pastizal, selva perennifolia, 
+selva caducifolia, selva subcaducifolia, selva espi-
+nosa, vegetación hidrófila, vegetación inducida y 
+otros tipos que no se adscriben a ninguna de las 
+anteriores. 
+INEGI
+ considera aspectos fisonómicos 
+y sucesionales de la cubierta vegetal de México, 
+se indican los usos existentes de las comunidades 
+vegetales, las áreas donde se practica la agricultu-
+ra, así como sitios donde se desarrolla la actividad 
+pecuaria y forestal.
+3) Las zonas que no presentan cubierta vegetal 
+visible por condiciones climáticas o presencia de 
+factores edáficos o geológicos que impiden su de-
+sarrollo se denominan “áreas sin cubierta vegetal”.
+Las zonas ecológicas que conforman la cubierta 
+de vegetación en los territorios indígenas 
+A continuación se presentan las distintas zonas 
+ecológicas o biomas con sus distintos tipos de ve-
+getación en relación con territorios indígenas. Es -
+tos biomas equivalen de modo aproximado a las 
+formaciones vegetales en los criterios de la 
+CUSV
+Serie III. Este método permite evaluar de mane-
+ra más precisa la importancia de la diversidad bio-
+lógica para cada pueblo indígena y hacer un com-
+parativo cuantitativo con los mismos tipos de 
+vegetación a nivel nacional.
+Zona ecológica tropical húmeda
+La zona ecológica tropical húmeda incluye los si-
+guientes tipos de vegetación: selva alta perennifo-
+lia, selva alta subperennifolia, selva baja perenni-
+folia, selva baja espinosa subperennifolia y selva 
+mediana subperennifolia.
+3
+ Rzedowski (1998) seña-
+3
+ La Serie III incorpora este tipo de selvas a las selvas espi-
+nosas en general. En el caso de las selvas bajas espinosas sub-
+perennifolias, en el sur y oriente de la península de Yucatán se 
+trata de selvas inundables, principalmente de tintales ( Hema-
+toxilum campechianum ) que se desarrollan en los “bajeríos”.
+la en cifras aproximadas que las selvas tropicales 
+húmedas perennifolias (incluyendo a las subperen-
+nifolias) albergan alrededor de cinco mil especies.
+Las selvas húmedas —que cubrían extensas 
+zonas del trópico húmedo— han desaparecido en 
+su mayor parte quedando reducidas a sólo 10 por 
+ciento de su extensión original (Challenger, 1998: 
+302). La zona ecológica tropical húmeda com-
+101
+Nopalera semisilvestre en Milpa Alta, Distrito Federal.
+----------------Page (101) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+102
+lo menos 29 pueblos indígenas utilizan las selvas 
+húmedas perennifolias y subperennifolias.
+En las selvas húmedas mexicanas no se domes-
+ticaron granos básicos; más bien éstos han sido 
+adaptados a las condiciones que estos ecosistemas 
+representan para la agricultura mesoamericana. 
+Sin embargo, los tubérculos y frutales, así como 
+plantas del estrato herbáceo y arbóreo, fueron do-
+mesticados o semidomesticados, mismos que ac-
+tualmente tienen usos como alimento, ornamento, 
+material de construcción, medicinas, saborizan-
+tes, colorantes, resinas, etcétera. En ocasiones, 
+su origen es controvertido, ya que los productos 
+de la selva húmeda son frecuentemente compar-
+tidos con las culturas de Centroamérica y Suda-
+mérica (Challenger, 1998: 337).
+Algunas de las plantas domesticadas y semi-
+domesticadas en selvas húmedas tropicales son: 
+yuca (Manihot esculenta) , camote (Ipomoea batatas) ,
+sagú (Maranta arundinacea) , malanga nativa (Xan-
+thosoma sp., X. robustum y X. Sagittifolium) , vainilla
+(Vainilla plannifolia) , marañon (Anacardium occi-
+dentale) , piña (Ananas comosus) , chirimoya (Annona 
+cherimola) , ilama (A. diversifolia) , anona (A. glabra) ,
+anona (A. muricata) , anona colorada (A. reticulata) ,
+anona (A. squamosa) , ramón (Brosinmun alicas-
+trum) ,nanche (Byrsonima crassifolia) , papaya (Pa-
+paya carica) , zapote blanco (Casimiroa edulis) , za-
+pote amarillo (Pouteria campechiana) , zapote 
+amarillo (P. hypoglauca) ,barbasco (Dioscorea spp) ,
+jícama (Pachyrrhizus erosus) , tepejilote (Chaemedo-
+ra tepejilote) ,pacaya (Chaemedora wendlaniana) ,
+acuyo o yerba santa (Piper sanctus) , guayabilla (P. 
+sartorianum) , ciruela (Spondias bombin) , hule (Cas-
+tilla elástica) , cacao (Theobroma cacao) , cacao (The-
+obroma bicolor) , cacao (Theobroma angustifolium) ,
+zapote blanco (C. Viride) , caimito (Chrysophyllum 
+cainito) ,pitahaya (Hylocereus undatus) , aguacate
+(Persea americana) , zapote negro (Diospyros digy-
+na) , chicozapote (Manilkara zapota) , chinini (P. shie-
+deana) , zapote mamey (P. sapota) .
+prende hoy en día 6 810 738 hectáreas, de las cua-
+les 5 751 739 se encuentran en territorios de los 
+pueblos indígenas. Esto significa que de 10 por 
+ciento de las selvas húmedas que sobreviven en 
+el territorio mexicano, 84 por ciento está en territo-
+rios indígenas. Esta correlación aumenta conside-
+rablemente en los tipos de vegetación que com-
+ponen las selvas húmedas. En la actualidad, por 
+Papayo silvestre, ch’ich’put o put (maya yucateco), 
+( Papaya carica).
+----------------Page (102) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+103
+Jitomate criollo y cacao.
+cia del sur de la Reserva de la Biosfera de Calak-
+mul. Cabe destacar que éste es el único manchón 
+en México del macizo selvático que en Guatema-
+la se denomina el Petén. Este manchón presenta 
+un proceso de intervención y de crecimiento se-
+cundario identificado como secundario arbórea. 
+Otro manchón de selva se encuentra en la parte 
+septentrional de la República, en el norte del es-
+tado de Veracruz, en los lomeríos al pie de la Sie-
+rra Madre Oriental en donde se encuentran los 
+territorios nahuas y huastecos. De ahí se extiende 
+hacia las planicies costeras y es seriamente impac-
+tada por la ganadería extensiva; éstas correspon-
+den a las selvas subperennifolias más septentrio-
+nales del país.
+Selva alta perennifolia. Una parte importante de 
+los territorios indígenas con selvas altas se extien-
+de desde las montañas de la Sierra Madre Orien-
+tal con cara hacia el Golfo de México; otra parte 
+minoritaria se encuentra en el estado de Chiapas 
+con cara al Pacífico.
+Según la 
+CUSV
+ Serie III existen 3 440 927 hectá-
+reas de selvas altas perennifolias, de las cuales 
+2 428 343 están en territorios de los pueblos indí-
+genas, esto es, 70.57 por ciento. Llama la atención 
+la intensidad con que estas selvas han entrado a un 
+proceso de intervención humana, de manera que 
+de 2 862 238 hectáreas, sólo 1 167 560 se registran 
+como primarias y 1 260 780 han entrado a un pro-
+ceso sucesional. Cabe mencionar que los mayores 
+macizos selváticos de selva alta perennifolia se 
+adscriben a los pueblo s indígenas maya lacandón, 
+zoque de Chimalapas, chinanteco, tzeltal, chol, 
+mixe, mazateco, zapoteco, tzotzil y tojolabal.
+En los territorios indígenas de los mayas lacan-
+dones y zoques de Chimalapas el proceso de se-
+cundarización es menor al de las selvas primarias. 
+Sin embargo, los chinantecos están a 50 por cien-
+to del proceso de secundarización, y en los tzel-
+tales, choles, mixes, mazatecos y zapotecos los 
+procesos están más avanzados. Los huastecos, to-
+tonacos, nahuas de San Luis Potosí, de la Sierra 
+Norte de Puebla y del norte de Veracruz práctica-
+mente ya no tienen bosques primarios. En la zona 
+mixe la ganaderización y el cambio de uso del 
+suelo se está extendiendo a la sierra desde los lo -
+meríos de las planicies del estado de Veracruz. Ca-
+be decir que los mixtecos que aparecen en la lista 
+son migrantes que colonizaron una pequeña por-
+ción de tierra al norte del municipio de Santa Ma-
+ría Chimalapa. 
+Selva alta subperennifolia. A nivel nacional se re-
+portan 160 882 hectáreas de las cuales 59 476 se 
+encuentran en territorios de los pueblos indíge -
+nas, esto es 37 por ciento. El mayor territorio lo 
+abarcan los choles, reubicados en el área de influen-
+----------------Page (103) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+104
+Selva mediana subperennifolia. Esta selva se desa-
+rrolla principalmente en la península de Yucatán, 
+en Belice y en el Petén guatemalteco. Según la 
+cusv Serie III, abarca 2 889 501 hectáreas en terri-
+torios indígenas de México, de un total de 5 775 059 
+a nivel nacional, lo que significa que 50.03 por 
+ciento se encuentra en territorios indígenas. 
+Los mayas yucatecos, principalmente los cru-
+zo’ob —descendientes de los rebeldes que se refu-
+giaron en el centro de Quintana Roo—, tienen en 
+sus territorios, a nivel nacional, 36 por ciento de la 
+selva subperennifolia. La vegetación secundaria 
+en estas selvas es considerable. Se trata de un eco-
+sistema que padece una constante perturbación 
+desde el punto de vista natural y cultural. En efec-
+to, los huracanes que ingresan a tierra firme desde 
+el mar Caribe golpean directamente las selvas, 
+además de que producen suficiente material infla-
+mable para que se generen incendios importan-
+tes. Asimismo, la presencia maya que emplea las 
+técnicas de roza, tumba y quema contribuye a esta 
+perturbación funcional. Es así que tenemos una 
+gran cantidad de vegetación heliófila como la cao -
+ba y el cedro, por ejemplo. Igualmente, en los últi-
+mos años la colonización ha fomentado desmontes 
+y la generación de acahuales. Sin embargo, tam-
+bién es cierto que el manejo forestal, con su nueva 
+estrategia de consensos internos de los ejidos que 
+establecen áreas forestales permanentes en la 
+zona maya y en el sur de Quintana Roo, ha logra-
+do mantener un macizo selvático de por lo menos 
+500 000 hectáreas, mismas que forman parte del 
+Corredor Biológico Calakmul-Sian Ka’an. Con 
+esta forma de manejo no se utiliza el fuego y se 
+tienen que diseñar tecnologías para abrir claros 
+necesarios para la producción de la flora heliófila.
+Selva baja perennifolia. Este tipo de vegetación 
+está representada en territorios indígenas única-
+mente en la selva Lacandona con 1 176 hectáreas; 
+el resto —42 397 hectáreas— se encuentra en el 
+norte de Chiapas y en Tabasco, afuera de los terri-
+torios indígenas. 
+Selva baja espinosa subperennifolia. Del total de 
+1035679 hectáreas a nivel nacional, 373243 co-
+rresponden a territorios de los pueblos indígenas, 
+lo que representa 36 por ciento. Si bien esta selva 
+está clasificada por la Serie III como selva espino-
+sa, en este caso se refiere a una modalidad de las 
+selvas subperennifolias del sur y oriente de la Pe-
+nínsula de Yucatán. Aparecen también en la parte 
+inundable del noroccidente de la misma Penínsu-
+la. En general, se trata de selvas inundables que re-
+sisten inundaciones intermitentes cuando entran 
+a la región las tormentas tropicales, principalmen-
+te desde el Caribe. En el suroriente de la penínsu-
+la tenemos los tintales ( Haematoxylum campechia-
+num ) como vegetación dominante. Es evidente 
+que los mayas yucatecos son los que tienen un am-
+plio territorio de este tipo de selvas. Los otros pue-
+blos que tienen en sus territorios este tipo de selva 
+son colonizadores y refugiados de Guatemala. 
+Zona ecológica tropical subhúmeda
+A la zona ecológica tropical subhúmeda, Challen-
+ger (1998) le adscribe las selvas subaducifolias y 
+caducifolias.
+Selva subcaducifolia. A esta categoría integraré tres 
+tipos de vegetación: selva baja, selva mediana sub-
+caducifolia y selva espinosa. Los primeros dos ti-
+pos de vegetación suman, a nivel nacional, 
+4 737 330 hectáreas, de las cuales 2 802 729 se 
+encuentran en territorios indígenas, es decir, 62.7 
+por ciento. 
+Estas selvas son el hábitat ancestral de muchas 
+plantas domesticadas como el maíz, frijol, caca-
+huate, jitomate, algodón para el caso de México. 
+También la mixteca en Oaxaca y Guerrero, y la 
+maya en la región norte de Yucatán, pudieron ser 
+los centros originales de domesticación y/o diver-
+----------------Page (104) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+105
+Mujeres totonacas polinizan la vainilla en Papantla, Veracruz.
+sificación subsiguiente de varias especies de ár-
+boles frutales nativos, algunos, en un proceso vi-
+gente y activo (Challenger, 1998). Amaranto
+(Amarantus leucocarpus) , frijol (Phaseolus vulgaris, 
+P. l u n a t u s ) , crotalarias (Crotalaria pumila) , calaba-
+zas (Curcubita mochata, C. pepo) , chaya (Cnidosculos 
+spp.) ,chile (Capsicum Nahum L.) ,nanche (Byrso-
+nina geometrizans) ,algodón (Gossypium hirsutum) ,
+xoconochtli (Stenocereus spp.) , guayaba (Psidium 
+guajava) , garambullo (Myrtillocactus geometrizans) ,
+ciruelo o jocote (Spondias spp.) , ramón (Brosinum 
+alicastrum) , guajes (Leucaenia spp.) , agave (Agave 
+cupreata) , jitomate (Licopersicum esculentum) ,
+guamúchil (Pithecellobium dulce) , bonete (Pileus 
+mexicanus) , cacalosúchil (Plumeria rubra) , copal
+(Bursera copallifera) , barbasco comestible (Dis-
+corea nelsonii) ,maíz (Zea mays) yteocintes varios.
+Selva baja subcaducifolia . Este tipo de selva apare-
+ce únicamente en el oriente del estado de Yuca-
+tán, al sureste de Quintana Roo y en Tamaulipas. 
+Se trata de manchones inconexos. A nivel nacio-
+nal existen 70770 hectáreas, de las cuales 9306 se 
+encuentran en territorios de los pueblos indíge-
+nas, y son los mayas yucatecos los únicos que tie-
+nen este tipo de vegetación con 13 por ciento del 
+total nacional. También los mayas son los que tie-
+nen la mitad de la selva baja subcaducifolia arbó-
+rea. Según Rzedowski (1978) estas selvas tienen 
+6000 diferentes especies de flora.
+----------------Page (105) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+106
+CUADRO 3. 
+Zona ecológica tropical húmeda en los territorios de los pueblos indígenas 
+(hectáreas)
+Pueblo indígena Primaria Secundaria 
+arbórea 
+Secundaria 
+arbustiva 
+Secundaria 
+herbácea
+Selva alta perennifolia
+11 850
+58 182
+57 482
+84 221
+131 053
+46 257
+30 864
+13 825
+26 243
+7 770
+615
+1 569
+1 772
+22 421
+5 354
+1 633
+5 202
+4 281
+-
+240
+2 930
+28 169
+2 577
+521
+220
+116
+545 367
+376 759
+286 531
+152 403
+88 561
+73 081
+41 650
+39 293
+34 491
+23 684
+13 499
+11 855
+9 236
+4 432
+3 916
+3 208
+1 641
+1 063
+919
+676
+272
+215
+175
+-
+-
+-
+-
+1 167 560
+48 529
+46 576
+89 859
+74 704
+103 368
+31 969
+61 656
+19 665
+16 131
+12 735
+4 880
+6 059
+5 305
+17 782
+4 742
+1 115
+17 253
+18 137
+165
+1 737
+0
+89 174
+15 640
+102
+844
+2 064
+690 191
+-
+-
+252
+-
+-
+-
+1 431
+115
+1 070
+-
+304
+-
+-
+-
+-
+-
+2 198
+6 697
+-
+-
+-
+11 190
+1 178
+-
+-
+787
+25 222
+Maya lacandón
+Zoque
+Chinanteco
+Tzeltal
+Chol
+Tzotzil
+Mixe
+Zapoteco
+Mazateco
+Tojolabal
+Cuicateco
+Popoluca
+Kanjobal
+Nahua de Zongolica-Pico de Orizaba
+Nahua del sur de Veracruz
+Chontal de Tabasco
+Huasteco
+Totonaca
+Popoloca
+Mixteco
+Mame
+Nahua de SLP, S.N. de Puebla, N. de Ver.
+Otomí
+Chuj-kanjobal
+Chuj
+Tepehua
+TOTAL
+19 024
+1 370
+5 666
+6 647
+118
+0
+32 825
+Selva alta subperennifolia
+19 355
+1 190
+0
+4
+0
+0
+20 549
+2 801
+0
+0
+2 710
+64
+95
+5 670
+0
+0
+0
+433
+0
+0
+433
+Chol
+Huasteco
+Maya
+Nahua de SLP, S.N. de Puebla, N. de Ver.
+Otomí
+Totonaca
+TOTAL
+Selva mediana subperennifolia
+1 289 485
+13 201
+2 913
+752 281
+20 794
+15 719
+33 3892
+18 617
+16 430
+1 815
+-
+-
+Maya
+Zapoteco
+Zoque
+----------------Page (106) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+107
+Selva mediana subperennifolia
+117 263
+-
+13 621
+101
+2 870
+39 620
+6 884
+6 806
+31
+1 718
+-
+1 440
+204
+-
+10 761
+73
+10 704
+23 243
+9 197
+1 584
+645
+11
+-
+1 552 375
+10 770
+7 852
+6 985
+4 990
+4 306
+4 035
+3 505
+1 642
+1 050
+958
+931
+840
+733
+429
+80
+38
+16
+-
+-
+-
+-
+-
+-
+837 954
+27 846
+-
+2 055
+10 007
+ 431
+18 287
+1 656
+3 580
+-
+1 612
+183
+308
+73
+-
+42 531
+337
+6 853
+2 673
+2 918
+-
+-
+-
+28
+490 317
+1 696
+-
+171
+-
+-
+623
+-
+337
+-
+-
+-
+-
+-
+-
+4 149
+-
+-
+-
+65
+-
+-
+-
+-
+8 856
+Chol
+Maya lacandón
+Cora
+Chatino
+Huichol
+Huasteco
+Pame
+Totonaca
+Ixil
+Mixteco
+Kanjobal
+Tepehuán
+Nahua de Durango
+Chichimeca jonaz
+Nahua de SLP, S.N. de Puebla, N. de Ver.
+Chontal de Tabasco
+Tzotzil
+Quiché
+Tzeltal
+Kekchi
+Nahua
+Mame
+Nahua de Gro., Altiplano, Edomex, Oax.
+TOTAL
+Selva baja perennifolia
+-
+-
+-
+-
+720
+317
+140
+720
+1 897
+-
+-
+-
+-
+-
+-
+-
+-
+Maya lacandón
+Chontal de Tabasco
+Zoque
+Maya lacandón
+TOTAL
+CUADRO 3.
+ Zona ecológica tropical húmeda en los territorios de los pueblos indígenas 
+(hectáreas) 
+(Continuación)
+Pueblo indígena Primaria Secundaria 
+arbórea 
+Secundaria 
+arbustiva 
+Secundaria 
+herbácea
+Selva mediana subcaducifolia . Las selvas medianas 
+subcaducifolias abarcan a nivel nacional 4 737 330 
+hectáreas, de las cuales 2 963 515 están en territo-
+rio de los pueblos indígenas, lo que representa 
+63.5 por ciento. Destacan los mayas de Yucatán, 
+quienes abarcan una vasta área de la Península 
+con este tipo de vegetación, la cual se extiende 
+desde el noreste al suroeste de la Península. Asi-
+mismo, este tipo de vegetación se encuentra prin -
+cipalmente en las planicies costeras de la costa 
+del Pacífico. En especial, hay que mencionar que 
+la vegetación secundaria abarca grandes extensio-
+nes en su modalidad de arbórea y arbustiva. Esta 
+vegetación secundaria en los territorios mayas 
+----------------Page (107) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+108
+abarca 89 por ciento de todo el macizo selvático 
+de los territorios indígenas de México. 
+Selva caducifolia. Estas selvas abarcan en México 
+16 859 406 hectáreas, de las cuales 2 730 224 es-
+tán en territorios de los pueblos indígenas, esto 
+es, 16.1 por ciento del total nacional. La Serie III 
+clasifica las selvas caducifolias en matorral sub-
+tropical, selva baja caducifolia y selva mediana 
+caducifolia. 
+Matorral subtropical. El yaqui es el único pueblo 
+indígena que tiene matorral subtropical en su te-
+rritorio con 54 005 hectáreas de vegetación pri-
+maria, de las 992 264 que este tipo de vegetación 
+abarca a nivel nacional, esto es 3.75 por ciento del 
+total nacional.
+Selva baja caducifolia. Este tipo de selvas abarcan 
+16859407 hectáreas a nivel nacional, de las cuales 
+1825026 pertenecen a 28 pueblos indígenas, esto 
+es, 12.75 por ciento del total nacional. Se trata de 
+una de las selvas más ricas y menos estudiadas. 
+La composición florística depende de las distin-
+tas regiones en que aparecen en el país. De los 
+pueblos indígenas que comparten este tipo de 
+vegetación destacan, en orden de aparición los 
+tarahumaras, huicholes, zapotecos, tepehuanes, 
+Campo de amaranto, Morelos. 
+----------------Page (108) Break----------------
+109
+nahuas de Guerrero, guarijios, mixtecos, cora, pa-
+me, mixe y mayos. Se trata del ecosistema fores-
+tal más extenso del país, distribuido desde el sur 
+de Sonora, a lo largo de las planicies costeras del 
+Pacífico y en las faldas adyacentes de la Sierra Ma-
+dre Occidental y del Sur, la depresión del Balsas, 
+centro de Veracruz, sur de Tamaulipas, hasta la 
+depresión central del estado de Chiapas y penín -
+sula de Yucatán (Challenger, 1998: 377). En esta 
+última región, a pesar de la presencia de especies 
+endémicas, el número de especies por unidad de 
+área es baja. Esto se debe a la intensidad de uso 
+de la selva por parte de los mayas. Se trata de un 
+tipo de vegetación muy amenazado, sobre todo 
+porque en las planicies costeras avanza la agricul -
+tura de riego, la ganadería extensiva y los desarro-
+llos turísticos y urbanos. En territorios de los pue-
+blos indígenas, los tarahumaras, tepehuanes, 
+huicholes, guarijios tienen vastas zonas de vege -
+tación primaria, y se encuentran principalmente 
+en el fondo de las barrancas. En el nororiente del 
+país mencionamos a los pames, puesto que la 
+gran mayoría de su territorio tiene este tipo de ve-
+getación. 
+La depresión del Balsas es especialmente rica 
+en las selvas bajas caducifolias, área importante 
+como centro de origen de las burseras, B. bonetii, 
+B. longipes, B. morelensis, B. copallifera (copal), en-
+tre otras especies ( Toledo, 1982). Se trata de uno 
+de los grandes centros de endemismos. En esta 
+región hay presencia de teocintes ( Zea mays sp. 
+parviglunis Iltis & Doebley ). 
+Los zapotecos y mixes tienen presencia en es-
+tas selvas, principalmente en las laderas que mi-
+ran hacia el océano Pacífico. En las distintas re-
+giones hay presencia indígena, en especial en las 
+estribaciones de las sierras o en las barrancas pro-
+fundas, donde con frecuencia el nivel de conser-
+vación es mejor que en las planicies costeras. Las 
+excepciones son las zonas de pastoreo de caprinos 
+en la depresión del Balsas, donde habitan los pue-
+blos mixtecos y nahuas, y la Península de Yuca-
+tán, donde hay un proceso de secundarización 
+muy importante.
+Selva mediana caducifolia. Esta clasificación en la 
+Serie III se encuentran en el noroccidente de la pe-
+nínsula de Yucatán y en el sur de Oaxaca. Es el 
+tipo de vegetación con mayor presencia indígena 
+a nivel nacional; se tiene un registro de 1 109638 
+hectáreas, de las cuales 851 193 están en territo-
+rios de los pueblos indígenas maya, chontal de 
+Oaxaca y zapoteco; la extensión corresponde al 
+76.7 por ciento del total nacional. Destacan los 
+mayas yucatecos que tienen una superficie consi-
+derable de este tipo de vegetación que han inter-
+venido de tal manera que sus exponentes arbó-
+reos más destacados no rebasan los 40 años de edad 
+(Challenger, 1998).
+Selva espinosa (Challenger, 1998: 405).
+4
+ La Serie 
+III clasifica en esta formación los siguientes tipos 
+de vegetación: mezquital, selva baja espinosa ca-
+ducifolia y selva espinosa subperennifolia, que 
+incluimos en las selvas húmedas.
+Del total de 1 872 052 hectáreas que abarca a 
+nivel nacional este tipo de vegetación 326 334 co -
+rresponden a territorios de los pueblos indígenas, 
+esto es, 17.4 por ciento del total nacional. Los ár-
+boles de estas selvas tienen un rango de 4 a 14 m 
+de altitud. En condiciones más áridas, encontra-
+mos los mezquites como vegetación dominante. 
+Estos últimos se incorporan a la zona ecológica 
+árida y semiárida. 
+Mezquital. Los mayos presentan este tipo de vege-
+tación en su territorio con 84 762 hectáreas esto es 
+3.17 por ciento del total. 
+4
+Incluye a la selva espinosa dentro de las selvas subhú-
+medas, aunque en las zonas más áridas se alternan con las 
+vegetación xerófita
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+----------------Page (109) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+110
+Selvas subcaducifolias
+1 611 370
+20 216
+26 784
+8 871
+1 895
+9 684
+3 006
+23 988
+-
+-
+ 15 163
+14 227
+5 534
+2 399
+1 875
+1 159
+791
+50
+-
+1 747 012
+41 435
+22 571
+16 903
+10 705
+5 824
+3 392
+2 487
+1 063
+217
+34
+-
+-
+-
+-
+-
+-
+-
+-
+-
+104 631
+945 058
+6 590
+13 953
+19 686
+385
+18 004
+10 004
+50 147
+13 096
+-
+28 980
+847
+1 240
+-
+106
+1 209
+-
+-
+14
+1 109 319
+9 690
+-
+1 078
+838
+133
+117
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+11 856
+Maya
+Tepehuán
+Cora
+Huichol
+Nahua de Durango
+Amuzgo
+Nahua de Michoacán
+Mixteco
+Chatino
+Ixil
+Zapoteco
+Mame
+Tzotzil
+Chol
+Kanjobal
+Tlapaneco
+Kekchi
+Tzeltal
+Triqui
+TOTAL
+Selvas caducifolias
+11 144
+25 191
+62 353
+9 024
+-
+3 588
+34 254
+3 111
+5 169
+295
+17 443
+9 356
+946
+1 372
+3 662
+2 719
+8 644
+-
+57
+151 263
+136 312
+127 290
+82 929
+53 970
+48 171
+38 261
+35 734
+33 838
+29 828
+28 943
+23 904
+21 426
+10 644
+10 214
+9 480
+7 037
+3 486
+2 731
+37 213
+47 119
+91 560
+15 987
+649
+13 940
+158 511
+5 218
+11 091
+15 040
+125 973
+1 117
+811
+4 476
+8 159
+5 375
+3 875
+6 104
+7 155
+-
+552
+-
+211
+-
+-
+-
+-
+-
+225
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Tarahumara
+Huichol
+Zapoteco
+Tepehuán
+Yaqui
+Chontal de Oaxaca
+Nahua de Gro., Altiplano, Edomex, Oax.
+Guarijio
+Mixe
+Cora
+Mixteco
+Pame
+Mayo
+Chinanteco
+Mazateco
+Cuicateco
+Nahua de Zongolica-Pico de Orizaba
+Huave
+Zoque
+CUADRO 4. 
+Zona ecológica tropical subhúmeda: selva subcaducifolia y caducifolia 
+(hectáreas)
+Pueblo indígena Primaria Secundaria 
+arbórea 
+Secundaria 
+arbustiva 
+Secundaria 
+herbácea
+----------------Page (110) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+111
+943
+-
+-
+672 663
+96
+1 282
+-
+9 423
+934
+9 293
+5 636
+3 114
+1 896
+1 113
+743
+304
+54
+29
+-
+-
+-
+-
+905 851 
+2 607
+901
+521
+353
+293
+90
+70
+43
+2
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+860 341
+960
+-
+-
+265 608
+249
+4
+276
+33 650
+2 439
+398
+4 351
+35 715
+935
+295
+44 112
+-
+307
+222
+846
+10
+535
+1 609
+951 894
+-
+-
+-
+11 151
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+12 139
+Popoloca
+Pima
+Nahua de Durango
+Maya
+Huasteco
+Nahua de SLP, S.N. de Puebla, N. de Ver.
+Chuj
+Tzotzil
+Purhépecha
+Ixil
+Tlapaneco
+Nahua de Michoacán
+Kanjobal
+Jacalteco
+Amuzgo
+Chol
+Mame
+Popoluca
+Chatino
+Cucapa
+Otomí
+Tzeltal
+TOTAL
+Selvas caducifolias 
+(Continuación)
+CUADRO 4. 
+Zona ecológica tropical subhúmeda: selva subcaducifolia y caducifolia 
+(hectáreas) 
+(C
+ONTINUACIÓN
+)
+Pueblo indígena Primaria Secundaria 
+arbórea 
+Secundaria 
+arbustiva 
+Secundaria 
+herbácea
+Selvas bajas espinosas caducifolias y subperennifolias
+106 416
+13 500
+610
+11 195
+2 112
+1 628
+-
+-
+12
+6
+2
+-
+-
+-
+-
+-
+135 481
+117 000
+8 265
+3 943
+1 945
+1 695
+921
+890
+451
+-
+-
+-
+-
+-
+-
+-
+-
+135 110
+105 625
+15 971
+338
+2 259
+1 508
+3 392
+13 558
+3 399
+1 262
+292
+-
+2
+1 192
+1 108
+-
+113
+150 019
+293
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+2
+-
+295
+Maya
+Chol
+Quiché
+Yaqui
+Totonaca
+Mayo
+Zapoteco
+Huave
+Tzotzil
+Tzeltal
+Chontal de Tabasco
+Cucapa
+Ixil
+Mixteco
+Nahua de Gro., Altiplano, Edomex, Oax.
+Otomí
+TOTAL
+----------------Page (111) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+112
+Selva espinosa caducifolia. Del total de 748375 hec-
+táreas, 47 661 pertenecen a territorios de los pue-
+blos indígenas, lo que corresponde a 6.3 por cien-
+to del total nacional. Los territorios que destacan 
+con esta vegetación son los de los pueblos in-
+dígenas huaves y zapoteco del istmo de Tehuan-
+tepec.
+Zona ecológica templada húmeda 
+Bosque mesófilo de montaña . De cara al océano Pací-
+fico y al Golfo de México, las sierras Madre Orien-
+tal, Occidental y del Sur forman barreras formida-
+bles en las cuales se condensa la humedad 
+recogida de los océanos. Es en estas zonas donde 
+se encuentran los bosques mesófilos de montaña. 
+Ubicados en las caídas más importantes de las 
+sierras hacia las planicies costeras, los bosques de 
+niebla o mesófilos presentan una riqueza florísti-
+ca extraordinaria. 
+En la Sierra Norte de Oaxaca, los Tuxtlas y 
+Chiapas llueve 4 000 mm o más al año, lo que ex-
+plica los caudales de los grandes ríos mexicanos. 
+Vegetación de los Tuxtlas, Veracruz. 
+----------------Page (112) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+113
+A nivel nacional se registran 1 823 379 hectá-
+reas de bosque mesófilo de montaña. De este to-
+tal, 992 196 se encuentran en territorios de los 
+pueblos indígenas, esto es, el 54.4 por ciento.
+Este tipo de bosque solía cubrir vastas regio-
+nes de México; sin embargo, hoy sobrevive como 
+relicto en forma de archipiélagos de vegetación. 
+Sus territorios son reducidos y padecen una inten-
+sa intervención humana, por lo que se trata de uno 
+de los ecosistemas más amenazados en nuestro 
+país. Actualmente sobrevive en menos de 1 por 
+ciento del territorio nacional, pero alberga entre 
+10 a 12 por ciento de las especies florísticas del 
+país. Alrededor de 2 500 a 3 000 especies habitan 
+de modo preferencial o exclusivo en estos bos-
+ques, particularmente las epífitas, los arbustos, las 
+herbáceas y los helechos (Challenger, 1998: 462). 
+En México existen, por lo menos, cuatro provin-
+cias florísticas en los bosques de niebla: 1) Sierra 
+Madre Occidental (Sonora, Sinaloa y Nayarit); 
+2) Sierra Madre Oriental (desde Nuevo León 
+hasta Veracruz); 3) serranías meridionales dividi-
+das en Faja Volcánica Transmexicana (Nayarit, 
+Jalisco, Michoacán y Morelos); Sierra Madre del 
+Sur (Michoacán, Guerrero y Oaxaca), y sierras 
+del norte de Oaxaca (Sierra Norte de Oaxaca has-
+ta las serranías de Misantla); y 4) sierras transísmi-
+cas (desde Chiapas hasta los Tuxtlas) (Challenger, 
+1998, citando a Rzedowski, 1978: 460 y ss.)
+.
+Los bosques mesófilos de montaña son com-
+partidos por 28 pueblos indígenas; la mayor 
+superficie de este bosque se localiza, en orden 
+descendente, en los territorios de los pueblos za-
+poteco, tzeltal, chinanteco, mixe, zoque, nahua 
+de la Sierra Norte de Puebla y tzotzil. Los bos-
+ques mesófilos son utilizados para dar sombra a 
+los cafetales; por ello, el estrato secundario arbó-
+reo está muy desarrollado. El porcentaje de los 
+bosques secundarios en territorios indígenas es 
+de 62 por ciento, lo que indica que este territorio 
+se está utilizando intensamente. Es ahí donde se 
+siembra el café a sombra, y muy frecuentemente 
+en la modalidad orgánica integradas a los esque-
+mas de comercio justo. Por otro lado, 70 por cien-
+to de los productores indígenas de café tienen en 
+promedio 2 hectáreas, de los cuales una modali-
+dad más tradicional es de sombra con árboles de 
+vegetación original, convirtiendo a éstos en los 
+últimos refugios para una fauna y flora fuerte-
+Hombre nahua dedicado a vender en el mercado 
+de Cuetzalan, Puebla.
+----------------Page (113) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+114
+mente amenazadas por la deforestación (Moguel 
+y Toledo, 2004). Los autores mencionados seña-
+lan que la mayoría de los 33 mil productores son 
+indígenas, mismos que se han adaptado más efi-
+cientemente a los requerimientos de la cafeticul-
+tura ecológica en casi 100 000 hectáreas. En un 
+CUADRO 5. 
+Bosque mesófilo de montaña en los territorios de los pueblos indígenas 
+(hectáreas)
+Pueblo indígena Primaria Secundaria 
+arbórea 
+Secundaria 
+arbustiva 
+Secundaria 
+herbácea
+Total 
+Zapoteco
+Tzeltal
+Chinanteco
+Zoque
+Mixe
+Nahua de SLP, S.N. de Puebla, N. de Ver.
+Tzotzil
+Cora
+Mazateco
+Nahua de Zongolica-Pico de Orizaba
+Maya lacandón
+Chatino
+Mixteco
+Cuicateco
+Tojolabal
+Totonaca
+Chol
+Otomí
+Mame
+Tepehuán
+Triqui
+Huichol
+Nahua de Gro., Altiplano, Edomex, Oax.
+Chuj
+Purhépecha
+Kanjobal
+Tlapaneco
+Nahua de Durango
+Pame
+Chuj-kanjobal
+Chontal de Oaxaca
+Tepehua
+TOTAL
+46 110
+79 452
+12 506
+17 236
+70 588
+19 849
+49 837
+1 546
+11221
+26 864
+849
+6 973
+11 971
+4 117
+21 130
+1 487
+4 053
+6 597
+596
+194
+3 280
+-
+-
+2 143
+-
+158
+198
+-
+87
+-
+-
+65
+399 107
+39 196
+22 895
+13 342
+9 923
+21 732
+10 537
+30 002
+198
+13 745
+8 259
+-
+10 207
+2 185
+5 947
+11 111
+3 720
+4 977
+345
+527
+779
+1 945
+-
+-
+688
+-
+-
+-
+186
+-
+60
+15
+-
+212 521
+-
+-
+-
+-
+-
+2 573
+-
+106
+-
+-
+-
+-
+-
+-
+-
+1 213
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+3 892
+158 593
+151 143
+64 436
+54 790
+118 809
+56 377
+99 015
+18 471
+37 469
+47 567
+13 046
+28 352
+24 766
+20 265
+38 034
+11 986
+14 272
+10 750
+4 600
+4 011
+6 822
+1 341
+1 113
+3 787
+620
+683
+471
+326
+142
+60
+15
+65
+992 197
+73 287
+48 796
+38 588
+27 631
+26 489
+23 418
+19 176
+16 621
+12 503
+12 444
+12 197
+11 172
+10 610
+10 201
+5 793
+5 566
+5 242
+3 808
+3 477
+3 038
+1 597
+1 341
+1 113
+956
+620
+525
+273
+140
+55
+-
+-
+-
+376 677
+muestreo de 31 productores de ecosistema agro-
+forestal se identificaron 300 especies, así una sola 
+hectárea bajo sombra tiene entre 40 y 140 espe-
+cies de plantas útiles tanto para el autoconsumo 
+como para la venta en mercados regionales, na-
+cionales e internacionales (Moguel y Toledo, 
+----------------Page (114) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+115
+2004: 7). Los cafetales son, además, zonas de re-
+fugio para aves migratorias. 
+ La Serie III clasifica áreas importantes del 
+bosque mesófilo con vegetación secundaria ar-
+bustiva con relación a los pueblos indígenas tzel-
+tales, mixes, tzotziles, nahuas de la Sierra Norte 
+de Puebla, así como del Pico de Orizaba y Zongo-
+lica. Aquí, el bosque mesófilo ha cedido su terri-
+torio a la ganadería.
+No hay información sistemática de domestica-
+ción de las plantas en el bosque mesófilo. Es pro-
+bable que se haya domesticado o adaptado el fri -
+jol ayocote en sus dos subespecies (Phaseolus 
+coccineus coccineus , y P. coccineus dar winianus) en es-
+tas zonas altamente húmedas (Challenger, 1998). 
+Aparte de los esquemas agroforestales del café a 
+sombra, los agroecosistemas del bosque mesófilo 
+que predominan en los territorios de los pueblos 
+indígenas son los que se refieren a la milpa en ro-
+za, tumba, aprovechando los mantillos de materia 
+orgánica acumulada. Las adaptaciones de los cul-
+tivos a las altas precipitaciones han generado varie-
+dades de maíces específicos como el olotón, los 
+frijoles arriba mencionados, pequeños jitomates 
+citlalli semisilvestres y chile cera. Todos ellos son 
+resistentes a los embates de hongos y enfermeda-
+des típicas de la región. 
+Zona ecológica templada subhúmeda
+Según la Serie III, la zona templada subhúmeda 
+abarca los bosques de a) coníferas y b) latifoliadas. 
+De estas últimas, las más representativas son los 
+encinos. Dentro de esta zona ecológica tenemos 
+dos tipos de vegetación principal, las cuales se cla-
+sifican en diferentes ecotipos según los pisos eco-
+lógicos determinados por la latitud, la altitud y el 
+grado de humedad. Sus comunidades se generan 
+según la influencia de los océanos y los vientos 
+húmedos dominantes o si se encuentran a la som-
+bra de macizos montañosos. Generalmente se ubi-
+can en las cabeceras de las cuencas de las sierras 
+Árbol palo verde ( Parkinsonia microphylla )
+en el semidesierto de Sonora.
+----------------Page (115) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+116
+Madre y las partes montañosas de la Faja Volcáni-
+ca Transmexicana. Ambos tipos de vegetación 
+pueden presentarse en ciertas regiones de mane -
+ra dominante o mezclada; sin embargo, existe un 
+predominio de una u otra especie (pino-encino o 
+encino-pino, entre otras). A veces, la preponde -
+rancia de los encinos sobre los pinos se debe a la 
+perturbación humana de las poblaciones comercia-
+les de pino. Los encinos son más resilientes cuan-
+do no existen claros abiertos, y se regeneran una 
+vez cortados a partir de los mismos tocones. Los 
+pinos pertenecen a las vegetaciones heliófilas 
+que para reproducirse necesitan claros y pertur-
+bación dentro de los bosques. 
+México es el centro primario mundial de diver-
+sidad de los pinos y el centro primario de diversi-
+dad del hemisferio occidental de los encinos. Son 
+los dos géneros más representativos y económica-
+mente importantes entre los árboles de clima 
+templado (Challenger, 1998: 519).
+Casi todos los cultivos básicos importantes tu-
+vieron su origen en los trópicos subhúmedos. Sin 
+embargo, fueron adaptados a ambientes templa-
+dos por parte de agricultores indígenas. Así, por 
+ejemplo el maíz cacahuacintle, probablemente 
+de origen sudamericano (Wellhausen et al., 1951), 
+se adapta hasta por lo menos 2 800 msnm. Entre 
+las plantas que pertenecen al estrato herbáceo 
+domesticadas está el tomate verde (Physalis cheno-
+podifolia) , huauzontle (Chenopodium berlandieri 
+spp nuttalliae) , chilacayote (Curcubita ficifolia) ,
+huautli (Amaranthus hypocondriacus) , alegría (Ama-
+ranthus cruentus) y dos especies de lamiaceas que 
+tienen el homónimo vernáculo de chía (Salvia 
+hispanica e Hyptis suaveolens) . También se reporta la 
+domesticación de varias plantas ornamentales en-
+tre ellas el nardo (Polianthes tuberosa) y el cempa-
+súchitl (Tagetes erecta) . Hay que mencionar que el 
+estrato herbáceo es fuente de gran cantidad de 
+plantas medicinales usadas por curanderos indíge-
+nas (Challenger, 1998: 577 y ss.). 
+Bosque de coníferas (pinos) . Estos ecosistemas ve-
+getales, de acuerdo con la Serie III, abarcan los si-
+guientes tipos de vegetación: bosques de ayarín, 
+cedro, oyamel, tascate, pino, y de pino-encino. 
+En esta categoría la Serie III también incluye los 
+bosques mezclados con encino, siendo predomi-
+nantes los encino-pino. El bosque de coníferas en 
+su conjunto abarca 16 774 862 hectáreas en todo 
+México, de las cuales 4298449 están en territorios 
+de los pueblos indígenas, esto es, 25.6 por ciento 
+del total nacional. 
+Bosque de ayarín (Juniperus sp.) . Varias especies del 
+bosque de ayarín se encuentran listadas como ra-
+ras o en peligro de extinción. Este tipo de bosque 
+se encuentra en el norte del país; a nivel nacional 
+existen 40007 hectáreas, de las cuales 5503 se en-
+cuentran en territorios de los pueblos indígenas, 
+es decir, 13.8 por ciento del total nacional.
+Bosque de cedro (Cupressus sp.) . Igual que el ayarín, 
+hay muy pocos bosques de cedro en México. Los 
+pequeños manchones registrados en territorios 
+mazahua (648 hectáreas) y tojolabal (222) llegan 
+apenas a 870 hectáreas y representan el 37.6 por 
+ciento del total nacional.
+Bosque de oyamel (Abies) . Este tipo de vegetación 
+suma 142 269 hectáreas a nivel nacional de las cua-
+les 13 939 se encuentran en territorios indígenas, 
+esto es, 9.8 por ciento del total. Los bosques de 
+oyamel se encuentran en pequeñas islas en el cen-
+tro del país y se ubican entre los 2 400 y 3 600 
+msnm. La mayoría de estos bosques son relictos.
+Bosque de tascate. Suma 37 739 hectáreas en territo-
+rios indígenas y representan 11.3 por ciento del 
+total nacional. 
+Bosque de pino. Para analizar este ecosistema sepa-
+raré el bosque de pino del bosque de pino-encino, 
+----------------Page (116) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+117
+tal como viene en la clasificación de la Serie III. 
+Entre los dos tipos de vegetación, el bosque de 
+pino cubre a nivel nacional 7 448 026 hectáreas, 
+de las cuales 2 047 382 se encuentran en territo-
+rios de los pueblos indígenas, esto es, 27.4 por 
+ciento del total nacional. La vegetación de pino 
+es compartida por 36 pueblos indígenas y los tara-
+humaras tienen en su territorio más de la mitad 
+de todos ellos. La diversidad de pinos mexicanos 
+llega a 49 especies —la mayoría de ellas endémi-
+cas—, lo que representa 50 por ciento de la diver-
+sidad mundial, y México es el país con la concen-
+CUADRO 6. 
+Zona ecológica de bosque templado subhúmedo: ayarín, cedro (Cupressus sp.) , 
+oyamel y tascate (hectáreas)
+Pueblo indígena Primaria Secundaria 
+arbórea 
+Secundaria 
+arbustiva 
+5 214
+288
+5 502
+-
+-
+-
+-
+-
+-
+Tepehuán
+Tarahumara
+TOTAL
+Bosque de ayarín
+Bosque de cedro (Cupressus sp.)
+649
+223
+872
+-
+-
+-
+-
+-
+-
+Mazahua
+Tojolabal
+TOTAL
+Bosque de oyamel
+3 163
+2 658
+1 503
+1 270
+843
+756
+477
+380
+208
+134
+29
+11 421
+372
+238
+713
+-
+-
+-
+-
+-
+-
+-
+-
+1 323
+972
+-
+-
+-
+-
+-
+-
+-
+223
+-
+-
+1 195
+Otomí
+Nahua de SLP, S.N. de Puebla, N. de Ver.
+Mazahua
+Mame
+Zapoteco
+Matlatzinca
+Tepehuán
+Nahua de Gro., Altiplano, Edomex, Oax.
+Purhépecha
+Nahua
+Tarahumara
+TOTAL
+Bosque de tascate
+8 571.0
+1 987
+1 385
+332
+140
+23.7
+97
+12 535.7
+3
+3
+837
+371
+17 774
+3 995
+22 977
+Mixteco
+ Paipai
+Otomi
+Popoloca
+Cora
+Nahua de Gro.
+Kikapoo
+TOTAL
+----------------Page (117) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+118
+CUADRO 7. 
+Zona ecológica subhúmeda de bosque templado: 
+bosque de pino en los territorios de los pueblos indígenas (hectáreas)
+Pueblo indígena Primaria Secundaria 
+arbórea 
+Secundaria 
+arbustiva 
+Secundaria 
+herbácea
+25 525
+11 997
+57 022
+80 999
+1 193
+-
+4 458
+4 183
+3 103
+5 807
+739
+10 239
+2 495
+-
+762
+1 543
+9 248
+-
+1 105
+2 449
+157
+-
+994
+-
+6 413
+1 048
+674
+-
+25
+-
+-
+-
+-
+18
+-
+-
+90
+28
+-
+-
+-
+232 314
+968 313
+143 187
+53 476
+43 601
+35 753
+30 528
+21 512
+19 677
+17 701
+15 823
+12 274
+12 040
+10 268
+7 674
+7 503
+6 566
+5 755
+4 735
+4 115
+1 684
+1 153
+898
+665
+647
+600
+561
+521
+503
+450
+394
+350
+176
+166
+78
+58
+2
+-
+-
+-
+-
+-
+1 429 407
+172 603
+25 290
+29 747
+42 427
+6 539
+4
+21 771
+9 299
+48 039
+2 363
+370
+1 557
+398
+107
+13 015
+364
+2 858
+-
+627
+1 971
+1 079
+126
+4
+-
+6
+766
+-
+-
+-
+-
+-
+-
+-
+59
+-
+-
+7
+46
+420
+360
+988
+383 210
+-
+1 746
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+341
+-
+-
+363
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+2 450
+Tarahumara
+Tepehuán
+Mixteco
+Zapoteco
+Purhépecha
+Zoque
+Tzotzil
+Nahua de Zongolica-Pico de Orizaba
+Tzeltal
+Nahua de SLP, S.N. de Puebla, N. de Ver.
+Otomí
+Chatino
+Cora
+Pima
+Tojolabal
+Huichol
+Triqui
+Chinanteco
+Nahua Gro., Altiplano, Edomex, Oax.
+Amuzgo
+Mixe
+Matlatzinca
+Nahua de Michoacán
+Kiliwa
+Chontal de Oaxaca
+Mazahua
+Jacalteco
+Mazateco
+Tlapaneco
+Nahua
+Chol
+Guarijio
+Paipai
+Chuj
+Totonaca
+Maya lacandón
+Kanjobal
+Mame
+Nahua del sur de Veracruz
+Pame
+Popoluca
+TOTAL
+----------------Page (118) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+119
+CUADRO 8. 
+Zona ecológica subhúmeda de bosque templado: bosque de pino-encino 
+en los territorios de los pueblos indígenas (hectáreas)
+Pueblo indígena Primaria Secundaria 
+arbórea 
+Secundaria 
+arbustiva 
+Secundaria 
+herbácea
+1 169
+37 436
+7 528
+50 784
+115 827
+87 429
+119 619
+35 473
+4 306
+4 816
+3 554
+15 086
+17 408
+20 307
+23 540
+10 337
+-
+-
+4 941
+441
+594
+1 251
+2 084
+6 767
+-
+1 087
+28 176
+-
+104
+-
+53
+103
+-
+-
+72
+-
+-
+600 292
+360 329
+321 022
+145 815
+129 543
+125 197
+77 828
+69 341
+45 471
+42 595
+40 588
+35 907
+22 730
+21 964
+13 719
+13 277
+12 380
+11 002
+10 976
+10 034
+9 552
+9 019
+8 734
+6 394
+4 508
+4 439
+3 475
+1 674
+1 053
+1 024
+680
+402
+331
+277
+263
+-
+-
+-
+1 561 543
+28 478
+25 879
+21 177
+14 852
+91 693
+50 566
+126 180
+22 547
+8 373
+5 120
+6 448
+21 172
+105 987
+18 055
+6 025
+25 295
+-
+4 652
+4 126
+1 426
+2 960
+2 640
+2 044
+3 622
+501
+7 954
+36 273
+-
+-
+4 624
+-
+270
+-
+-
+604
+640
+173
+650 356
+-
+7 293
+187
+868
+-
+-
+-
+4 264
+-
+-
+2 561
+-
+-
+-
+-
+-
+-
+-
+-
+-
+658
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+15 831
+Tarahumara
+Tepehuán
+Tlapaneco
+Huichol
+Mixteco
+Mixe
+Zapoteco
+Cora
+Purhépecha
+Nahua de Gro., Altiplano, Edomex, Oax.
+Nahua de SLP, S.N. de Puebla, N. de Ver.
+Tzotzil
+Tzeltal
+Chontal de Oaxaca
+Zoque
+Tojolabal
+Pima
+Otomí
+Triqui
+Mazahua
+Nahua de Durango
+Nahua de Zongolica-Pico de Orizaba
+Chinanteco
+Amuzgo
+Guarijio
+Cuicateco
+Chatino
+Mazateco
+Totonaca
+Nahua de Michoacán
+Chuj
+Mame
+Matlatzinca
+Chol
+Kanjobal
+Nahua del sur de Veracruz
+Popoluca
+TOTAL
+----------------Page (119) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+120
+tración más rica de especies de pinos del mundo, 
+por lo que se le considera centro mundial de di-
+versidad de este género (Challenger, 1998). 
+Bosque de pino-encino. Este tipo de vegetación si-
+gue clasificado como bosque de coníferas por la 
+dominancia de los pinos. Sin embargo, el derribo 
+de los pinos como el principal maderable del país 
+—sin un manejo adecuado— desplaza a los pinos 
+por los encinos. Según la Serie III, tenemos para 
+este tipo de vegetación a nivel nacional 8821970 
+hectáreas, y 36 pueblos indígenas albergan en sus 
+territorios 2 828031, lo que significa 32 por ciento 
+del total nacional. 
+En la Serie III, en el tema de formación de ve-
+getación, los bosques de encino abarcan dos tipos 
+de vegetación: los de encino-pino y los de encino. 
+A nivel nacional se tienen registradas 15529 691 
+hectáreas con este tipo de vegetación, de las cua -
+les 1 386 255 se encuentran en territorios de los 
+pueblos indígenas, lo que representa 12 por cien -
+to del total nacional. Resulta extraordinario que 
+haya 173 especies de encinos, de las cuales 115 son 
+endémicas. Por tanto, México es un centro de di-
+versidad del género quercus en el hemisferio occi-
+dental (Challenger, 1998: 544).
+Bosque de encino y encino-pino. El territorio nacional 
+tiene 11 263 101 hectáreas de bosques de enci-
+nos, de las cuales 1 386 255 se encuentran en terri-
+torios de los pueblos indígenas, lo que representa 
+12.3 por ciento del total nacional. Es el tipo de ve-
+getación más distribuido en territorios indígenas 
+ya que abarca 43 etnias desde el norte del país has-
+ta Chiapas. 
+Bosque de encino-pino . A diferencia del tipo de vege-
+tación donde el pino domina sobre el encino, te-
+nemos vastas regiones donde el encino domina 
+sobre los pinos; por tanto, se clasifica como una for-
+mación de vegetación de bosque de encino. De 
+4266590 hectáreas a nivel nacional, 907460 se ubi-
+can en 28 territorios de los pueblos indígenas, esto 
+es, 21 por ciento. Al igual que los bosques de enci-
+no, los tarahumaras encabezan los bosques de en-
+cino-pino, y le siguen en orden descendente los 
+tepehuanes, huicholes, mixtecos, tlapanecos, co-
+ras, nahuas del altiplano, zoques, pimas y tzotziles. 
+Los bosques templados de coníferas y latifolia-
+das con dominancia del encino abarcan los territo-
+rios de 52 pueblos indígenas ocupando 6 958 759 
+hectáreas de un total de 32 304 554. Esto signi-
+fica que en los territorios indígenas está 21 por 
+ciento de los bosques templados, 61.4 por ciento de 
+sus bosques templados son primarios —4 277 753 
+hectáreas— y la intervención de 38.6 por ciento 
+si hemos de considerar como tales los bosques 
+secundarios —2 681 005 hectáreas— con vegeta-
+ción arbórea, herbácea y arbustiva. La mayor su-
+perficie de estos bosques se encuentra en áreas 
+donde habitan los indígenas tarahumaras, tepe-
+huanes, zapotecos, huicholes y mixtecos. 
+Zona ecológica árida y semiárida 
+Los tipos de vegetación identificados en esta zo-
+na ecológica son los matorrales xerófitos, mezqui-
+tales y huizachales. Desde el punto de vista bioló-
+gico, las especies endémicas en esta zona suman 
+más de 60 por ciento a nivel mundial; ya que los 
+ecosistemas áridos son el centro de origen y evo-
+lución de muchas taxa , y el centro mundial más 
+importante de evolución de las cactáceas. 
+Esta zona abarca una extensa área del norte 
+del país, además de las áreas que se crean a partir 
+de la sombra de humedad generadas en las distin-
+tas sierras Madre, las cuales producen situaciones 
+climáticas, topográficas y edáficas muy heterogé-
+neas que explican la enorme diversificación y los 
+endemismos (Challenger, 1998: 617). Estas situa-
+ciones geomorfológicas complejas generan una 
+situación de aislamiento y procesos de especia -
+ción importantes. 
+----------------Page (120) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+121
+En este bioma, la Serie III incorpora a los 
+matorrales xerófilos los siguientes tipos de vege -
+tación: chaparral, matorral crasicaule, desértico, 
+micrófilo, rosetófilo, sarcocrasicaule de neblina, 
+sarcocrasicaule, submontano, subtropical, así 
+como el mezquital (huizachal) y la selva baja es-
+pinosa. 
+A pesar de ser pocos los habitantes indígenas 
+que conviven con estos ecosistemas, y además 
+muy reducido en proporción con los territorios na-
+cionales, se trata de pueblos indígenas de los de-
+siertos —como los define Kirchhoff (1960)— que 
+han convivido con estos tipos de sistemas ecoló-
+gicos y florísticos desde milenios. Los conoci-
+mientos generados por la gente de los desiertos 
+para su manejo y uso son únicos en México y en 
+general en el mundo. En especial hay que mencio-
+nar que los pueblos indígenas del noroeste del 
+país tienen una larga tradición de convivencia con 
+este tipo de ecosistemas. En Aridoamérica desta-
+can los yaquis, seris, mayos, paipai, kiliwas, cochi-
+míes, chichimecas jonaz y cucapás. En el centro 
+del país los otomíes son especialistas en el mane-
+jo de la zona desértica, y en el área mesoamerica-
+na del valle de Tehuacán-Cuicatlán destacan los 
+nahuas, popolocas y mixtecos. 
+Entre las plantas domesticadas tenemos los 
+nopales opuntia (Ficus indica , O. Streptacamba) ,
+magueyes para producir pulque (Agave atrovirens, 
+A. mapisaga, A. salmiana) , algodón nativo (Gossy-
+pium hirsutum) y pasto cola de zorra (Setaria ma-
+crostachya) que fue uno de los primeros cereales 
+silvestres que se comenzaron a domesticar. Varios 
+cactos han estado sujetos a manipulación huma-
+na, como el nopalito (Nopalea spp., Opuntiae spp.),
+frijol tepario (Phaseolus acutifolius) , calabacita del 
+Cardón tetecho ( Neobuxbaumia tetetzo ), Oaxaca.
+----------------Page (121) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+122
+CUADRO 9. 
+ Bosque de encino en los territorios de los pueblos indígenas (hectáreas)
+Pueblo indígena Primaria Secundaria 
+arbórea 
+Secundaria 
+arbustiva 
+Secundaria 
+herbácea
+3 025
+13 716
+9 658
+3 785
+24 745
+1 565
+12 556
+-
+-
+25 586
+382
+10 242
+-
+-
+-
+368
+-
+5 482
+-
+1 387
+-
+560
+2 055
+1 581
+19
+2 529
+-
+5 324
+-
+-
+-
+-
+1 619
+-
+2 964
+1 486
+1 156
+24
+-
+-
+-
+131 814
+246 309
+171 943
+93 101
+72 532
+30 923
+21 881
+21557
+20 799
+16 216
+15 800
+15 076
+7 539
+6 890
+5 460
+4 533
+4 402
+3 359
+2 047
+1 947
+1 698
+1 493
+1 403
+1 351
+803
+779
+752
+736
+688
+336
+273
+231
+78
+48
+13
+-
+-
+-
+-
+-
+-
+-
+772 996
+27 804
+26 905
+46 778
+32 513
+100 955
+12 244
+12 905
+3 035
+205
+107 392
+16 408
+19 395
+4 473
+932
+389
+2 148
+8 923
+1 348
+2 636
+393
+1 981
+1 975
+1 114
+3 646
+-
+3 588
+-
+1 354
+3 988
+-
+1 782
+-
+689
+-
+11 172
+4 100
+1 387
+-
+8
+16
+152
+464 733
+-
+5 170
+4 585
+3 789
+-
+121
+2 399
+-
+-
+-
+-
+-
+-
+245
+-
+-
+385
+-
+-
+-
+-
+-
+16
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+16 710
+Tarahumara
+Tepehuán
+Huichol
+Nahua de Gro., Altiplano, Edomex, Oax.
+Mixteco
+Pame
+Cora
+Guarijio
+Pima
+Zapoteco
+Otomí
+Tzotzil
+Tlapaneco
+Nahua de Durango
+Zoque
+Purhépecha
+Nahua de Zongolica-Pico de Orizaba
+Mixe
+Tzeltal
+Mazateco
+Mazahua
+Huasteco
+Nahua de SLP, S.N. de Puebla, N. de Ver.
+Nahua de Michoacán
+Totonaca
+Tojolabal
+Mayo
+Amuzgo
+Popoluca
+Chuj
+Nahua del sur de Veracruz
+Kumiai
+Cuicateco
+Chichimeca Jonaz
+Chatino
+Chinanteco
+Chocho
+Triqui
+Chontal de Oaxaca
+Kanjobal
+Popoloca
+TOTAL
+----------------Page (122) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+123
+desierto (Cucurbita mixta) , pitahaya (Hylocereus 
+undatus) , temesquite (Mastichodendron spp. ), sarci-
+lla (Bomarea edulis) , xoconchtli (Stenocereus stella-
+tus) , papaloquelite (Porophyllum tagetioides) , sorgo 
+silvestre suahuí (Panicum sonorum) cereal básico 
+de los cucapá y otros grupos del desierto hasta 
+1930 (Challenger, 1998: 686). 
+Mezquital. La Serie III clasifica al tipo de vegeta-
+ción mezquital en dos partes: a) en las selvas espi-
+nosas y b) vegetación especial. En este trabajo, 
+juntamos las dos clasificaciones de los mezquita -
+les en una. Del total de 381 752 hectáreas de mez-
+quitales, sólo 84 762 se encuentran en territorios 
+de los pueblos indígenas, esto es, 3 por ciento del 
+total nacional. 
+Matorral xerófilo. Según la Serie III, el matorral 
+xerófilo abarca los siguientes tipos de vegetación: 
+chaparral, matorral crasicaule, matorral desértico 
+micrófilo, matorral desértico rosetófilo, matorral 
+espinoso tamaulipeco, matorral sarcocaule, mato-
+rral sarcocrasicaule, matorral submontano y vege-
+tación halófila.
+Del total de 53 858 016 hectáreas registradas a 
+nivel nacional, 951 785 pertenecen a los territorios 
+de los pueblos indígenas, esto es, 1.7 por ciento. 
+A pesar de que no hay presencia indígena impor-
+tante, el conocimiento y el manejo de la riqueza 
+de este ecosistema es milenario y se resguarda en 
+una cultura del desierto. 
+Chaparral. Este tipo de vegetación tiene una ex-
+tensión a nivel nacional de 2 093 853 hectáreas, de 
+las cuales 62 419 están en territorios de los pue-
+blos indígenas.
+Los paipai, kiliwa, cochimi, kumiai, son pue-
+blos milenarios que han convivido muchos siglos 
+con los desiertos. Son gente de los desiertos. Los 
+nahuas de la región de Tehuacán, popolocas, 
+chochos y mixtecos han adaptado la cultura 
+Encinos y palmas de Nanchititla.
+----------------Page (123) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+124
+CUADRO 10. 
+ Bosque de encino-pino en los territorios de los pueblos indígenas (hectáreas)
+Pueblo indígena Primaria Secundaria 
+arbórea 
+Secundaria 
+arbustiva 
+Secundaria 
+herbácea
+-
+12 740
+17 239
+34 956
+313
+-
+2 560
+77
+-
+4 017
+720
+10 320
+-
+10 752
+-
+-
+1 591
+9 397
+-
+95
+16 427
+-
+-
+-
+-
+-
+12 664
+-
+234
+-
+-
+753
+687
+326
+4
+135 872
+215 291
+114 623
+67 491
+55 900
+19 063
+16 809
+16 577
+15 345
+14 753
+13 111
+5 031
+4 409
+4 175
+3 542
+3 389
+2 753
+2 439
+1 747
+1 333
+1 240
+1 167
+825
+781
+608
+604
+313
+274
+211
+191
+19
+2
+-
+-
+-
+-
+584 016
+20 191
+15 785
+4 104
+41 338
+16 320
+-
+517
+2 348
+-
+14 700
+152
+-
+1 190
+32 439
+2 594
+919
+-
+1 611
+-
+1 440
+3 513
+735
+1 453
+65
+4 556
+-
+9 462
+-
+-
+-
+-
+854
+5 293
+-
+-
+181 579
+-
+1 258
+426
+-
+-
+-
+825
+-
+-
+-
+-
+-
+408
+-
+3 075
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5 992
+Tarahumara
+Tepehuán
+Huichol
+Mixteco
+Tlapaneco
+Zoque
+Cora
+Nahua de Gro., Altiplano, Edomex, Oax.
+Pima
+Tzotzil
+Purhépecha
+Amuzgo
+Nahua de Durango
+Zapoteco
+Otomí
+Guarijio
+Nahua de SLP, S.N. de Puebla, N. de Ver.
+Cuicateco
+Pame
+Nahua de Zongolica-Pico de Orizaba
+Chinanteco
+Mazahua
+Tojolabal
+Mazateco
+Tzeltal
+Chontal de Oaxaca
+Mixe
+Mayo
+Huasteco
+Chuj
+Matlatzinca
+Nahua de Michoacán
+Chatino
+Chocho
+Triqui
+TOTAL
+----------------Page (124) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+125
+CUADRO 11. 
+ Zona ecológica árida y semiárida 
+(hectáreas)
+Pueblo indígena Primaria Secundaria 
+arbustiva 
+Mezquital
+59 017
+9 060
+985
+182
+-
+-
+69 244
+Yaqui
+Mayo
+Seri
+Pápago
+Otomí
+Zapoteco
+TOTAL
+9 905
+4 507
+-
+-
+3
+1 104
+15 519
+Matorral xerófilo
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Chaparral
+Chocho
+Cochimi
+Kiliwa
+Kumiai
+Mixteco
+Nahua de Zongolica-Pico de Orizaba
+Paipai
+Popoloca
+Zapoteco
+TOTAL
+-
+-
+948
+386
+887
+421
+2 903
+757
+4 253
+14
+10 569
+Matorral crasicaule
+22 306
+19 971
+4 015
+1 662
+708
+432
+229
+49 323
+Otomí
+Nahua de Zongolica-Pico de Orizaba
+Mixteco
+Chichimeca jonaz
+Mazateco
+Nahua de Gro, Altiplano, Edomex, Oax.
+Popoloca
+TOTAL
+22 483
+-
+-
+834
+-
+123
+-
+23 440
+ Matorral desértico micrófilo
+71 579
+56 952
+56 921
+36 237
+15 109
+12 966
+5 547
+3 842
+497
+259 650
+Seri
+Cucapa
+Yaqui
+Paipai
+Kiliwa
+Pápago
+Tarahumara
+Mayo
+Otomí
+TOTAL
+-
+-
+1 391
+-
+481
+1 115
+128
+-
+2 610
+5 725
+mesoamericana en áreas muy desérticas produ-
+cidas por la sombra de humedad.
+Matorral crasicaule. Del total de 1 556 787 hectá-
+reas del matorral crasicaule a nivel nacional, 73 390 
+se encuentran en territorios de los pueblos indíge-
+nas, lo que significa 4.7 por ciento, siendo los na-
+huas del valle de Tehuacán y los otomíes del valle 
+del Mezquital los más importantes. 
+Matorral desértico micrófilo. De 21 720 217 hectá-
+reas a nivel nacional de matorral desértico micrófi-
+lo, en territorios de los pueblos indígenas se en-
+cuentran 265 375, o sea 1.22 por ciento. 
+Este tipo de vegetación se encuentra en 
+territorios de pueblos indígenas del desierto en el 
+norte del país, con excepción de los otomíes del 
+valle del Mezquital, que sería más un pueblo 
+mesoamericano. Destacan los yaquis, seris, pai -
+pais y kiliwas.
+Matorral desértico rosetófilo. En la República mexi-
+cana hay 10 642 295 hectáreas de matorral desér -
+tico rosetófilo. De esta superficie, corresponden 
+34 547 hectáreas a los pueblos indígenas, esto es, 
+0.32 por ciento. Los popolocas del valle de Te-
+huacan-Cuicatlán y los otomíes del valle de Mez -
+quital son los que más superficie detentan.
+Matorral espinoso tamaulipeco. En el ámbito nacio-
+nal se tiene un registro de 2 556 969 hectáreas de 
+este tipo de vegetación, de las cuales el pueblo ki-
+kapú detenta 4 522 hectáreas, es decir, 0.13 por 
+ciento del total nacional.
+Matorral sarcocuale. De las 5 276 413 hectáreas a 
+nivel nacional, 338 477 se encuentran en territorios 
+de los pueblos indígenas, esto es, 6.26 por ciento. 
+Esta vegetación es parte del desierto del noroeste 
+de México; en el conocimiento y uso de este terri-
+torio destacan los pueblos yaqui, seri y mayo.
+----------------Page (125) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+126
+Matorral sarcocrasicuale. En el ámbito nacional se 
+tiene un registro, de acuerdo con la Serie III, de 
+2 320 894 hectáreas, y sólo los mayos tienen este 
+tipo de vegetación con 39 669, lo que representa 
+1.71 por ciento del total nacional.
+Matorral submontano. De un total nacional de 
+2 825 039 hectáreas de este tipo de vegetación, 
+31 969 están en territorio de los pueblos indíge-
+nas, esto es, 1.1 por ciento. El pueblo otomí del 
+valle del Mezquital es el que más vegetación de 
+este tipo tiene.
+Ve g e t a c i ó n h a l ó f i l a . Este tipo de vegetación tiene una 
+cobertura nacional de 2 574 899 hectáreas, de las 
+que 94 065 están en territorios de los pueblos indí-
+genas, lo que representa 3.1 por ciento del total na-
+cional. Destacan los yaquis, mayos, seris y cucapá. 
+Zona ecológica de vegetación hidrófila
+Este tipo de vegetación está representada por 
+una gama de tipos que poco tienen que ver entre 
+sí. En la vegetación hidrófila se clasifican: popal, 
+selva de galería, tular, vegetación de galería, vege-
+tación de petenes y vegetación halófila. 
+Los manglares. Son uno de los ecosistemas más 
+amenazados del país. En las últimas décadas se 
+ha perdido t anto su cobertura como su territorio 
+al avanzar la frontera agropecuaria y los desarro-
+llos costeros. A pesar que los pueblos indígenas 
+no se desenvuelven generalmente en las costas, 
+observamos que cerca de 12.4 por ciento de todos 
+los manglares se encuentra en territorios indíge-
+nas. De las 854 754 hectáreas a nivel nacional que 
+registran manglares, 110 129 hectáreas se ubican 
+en territorios indígenas. Destacan los mayas de 
+Yucatán, cuyo territorio llega hasta las lagunas cos-
+teras del norte y oriente de la Península, a pesar 
+que sus territorios no se encuentran en la línea 
+costera o las islas barrera. Prácticamente, los man-
+glares más septentrionales del continente se en -
+cuentran en territorio seri.
+Popal. De 131 665 hectáreas que se registran de 
+popal en México, 3 698 se encuentra dentro del 
+territorio chontal, en el estado de Tabasco, esto 
+es, 2.8 por ciento, del total nacional.
+4 521
+1
+4 522
+Kikapu
+Nahua
+TOTAL
+-
+-
+-
+Matorral desértico rosetófilo
+10 758
+7 918
+2 435
+1 432
+975
+824
+674
+508
+351
+324
+26 199
+Popoloca
+Otomí
+Nahua de SLP, S.N. de Puebla, N. de Ver.
+Nahua de Zongolica-Pico de Orizaba
+Paipai
+Kiliwa
+Seri
+Nahua de Gro., Altiplano, Edomex, Oax.
+Zapoteco
+Mixteco
+TOTAL
+-
+8 348
+-
+-
+-
+-
+-
+-
+-
+-
+8 348
+Matorral sarcocaule
+150 410
+121 134
+60 451
+2 344
+334 339
+Yaqui
+Seri
+Mayo
+Pápago
+TOTAL
+29
+878
+3 232
+-
+4 139
+Matorral espinoso tamaulipeco
+Matorral sarcocrasicaule
+38 583Mayo 1 074
+Matorral submontano
+24 660
+4 710
+750
+30 120
+Otomí
+Pame
+Kikapu
+TOTAL
+1 819
+-
+31
+1 850
+CUADRO 11. 
+ Zona ecológica árida y semiárida 
+(hectáreas) 
+(Continuación)
+Pueblo indígena Primaria Secundaria 
+arbustiva 
+----------------Page (126) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+127
+CUADRO 12. 
+ Vegetación hidrófila (hectáreas)
+Pueblo indígena Primaria Secundaria 
+arbórea 
+Manglares
+76 564
+4 245
+3 050
+1 598
+1 478
+1 219
+1 091
+1 067
+838
+605
+521
+466
+393
+305
+125
+38
+-
+93 603
+Maya
+Chontal de Tabasco
+Yaqui
+Seri
+Zapoteco
+Mixteco
+Tzotzil
+Nahua del sur de Veracruz
+Totonaca
+Mayo
+Huave
+Ixil
+Amuzgo
+Nahua de SLP, S.N. de Puebla, N. de Ver.
+Huasteco
+Chuj
+Cucapa
+TOTAL
+-
+-
+-
+-
+357
+-
+-
+-
+-
+-
+16 121
+-
+-
+-
+-
+-
+46
+16 524
+ Petenes
+17 374.33Maya 2 225.91
+Ve g e t a c i ó n h a l ó f i l a
+54 736
+14 979
+12 711
+7 769
+981
+650
+96
+49
+91 971
+Yaqui
+Mayo
+Seri
+Cucapa
+Nahua de SLP, S.N. de Puebla, N. de Ver.
+Tlapaneco
+Mixteco
+Huasteco
+TOTAL
+611
+1 483
+-
+-
+-
+-
+-
+-
+2 094
+Ve g e t a c i ó n d e g a l e r i a
+515
+390
+192
+176
+70
+53
+1
+-
+1 397
+Mayo
+Yaqui
+Kumiai
+Huichol
+Tzeltal
+Cochimi
+Nahua de Gro., Altiplano, Edomex, Oax.
+Maya
+TOTAL
+-
+-
+-
+-
+-
+-
+-
+77
+77
+Selva de galería. Este tipo de vegetación, así clasi-
+ficado por la Serie III, se encuentra en un área 
+muy reducida en territorio huichol, con 252 hec-
+táreas de 3781 a nivel nacional. 
+Tular. De 936 395 hectáreas de tulares, los pue-
+blos indígenas tienen en sus territorios 90 951; es 
+decir, casi 9.67 por ciento del total nacional.
+Ve g e t a c i ó n d e g a l e r í a . La Serie III deslinda la selva 
+de galería, vegetación de galería y bosque de gale-
+ría como distintos tipos de vegetación. Ésta apa-
+rece junto a las corrientes de agua en lugares de 
+las selvas caducifolias y matorrales xerófilos.
+A nivel nacional se tiene un registro de 141 517 
+hectáreas de este tipo de vegetación, mientras 
+que en territorios de los pueblos indígenas son 
+374, esto es, 0.26 por ciento del total nacional.
+Ve g e t a c i ó n d e p e t e n e s . En la península de Yucatán, 
+de origen cárstico, tenemos en una amplia franja 
+costera disoluciones de los carbonatos lo que jun-
+to con los mantos freáticos de agua dulce fósil per-
+miten el desarrollo de “islas de vegetación” que 
+presentan una variada flora y fauna específica de 
+selvas bajas y medianas subperennifolias en el 
+centro del Petén. De las 45 005 hectáreas que hay 
+a nivel nacional, 19 600 están en territorios mayas, 
+lo que representa 43.5 por ciento del total. 
+Coberturas especiales
+En este rubro, la Serie III coloca el tipo de vege-
+tación no clasificable en los grandes biomas o zo-
+nas ecológicas, así en esta clasificación entra la 
+vegetación de dunas costeras.
+Ve g e t a c i ó n d e d u n a s c o s t e r a s . Éste es un tipo de vege-
+tación en extremo impactado, y en territorios de 
+los pueblos indígenas se encuentra principalmen-
+te en los pocos grupos costeros que existen a nivel 
+nacional. Del total de 155519 hectáreas, sólo 7016 
+----------------Page (127) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+128
+están en territorios de los pueblos indígenas, lo 
+que representa 4.51 por ciento del total nacional.
+Vegetación inducida
+La Serie III clasifica en este rubro a los palmares 
+y vegetación sabanoide, lo que a nievel nacional 
+son 6 495 469 hectáreas, y en territorios de los pue-
+blos indígenas suman 945 010, es decir, 14.4 por 
+ciento del total. 
+Palmares inducidos. De 105 938 hectáreas, 38 971 es-
+tán en territorios de los pueblos indígenas, esto es, 
+36.79 por ciento. Estos palmares inducidos son re-
+siembras en su hábitat natural en la selva baja cadu -
+cifolia. Se trata principalmente de la zona subhú-
+meda de Guerrero en colindancia con los estados 
+de Puebla y Oaxaca. La presencia de esta vegeta-
+ción se destaca en el territorio nahua de Guerrero, 
+en los límites con Puebla, y en el de los mixtecos, 
+quienes se han dedicado desde hace mucho tiempo 
+al tejido de sombreros y de otras artesanías utilizan -
+do diversos tipos de palmas como materia prima.
+Sabanoide. En este rubro existen, de acuerdo con 
+la Serie III, 148 001 hectáreas, de las que 49 230 
+están en territorios indígenas, lo que representa 
+33.2 por ciento del total nacional.
+Pastizales 
+En este rubro se integran los siguientes tipos de 
+vegetación: pastizal halófilo, pastizal natural y sa-
+banas. A nivel nacional se registran 12 267 751 hec-
+táreas, y en territorios de los pueblos indígenas 
+148 232, lo que representa 1.2 por ciento.
+Pastizal halófilo. Este tipo de vegetación abarca 
+1 816 554 hectáreas, mientras que en territorios 
+indígenas sólo se registran 11 802 hectáreas.
+Pastizal natural. Éste se haya principalmente en te-
+rritorio rarámuri. A nivel nacional hay un registro de 
+Sierra Gorda, Querétaro.
+----------------Page (128) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+129
+CUADRO 13. 
+Coberturas especiales (hectáreas)
+Pueblo indígena Primaria
+Vegetación de dunas costeras
+3 735
+1 361
+955
+718
+216
+30
+7 015
+Mayo
+Maya
+Seri
+Mixteco
+Chontal de Oaxaca
+Yaqui
+TOTAL
+Sabanoide
+20 020
+10 070
+8 189
+3 032
+2 925
+2 394
+1 824
+369
+188
+147
+73
+49 230
+Amuzgo
+Mixteco
+Zapoteco
+Huave
+Tepehuán
+Mixe
+Cora
+Triqui
+Chinanteco
+Huichol
+Chontal de Oaxaca
+TOTAL
+Pastizal natural
+28 595
+1 200
+-
+-
+29 795
+Tarahumara
+Tepehuán
+Chichimeca jonaz
+Kikapu
+TOTAL
+Chaparral
+26 548
+9 769
+5 814
+5 589
+2 037
+1 700
+982
+938
+51 851
+Paipai
+Kiliwa
+Cochimi
+Kumiai
+Mixteco
+Chocho
+Popoloca
+Nahua de Zongolica-Pico de Orizaba
+TOTAL
+Pastizal halófilo
+8 435
+2 470
+814
+83
+11 802
+Huave
+Maya
+Zapoteco
+Nahua de SLP, S.N. de Puebla, N. de Ver.
+TOTAL
+Sabanas
+20 321
+13 726
+741
+687
+174
+83
+64
+30
+11
+35 837
+Maya
+Tzotzil
+Tojolabal
+Chontal de Tabasco
+Maya lacandón
+Popoluca
+Zoque
+Chol
+Tzeltal
+TOTAL
+Bosque de tascate
+8 571
+1 988
+1 386
+392
+341
+97
+24
+-
+-
+12 799
+Mixteco
+Paipai
+Otomí
+Popoloca
+Cora
+Nahua de SLP, S.N. de Puebla, N. de Ver.
+Kikapu
+Nahua de Gro., Altiplano, Edomex, Oax.
+Chocho
+TOTAL
+Popal
+3 290
+377
+3 667
+Chontal de Tabasco
+Nahua del sur de Veracruz
+TOTAL
+Tular
+48 798
+33 232
+3 592
+1 244
+1 047
+799
+442
+416
+368
+290
+137
+94
+75
+26
+21
+9
+90 591
+Maya
+Chontal de Tabasco
+Maya lacandón
+Chol
+Ixil
+Purhépecha
+Totonaca
+Tzeltal
+Amuzgo
+Nahua de SLP, S.N. de Puebla, N. de Ver.
+Tzotzil
+Zoque
+Huasteco
+Otomí
+Kekchi
+Chinanteco
+TOTAL
+Pueblo indígena Primaria
+----------------Page (129) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+130
+10243943 hectáreas de este tipo de vegetación, de 
+las cuales 44396 se encuentran en territorios de los 
+pueblos indígenas, lo que representa 0.8 por ciento.
+Sabanas. La Serie III registra un total nacional de 
+sabanas de 207 252 hectáreas, de las cuales 35 836 
+están en territorios indígenas, esto es, 17.29 por 
+ciento. Destacan las sabanas de centro, sur y 
+oriente de la Península de Yucatán, mismas que 
+se encuentran en áreas inundables intermitente-
+mente junto con los tintales. 
+Ferocactus pilosus y Echinocactus platyacanthus en el 
+altiplano de San Luis Potosí.
+Evaluación general de la cobertura de la vegetación 
+primaria y secundaria en los territorios indígenas
+El territorio de los pueblos indígenas comprende 
+28 033 092 hectáreas, que representan 14.3 por 
+ciento del territorio nacional. Además, este por-
+centaje corresponde aproximadamente al de la 
+población indígena, la cual es de alrededor de 10 
+por ciento, comparada con la población total de 
+México. Sin embargo, no podemos aplicar la mis-
+ma proporción a la riqueza de la vegetación; en 
+ese 14.3 por ciento del territorio nacional se en-
+cuentra una enorme riqueza biológica, como se 
+puede apreciar en el cuadro 14. 
+En la gráfica 1 ofrecemos una aproximación a 
+lo mencionado. 
+Del cuadro 14 concluyo que en sólo 14.3 por 
+ciento del territorio nacional, que corresponde a 
+los territorios de los pueblos indígenas, están 
+presentes los 45 tipos de vegetación que la Serie 
+III consigna en su estudio nacional, de los cuales 
+16 se encuentran más allá del promedio si se re-
+partieran uniformemente los tipos de vegetación 
+en el territorio nacional. Casi cada tipo de vege-
+tación se distribuye en distintas regiones del 
+país, de manera que por esta razón tenemos una 
+gran diversidad beta. 
+Más de 50 por ciento de las selvas medianas ca-
+ducifolias, perennifolias, mediana subcaducifolias, 
+vegetación de los petenes, así como los bosques 
+mesófilos de montaña se encuentran en territorios 
+de los pueblos indígenas. En orden de importan-
+cia, los zoques, mayas lacandones, chinantecos, 
+tzeltales, mixes, tzotziles, mazatecos, nahuas y za-
+potecos tienen más de 100 000 hectáreas (cada 
+uno) de selvas alta y mediana perennifolias. Asi-
+mismo, de la zona ecológica templada subhúme-
+da, esto es, los bosques de coníferas y de pino-en -
+cino, abarcan la cuarta parte del total nacional.
+Si hemos de considerar que la clasificación de 
+zonas ecológicas y de tipos de vegetación son apro-
+----------------Page (130) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+131
+CUADRO 14. 
+ Superficie por tipos de vegetación a nivel nacional y en los territorios indígenas: 
+estudio comparativo (hectáreas)
+Tipo de vegetación Superficie 
+por tipo de 
+vegetación
+en los 
+territorios 
+indígenas
+Superficie 
+por tipo de 
+vegetación 
+ANP
+Superficie 
+por tipo de 
+vegetación 
+RTP
+Superficie 
+por tipo de 
+vegetación a 
+nivel nacional
+Porcentaje 
+por tipo de 
+vegetacion 
+en territorios 
+indígenas 
+respecto al 100% 
+nacional
+Selva mediana caducifolia
+Selva alta perennifolia
+Selva mediana subcaducifolia
+Bosque mesófilo de montaña
+Selva mediana subperennifolia
+Vegetación de petén
+Bosque de cedro (Cupressus sp.)
+Selva alta subperennifolia
+Palmar inducido
+Selva baja espinosa subperennifolia
+Sabanoide
+Bosque de pino-encino
+Bosque de pino
+Bosque de encino-pino
+Sabana
+Bosque de ayarín
+Selva baja subcaducifolia
+Selva baja caducifolia
+Bosque de encino
+Manglar
+Sin vegetación aparente
+Bosque de tascate
+Bosque de oyamel
+Tular
+Selva baja espinosa caducifolia
+Matorral sarcocaule
+Selva de galería
+Matorral crasicaule
+Vegetación de dunas costeras
+Bosque de galería
+Matorral subtropical
+Mezquital
+Vegetación halófila
+Chaparral
+Popal
+851 193
+2 428 343
+2 963 515
+992 196
+2 889501
+19 600
+871
+59 476
+38 971
+373 243
+49 230
+2 828 031
+2 047 382
+907 460
+35 836
+5 503
+9 306
+1 825 026
+1 386 255
+110 129
+108 167
+37 739
+13 939
+90 591
+47 661
+338 477
+252
+73 390
+7 016
+849
+54 005
+84 762
+94 065
+62 419
+3 668
+11 356
+435 530
+74 394
+30 855
+279 868
+36 750
+172
+32 469
+-
+78 046
+-
+33 976
+26 484
+37 463
+8 464
+-
+249
+169 699
+71 859
+111 968
+28 614
+3 982
+11 542
+54 891
+72 507
+-
+41 612
+1 751
+-
+-
+1 130
+5 013
+6 670
+42 172
+1 702 942
+313 456
+758 485
+1 658 841
+19 452
+871
+47 027
+13 251
+299 757
+1 901
+1 258 585
+1 126 383
+323 886
+20 601
+5 004
+1 026
+642 238
+431 226
+78 386
+16 804
+15 967
+5 913
+80 019
+3 561
+131 919
+2
+30 569
+3 690
+-
+29 255
+6 599
+12 316
+29 931
+2 837
+1 109 647
+3 440 961
+4 666 591
+1 823 395
+5 775 106
+45 006
+2 314
+160 884
+105 939
+1 035 689
+148 003
+8 821 997
+7 448 030
+4 266 591
+207 255
+40 008
+70 771
+14 309 308
+11 263 106
+915 025
+956 334
+333 896
+142 270
+936 404
+748 375
+5 410 263
+4 940
+1 560 156
+155 519
+21 622
+1 440 492
+2 676 340
+2 984 528
+2 093 834
+131 666
+76.71
+70.57
+63.50
+54.41
+50.03
+43.55
+37.67
+36.97
+36.79
+36.04
+33.26
+32.06
+27.49
+21.27
+17.29
+13.75
+13.15
+12.75
+12.31
+12.04
+11.31
+11.30
+9.80
+9.67
+6.37
+6.26
+5.09
+4.70
+4.51
+3.93
+3.75
+3.17
+3.15
+2.98
+2.79
+----------------Page (131) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+132
+CUADRO 14. 
+Superficie por tipos de vegetación a nivel nacional y en los territorios indígenas: 
+estudio comparativo (hectáreas) 
+(C
+ONTINUACIÓN
+)
+Tipo de vegetación Superficie 
+por tipo de 
+vegetación
+en los 
+territorios 
+indígenas
+Superficie 
+por tipo de 
+vegetación 
+ANP
+Superficie 
+por tipo de 
+vegetación 
+RTP
+Superficie 
+por tipo de 
+vegetación a 
+nivel nacional
+Porcentaje por 
+tipo de vegetacion 
+en territorios 
+indígenas 
+respecto al 100% 
+nacional
+Selva baja perennifolia
+Pradera de alta montaña
+Matorral sarco-crasicaule
+Matorral desértico micrófilo
+Matorral submontano
+Vegetación de desiertos arenosos
+Pastizal halófilo
+Pastizal natural
+Matorral desértico rosetófilo
+Vegetación de galería
+Palmar natural
+Matorral espinoso tamaulipeco
+Matorral rosetófilo costero
+TOTAL
+1 176
+296
+39 669
+265 375
+31 969
+14 185
+11 802
+44 396
+34 547
+374
+23
+4 522
+67
+21 286 470
+723
+296
+19
+41 594
+7 897
+-
+127
+-
+14 063
+-
+-
+-
+-
+1 732 036
+860
+296
+30 077
+46 907
+8 063
+745
+2 268
+9 499
+13 341
+18
+23
+4 521
+-
+9 231 487
+46 774
+16 587
+2 321 633
+21 720 280
+2 825 040
+2 167 051
+1 965 473
+10 245 837
+10 642 269
+141 516
+12 234
+3 413 715
+475 060
+141 245 734
+2.52
+1.78
+1.71
+1.22
+1.13
+0.65
+0.60
+0.43
+0.32
+0.26
+0.19
+0.13
+0.01
+GRÁFICA 1.
+ Porcentaje nacional por tipo de vegetación en los territorios de los pueblos indígenas de México
+9.7
+76.7
+70.6
+63.5
+54.4
+50.0
+43.6
+37.7
+37
+36.8
+36
+33.3
+32.1
+27.5
+21.3
+17.3
+13.8
+13.1
+12.8
+12.3
+12.0
+11.3
+Selva mediana caducifolia
+Selva alta perennifolia
+Selva mediana subcaducifolia
+Bosque mesófilo de montaña
+Selva mediana subperennifolia
+Vegetación de petén
+Bosque de cedro
+Selva alta subperennifolia
+Palmar inducido
+Selva baja espinosa subperennifolia
+Sabanoide
+Bosque de pino-encino
+Bosque de pino
+Bosque de encino-pino
+Sabana
+Bosque de ayarín
+Selva baja subcaducifolia
+Selva baja caducifolia
+Bosque de encino
+Manglar
+Sin vegetación aparente
+11.3
+9.8
+Bosque de tascate
+Bosque de oyamel
+Tular
+0% 20% 40%
+60%
+80%
+----------------Page (132) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+133
+CUADRO 15. 
+La vegetación natural en los territorios de los pueblos indígenas
+Ve g e t a c i ó n F a s e s u c e s i o n a l Superficie Porcentaje 
+del total de la 
+superficie
+Ninguna
+Arbórea
+Arbustiva
+Herbacea
+Inf. no disponible
+8 997 908
+6 239 345
+5 602 080
+104 656
+342 479
+21 286 469
+42.2
+29.3
+26.3
+0.49
+1.6
+100.0
+Veg. primaria
+Veg. secundaria
+Palmares, tulares, etc.
+TOTAL
+GRÁFICA 2.
+Distribución de la vegetación primaria, secundaria 
+y uso del suelo en los ter ritorios de los pueblos indígenas 
+(no se incluyen cuerpos de agua ni centros urbanos)
+Vegetación secundaria
+43.6%
+Vegetación 
+primaria
+32.6%
+Uso
+agrícola
+12.2%
+Uso pecuario
+11.3%
+ximaciones que se matizan según la ubicación geo-
+gráfica y el uso, casi cada pueblo indígena presenta 
+situaciones específicas que marcan una riqueza ex -
+traordinaria. Así, aunque los matorrales xerófitos 
+estén escasamente representados en los territorios 
+indígenas, los pueblos indígenas del norte de 
+América Árida tienen una larga tradición de convi-
+vencia con este tipo de vegetación y los ecosiste-
+mas respectivos. De 33 a 50 por ciento de las plan-
+tas medicinales recolectadas en estado silvestre en 
+México son originarias de las selvas subhúmedas; 
+en especial, de las selvas bajas caducifolias (Cha-
+llenger, 1998: 413). El conocimiento original de 
+estas plantas viene indudablemente de los pueblos 
+indígenas que han convivido con estas selvas.
+Como síntesis de esta evaluación al agrupar 
+los diversos tipos de vegetación y usos de suelo en 
+las regiones indígenas, se observa que los bosques, 
+selvas y matorrales con vegetación primaria ocu-
+pan cerca de 32.8 por ciento de la superficie total, 
+la vegetación secundaria 43.6 por ciento; mientras 
+que el área destinada al uso pecuario es 11.3 por 
+ciento, el agrícola 12.2 por ciento, es decir, en las 
+zonas indígenas más de 76 por ciento de la su-
+perficie conserva una cubierta vegetal natural. 
+Si hemos de considerar a la vegetación secunda-
+ria herbácea y arbustiva como un indicador de per-
+turbación, podemos hablar de un promedio de 
+27.2 por ciento de áreas fuertemente impactadas. 
+Como se trata de áreas dinámicas, las 10 638 561 
+hectáreas de vegetación secundaria incluyendo la 
+arbórea con cara hacia el futuro tienen un poten-
+cial invaluable de captura de carbono. 
+La riqueza biológica se expresa en las varie-
+dades de tipos de vegetación en sus territorios. 
+De esta manera, por ejemplo, los otomíes tienen 
+17 tipos de vegetación en sólo 488 627 hectáreas, 
+lo que nos lleva a la pregunta ¿cómo se adaptó la 
+cultura del maíz mesoamericano a los diferentes 
+ecosistemas? La hipótesis a desarrollar en el fu -
+turo es que los paisajes culturales interaccionan 
+activamente con la biodiversidad. 
+----------------Page (133) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+134
+CUADRO 16. 
+Diversidad de tipos de vegetación en los territorios de los pueblos indígenas
+Pueblo
+indígena
+Mixteco
+Zapoteco
+Maya
+Nahua de SLP, S.N. de Puebla, N. de Ver.
+Otomí
+Nahua de Gro., Altiplano, Edomex, Oax.
+Mayo
+Tzeltal
+Tzotzil
+Zoque
+Tepehuán
+Chol
+Huichol
+Yaqui
+Chontal de Oaxaca
+Cora
+Huasteco
+Nahua de Zongolica-Pico de Orizaba
+Totonaca
+Amuzgo
+Chatino
+Chinanteco
+Chontal de Tabasco
+Purhépecha
+Seri
+Tarahumara
+Triqui
+Chuj
+Kanjobal
+Mame
+Mazateco
+Mixe
+Diversidad 
+en tipos de 
+vegetación
+20
+20
+17
+17
+17
+16
+14
+13
+13
+13
+12
+11
+11
+11
+10
+10
+10
+10
+10
+9
+9
+9
+9
+9
+9
+9
+9
+8
+8
+8
+8
+8
+Extensión 
+territorial
+(hectáreas)
+1 700 796
+1 773 830
+7 440 854
+947 703
+488 627
+663 813
+321 124
+924 774
+774 323
+678 665
+1 182 536
+792 334
+832 951
+449 320
+135 933
+367 047
+250 712
+348 988
+313 948
+156 146
+223 077
+651 480
+79 406
+216 044
+212 222
+2 647 372
+56 290
+7 093
+31 032
+35 796
+315 254
+681 045
+Nahua del sur de Veracruz
+Popoloca
+Tlapaneco
+Tojolabal
+Cucapa
+Maya lacandón
+Nahua de Durango
+Pame
+Cuicateco
+Huave
+Ixil
+Mazahua
+Nahua de Michoacán
+Popoluca
+Chocho
+Guarijio
+Paipai
+Pima
+Chichimeca jonaz
+Kikapu
+Kiliwa
+Matlatzinca
+Nahua
+Kekchi
+Kumiai
+Pápago
+Cochimi
+Chuj - Kanjobal
+Jacalteco
+Quiché
+Tepehua
+TOTAL
+Diversidad 
+en tipos de 
+vegetación
+8
+8
+8
+8
+7
+7
+7
+7
+6
+6
+6
+6
+6
+6
+5
+5
+5
+5
+4
+4
+4
+4
+4
+3
+3
+3
+2
+2
+2
+2
+2
+Extensión 
+territorial
+(hectáreas)
+96 293
+42 272
+294 429
+230 634
+155 332
+490 074
+36 582
+104 479
+104 314
+106 879
+14 444
+125 891
+76 218
+109 819
+11 746
+83 014
+68 326
+53 767
+4 396
+7 040
+27 557
+4 071
+3 549
+3 669
+7 603
+16 660
+7 599
+683
+3 777
+32 414
+9 027
+28 033 092
+Pueblo 
+indígena
+Respecto al cambio de uso del suelo observa-
+mos en el cuadro 17 una disminución importante 
+de la vegetación primaria, y a la vez un aumento 
+fuerte en la vegetación secundaria arbórea. Final-
+mente, en el cuadro 18 se presenta la tenencia de 
+la tierra en los bosques y selvas. Hay que desta-
+car que emplearon para ello los ejidos y comuni-
+dades del VIII Censo Ejidal del año 2001, que 
+según el 
+INEGI
+ (2008) abarcaban 105 millones de 
+hectáreas. De 2001 a 2008 la superficie de los eji-
+dos y comunidades ha crecido 4 por ciento. Cabe 
+destacar que 42 por ciento de la propiedad social 
+de los bosques y selvas está en los territorios indí-
+genas. 
+----------------Page (134) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+135
+CUADRO 18. 
+Propiedad social
+*
+ y privada de los bosques y selvas
+**
+a nivel nacional 
+y en los territorios de los pueblos indígenas de un total de 65 595 255 hectáreas
+Cubierta de uso 
+del suelo y 
+vegetal 
+Serie III, 2002 
+(
+INEGI
+)
+Porcentaje 
+total 
+indígena
+x zona 
+ecológica
+Ejidal y 
+comunal 
+general
+Privados, 
+tierras 
+nacionales 
+generales
+Ejidal y 
+comunal 
+indígena
+Porcentaje 
+indígena 
+ejidal y 
+comunal 
+b y selvas
+Privados 
+indígena
+Porcentaje 
+indígena
+Total 
+x zona 
+ecológica 
+a nivel 
+nacional
+Total 
+x zona 
+ecológica 
+en terri-
+torios 
+indígenas
+Bosques templados 
+humedos y subhúmedos
+Bosques de con
+í
+feras
+(incl. pino-encino)
+Bosques mesófilos 
+de montaña
+Bosques de encinos 
+(incl. encino-pino)
+Selvas húmedas y 
+subhúmedas
+Selvas caducifolias
+Selvas perennifolias
+Selvas subcaducifolias
+Selvas espinosas
+Total bosques y selvas
+Porcentaje total
+19 916 426
+10 935 122
+1 131 117
+7 850 187
+19 529 213
+8 621 730
+6 758 979
+3 064 828
+1 083 676
+39 445 639
+60.1
+46.8
+36.7
+63.6
+58.5
+37.0
+4.1
+67.0
+65.1
+32.6
+42.0
+1 375 279
+786 319
+316 726
+272 234
+2 330 461
+455 822
+833 497
+972 627
+68 515
+3 705 740
+9.7
+13.4
+45.8
+3.5
+19.5
+6.7
+31.3
+58.2
+8.7
+14.2
+34 142 549
+16 789 510
+1 823 397
+15 529 642
+31 452 706
+15 418 935
+9 424 391
+4 737 371
+1 872 009
+65 595 255
+10 702 624
+4 804 197
+1 036 242
+4 862 185
+9 561 941
+809 558
+5 361 490
+2 968 642
+422 251
+20 264 565
+31.3
+28.6
+54.4
+31.3
+30.4
+5.3
+56.9
+62.7
+22.6
+30.9
+14 226 123
+5 854 388
+692 280
+7 679 455
+11 923 493
+6 797 205
+2 665 412
+1 672 543
+788 333
+26 149 616
+39.9
+9 327 345
+4 017 878
+719 516
+4 589 951
+7 231 480
+353 736
+4 527 993
+1996015
+353 736
+16 558 825
+CUADRO 17. 
+Comparación de la vegetación y el uso del suelo Serie II de 1993 y Serie III de 
+2002 respecto al mismo territorio de los pueblos indígenas (hectáreas)
+Ve g e t a c i ó n y u s o d e l s u e l o
+Serie II, 1993 Serie III, 2002 Porcentaje
+Serie III
+-40.70
++70.39
+-5.59
++23.55
++26.64
++25.02
+0.18
+Vegetación primaria (incluye pastizales naturales) 
+Vegetación secundaria
+Subtotal
+Agrícola
+Pecuario
+Subtotal
+TOTAL
+8 997 908
+11 946 083
+20 943 991
+3 355 111
+3 094 965
+6 450 076
+27 394 067
+15 174 089
+7 010 832
+22 184 921
+2 715 529
+2 443 868
+5 159 397
+27 344 318
+* Según el VIII Censo Ejidal del año 2001 la propiedad social era de 105 millones de hectáreas con 30 305 ejidos. Utiliza-
+mos en nuestro estudio 100 millones de hectáreas, ya que no se incluyen los polígonos de ejidos y comunidades que están 
+en litigio. Las tierras nacionales se incluyen provisionalmente en la propiedad privada hasta que tengamos más precisión en 
+los datos. Para el año 2007, la superficie y cantidad de ejidos han aumentado en 4 por ciento (
+INEGI
+ 2008).
+** Las zonas ecológicas con bosques y selvas tienen, según la Serie III, los siguientes tipos de vegetación. Selvas húme-
+das y subhúmedas: selva mediana caducifolia, selva alta perennifolia, selva mediana subcaducifolia, selva mediana subperen-
+nifolia, selva baja espinosa, espinosa caducifolia, selva alta subperennifolia, selva baja perennifolia, selva baja caducifolia , 
+selva baja subperennifolia, de la selva espinosa los mezquitales. Bosques templados húmedos y subhúmedos: bosque mesó-
+filo de montaña, bosque de encino-pino, bosque de pino, bosque de pino- encino, bosque de ayarín, selva baja subcaducifo -
+lia, bosque de encino, bosque de tascate, bosque de galería, bosque de oyamel, bosque de cedro. No se incluyen en este es-
+tudio los matorrales de la selva caducifolia ni los matorrales xerófilos y la vegetación hidrófila incluidos los manglares.
+----------------Page (135) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+136
+Potrero en la niebla, Hidalgo.
+----------------Page (136) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+137
+Las regiones bioculturales para la 
+conservación y desarrollo de la biodiversidad
+Criterios para definir las regiones bioculturales 
+prioritarias para la conservación 
+Después de analizar la riqueza biológica median-
+te el estudio de los tipos de vegetación y su exten-
+sión en territorios de los pueblos indígenas, tengo 
+los elementos para analizar desde el punto de vis-
+ta más cualitativo la biodiversidad y agrobiodiversi-
+dad en esos mismos lugares. Las Series I, II y III, 
+dimensionan la importancia de la riqueza biológi-
+ca por los tipos de vegetación que se encuentran 
+en territorios de los pueblos indígenas. Esta infor-
+mación es básica para el diseño de la preservación 
+y el manejo de la biodiversidad de cada una de las 
+zonas ecológicas, así como de los recursos ambien-
+tales que nos pueden proporcionar esos ecosiste-
+mas. Sin embargo, junto con la Cartografía de uso 
+del suelo y vegetación , Series II y III, hay otros instru-
+mentos que podrían ayudarnos para establecer de 
+manera específica y cualitativa las regiones bio-
+culturales prioritarias para la conservación y desa-
+rrollo de la biodiversidad. 
+En los últimos diez años se han desarrollado 
+varios instrumentos institucionales para el diagnós-
+tico de la biodiversidad mexicana, y a partir de ahí 
+se propone que se deriven políticas concretas para 
+su preservación, conservación, rehabilitación y re-
+cuperación (Soberón, 2000). En primer lugar tene-
+mos el Sistema Nacional de Áreas Naturales Pro -
+tegidas (Sinanp) federales y las áreas naturales 
+protegidas estatales y municipales. Los polígonos 
+de las 
+ANP
+ fueron delimitados con base en criterios 
+de conservación que consideraban valiosos algu-
+nos macizos de vegetación primaria, relativamen-
+te bien conservados, o bien cuando hubiera espe-
+cies determinadas que proteger —por ejemplo, el 
+flamenco (Phoenicopterus rubber) —. Todas las 
+ANP
+tienen algún nivel de evaluación. Sin embargo, 
+los polígonos del Sinanp y los estatales sólo prote -
+gen (en caso de que fueran eficientes) una peque-
+ña parte de los biomas en México. Cuando se creó 
+la Conabio se idearon varios sistemas de evalua-
+ción y distribución geográfica de la biodiversidad: 
+a) las regiones terrestres prioritarias (
+RTP
+), b) las 
+regiones hidrológicas prioritarias (
+RHP
+),
+5
+c) las áreas 
+de importancia para la conservación de las aves 
+(
+AICA
+),
+6
+ y d) regiones marinas prioritarias (
+RMP
+).
+5
+ Regiones Hidrológicas Prioritarias (
+RHP
+). En mayo de 
+1998, la Conabio inició el Programa de Regiones Hidrológicas 
+Prioritarias, con el objetivo de obtener un diagnóstico de las 
+principales subcuencas y sistemas acuáticos del país conside-
+rando las características de biodiversidad y los patrones socia-
+les y económicos de las áreas identificadas. Todo ello con el 
+fin de establecer un marco de referencia que pueda ser consi-
+derado por los diferentes sectores para el desarrollo de planes 
+de investigación, conservación, uso y manejo sostenido. Los 
+hábitat acuáticos epicontinentales son más variados en rasgos 
+físicos y químicos que los del ambiente marino. Aparte de los 
+pantanos, que tradicionalmente se agrupan como humedales 
+continentales, los sistemas epicontinentales incluyen lagos, 
+ríos, estanques, corrientes, aguas subterráneas, manantiales, 
+cavernas sumergidas, planicies de inundación, charcos e in-
+cluso el agua acumulada en las cavidades de los árboles. Las 
+diferencias en la química del agua, transparencia, velocidad o 
+turbulencia de la corriente, así como de profundidad y morfo-
+metría del cuerpo acuático, contribuyen a la diversidad de los 
+recursos biológicos que se presentan.
+6
+ Para el establecimiento de las
+AICA
+ se fijaron los siguien-
+tes criterios. Categoría 1: 1) El sitio que contiene una pobla-
+ción de una especie considerada como globalmente amena-
+zada, en peligro o vulnerable (según el libro rojo de 
+BIRDLIFE
+). 
+2) El sitio contiene una población de una especie considerada 
+como amenazada, en peligro o vulnerable para Norteamérica 
+(al menos una especie en alguna categoría de amenaza com-
+partida por al menos dos países). 3) El sitio contiene al menos 
+una población de una especie considerada en las listas oficia-
+les del país como amenazada, en peligro o vulnerable. 4) El 
+sitio que contiene al menos una población de una especie 
+considerada en las listas oficiales del Estado como amenazada, 
+en peligro o vulnerable. Categoría 2: 1) El sitio mantiene 
+poblaciones, locales, con rangos de distribución restringida. 
+2) El sitio mantiene poblaciones significativas de un grupo de 
+especies de distribución restringida (menor a 50 000 km
+2
+)
+(
+EBA
+). 3) Esta categoría incluye sitios importantes para espe-
+cies con rangos globales restringidos, aunque mayores a 
+50 000 km
+2
+, pero que presentan poblaciones grandes dentro 
+de Norteamérica y que no están restringidos a un bioma en 
+particular. Categoría 3: 1) El sitio que mantiene conjuntos de 
+especies restringidos a un bioma o hábitat único o amenazado. 
+2) El sitio que presenta poblaciones significativas de un grupo 
+de especies que se sabe están restringidas a un bioma. Sólo se 
+aplica a sitios globales, porque aun cuando el bioma estuviese 
+----------------Page (137) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+138
+Los criterios para definir estas regiones varían 
+según cada tipo de prioridad para la conservación. 
+En el siguiente apartado examinaré qué territo-
+rios indígenas comparten estos polígonos, para 
+ello, se contó con el ejercicio de un grupo de ex-
+pertos. Es una aproximación que permite evaluar 
+dónde se encuentran los ecosistemas más ínte-
+gros, así como los valores específicos de su diversi-
+dad biológica.
+Desde el punto de vista ambiental, la identifi-
+cación de las 
+RTP
+ tiene como objetivo la determi-
+nación de unidades que destaquen la presencia 
+de una riqueza ecosistémica comparativamente 
+restringido a un país o región, éste sería único y el área se con-
+sideraría como de importancia global. Categoría 4: Sitios que 
+se caracterizan por presentar congregaciones grandes de indi-
+viduos. Esta categoría se aplica a especies que se caracterizan 
+por ser vulnerables, por presentarse en números grandes en 
+sitios clave durante la reproducción o la migración. 1) El sitio 
+contiene más de 1 por ciento de la población mundial de una 
+especie acuática gregaria (Criterio Ramsar). 2) El sitio contie-
+ne más de 1 por ciento de la población mundial de una espe-
+cie no acuática gregaria. 3) El sitio contiene más de 20 000 
+aves acuáticas o 10 000 pares de aves marinas de una o más 
+especies, 500 000 aves playeras (o 30 por ciento de su pobla -
+ción). Esta categoría debe usarse sólo cuando el número glo-
+bal no se conozca. 4) El sitio parece mantener estándares 
+apropiados para especies migratorias en sitios “cuello de bote-
+lla”. 5) Sitio que contiene más de 1 por ciento de la “pobla-
+ción” continental de una especie de ave acuática gregaria 
+(Criterio Ramsar). 6) Sitio que contiene más de 1 por ciento 
+de la “población” continental de una especie de ave no 
+acuática gregaria. 7) Sitio que contiene más de 15 000 aves 
+acuáticas o 7 500 pares de aves marinas de una o más especies, 
+100 000 aves playeras. Esta categoría debe usarse sólo cuando 
+el número global no se conozca. 8) Sitio que presenta números 
+que parecen exceder los estándares para especies migratorias 
+en sitios “cuello de botella”. 9) Sitio que contiene más de 
+1 por ciento de la “población” nacional de una especie de ave 
+acuática gregaria (Criterio Ramsar). 10) Sitio que contiene 
+más de 1 por ciento de la “población” nacional de una especie 
+de ave no acuática gregaria. 11) Sitio que contiene más de 10 
+000 aves acuáticas o 5 000 pares de aves marinas de una o más 
+especies, más de 20 000 aves playeras. Esta categoría debe 
+usarse sólo cuando el número global no se conozca. 12) Sitio 
+que presenta números que parecen exceder los estándares 
+para especies migratorias en sitios “cuello de botella”. Cate-
+goría 5: Sitios importantes para la investigación ornitológica. 
+Áreas donde la realización de trabajo de investigación en orni-
+tología sea de relevancia para la conservación de las aves a ni-
+vel global. Fuente: http://
+CONABIO
+web.
+CONABIO
+.gob.mx/
+AICA
+s/
+doctos/criterios-
+AICA
+s.html, consultado el 30 de abril de 2004.
+mayor que en el resto del país, y además se tenga 
+la oportunidad real de conservación. Por ahora 
+se han determinado 152 
+RTP
+ que cubren una 
+superficie de 55 051 683 hectáreas, de las cuales 
+10 786 914 se localizan en territorios de los pue -
+blos indígenas, esto es, 19.5 por ciento del total. 
+Desde el punto de vista de los territorios indíge-
+nas, 38 por ciento son clasificadas como
+RTP
+. Asi-
+mismo, las 
+RHP
+ abarcan 13 006 551 hectáreas y las 
+AICA
+6 794 371 de los territorios mencionados. 
+Evidentemente, las áreas de las
+RTP
+, 
+RHP
+, 
+ANP
+y
+AICA
+ se traslapan en algunas partes, pero en otras 
+no, por lo que su conjunto abarca 19 675 979 hec -
+táreas de territorios indígenas. Con ello podemos 
+decir que 70 por ciento del territorio de los pue-
+blos indígenas tiene alguna categoría de valores 
+de biodiversidad establecidos por la Conabio.
+Para hacer el balance cualitativo y definir las 
+regiones bioculturales prioritarias para la conser-
+vación y el desarrollo, analizaré primero la rela-
+ción de los territorios de los pueblos indígenas 
+con las 
+ANP
+; en segundo lugar con las 
+RTP
+, y en una 
+tabla final de este capítulo estableceré la relación 
+territorial con las 
+RTP
+, 
+AICA
+ y 
+RHP
+.
+Cabe aclarar que las 
+RTP
+no sólo se refieren a la 
+importancia de los centros de origen y endemis-
+mos de las especies, sino también a la diversidad 
+biológica domesticada. 
+Los territorios de los pueblos indígenas y las áreas 
+naturales protegidas (
+ANP
+) federales y estatales 
+Va r i a s d e l a s 
+ANP
+ del país se intersectan con los terri-
+torios de los pueblos indígenas. Por lo menos 52 de 
+las poligonales declaradas como 
+ANP
+ por la federa-
+ción habita población indígena. Para hacer la eva-
+luación de la presencia de los pueblos indígenas 
+dentro de las 
+ANP
+ utilizamos todos los polígonos 
+que presentan algún tipo de protección. Este Sis -
+tema Nacional de Áreas Protegidas (Sinanp) inclu -
+ye las siguientes categorías de protección: Parques 
+Marinos Nacionales, Reservas de la Biosfera, Zonas 
+----------------Page (138) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+139139
+S
+on aquellas en donde los territorios de los pueblos 
+indígenas coinciden con los centros de origen y 
+diversificación tanto de a) biodiversidad, como de la 
+b) diversidad domesticada. 
+Los territorios indígenas con las áreas naturales pro-
+tegidas (
+ANP
+), las regiones terrestres prioritarias (
+RTP
+), las 
+áreas de importancia para la conservación de las aves 
+(
+AICA
+), y regiones hidrológicas prioritarias (
+RHP
+). Los crite-
+rios para determinar las 
+RTP
+ son: diversidad ecosistémica, 
+tipos de vegetación primaria, integridad ecológica fun-
+cional, función como corredor biológico, fenómenos na-
+turales extraordinarios como la presencia de alguna es-
+pecie única, presencia de endemismos, riqueza específica, 
+función como centro de origen y diversificación natural, 
+función como centro de domesticación de especies útiles, 
+pérdida de superficie original, nivel de fragmentación, 
+cambios de densidad poblacional, presión sobre especies 
+clave, concentración de especies en riesgo, prácticas de 
+manejo inadecuado, proporción del área bajo manejo 
+adecuado, importancia por servicios ambientales, pre -
+sencia de grupos organizados. Presencia de agroecosis -
+temas con agrobiodiversidad nativa domesticada. 
+Su población es “gente de los ecosistemas” que tie-
+nen una interacción de larga duración con los mismos. 
+Los endemismos biológicos se pueden vincular a los 
+“lenguas endémicas”.
+Proporción de servicios ambientales extraordinarios 
+como la conservación de bosques, selvas y matorrales 
+primarios y secundarios de alto valor en diversidad bio-
+lógica, amortiguamiento de zonas de choque de los hu-
+racanes y tormentas, conservación de suelos originales, 
+captación de agua, captura de carbono, y custodio de la 
+diversidad semidomesticada y domesticada.
+Niveles de organización social y cultural para garan-
+tizar el custodio, conservación, desarrollo in situ de este 
+patrimonio biocultural.
+Las regiones bioculturales prioritarias para la conservación y el desarrollo
+de Refugio Submarino, Áreas de Protección de la 
+Flora y Fauna, Área de Protección de los Recursos 
+Naturales, Santuarios, Zonas de Protección Fores -
+tal, Parque Nacional, Área de Protección de Flora y 
+Fauna Silvestres y Acuática. Estas distintas catego -
+rías de protección tienen procedimientos adminis-
+trativos diferenciales (en caso de que existan).
+La intersección de las 
+ANP
+ federales con los te-
+rritorios de los pueblos indígenas dio los siguientes 
+resultados: del total de 152 
+ANP
+, 52 tienen pobla-
+ción indígena. Estas 52 suman 5 578 645 hectáreas, 
+de las cuales 1 467 034 corresponden a los territo -
+rios de los pueblos indígenas, lo que representa 
+26.2 por ciento de la superficie total de las mismas. 
+Las 16 reservas que están en territorios de los pue -
+blos indígenas tienen un rango de extensión terri-
+torial que va de 10 mil a 358 443 hectáreas por área 
+protegida. Por esta razón, las 
+ANP
+ tendrían que te-
+ner un procedimiento específico de participación 
+para los pueblos indígenas en las mismas, del cual 
+tendría que dar cuenta el marco legal que significa 
+la firma por parte de México del 
+CDB
+ y las Confe-
+Paisaje biocultural en Hidalgo.
+----------------Page (139) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+140
+rencias de Partes que se han venido realizando. 
+Las cifras arriba mencionadas tienen gran impor-
+tancia para la conservación in situ de la biodiversi-
+dad mexicana, ya que presentan la necesidad de 
+la representación indígena en la toma de decisio-
+nes tanto para la designación de las autoridades 
+como para el diseño de las políticas hacia las mis-
+mas 
+ANP
+.
+En estas reservas que contienen territorios in-
+dígenas, la población total es de 787 316, de la cual 
+147 317 corresponde a la población indígena, esto 
+es, 18.7 por ciento. Sin embargo, hay 269 localida -
+des que tienen 40 por ciento y más de hogares in-
+dígenas, y que conforman los territorios de los 
+pueblos indígenas dentro de estas áreas protegi -
+das que arrojan la cantidad de 83 214 habitantes 
+pertenecientes a un pueblo indígena. 
+Además los pueblos indígenas y comunidades 
+campesinas están involucrados en los instrumen -
+tos de conservación estatales con 533 264 hectá -
+reas lo que se suma a las federales 2 000 298 hec-
+táreas de su territorio. 
+La conservación en los territorios indígenas se 
+desarrolla principalmente por las propias iniciati-
+vas comunitarias. Estas últimas obedecen a varios 
+procesos con experiencias distintas que van des-
+S
+IMBOLOGÍA
+Reservas comunitarias
+Territorios actuales de
+los pueblos indígenas
+16º
+96º 94º
+92º 90º
+18º
+20º
+OCÉANO
+PACÍFICO
+GOLFO
+DE MÉXICO
+Guadalajara
+Puebla
+Tlaxcala
+Oaxaca
+Morelia
+Chilpancingo
+Guanajuato
+Ciudad
+de México
+Cuernavaca
+Toluca
+Xalapa
+Querétaro
+Pachuca
+Colima
+O
+RDENAMIENTOS ECOLÓGICOS
+YRESERVASCOMUNITARIASDE
+M
+ICHOACÁN
+, G
+UERRERO Y
+ O
+AXACA
+----------------Page (140) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+141
+CUADRO 19. 
+ Áreas naturales protegidas (
+ANP
+) federales y territorios de los pueblos indígenas
+Población 
+total que 
+vive en las
+ANP
+que 
+tienen 
+territorios 
+indígenas
+Porcentaje
+de 
+ANP
+en cada 
+territorio 
+indígena
+Categoría 
+de manejo* 
+RB
+MN
+PN
+RB
+RB
+RB
+PN
+PN
+APFF
+APFF
+APFF
+APRN
+APRN
+APFF
+APFF
+PN
+RB
+RB
+APFF
+APFF
+APFF
+PN
+RB
+RB
+RB
+RB
+PN
+PN
+PN
+PN
+RB
+RB
+RB
+PN
+16.40
+100.00
+19.17
+12.02
+28.55
+0.06
+20.69
+18.64
+32.51
+67.49
+1.00
+49.09
+0.92
+11.59
+88.41
+100.00
+5.61
+4.06
+0.23
+37.48
+0.08
+6.70
+0.83
+0.22
+1.58
+100.00
+0.30
+2.09
+8.41
+19.26
+23.50
+14.05
+20.66
+26 127
+12
+12 290
+2 568
+307 252
+1 853
+1 537
+-
+119 583
+-
+18
+10 128
+-
+243
+9 389
+-
+3 097
+1 363
+8 027
+2
+28 182
+1 258
+12
+5 576
+1 352
+26 348
+1 018
+1 445
+-
+53 697
+-
+0
+1 054
+-
+0
+917
+-
+172
+54
+1 334
+0
+6 897
+95 339
+4 244
+10 964
+719 838
+48 596
+21 912
+2 320
+3 010
+41 406
+12 212
+533
+120 192
+317 508
+89 875
+168 244
+63 081
+14 987
+6 434
+23 328
+280 352
+154 533
+488 627
+490 074
+125 891
+792 334
+7 440 854
+924 774
+348 988
+774 323
+792 334
+924 774
+488 627
+947 703
+313 948
+792 334
+490 074
+7 440 854
+924 774
+774 323
+321 124
+212 222
+449 320
+663 813
+924 774
+774 323
+1 773 830
+490 074
+1 700 796
+7 093
+35 796
+488 627
+7 440 854
+96 293
+109 819
+15 631
+4 244
+2 102
+86 498
+205 479
+419
+10 055
+4 085
+754
+1 566
+30
+20 326
+380
+1 415
+10 796
+533
+6 741
+4 884
+729
+119 002
+244
+6 017
+1 391
+374
+2 665
+63 081
+45
+135
+541
+4 493
+65 879
+21 715
+31 933
+Otomí
+Maya lacandón
+Mazahua
+Chol
+Maya
+Tzeltal
+Nahua de Zongolica-
+Pico de Orizaba
+Tzotzil
+Chol
+Tzeltal
+Otomí
+Nahua de 
+SLP
+, 
+SNP
+, 
+NVER
+Totonaca
+Chol
+Maya lacandón
+Maya
+Tzeltal
+Tzotzil
+Mayo
+Seri
+Yaqui
+Nahua de Gro.,
+Altiplano, Edomex, Oax.
+Tzeltal
+Tzotzil
+Zapoteco
+Maya lacandón
+Mixteco
+Chuj
+Mame
+Otomí
+Maya
+Nahua del sur 
+de Veracruz
+Popoluca
+Barranca de Metztitlán
+Bonampak
+Bosencheve
+Calakmul
+Cañón del Río Blanco
+Cañón del Sumidero
+Cascada de Agua Azul
+Ciénegas del Lerma
+Cuenca Hidrográfica 
+del Río Necaxa
+Chan-Kin
+Dzibilchaltun
+El Triunfo
+Islas del Golfo 
+de California
+Iztaccíhuatl-
+Popocatépetl
+La Sepultura
+Lacan-Tun
+Lagunas de Chacahua
+Lagunas de 
+Montebello
+Los Mármoles
+Los Petenes
+Los Tuxtlas
+Superficie 
+total de 
+la 
+ANP
+(hectáreas)
+Superficie 
+total 
+de los 
+territorios
+indígenas
+(hectáreas)
+Superficie
+ANP
+ en 
+territorio
+indígena 
+(hectáreas)
+Pueblo indígena
+ANP
+* Reserva de la biosfera (
+RB
+), parque nacional (
+PN
+), área de protección de flora y fauna (
+APFF
+), área de protección de los recursos naturales 
+(
+APRN
+), santuario (
+S
+), monumento natural (
+MN
+).
+Población
+indígena 
+que vive 
+en las
+ANP
+----------------Page (141) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+142
+CUADRO 19. 
+Áreas naturales protegidas (
+ANP
+) federales y territorios de los pueblos indígenas 
+(C
+ONTINUACIÓN
+)
+Población 
+total que 
+vive en las
+ANP
+que 
+tienen 
+territorios 
+indígenas
+Porcentaje
+de 
+ANP
+en cada 
+territorio 
+indígena
+Categoría 
+de manejo* 
+Población
+indígena 
+que vive 
+en las
+ANP
+RB
+APFF
+RB
+RB
+RB
+RB
+RB
+APFF
+PN
+PN
+APFF
+PN
+PN
+RB
+APFF
+S
+S
+?
+S
+S
+RB
+RB
+RB
+RB
+RB
+RB
+APFF
+RB
+RB
+RB
+RB
+RB
+RB
+11.44
+13.31
+100.00
+5.52
+76.25
+2.34
+6.65
+1.33
+100.00
+1.92
+0.07
+100.00
+11.47
+1.39
+6.84
+0.71
+5.58
+10.51
+67.95
+15.53
+5.93
+32.05
+82.80
+0.50
+42.43
+5.12
+6.99
+4.01
+0.67
+0.01
+1.07
+4.31
+5.36
+0.97
+26 257
+24 161
+61
+6 496
+162
+8 777
+151
+62
+20 699
+9 842
+-
+-
+-
+-
+6 698
+6 394
+6 948
+578
+629
+93 939
+36 563
+12 231
+793
+61
+3 553
+162
+119
+138
+0
+2 303
+303
+-
+-
+-
+-
+1 500
+1 928
+4 062
+116
+1
+1 003
+16 611
+45 279
+55 937
+3 375
+328 104
+3 854
+53 747
+5 326
+1 781
+302 118
+242 418
+76
+30
+32
+129
+80 856
+59 745
+101 568
+525 148
+92 189
+374 980
+489 755
+663 813
+125 891
+924 774
+792 334
+490 074
+230 634
+924 774
+774 323
+924 774
+4 071
+488 627
+7 440 854
+792 334
+924 774
+79 406
+2 647 372
+1 700 796
+294 429
+1 773 830
+76 218
+7 440 854
+7 440 854
+7 440 854
+924 774
+774 323
+678 665
+7 440 854
+321 124
+250 712
+947 703
+104 479
+104 314
+651 480
+11 746
+5 181
+7 443
+3 375
+18 127
+250 187
+7 680
+21 806
+4 359
+3 854
+1 032
+36
+5 326
+204
+25
+20 665
+1 720
+4
+8
+20
+5
+8
+25 918
+49 466
+513
+43 091
+5 196
+36 687
+3 692
+2 494
+31
+4 020
+21 096
+26 245
+4 763
+Nahua
+Altiplano, Edomex, Oax.
+Mazahua
+Tzeltal
+Chol
+Maya lacandón
+Tojolabal
+Tzeltal
+Tzotzil
+Tzeltal
+Matlatzinca
+Otomí
+Maya
+Chol
+Tzeltal
+Chontal de Tabasco
+Tarahumara
+Mixteco
+Tlapaneco
+Zapoteco
+Nahua de Michoacán
+Maya
+Maya
+Maya
+Tzeltal
+Tzotzil
+Zoque
+Maya
+Mayo
+Huasteco
+Nahua de 
+SLP
+,
+SNP
+,
+NVER
+Pame
+Cuicateco
+Chinanteco
+Chocho
+Malinche o 
+Matlalcuéyatl
+Mariposa Monarca
+Metzabok
+Montes Azules
+Nahua
+Nevado de Toluca
+Otoch Ma Ax Yetel Kooh
+Palenque
+Pantanos de Centla
+Papigochic
+Playa Ceuta
+Playa de Escobilla
+Playa de Maruata y Colola
+Playa Ría Lagartos
+Ría Celestún
+Ría Lagartos
+Selva El Ocote
+Sian Ka’an
+Sierra de Álamos-río
+Cuchujaqui
+Sierra Gorda
+Tehuacán-Cuicatlán
+Superficie 
+total de 
+la 
+ANP
+(hectáreas)
+Superficie 
+total 
+de los 
+territorios
+indígenas
+(hectáreas)
+Superficie
+ANP
+ en 
+territorio
+indígena 
+(hectáreas)
+Pueblo indígena
+ANP
+----------------Page (142) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+143
+CUADRO 19. 
+Áreas naturales protegidas (
+ANP
+) federales y territorios de los pueblos indígenas 
+(C
+ONTINUACIÓN
+)
+Población 
+total que 
+vive en las
+ANP
+que 
+tienen 
+territorios 
+indígenas
+Porcentaje
+de 
+ANP
+en cada 
+territorio 
+indígena
+Categoría 
+de manejo* 
+Población
+indígena 
+que vive 
+en las
+ANP
+RB
+RB
+RB
+RB
+APFF
+APFF
+APFF
+RB
+?
+MN
+MN
+APFF
+5.92
+14.14
+8.34
+2.01
+ 1.57
+4.29
+2.22
+10.33
+15.67
+82.20
+17.57
+15.08
+26.30
+4 251
+1
+578
+48
+8
+2 342
+787316
+625
+0
+203
+11
+8
+452
+147 317
+361 807
+88 726
+6 448
+1 078
+2 638
+152 593
+5 578 645
+315 254
+1 700 796
+348 988
+42 272
+53 767
+2 647 372
+7 440 854
+35 796
+1 773 830
+792 334
+490 074
+7 440 854
+23 562 441
+28 972
+69 276
+40 843
+9 832
+5 686
+15 518
+1 972
+666
+169
+2 168
+463
+23 009
+1 467 034
+Mazateco
+Mixteco
+Nahua de Zongoli-
+ca-Pico de Orizaba
+Popoloca
+Pima
+Tarahumara
+Maya
+Mame
+Zapoteco
+Chol
+Maya Lacandón
+Maya
+Tutuaca
+Uaymil
+Volcán Tacana
+Yagul
+Yaxchilán
+Yum Balam
+TOTAL
+Superficie 
+total de 
+la 
+ANP
+(hectáreas)
+Superficie 
+total 
+de los 
+territorios
+indígenas
+(hectáreas)
+Superficie
+ANP
+ en 
+territorio
+indígena 
+(hectáreas)
+Pueblo indígena
+ANP
+de los ordenamientos forestales de la silvicultura 
+comunitaria —áreas forestales permanentes con 
+superficies exclusivas para aprovechamiento y 
+otras para conservación—, hasta iniciativas indí -
+genas y campesinas para la conservación de bos-
+ques, selvas y vegetación de zonas áridas, con flora 
+y fauna de alto valor en biodiversidad. Ejemplos 
+de estos procedimientos de conservación los tene-
+mos en las áreas forestales permanentes en Quin-
+tana Roo y Campeche impulsados por el Plan Pi-
+loto Forestal; en comunidades de la Sierra Norte 
+de Oaxaca, y en organizaciones como la Unión de 
+Comunidades Zapoteco-Chinanteca (Uzachi) o 
+la Unión Ixtlán Etla (Ixeto), con el apoyo de la 
+ONG
+ Estudios Rurales y Asesoría (
+ERA
+). Además 
+hay iniciativas comunitarias en las que se han de-
+signado, en sus respectivas asambleas, áreas para 
+la conservación, sin más registro que en sus pro-
+pios documentos, que reflejan acuerdos comuni-
+tarios para la conservación, alguno impulsado por 
+Procymaf, Coinbio y los programas piloto como el 
+Manejo Integrado de los Ecosistemas (
+GEF
+).
+7
+ Es 
+así que entre 2000 y 2007 se han ordenado, con el 
+apoyo de varias instituciones, incluyendo a la Co-
+nafor y 
+ONG
+, 8 218 ejidos y comunidades en terri-
+torios de los pueblos indígenas y que suman en 
+total 1 987 456 hectáreas, de las cuales 507 183 se 
+designaron para conservación y 677 917 para apro -
+vechamiento sustentable. En esta superficie do-
+minan sobre los ejidos los bienes comunales or-
+denados que suman 1 801 257 hectáreas. De ellas, 
+las asambleas han designado 458 520 para la con -
+servación y 602 589 para el aprovechamiento sus -
+tentable; 35 unidades agrarias aparecen sin datos. 
+Por otro lado tenemos, para el mismo periodo, 50
+ejidos indígenas con 48 662 hectáreas para con -
+7
+ Procymaf, Coinbio, 
+ERA
+, 
+GAIA
+, Conanp, 
+CBMM
+, 
+MIETEP
+,
+WWF
+y Fundación Ford.
+----------------Page (143) Break----------------
+Culiacán
+Durango
+La Paz
+Mexicali
+Hermosillo
+Chihuahua
+Aguascalientes
+Guadalajara
+Guanajuato
+Morelia
+Tepic
+Colima
+Zacatecas 
+Saltillo 
+G
+O
+L
+F
+O
+D
+E
+C
+A
+L
+I
+F
+O
+R
+N
+I
+A
+O
+C
+É
+A
+N
+O
+P
+A
+C
+í
+F
+I
+C
+O
+ESTADOS UNIDOS DE AMÉRICA
+5
+6
+7
+3
+4
+2
+1
+12
+Isla Ángel 
+de la Guarda
+Isla Cedros
+Isla Tiburón
+Isla Santa
+Margarita
+Isla Cerralvo
+Islas Marías
+16º
+114º 112º 110º 108º 106º 104º
+102º
+18º
+20º
+22º
+24º
+26º
+28º
+30º
+32º
+----------------Page (144) Break----------------
+R
+EGIONESBIOCULTURALES
+Monterrey
+Ciudad
+Victoria
+San Luis 
+Potosí
+Querétaro
+Chilpancingo
+Xalapa
+Cuernavaca
+Puebla
+Tlaxcala
+Oaxaca
+Villahermosa
+Tuxtla 
+Gutiérrrez
+Pachuca
+Ciudad 
+de México
+Campeche
+Mérida
+ Chetumal
+GOLFO
+DE
+MÉXICO
+GUATEMALA
+BELICE
+RBP Sierra de Juárez- Delta Río Colorado
+RBP Isla Tiburón - Río Bacoachi 
+RBP Parte baja Río Yaqui- Río Mayo 
+RBP Alta Tarahumara, Guadalupe y Calvo 
+RBP Huicot
+RBP Sierra Coalcoman 
+RBP Tancítaro 
+RBP Sierra de Chincua, Cabecera Río Lerma 
+RBP Sierra de Taxco, Lagunas Zempoala, La Malinche 
+Sierra Mixteca- Triqui, cuenca Papagayo- Ometepec 
+RBP Sierra Sur de Oaxaca
+RBP Kikapoa 
+RBP Huastecas - Sierra Norte de Puebla
+RBP Sierra Gorda - Barrancas de Meztitlán 
+RBP Valle de Tehuacán 
+RBP Zongolica - Sierra Norte de Oaxaca 
+RBP Los Tuxtlas - Sierra Santa Marta 
+RBP Selva Zoque - Sepultura - Malpaso 
+RBP Chontalpa 
+RBP El Triunfo - Encrucijada - Motocintla 
+RBP Altos de Chiapas - Lacandona
+RBP Península de Yucatán 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+13
+9
+14
+20
+21
+19
+22
+16
+11
+10
+17
+8
+18
+15
+Isla
+Cozumel
+Banco 
+Chinchorro
+R
+EGIONESBIOCULTURALESPRIORITARIAS
+PARALACONSERVACIÓNYELDESARROLLO
+100º 98º 94º96º
+92º
+90º 88º
+----------------Page (145) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+146
+servación y 75 328 para aprovechamiento forestal. 
+Destacan en estos ordenamientos las comunida-
+des zapotecas con 67, las chinantecas con 49, las 
+mixtecas con 22, los mixes con 12, nahuas del alti-
+plano con 10, purhépechas 9, chontales de Oaxa-
+ca 9, tlapanecas 5, tzotziles 5, zoques 5, cuicatecas 
+4, tzeltales 4, mazatecas 3, popolocas 1, nahua de 
+Michoacán 1 y trique 1. Es importante señalar 
+que en estos procesos generalmente las áreas de 
+aprovechamiento tienen un alto nivel de susten-
+tabildad, y podemos sumar así a la conservación y 
+desarrollo más de 1 800 000 hectáreas en territo-
+rios indígenas. En general, en estas áreas comuni-
+tarias de conservación, se protegen 16 tipos de 
+vegetación: bosque de encino, encino-pino, pino-
+encino, pino, oyamel, tascate, bosque mesófilo de 
+montaña, selva alta perennifolia, selva mediana 
+subperennifolia, selva mediana subcaducifolia, 
+selva mediana caducifolia, tulares, palmares indu-
+cidos, selva baja espinosa subperennifolia, chapa-
+rral, matorral crasicaule.
+En el mapa Ordenamientos ecológicos y reser-
+vas comunitarias de Michoacán, Guerrero y Oaxa-
+ca se pueden observar corredores biológicos y cul-
+turales con las reservas comunitar ias y sus áreas de 
+aprovechamiento sustentable. 
+Con base en el artículo 59 de la 
+LGEEPA
+ y en el 
+artículo 48 de la Ley General de la Vida Silvestre 
+la legislación apoya este tipo de conservación 
+comunitaria. En 2007, bajo esta modalidad la Co -
+misión Nacional de Áreas Naturales Protegidas 
+(Conanp) certificó alrededor de 170 mil hectáreas. 
+Esta forma novedosa de conservación tiene varias 
+ventajas, ya que en las comunidades se fijan los 
+consensos y se acuerdan en asamblea las reglas 
+que son legalizadas por las instancias del Registro 
+Agrario Nacional (
+RAN
+). Casi todos los ejidos y co-
+munidades certificados por la Conanp tienen orde-
+Tunal en Tula, Hidalgo.
+----------------Page (146) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+147
+CUADRO 20. 
+Áreas naturales protegidas estatales
+ANP
+Pueblos indígenas Categoría Hectáreas 
+de manejo*
+Agua Blanca
+Balam- Kin
+Balam-Ku
+Cañon de Usumacinta
+Cascadas de Reforma
+Centro Ceremonial Mazahua
+Chanal
+Chapa de Mota
+Ecológico de Capácuaro
+El Bosque Adolfo Roque Bautista
+El Oso Bueno
+El Sótano de las Golondrinas
+Gertrude Duby
+Hierva el Agua
+Huitepec-Los Alcanfores
+Kabah
+La Armella
+La Concordia Zaragoza
+La Hoya de las Huahuas
+La Pera
+La Sepultura
+Lagunas de Yalahau
+Las Cuevas del Viento y la Fertilidad
+Lic. Isidro Fabela
+Los Petenes
+Navachiste
+Pico El Loro-Paxtal
+Rancho Nuevo
+Reserva de Dzilam (2005)
+Reserva de Dzilam (2005)
+Reserva El Palmar
+San Juan Bautista Tabi y Zac Nicte
+Santuario del Agua Presa Brockman y Victoria
+Santuario del Agua Presa Corral de Piedra
+Santuario del Agua Presa Ñado
+Santuario del Agua Sist. Hidro. Presa Huapango
+Santuario del Agua Valle de Bravo
+Chol
+Maya
+Chol, Maya
+Chol, Tzeltal, Zoque
+Tzeltal
+Mazahua
+Tzeltal
+Otomí
+Purhépecha
+Huasteco
+Otomí
+Huasteco
+Tzotzil
+Zapoteco
+Tzotzil
+Maya
+Mixteco
+Tzotzil
+Huasteco
+Tzotzil
+Tzeltal ,Tzotzil, Zapoteco
+Maya
+Nahua 
+SLP
+, 
+SNP
+, 
+NVER
+Mazahua
+Maya
+Mayo
+Mame
+Tzotzil
+Maya
+Maya
+Maya
+Maya
+Mazahua
+Matlatzinca
+Otomí
+Matlatzinca, Otomí
+Mazahua
+PE
+PE
+ZSCE
+ZSCE
+RE
+PE
+ANT
+PE
+P U
+ZSCE
+PE
+MN
+RB
+PE
+ZSCE
+PE
+ZCE
+ANT
+MN
+ZSCE
+ZSCE
+PE
+SSN
+PE
+ZEPFFSA
+ZSCE
+ZSCE
+ZSCE
+ZCE
+ZCE
+ZSCE
+ANP VEHCL
+PE
+PE
+PE
+PE
+PE
+1 328
+9 964
+104 327
+15 935
+3
+19
+4 240
+32
+8
+7
+2 609
+280
+65
+58
+103
+996
+0
+2 014
+403
+240
+4 434
+5 420
+8
+887
+81 800
+2 268
+6 992
+1 064
+2 410
+4 778
+1 248
+1 420
+1 001
+273
+1 400
+2 362
+4
+* Área natural protegida de valor escénico (
+ANPVEHC
+), áreas naturales típicas (
+ANPT
+), parque estatal (
+PE
+), monumento natural (
+MN
+), Reserva Bióti-
+ca (
+RB
+), Reserva Ecológica (
+RE
+); Parque Natural para la Recreación Popular (
+PNRP
+); Sitio sagrado natural (
+SSN
+); Parque Estatal Turístico Recreativo 
+(
+PETR
+); y Zona Especial Protección de Flora y Fauna Silvestre y Acuática (
+ZEPFFA
+).
+----------------Page (147) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+148
+namientos ecológico-territoriales, y con ellos reglas 
+de uso generados por las asambleas (Comisión Na-
+cional de Áreas Naturales Protegidas, 2005). Sin 
+embargo, la expedición de certificados no significa 
+la certificación independiente de un buen manejo. 
+Finalmente, tenemos las formas de conserva -
+ción de cafetales bajo sombra y que, por ejemplo 
+en alrededor de 50 municipios zapotecos, están 
+impulsando esta modalidad para producir café or-
+gánico; y la conservación del bosque mesófilo. 
+UCIRI
+, una de las organizaciones vinculadas a proce-
+sos de comercio justo, café bajo sombra y produc-
+ción orgánica, aglutina 2 600 familias, la mayoría 
+indígenas que abarcan casi 11 mil hectáreas. 
+CUADRO 20. 
+Áreas naturales protegidas estatales 
+(C
+ONTINUACIÓN
+)
+ANP
+Pueblos indígenas Categoría Hectáreas 
+de manejo*
+Santuario del Agua y Forestal P. Villa Victoria
+Santuario del Agua y Forestal Subcuenca 
+Tributaria Arroyo Sila
+Santuario del Agua y Forestal Subcuenca
+Tributaria Presa Antonio Alzate
+Santuario del Agua y Forestal Subcuenca 
+Tributaria Río San Lorenzo
+Santuario del Manati, Bahia de Chetumal
+Sierra de Guadalupe
+Sierra de Otontepec
+Sierra de Tabasco
+Sistema Tetzcotzingo
+Tehuacán - Zapotitlán 
+Tehuacán-Zapotitlán
+Total El Ocotal
+Tzama Cum Pumy
+Valle de Cuicatlán
+VolcanTacana
+Zempoala - La Bufa “Otomi -Mexica”
+TOTAL
+Mazahua
+Mazahua, Otomí
+Otomí
+Nahua, Otomí
+Ixil
+Mixteco
+Nahua
+SLP
+, 
+SNP
+, 
+NVER
+,
+Huasteco
+Chontal de Tabasco Chol Nahua 
+GRO
+, Altiplano
+EDOMEX
+, 
+OAX
+Mixteco
+Popoloca, Nahua Zongolica
+Pico de Orizaba, Mixteco
+Otomí, Mazahua
+Zoque
+Chinanteco, Chocho, Cuicateco, Mazateco, 
+Mixteco, Nahua Zongolica
+Mame
+Otomí, Nahua
+PEL
+PE
+PE
+PE
+ZSCE
+PE
+RE
+RE
+RE
+ZSCE
+ZSCE
+PNRP
+ZSCE
+ZSCE
+ZSCE
+PETR
+15 683
+17 651
+4 399
+2 423
+2 832
+471
+5 941
+7 150
+972
+1 238
+50 958
+154
+102
+150 069
+855
+12 821
+534 119
+Asimismo, tenemos territorios indígenas des-
+tinados a la conservación para desarrollar el ecotu-
+rismo (Anta y Pérez, 2004). 
+Los territorios de los pueblos indígenas y las regiones 
+terrestres prioritarias, las regiones hidrológicas 
+prioritarias para la conservación de la biodiversidad y las 
+áreas de importancia para la conservación de las aves
+Para lograr una evaluación cualitativa que nos ayu-
+de a definir las áreas bioculturales (de los pueblos 
+indígenas) respecto a la riqueza biológica y agro -
+biodiversidad, utilizo inicialmente la clasificación 
+y territorialización de las 
+RTP
+ que realizó —bajo la 
+dirección de la Conabio— un grupo de expertos, 
+----------------Page (148) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+149
+perficie original, nivel de fragmentación, cambios 
+de densidad poblacional, presión sobre especies 
+clave, concentración de especies en riesgo, prácti-
+cas de manejo inadecuado, proporción del área 
+bajo manejo adecuado, importancia por servicios 
+ambientales y presencia de grupos organizados 
+(Arriaga 2000).
+El grupo de expertos calificó cada una de estas 
+variables de 0 (menor valor) a 3 (mayor valor), de-
+pendiendo de su importancia para la conserva-
+ción. Adicionalmente, cuando aparece la categoría 
+de tipos de vegetación primaria se pone la cantidad 
+real de tipos, lo que significa que, a nivel de pai-
+saje en un área prioritaria, entre más tipos de vege-
+tación existan, mejor es su calificación. Esto su-
+cede también en la evaluación de integridad 
+ecológica funcional, cuya valoración alta (5 pun-
+compuesto por investigadores de distintos centros 
+y 
+ONG
+. En el cuarto capítulo se enriquecen estas 
+áreas con la distribución de los maíces indígenas. 
+De los territorios indígenas, 40 por ciento per-
+tenece a alguna 
+RTP
+, lo que nos confirma la extraor-
+dinaria importancia que tienen los pueblos indíge-
+nas para la conservación de la diversidad biológica. 
+Los criterios que permitieron la definición es-
+pacial y cualitativa de los valores de la diversidad 
+biológica por parte del grupo de expertos fueron: 
+diversidad ecosistémica, tipos de vegetación pri-
+maria, integridad ecológica funcional, función 
+como corredor biológico, fenómenos naturales 
+extraordinarios, presencia de endemismos, ri-
+queza específica, función como centro de origen 
+y diversificación natural, función como centro de 
+domesticación de especies útiles, pérdida de su -
+Maguey y bosque de encinos, Hidalgo.
+----------------Page (149) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+150
+CUADRO 21. 
+ Reservas comunitarias certificadas en el estado de Oaxaca (diciembre de 2004)
+Nombre de las reservas 
+comunitarias certificadas 
+Superficie 
+(hectáreas)
+Localización, estado 
+y municipio
+Comunidades o ejidos
+La Tierra del Faisán
+Cerro Chango
+Lachiguxe-Peña Blanca
+Área de Conservación de San Pedro Tlatepusco
+Área de Conservación de Santiago Tlatepusco
+Área de Conservación de La Ventosa
+ Cerro Azul
+ Cerro de Las Flores-Chayotepec
+Área de Conservación de San Antonio del Barrio
+Cerro de Las Flores
+Ojo de Agua de Tolistoque
+El Chilar
+Río Verde de Tolistoque 
+Sistema Comunal de Áreas Protegidas
+Cerro Bandera en Sierra Tolistoque
+Rancho Griver
+TOTAL
+9 670
+8 129 
+5 865
+5 050
+4 300
+2 178
+1 754
+1 652.19
+1 500 
+1 453.83
+1 307
+762 
+725 
+700
+327
+25
+45 398
+San Felipe Usila, Oaxaca
+Santiago Jocotepec, Oaxaca
+Santa María Guienagati, Oaxaca 
+San Felipe Usila, Oaxaca 
+San Felipe Usila, Oaxaca 
+Juchitán de Zaragoza, Oaxaca
+Santa María Chimalapa, Oaxaca 
+Santa María Guienagati, Oaxaca
+San Felipe Usila, Oaxaca 
+Santiago Lachiguiri, Oaxaca
+Juchitán de Zaragoza, Oaxaca
+San Miguel Chimalapa, Oaxaca
+Asunción Ixtaltepec, Oaxaca 
+Santa María Huatulco, Oaxaca
+Asunción Ixtaltepec, Oaxaca
+San Juan Guichicovi, Oaxaca
+Comunidad de Santa Cruz Tepetotutla
+Ejido San José Río Manso
+ Comunidad de Santa María Guienagati
+Comunidad de San Pedro Tlatepusco
+Comunidad de Santiago Tlatepusco
+ Ejido La Ventosa 
+Comunidad de Sta. Ma. Chimalapas
+ Comunidad de Santa María Guienagati
+ Comunidad de San Antonio del Barrio
+Comunidad de Santiago Lachiguiri
+Ejido La Venta
+Ejido El Porvenir
+Comunidad Agraria de Santa María Huatulco 
+Santa María Huatulco
+Ejido Mazahua
+Particular
+Fuente: Conanp, (2005).
+tos) significa su mayor importancia. En el cuadro 
+23, donde se realiza una evaluación cualitativa, se 
+agregó el valor 3 a las regiones indígenas que co-
+inciden con los centros de diversidad de plantas y en-
+demismos . Como podrá observar, la calificación 
+también integra cuestiones críticas y de riesgo 
+como la dinámica poblacional regional (creci-
+miento, migración, inmigración), o bien niveles 
+de destrucción o conservación por manejo ina-
+decuado o adecuado. El promedio de las califica-
+ciones proporciona un índice de la importancia de 
+la diversidad biológica por área geográfica y por 
+pueblo indígena. Todas las regiones indígenas 
+prioritarias son importantes. Sin embargo, los pro -
+medios de cada uno de los criterios para evaluar 
+RTP
+ que presento en la última columna del cuadro 
+15 permite generar una jerarquización de las áreas 
+bioculturales más importantes del país. 
+Sin minimizar ninguna de las 36
+RTP
+ en que se 
+encuentran 66 fracciones de territorios indígenas, 
+se puede observar que los pueblos mazateco, na-
+hua, mixe, cuicateco, mixteco, chinanteco, zapote-
+co, zoque, tzotzil, chol, tzeltal, tzotzil, tojolabal y 
+maya lacandón tienen en sus territorios los valores 
+más altos de diversidad biológica a nivel nacional, in-
+cluyendo la domesticada. Si agregamos a estas 
+RTP
+el recorte territorial de los pueblos indígenas de las 
+AICA
+y 
+RHP
+, tenemos que 70 por ciento (19 675 979 
+hectáreas) de los territorios indígenas están bajo 
+alguna categoría de prioridad de conservación por 
+su riqueza biológica. Con la información del si-
+guiente apartado que se refiere a los centros de 
+origen y diversificación de la agrobiodiversidad 
+mesoamericana, tenemos las bases para definir las 
+regiones bioculturales prioritarias para la conserva-
+ción in situ y el desarrollo sustentable. 
+----------------Page (150) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+151
+Regiones terrestres prioritarias (
+RTP
+) para la conservación de la biodiversidad y agrobiodiversidad
+Valores para la conservación
+Pueblo indígena Estados RTP
+ (Conabio)
+ANP Centro de diversidad de plantas y endemismos CentroaméricaDiversidad ecosistémica Tipos de vegetación primaria Integridad ecológica funcional Función como corredor biológico Fenómenos naturales extraordinariosPresencia de endemismos Riqueza específica Función como centro de origen y diversificación naturalFunción como centro de domesticación de especies útilesPérdida de superficie original Nivel de fragmentación Cambios en densidad poblacionalPresión sobre especies clave Concentración de especies en riesgoPrácticas de manejo inadecuado Proporción del área bajo manejo adecuadoImportancia por servicios ambientalesPresencia de grupos organizados Valor promedio total
+Maya Quintana Roo Sur del 
+Punto Put X 0 1 2 0 3 0 0 0 0 2 2 2 0 0 0 1 0 0 2 0.7
+Mixteco Oaxaca Cerro Negro 
+Yucaño 0 1 2 3 0 0 0 0 0 0 2 1 0 0 0 1 0 3 2 0.8
+Chol Quintana Roo Río Hondo
+0 1 1 2 2 0 0 0 0 0 0 2 0 2 0 2 0 3 3 0.8
+Zapoteco,
+mixteco
+Oaxaca El Tlacuache
+0 1 2 4 0 0 0 0 0 0 1 1 1 0 0 1 1 3 3 0.9
+Tarahumara Chihuahua Rocahuachi
+Nanaruchi 0 2 2 4 1 0 3 0 0 2 1 1 0 1 0 0 0 3 0 1.1
+Nahua Puebla y Tlaxcala La Malinche
+0 1 1 2 2 0 2 1 0 0 1 2 0 3 1 1 0 3 2 1.1
+Nahua,
+totonaca
+Puebla Cuetzalan
+0 1 2 1 0 0 1 2 0 2 3 3 0 0 0 3 1 2 2 1.1
+Nahua Durango Cuenca Río 
+Jesús María 0 3 3 4 2 0 3 0 0 0 1 0 2 1 1 0 0 2 3 1.2
+Maya Quintana Roo Zonas
+forestales de 
+Quintana Roo 0 1 2 4 3 0 0 0 0 3 0 0 0 0 2 3 3 3 3 1.3
+Tepehuán, 
+cora, huichol
+Durango,
+Zacatecas,
+Jalisco y Nayarit
+Cuenca Río 
+Jesús María
+0 3 3 4 2 0 3 0 0 0 1 0 2 1 1 0 0 2 3 1.3
+Tepehuán, 
+tarahumara
+Chihuahua Guadalupe
+Calvo y 
+Mohinora 0 3 1 3 3 2 2 0 0 1 1 1 1 1 1 1 0 3 2 1.4
+Triqui, 
+mixteco
+Oaxaca y 
+Guerrero
+Sierra Triqui 
+Mixteca 0 2 1 3 0 2 3 3 0 3 2 2 0 0 3 0 0 3 3 1.4
+Chontal de 
+Tabasco
+Tabasco Pantanos
+de Centla X 0 1 3 4 3 3 0 2 0 0 0 0 1 2 2 2 2 3 2 1.5
+Yaqui Sonora Sierra
+El Bacatete 0 2 3 3 2 2 3 3 0 0 1 2 2 0 0 2 0 1 3 1.5
+Huichol Jalisco Sierra
+Los Huicholes 0 1 3 3 3 2 2 2 0 0 2 2 1 2 2 2 1 3 0 1.6
+CUADRO 22. 
+Regiones terrestres prioritarias para la conservación de la biodiversidad
+en los territorios de los pueblos indígenas 
+----------------Page (151) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+152
+Regiones terrestres prioritarias (
+RTP
+) para la conservación de la biodiversidad y agrobiodiversidad
+Valores para la conservación
+Pueblo indígena Estados RTP
+ (Conabio)
+ANP Centro de diversidad de plantas y endemismos CentroaméricaDiversidad ecosistémica Tipos de vegetación primaria Integridad ecológica funcional Función como corredor biológico Fenómenos naturales extraordinariosPresencia de endemismos Riqueza específica Función como centro de origen y diversificación naturalFunción como centro de domesticación de especies útilesPérdida de superficie original Nivel de fragmentación Cambios en densidad poblacionalPresión sobre especies clave Concentración de especies en riesgoPrácticas de manejo inadecuado Proporción del área bajo manejo adecuadoImportancia por servicios ambientalesPresencia de grupos organizados Valor promedio total
+Nahua Michoacán Sierra de 
+Coalcomán 0 3 4 4 1 0 3 3 2 1 1 1 0 2 2 1 1 2 2 1.6
+Tarahumara Chihuahua Cañón de 
+Chínipas 3 3 2 4 3 2 3 3 0 0 1 1 1 0 1 1 0 3 2 1.7
+Zoque,
+tzotzil, chol 
+y tzeltal
+Chiapas Bosques
+mesófilos
+de Los Altos 0 1 2 2 0 3 3 3 0 0 2 2 3 3 3 3 1 2 3 1.7
+Chol, maya 
+de Yucatán
+Campeche y 
+Quintana Roo
+Silvituc
+Calakmul X 0 1 2 4 3 3 1 2 0 2 1 1 2 3 3 2 2 2 3 1.8
+Otomí,
+mazahua
+Michoacán y 
+Edo. de México
+Sierra de 
+Chinchua X 0 2 1 2 3 3 1 2 0 0 3 3 3 3 1 3 1 3 3 1.8
+Purhépecha Michoacán Tancítaro
+X 0 2 1 3 2 0 3 2 2 0 2 2 2 3 2 2 2 3 2 1.8
+Tzotzil, tzeltal Chiapas Huitepec
+Tzontehuitz 0 1 2 1 2 2 3 2 0 0 2 3 3 3 3 3 2 3 2 1.8
+Otomí, nahua 
+pame
+Hidalgo, S. 
+L. Potosí y 
+Querétaro
+Sierra
+Gorda Río 
+Moctezuma X 0 3 6 3 3 0 2 3 0 0 2 2 2 2 3 3 1 2 1 1.9
+Otomí, nahua 
+totonaca
+Hidalgo,
+Puebla y 
+Veracruz 
+Bosques
+mesófilos
+de la 
+SMO
+0 1 2 4 3 2 2 2 0 2 2 3 1 3 3 3 2 3 1 2.0
+Tepehuán 
+Tarahumara
+Chihuahua Barranca
+Sinforosa 0 3 3 3 3 2 3 2 0 2 1 1 2 3 3 2 2 3 1 2.0
+Tepehuán Durango Guacamayita
+X 0 3 4 3 3 3 0 3 3 3 1 1 1 2 0 2 1 3 3 2.1
+Tzotzil Chiapas El Momón 
+Monte Bello 0 3 2 3 3 2 2 3 2 0 1 3 2 3 3 3 2 2 2 2.1
+Zapoteco
+sureño 
+chatino,
+chontal de 
+Oaxaca
+Oaxaca Sierra Sur 
+y Costa de 
+Oaxaca
+0 3 6 4 2 1 3 3 2 0 2 1 3 2 2 3 0 3 1 2.1
+CUADRO 22. 
+Regiones terrestres prioritarias para la conservación de la biodiversidad 
+en los territorios de los pueblos indígenas
+(C
+ONTINUACIÓN
+)
+----------------Page (152) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+153
+Regiones terrestres prioritarias (
+RTP
+) para la conservación de la biodiversidad y agrobiodiversidad
+Valores para la conservación
+Pueblo indígena Estados RTP
+ (Conabio)
+ANP Centro de diversidad de plantas y endemismos CentroaméricaDiversidad ecosistémica Tipos de vegetación primaria Integridad ecológica funcional Función como corredor biológico Fenómenos naturales extraordinariosPresencia de endemismos Riqueza específica Función como centro de origen y diversificación naturalFunción como centro de domesticación de especies útilesPérdida de superficie original Nivel de fragmentación Cambios en densidad poblacionalPresión sobre especies clave Concentración de especies en riesgoPrácticas de manejo inadecuado Proporción del área bajo manejo adecuadoImportancia por servicios ambientalesPresencia de grupos organizados Valor promedio total
+Tzeltal Chiapas El Triunfo, 
+La Encrucijada 
+y Palo Blanco X 3 3 2 3 3 3 2 3 2 1 2 3 2 0 3 2 2 3 2 2.2
+Tarahumara Chihuahua Alta
+Tarahumara 
+Barrancas X 3 3 3 3 3 2 3 3 3 3 2 2 2 3 0 0 0 3 2 2.3
+Popoluca,
+nahua
+Veracruz Sierra de 
+Los Tuxtlas y 
+Laguna
+del Ostión X 0 3 4 2 2 3 2 3 2 1 3 3 2 3 2 3 2 3 3 2.3
+Tojolabal Chiapas El Momón 
+Monte Bello X 3 3 5 3 3 2 2 3 2 0 1 3 2 3 3 3 2 2 2 2.4
+Mazateco,
+nahua mixe, 
+cuicateco,
+mixteco,
+chinanteco,
+zapoteco
+Oaxaca, Puebla 
+y Veracruz
+Sierras del 
+Norte de 
+Oaxaca Mixe
+3 3 5 4 3 2 3 3 3 2 2 2 2 2 3 2 1 3 3 2.5
+Zoque, tzotzil Oaxaca,
+Veracruz y 
+Chiapas
+Selva Zoque 
+La Sepultura
+X 3 3 4 4 3 0 3 3 3 3 2 1 2 3 3 3 3 3 2 2.6
+Chol, tzeltal,
+tzotzil,
+tojolabal,
+maya
+lacandón
+Chiapas Lacandona
+X 3 3 2 4 3 3 1 3 3 2 3 3 3 3 3 3 2 3 3 2.6
+CUADRO 22. 
+Regiones terrestres prioritarias para la conservación de la biodiversidad 
+en los territorios de los pueblos indígenas
+(C
+ONTINUACIÓN
+)
+----------------Page (153) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+154
+* Zonas ecológicas y sus tipos de vegetación: (TrH) zona ecológica tropical húmeda o selva perennifolia: selvas perennifolia y subperennifolia alta, 
+mediana y baja. (TrS) zona ecológica tropical subhúmeda selva subcaducifolia, mediana, baja, espinosa; selvas caducifolia: med iana y baja. (TH) 
+zona ecológica templada húmeda bosque mesófilo de montaña. Zona ecológica templada subhúmeda, (TS) bosque de coníferas: bosques de 
+ayarín, cedro, oyamel, pino, mixtos pino encino; bosque de encino: bosque de encino, mixtos encino pino (AS) Zona ecológica ári da y semiárida: 
+matorral xerófilo y pastizal semidesértico, matorral, crasicuale, chaparral, desértico micrófilo y rosetófilo, espinoso tamauli peco, sarco crasicuale, 
+mezquital, desiertos arenosos, submontano, vegetación halófila (Toledo y Ordóñez 1993; Challenger, 1998; 
+INEGI
+ 2002).
+CUADRO 23. 
+ Regiones bioculturales prioritarias según los diferentes estatus 
+de protección de la biodiversidad
+*
+Núm. Región 
+biocultural 
+prioritaria 
+(
+RBP
+)
+1
+2
+3
+4
+5
+6
+7
+Pueblos 
+indígenas 
+en las 
+RBP
+Zonas 
+ecológicas
+Áreas naturales 
+protegidas 
+federales en 
+la 
+RBP
+Regiones 
+terrestres 
+prioritarias en 
+la 
+RBP
+Regiones hídricas 
+prioritarias en 
+la 
+RBP
+AICA
+ en 
+la
+RBP
+Sierra Juárez
+Isla Tiburón, Río 
+Bacoachi, 
+Islas del Golfo de 
+California
+Cuenca del río Yaqui, 
+Sistemas: 
+La Luna, Guásimas, 
+Algodones; zonas 
+húmedas de Yávaros 
+Agiabampo
+Cuenca del río Yaqui, 
+Sistemas: 
+La Luna, Guásimas, 
+Algodones; zonas 
+húmedas de Yávaros 
+Agiabampo, 
+Cuenca del Río 
+Yaqui, Álamos, Río 
+Mayo, Pericos,
+Guacamayita
+El Carricito
+Coalcomán 
+Pómaro
+Pátzcuaro
+Delta del Río 
+Colorado,
+Sierra de Juárez
+Isla Tiburón, 
+Canal Infiernillo, Estero 
+Santa Cruz
+Río Yaqui, Cascada 
+Bassaseachic, Río 
+Mayo, Cuenca alta 
+del Río Fuerte
+Río Yaqui-Cascada, 
+Bassaseachic, Río 
+Mayo, Cuenca alta 
+de los ríos Culiacán y 
+Humaya, Cuenca alta 
+de los ríos Conchos 
+y Florido, Cuenca 
+alta del Río Fuerte, 
+Río Nazas, Cascada, 
+Bassaseachic
+Río Baluarte, 
+Marismas Nacionales, 
+Lagos Cráter de 
+Nayarit, San Blas
+ La Tovara
+Río Coalcomán 
+y Nexpa
+Pátzcuaro y 
+cuencas endorréicas
+Sierra Juárez, 
+San Pedro Mártir
+Santa María 
+El Descanso
+Sierra Seri
+Sierra El Bacatete 
+Las Bocas
+Yécora El Reparo, 
+Cuenca Río Jesús 
+María, Alta Tarahu -
+mara, Guadalupe 
+Calvo, Mohinota, 
+Cañón Chínipas, 
+Barranca Sinforo-
+sa, Rocahuachi, 
+Barrancas Nanaruchi, 
+Guacamayita
+Cuenca del Río Jesús 
+María, Sierra 
+Los Huicholes
+Sierra Coalcomán
+Tancítaro
+Delta del Río 
+Colorado
+Islas del Golfo 
+de California
+Islas del Golfo 
+de California
+Tutuaca
+Papigochic
+Playa de Maruata 
+y Colola
+AS
+, 
+VH
+TS
+AS
+, 
+M
+AS
+, 
+TS
+AS
+, 
+TS
+TRS
+TRS
+,
+TS
+TH
+TRS
+TRS
+, 
+TS
+, 
+TH
+Cochimi, 
+kumai
+cucapa, 
+kiliwa
+paipai
+Seri 
+Yaqui 
+mayo 
+Pima, 
+guarijio, 
+tepehuán, 
+rarámuri
+Cora, nahua
+huichol, 
+tepehuán 
+Nahua de 
+Michoacán
+Purhépecha
+San Pedro 
+Mártir
+Konkaak
+Yaqui Mayo
+Tarahumara
+Huicot
+Sierra 
+Coalcomán
+Tancítaro
+----------------Page (154) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+155
+CUADRO 23. 
+ Regiones bioculturales prioritarias según los diferentes estatus 
+de protección de la biodiversidad
+(C
+ONTINUACIÓN
+)
+Núm. Región 
+biocultural 
+prioritaria 
+(
+RBP
+)
+8
+9
+10
+11
+12
+13
+14
+15
+16
+Pueblos 
+indígenas 
+en las 
+RBP
+Zonas 
+ecológicas
+Áreas naturales 
+protegidas 
+federales en 
+la 
+RBP
+Regiones 
+terrestres 
+prioritarias en 
+la 
+RBP
+Regiones hídricas 
+prioritarias en 
+la 
+RBP
+AICA
+ en 
+la
+RBP
+Sierra de Chincua, 
+Sierra de Taxco y 
+Nevado de Toluca
+Cañón del Zopilote,
+Sierra de Huautla
+Volcanes
+ Iztaccíhuatl y 
+Popocatépetl
+Sierra de 
+Miahuatlán
+Tlanchinol,
+Cuetzalan, 
+Huayacocotla 
+Reserva de la 
+Biosfera Sierra 
+Gorda
+Valle de Tehuacán 
+Cabecera del Lerma, 
+humedales de 
+Xilotepec Ixtlahuaca,
+Los Azufres 
+Río Amacuzac,
+Río Papagayo, 
+Acapulco
+Tlaxiaco, cuenca alta 
+del Río Ometepec, 
+Río Papagayo 
+Acapulco, Río Verde, 
+Laguna de Chacahua
+Rio Verde, 
+Chacahua
+Confluencia de 
+las Huastecas,
+Río Tecolutla,
+Río Támesi
+Confluencia 
+de las Huastecas
+Sierra de Chincua, 
+Nevado de Toluca
+Cañón del Zopilote,
+sierras de Taxco y 
+Huautla
+Sierra Nevada 
+La Malinche
+Sierras Triqui, 
+Mixteca, Tlacuache, 
+cerros Negro 
+Yucaño, Bajo Río 
+Verde, Chacahua
+El Tlacuache, 
+Sierra Sur y Costa de 
+Oaxaca
+Sierras Encantada y 
+Santa Rosa
+Sierra Gorda, Río 
+Moctezuma,
+bosques mesófilos 
+SMO, Laguna de 
+Tamiahua, 
+Cuetzalan 
+Cerro Zamorano, 
+Sierra Gorda, 
+Río Moctezuma
+Valle Tehuacán, 
+Cuicatlán 
+Mariposa 
+Monarca,
+Bosencheve,
+Nevado de Toluca
+Cañón del 
+Zopilote,
+Sierra de Huautla
+La Malinche o 
+Matlalcueyetl
+Cuenca hidrográfica 
+del Río Necaxa
+Barranca Meztititlán, 
+Los Marmoles
+Sierra Gorda
+Tehuacán, 
+Cuicatlán
+TS
+TRS
+, 
+TS
+TS
+TRS
+, 
+TS
+,
+AS
+, 
+TH
+TS
+, 
+TH
+,
+TS
+AS
+TS
+, 
+TH
+TRH
+AS
+, 
+TS
+,
+TRS
+AS
+, 
+TS
+Otomí
+mazahua,
+matlazinca
+Nahuas de 
+Guerrero, 
+Morelos, 
+Edo. de 
+México
+Nahuas, 
+otomí del 
+altiplano 
+Tlapaneco, 
+triqui, amuzgo,
+mixteco de 
+la Mixteca 
+Alta y Baja, 
+mixteco de la 
+Costa
+Zapoteco su-
+reño, chatino,
+chontal de 
+Oaxaca
+Kikapú 
+Huasteco 
+otomí, nahuas 
+del norte 
+de Puebla, 
+Veracruz, 
+S.L. Potosí, 
+tepehua, 
+totonaca 
+Otomí, pame, 
+chichimeca, 
+jonaz
+Chocho,
+popoloca, 
+nahuas de 
+Zongolica,
+Sierra de 
+Chincua 
+Nevado de 
+Toluca
+Montaña 
+Guerrero, 
+Sierras Taxco 
+y Huautla
+Sierra 
+Nevada y 
+La Malinche
+ Mixteca 
+Alta, Baja, 
+Costa
+Sierra Sur 
+Oaxaca
+Kikapú
+Huastecas, 
+Sierra Norte 
+de Puebla
+Sierra Gorda 
+Mármoles 
+Meztitlán
+Valle de 
+Tehuacán
+----------------Page (155) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+156
+CUADRO 23. 
+ Regiones bioculturales prioritarias según los diferentes estatus 
+de protección de la biodiversidad
+(C
+ONTINUACIÓN
+)
+Núm. Región 
+biocultural 
+prioritaria 
+(
+RBP
+)
+17
+18
+19
+20
+Pueblos 
+indígenas 
+en las 
+RBP
+Zonas 
+ecológicas
+Áreas naturales 
+protegidas 
+federales en 
+la 
+RBP
+Regiones 
+terrestres 
+prioritarias en 
+la 
+RBP
+Regiones hídricas 
+prioritarias en 
+la 
+RBP
+AICA
+ en 
+la
+RBP
+Sierra de Zongolica,
+Presa Temascal, 
+Cerro de Oro,
+Sierra Norte,
+Unión Zapoteca-
+Chinanteca
+Los Tuxtlas
+Sierra de Tabasco,
+Chimalapas,
+Uxpanapa
+cerros de Tapalapa
+Cordón Jolvit, 
+Montes Azules, 
+Cerro Saybal Cerro 
+Cavahlná, Cerro 
+Blanco, Cerros de San 
+Cristóbal las Casas, de 
+Chalchihuitán, La Yer-
+babuena Jotolchen, 
+Sierra Canja, Sierra 
+Anover, Montes Azu -
+les Corredor Laguna 
+Bélgica, Sierra Limón 
+Cañón del Sumidero, 
+Sierra Chixtontic 
+Río Metlac, Presa 
+Miguel Alemán-Cerro 
+de Oro, San Vicente y 
+San Juan, humedales 
+del Papaloapan, 
+cuencas media alta 
+del Coatzacoalcos
+Los Tuxtlas, cuencas 
+media y alta del Río 
+Coatzacoalcos, hume-
+dales del Papaloapan, 
+San Vicente, San Juan
+Chimalapas, cuencas 
+media y alta del Río 
+Coatzacoalcos, cabe-
+cera del Río Tonalá, 
+cuencas media y alta 
+del Río Uxpanapa, 
+La Sepultura-
+Suchiapa, Malpaso 
+Pichucalco
+Comitán, Lagunas 
+de Montebello, 
+Lacantún y 
+Tributarios, 
+Río San Pedro, 
+Río Tulijá, Altos 
+de Chiapas
+Pico de Orizaba, 
+sierras del norte de 
+Oaxaca Mixe
+Sierra de los Tuxtlas, 
+Laguna del Ostión
+Selva Zoque,
+La Sepultura Zoque, 
+La Sepultura,
+El Manzanillal
+Bosques mesófilos 
+de los Altos de 
+Chiapas, 
+Lacandona, 
+El Momón, 
+Montebello,
+Huitepec, 
+Tzontehuitz,
+La Chacona, 
+Cañón del
+ Sumidero 
+Cañón del Río 
+Blanco 
+Los Tuxtlas 
+La Sepultura, 
+El Ocote
+Huitepec, 
+Tzotenhuitz,
+Palenque, Naha, 
+Cascadas Agua 
+Azul, Montes
+Azules, Chankin,
+Metzabok, 
+Yaxchilán
+TH
+, 
+TS
+,
+TRS
+; 
+TRH
+TRH
+TRH
+, 
+TH
+TS
+,
+TH
+,
+TRH
+, 
+TRS
+TRH
+,
+TRS
+, 
+TH
+,
+TS
+,
+TS
+, 
+TH
+,
+TRH
+cuicateco,
+mazateco,
+chinanteco, 
+mixteco
+Nahua de 
+Zongolica,
+mazateco, 
+chinanteco, 
+cuicateco, 
+zapoteco, 
+mixe
+Nahuas 
+del sur de 
+Veracruz,
+popoluca 
+Zoque, 
+tzotzil,
+tzeltal, chol,
+mixteco, 
+totonaco,
+chinanteco
+Zoque, maya
+lacandón, 
+chol,
+kanjobal, 
+cluj, 
+tojolabal, 
+tzotzil, 
+tzeltal, 
+chontal de 
+Tabasco, 
+mame, 
+chinanteco
+Zongolica-
+Sierra Norte 
+de Oaxaca
+Los Tuxtlas-
+Sierra Santa 
+Martha
+Selva Zoque 
+Sepultura 
+Bosques 
+Mesófilos 
+Altos de 
+Chiapas, 
+Selva 
+Lacandona, 
+Lagunas de 
+Montebello
+----------------Page (156) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+157
+CUADRO 23. 
+ Regiones bioculturales prioritarias según los diferentes estatus 
+de protección de la biodiversidad
+(C
+ONTINUACIÓN
+)
+Núm. Región 
+biocultural 
+prioritaria 
+(
+RBP
+)
+21
+22
+23
+Pueblos 
+indígenas 
+en las 
+RBP
+Zonas 
+ecológicas
+Áreas naturales 
+protegidas 
+federales en 
+la 
+RBP
+Regiones 
+terrestres 
+prioritarias en 
+la 
+RBP
+Regiones hídricas 
+prioritarias en 
+la 
+RBP
+AICA
+en 
+la
+RBP
+El Triunfo
+Sierra de Tabasco
+Calakmul, Corredor 
+Calakmul Sian 
+Ka’an, Isla Cozumel, 
+Corredor Central 
+Valladolid, 
+Ichka’ansijo, Sierra, 
+Ria, Yum Balam
+Lagartos, Ticul Punto 
+Put, Ria Celestún, 
+Sur Quintana Roo
+Soconusco
+Laguna de Términos 
+Pantanos de Centla, 
+Río Tulijá 
+Altos de Chiapas
+Anillo Cenotes, Boca 
+Río y Cabecera Río 
+Champotón, Cenotes 
+Tulum-Cobá, Zona 
+Citrícola Sur, 
+humedales y lagunas 
+Chetumal, Sian Ka’an, 
+Laguna 
+Chichancanab, 
+Campeche
+El Triunfo, 
+La Encrucijada, 
+Palo Blanco
+Pantanos 
+de Centla
+Dzilam Ría Lagartos, 
+Petenes Ría 
+Celestún, 
+Río Hondo, Sian 
+Ka’an, Uaymil, 
+X’calak, Silvituc 
+Calakmul, Punta Put, 
+zonas forestales 
+Q. Roo Sur
+El Triunfo
+Pantanos de 
+Centla
+Calakmul, 
+Los Retenes,
+Tulúm,
+Dzibilchaltún
+Ría Lagartos
+Sian ka’an Yum 
+Balam, Uaymil
+El Triunfo
+Chontalpa
+Maya, 
+península 
+de Yucatán
+Tzeltal,
+tzotzil
+Contal de 
+Tabasco
+Maya de 
+Yucatán, 
+chol
+tzeltal, 
+kekchi
+kanjobal
+TH
+VH
+TH
+, 
+TS
+, 
+VH
+Matapalo ( Ficus sp. ), Veracruz.
+----------------Page (157) Break----------------
+
+----------------Page (158) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+159
+Las regiones bioculturales según los 
+inventarios de la diversidad biológica 
+domesticada y semidomesticada
+Los territorios de los pueblos indígenas como 
+laboratorios de domesticación, experimentación 
+y manipulación genética de las especies 
+silvestres, semisilvestres y domesticadas
+En México y Centroamérica los paisajes naturales 
+y culturales cambian en pocos kilómetros. Las se-
+rranías, los valles y las cañadas, junto con las con-
+diciones de inestabilidad climática, tanto en el 
+régimen de lluvias como en el de temperatura 
+(principalmente heladas), obligaron a los pueblos 
+indígenas a buscar estrategias agrícolas para ga-
+rantizar su subsistencia. Dichas estrategias se de-
+sarrollan en distintas zonas ecológicas. Una de es-
+tas estrategias peculiares de Mesoamérica como 
+centro de domesticación mundial fueron las es-
+trategias “botánicas” agroproductivas de sus habi-
+tantes originales (Rojas, 1988; Terán y Rasmus-
+sen, 1994). Este hecho fue poco atendido por los 
+estudiosos de los procesos civilizatorios mesoame-
+ricanos (Blanco, 2006). Sin embargo, con los estu-
+dios de Hernández X. y sus discípulos, así como 
+con la corriente de estudios etnoecológicos, tene-
+mos más evidencias de que la diversidad es una 
+estrategia y fuerza productiva en sí misma. Éstas 
+se centran en producir alimentos en cantidades 
+moderadas de una amplia gama de cultivos y espe-
+cies naturales, para enfrentar la diversidad geo-
+gráfica, biótica y los ciclos anuales climáticos an-
+tes aludidos. Las estrategias productivas basadas 
+en policultivos se impulsan principalmente para 
+minimizar riesgos y garantizar la suficiente bioe-
+nergía para satisfacer las necesidades básicas de la 
+población durante el ciclo anual. La cultura del 
+maíz se adapta a distintas situaciones ambientales 
+en las múltiples regiones. De este proceso se deri-
+va la enorme variedad de especies, razas y adapta-
+ciones regionales de diversas plantas usadas dentro 
+del sistema alimentario que llamamos agrobiodi-
+versidad o diversidad biológica domesticada. Las 
+especies domesticadas en los agroecosistemas 
+(Hernández X. 1985) se ubican con frecuencia en 
+espacios donde conviven con sus pares silvestres, 
+generándose así flujos genéticos ocasionales entre 
+las plantas culturales con las variedades arvences, 
+silvestres o ruderales (Casas et al ., 2000). Así, en 
+los sistemas indígenas hay por lo menos tres espa-
+cios de domesticación: 1) el espacio con vegetación 
+natural donde se seleccionan y manejan cultural-
+mente algunas especies (Casas et al ., 2000); 2) la mil-
+pa en todas sus variantes (Rojas 1988) y 3) el huer-
+to familiar (Boege, 1988; Challenger, 1998; Toledo 
+et al ., 2002). De esta manera, los etnoecólogos ha-
+blan de plantas cultivadas, fomentadas y tolera-
+das. Existe, así, una conformación paisajística que 
+integra en una sola unidad lo “natural y maneja-
+do”. Varios de los agroecosistemas indígenas actua-
+les se localizan en los centros de origen y de diver-
+sidad de los recursos fitogenéticos que contienen 
+cultivares muy bien adaptados (Mapes, 1991) y que 
+debieran reconocerse por la sociedad como verda-
+deros laboratorios genéticos bioculturales. 
+Como “gentes de los ecosistemas”, los pue-
+blos indígenas se han adaptado a los ecosistemas 
+naturales, y con las actividades silvícola, agrícola y 
+ganadera han impreso un sello particular a los pai-
+sajes que llamamos bioculturales. Los sistemas de 
+pensamiento, la concepción del mundo, así como 
+la organización de la cultura, giran alrededor de es-
+ta relación sociedad-naturaleza. Piénsese en la mil-
+pa generada por roza, tumba y quema en medio de 
+la selva y que presenta distintas fases sucesionales 
+de la vegetación natural forzada por la actividad 
+humana. Asimismo, en mercados regionales prin -
+cipalmente serranos, se intercambian semillas, 
+P. 158
+ Ritual otomí en una milpa de Jiquipilco El Viejo, 
+Estado de México.
+----------------Page (159) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+160
+material vegetativo, productos elaborados local-
+mente y artesanías originarios de distintos pisos 
+ecológicos. Esta interrelación es la que imprime 
+la particularidad a los pueblos indígenas que toda-
+vía practican este tipo de agricultura frente a las 
+estrategias agrícolas industriales. Sin embargo, 
+hoy se presentan procesos de hibridización de 
+prácticas donde parte de la agricultura indígena 
+utiliza elementos de la agricultura industrial (ferti-
+lizantes, semillas, plaguicidas, mecanización pro-
+funda, etcétera), o bien la adopción de elementos 
+arábigos españoles (rebaños mixtos de ganado, 
+animales de tiro, transporte multiusos, abono ani -
+mal para la fertilización de los campos agrícolas, 
+jagüeyes o recolectores de agua, labranza con ani-
+males, arado egipcio y transporte con carretones 
+tirados por bueyes o caballos). 
+Entre los expertos existe consenso de que la 
+conservación de los recursos genéticos indígenas 
+y campesinos es posible, siempre y cuando se 
+sostengan y desarrollen los usos culturales de los 
+mismos (Hernández X., Ortega, Turrent, Espino -
+sa, Bellón, etcétera). Los especialistas expresan 
+que en la conservación in situ no se trata de conge-
+lar lo que existe, sino desarrollar un ciclo virtuoso 
+entre el germoplasma y su evolución con cara a 
+los problemas del siglo 
+XXI
+ que pueda contribuir 
+a la satisfacción de las necesidades básicas de la 
+población mexicana en general. Corroer o destruir 
+conscientemente el germoplasma y los conoci-
+mientos indígenas, como lo están haciendo los 
+programas oficiales, es extinguir y dilapidar un pa-
+trimonio en aras de proteger los intereses comer-
+ciales trasnacionales que pretenden el control de 
+la agricultura mexicana. Hoy más que nunca es 
+necesario localizar estos territorios que fungen co-
+mo reservorios fitogenéticos y desarrollar junto 
+con los centros de investigación públicos y los fito-
+mejoradores indígenas, estrategias de conserva-
+ción y desarrollo de este acervo biocultural. Este 
+patrimonio genético y los agroecosistemas de pue-
+blos indígenas deben ser reconocidos como tales 
+y declarados patrimonio de la humanidad. Así co-
+mo la diversidad biológica en general, la agrobio-
+diversidad está gravemente amenazada y tiende 
+a desaparecer, con todo y sus agroecosistemas. 
+Los derechos de los campesinos y la agricultu-
+ra tradicional con su diversidad genética han sido 
+considerados como bien común de la humanidad. 
+Así lo establece la 
+FAO
+ (y resoluciones posteriores 
+de 1988 y 1991). Sin embargo, más que la reparti-
+ción equitativa de los beneficios entre las partes a 
+partir de la Convención de Diversidad Biológica 
+y la Agenda 21, los recursos genéticos de los indí-
+genas y campesinos se convirtieron en un bien de 
+acceso abierto para las instituciones públicas y 
+compañías privadas principalmente trasnaciona-
+les. La propiedad colectiva de los recursos fitoge-
+néticos de los pueblos indígenas no fue tomada 
+en cuenta más que declarativamente (sistemas sui 
+generis para la protección del conocimiento tradi-
+cional), respecto a la protección de la propiedad 
+intelectual del conocimiento tradicional. Para los 
+países del norte, que son pobres en recursos gené-
+ticos, la propiedad intelectual se vuelve objeto de 
+política global. La protección de “nuevas varieda-
+des” y la patente de las mismas, ha limitado aún 
+más el derecho de los productores a reproducir su 
+propio germoplasma como lo han hecho durante 
+miles de años, tratando de obligarlos a depender 
+de los productores de semillas e insumos de la in-
+dustria privada trasnacional (Lazos y Espinosa, 
+2004). Así, la lista de patentes a favor de estas com-
+pañías de germoplasma de origen nativo aumenta 
+día con día, poniendo en riesgo el patrimonio bio-
+cultural y los derechos
+8
+ indígenas y campesinos 
+8
+ “Los derechos de los agricultores” (farmers rights) fueron 
+definidos por la 
+FAO
+ en 1983 como aquellos que surgen de la 
+contribución del pasado, presente y futuro de los agricultores 
+al conservar, mejorar y hacer accesibles los recursos genéticos 
+de las plantas, en particular de aquellos que se localizan en los 
+centros de origen de la diverisdad (
+FAO
+, 1988 y 1991).
+----------------Page (160) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+161
+(Swaminathan, 1996), mismos que están protegi-
+dos por resoluciones internacionales de los cuales 
+México es signante (
+FAO
+, 1988 y 1991).
+En este trabajo se pretende evidenciar la enor-
+me riqueza biocultural de los pueblos indígenas, 
+como plataforma para la búsqueda de mecanis-
+mos para lograr su defensa.
+Primero hago un análisis de los territorios de 
+los pueblos indígenas que se refieren a la agricul-
+tura y ganadería. Respecto a estos territorios se 
+analizará la agricultura de riego y de temporal y 
+las pendientes de los suelos. Se ubicarán, además, 
+las colectas de maíz y de otros cultivos mesoame-
+ricanos que han realizado el 
+CIMM
+y
+T
+ y el Instituto 
+Nacional de Investigaciones Forestales, Agrope -
+cuarias y Pecuarias (
+INIFAP
+) durante más de 60 
+años y que están depositados en forma ex situ en 
+los bancos de germoplasma.
+9
+9
+ El 
+CIMMT
+y
+T
+ y el 
+INIFAP
+ se centran en colectas del maíz 
+(tienen duplicados del germoplasma de maíz colectado). 
+El 
+INIFAP
+, además, tiene colecciones de germoplasma princi-
+palmente mesoamericano aparte del maíz; otras instituciones 
+La Conabio ha elaborado catálogos importan-
+tes de las colectas tanto de la diversidad biológica 
+como de la agrobiodiversidad que tiene registros 
+en el Sistema Nacional de Información Biológica 
+(
+SNIB
+). Se incorporará información relativa a las 
+colectas realizadas por diversos investigadores y 
+organizaciones sociales interesadas en la conser-
+vación de los maíces indígenas, así como la infor-
+mación accesible de los policultivos principalmen-
+te de origen mesoamericanos que existen de facto .
+Con estas colectas no exhaustivas se puede tener 
+una orientación para identificar los territorios que 
+de libre acceso con colecciones de recursos genéticos de la 
+agrobiodiversidad mesoamericana son: Centro de Investiga-
+ciones Cocotero 
+CICY
+ Yuc.; Ciencias Agropecuarias del Instituo 
+de Ecología Aplicada de Guerrero; Colegio de Posgraduados 
+Campus Tabasco, Instituto de Recursos Genéticos y Producti-
+vidad; Departamento de Química, Universidad de Aguasca-
+lientes; Universidad de Gudalajara División de Ciencias Agro-
+nómicas; Facultad de Agronomía de la Universidad de Nuevo 
+León; Fundación Salvador Sánchez Colín; Instituto de Ecolo-
+gía de Alimentos, Universidad Autónoma de Tamaulipas; 
+Universidad Autónoma Agraria “Antonio Narro” y la Univer-
+sidad Autónoma de Chapingo. Fuente: Knudsen (2000).
+161
+Troje o coscomate de Jiquipilco El viejo, Estado de México.
+----------------Page (161) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+162
+debieran reconocerse para la conservación in situ
+y registrarse, si así lo desean las comunidades, en 
+un padrón que serviría para desarrollar políticas 
+de defensa del germoplasma indígena. Por otro 
+lado, muchas de las colectas de plantas que no se 
+refieren al maíz no fueron realizadas por botáni -
+cos, ni con fines agrícolas. Consultamos las listas 
+de estos acervos, que provienen de varios herba-
+rios de México y Estados Unidos (Conabio 2007 
+a,b,c,d,e,f,g). Cabe señalar que una vez detecta-
+das estas regiones prioritarias, se deben realizar 
+visitas a las organizaciones para verificar si todavía 
+se conserva ese germoplasma y acordar procedi -
+mientos para la conservación de este patrimonio 
+indígena. 
+Agricultura de temporal, humedad y riego, y ganadería 
+en los territorios de los pueblos indígenas 
+La mayoría de los territorios de los pueblos indíge-
+nas se componen de ejidos y comunidades y casi 
+300 mil unidades de producción son de propie-
+dad privada (Robles y Concheiro, 2004). Esto pue-
+de realizarse en los predios individuales o de uso 
+común. La agricultura y la ganadería con pastiza -
+les se desarrollan en 23 por ciento del territorio de 
+los pueblos indígenas. La agricultura de temporal 
+domina en estos territorios. La Serie III reporta 
+para el año 2002 que hay abiertas a nivel nacional 
+al cultivo 30 074 408 hectáreas, entre la agricultu-
+ra de temporal, de riego y de humedad, siendo la 
+primera la más importante. Estas cifras son contra-
+dictorias con el informe de la Sagarpa para el año 
+2000, que indica que hay 20.2 millones de hectá-
+reas cultivadas, lo que implica una diferencia de 
+apreciación de 30.0 por ciento. Suponemos que 
+esta diferencia resulta debido a que la Serie III 
+no diferencia entre tierras cultivadas en el ciclo 
+agrícola y tierras abiertas al cultivo abandonadas 
+temporal o definitivamente. 
+Al hacer un comparativo entre la producción 
+de maíz a nivel mundial, México ocupa el quinto 
+lugar y es importador de una cuarta parte del con-
+sumo, básicamente del maíz amarillo que se usa 
+para la ganadería y la industria. Estados Unidos 
+produjo en el ciclo octubre de 2004-septiembre 
+de 2005, 269 millones de toneladas métricas, es 
+decir 42.5 por ciento de la producción mundial; 
+China 128 millones de toneladas que equivale a 
+18.1 por ciento; la Unión Europea 53.1 millones 
+de toneladas, esto es 7.5 por ciento; Brasil 39.5 
+millones, 5.6 por ciento, y finalmente México, en 
+quinto lugar, con 22 millones de toneladas, lo que 
+significa el 3.1 por ciento a nivel mundial. Lo para
+Tunal. 
+----------------Page (162) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+163
+dójico es que en Estados Unidos se cultivan, cre-
+cientemente, variedades indígenas de color, así 
+como variedades blancas (para harina de maíz), 
+sembradas específicamente para el mercado me-
+xicano o para el consumo de comidas mexicanas 
+en Estados Unidos (Barkin, D. 2003)
+.
+En México, la siembra de maíz es “bimodal”, 
+la cual se expresa en el hecho de que una minoría 
+son grandes agricultores, y una abrumadora ma-
+yoría (casi dos millones de pequeños productores 
+que producen para el autoconsumo o mercados 
+locales). El maíz se siembra en México en 71 por 
+ciento de la superficie de temporal y en menos de 
+la tercera parte de la superficie nacional regada. 
+Anualmente se siembran entre seis y siete millo-
+nes de hectáreas de maíz en tierras de temporal 
+(Barkin, 2003: 157). Con base en cifras oficiales, 
+el autor antes citado calcula que para un grupo de 
+agricultores resulta rentable cultivar maíz debido 
+a que tienen acceso a créditos oficiales y sistemas 
+de comercialización privilegiados (cada vez me-
+nos), por lo que siembran el maíz en uno de sus ci-
+clos agrícolas (por ejemplo en Sinaloa), lo que repre-
+senta entre uno y dos millones de hectáreas. El 
+germoplasma que utilizan proviene principalmen-
+te de las semilleras trasnacionales, mientras que 
+CUADRO 24. 
+ Comparativo de 10 años entre el uso agrícola y pecuario en los territorios 
+de los pueblos indígenas vs el territorio nacional
+Uso del
+suelo en los
+territorios
+de los
+pueblos
+indígenas
+Pecuario 
+Agrícola
+Acuícola
+Plantación 
+Forestal
+TOTAL
+Serie II 
+1993
+(hectáreas)
+Serie II
+respecto 
+al total
+territorios
+indígenas
+(%)
+Serie III
+2003
+indígenas
+(hectáreas)
+Serie III
+respecto
+al total 
+territorios
+indígenas 
+(%)
+Cambio de 
+uso del suelo 
+respecto a
+la serie II
+indígenas
+(hectáreas)
+To t a l
+serie II
+1993
+nacional
+(hectáreas)
+To t a l
+serie III
+2003
+nacional
+(hectáreas)
+Cambio 
+de uso 
+del suelo 
+vs. serie II 
+nacional
+(hectáreas)
+Uso del 
+suelo
+serie II 
+territorio 
+nacional
+(%)
+Uso del suelo 
+serie III 
+territorio 
+nacional
+(%)
+2 484 906
+2 705 193
+-
+10 336
+5 200 435
+8.86
+9.65
+-
+0.04
+18.55
+3 094 965
+3 355 111
+3 673
+11 716
+6 465 466
+11.04
+11.97
+0.01
+0.04
+23.06
+610 059
+649 918
+3 673
+1 380
+1 265 031
+15 790 213
+27 977 090
+20 650
+43 787 955
+18 990 101
+30 074 695
+64 886
+31 876
+49 161 559
+3 199 887
+2 097 604
+64 886
+11 226
+5 373 604
+8.10
+14.34
+0.01
+22.45
+9.74
+15.42
+0.03
+0.02
+25.21
+los que cultivan con el acervo genético mesoame-
+ricano son los campesinos y los indígenas.
+10
+Si comparamos la Serie II con la Serie III de la 
+Cartografía del Uso del Suelo y Vegetación (
+INEGI
+), 
+se concluye que hubo la siguiente apertura de la 
+frontera agrícola y ganadera en territorios indíge-
+nas: respecto a pastizales inducidos, cultivados y 
+vegetación inducida sabanoide, la cifra de cambio 
+está entre 2 528 769 y 2 724 923 hectáreas, esto es, 
+aumentó alrededor de 200 000 hectáreas en 10 
+años, lo que significa la ampliación de la frontera 
+pecuaria en 0.8 por ciento respecto al total del te-
+rritorio indígena. A nivel nacional la comparación 
+de las dos series indica un avance de 1 440 235, es-
+to es, 0.7 por ciento. En el caso de la apertura de la 
+frontera agrícola, ésta avanzó en territorios indíge-
+nas en 258761 hectáreas, lo equivalente a 1.1 por 
+ciento, y en comparación con el nivel nacional au-
+mentó en 992 138 hectáreas, lo que significó un 
+aumento de 0.4 por ciento. Cabe señalar que la 
+apertura de la frontera pecuaria medida sólo por 
+el aumento de los pastizales no da una idea exacta 
+del impacto ocasionado por el avance de la gana-
+10
+ Servicio de Información y Estadística Agroalimentaria y 
+Pesquera, Sagarpa, 2005.
+----------------Page (163) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+164
+ra dominante la agricultura en tierras de temporal 
+y en laderas. Las estadísticas de las pendientes en 
+la agricultura de temporal indican que 43 por cien-
+to de la agricultura indígena se desarrolla en lade-
+ras de más de 10 grados. De ellas, casi 100 000 
+hectáreas presentan suelos fuertemente inclina -
+dos, de 20 a 45 grados. Si descontamos las tierras 
+de agricultura de temporal de los mayas de la pe-
+nínsula de Yucatán, tendríamos que 52 por ciento 
+de las tierras cultivadas indígenas se encuentran 
+en laderas. En estas condiciones, la mecanización 
+es difícil y los suelos tienen que trabajarse con cui-
+dado para evitar la erosión. 
+La Serie III tiene tres categorías respecto a los 
+pastizales: 1) pastizales naturales; 2) pastizales in-
+ducidos, y 3) pastizales cultivados. Para hacer el 
+dería en las áreas forestales. Por un lado, muchos 
+fuegos agropecuarios provocados para renovar los 
+pastos se desbordan hacia los bosques y selvas. 
+Por otro lado, la ganadería, principalmente indí-
+gena, no sólo se desarrolla en los pastizales, sino 
+también en los bosques y selvas, así como la gana-
+dería menor (en ocasiones trashumante) en am-
+plias zonas semidesérticas y en parques nacio-
+nales, arriba de los tres mil metros de altura.
+Una de las preguntas más importantes que 
+surgen en torno a este tema es cómo se comporta 
+la agricultura de temporal respecto a las pendien-
+tes de los terrenos. El cuadro 25 muestra que poco 
+menos de la mitad de la agricultura de temporal 
+se desarrolla en terrenos de ladera. Así, constata-
+mos que los pueblos indígenas practican de mane-
+CUADRO 25. 
+ Usos del suelo en los territorios indígenas, superficie y grados 
+de inclinación de la pendiente
+Uso del 
+suelo
+Pecuario 
+Agrícola
+Acuícola
+Plantación 
+forestal
+Total
+Superficie en 
+los territorios
+indígenas
+(hectáreas)
+Acuícola
+Agricultura 
+de humedad
+Agricultura 
+de riego
+Agricultura 
+de temporal
+Bosque 
+cultivado
+Pastizal 
+cultivado
+Pastizal 
+inducido
+3 671
+17 957
+388 363
+2 948 684
+11 714
+2 039 807
+1 052 854
+0.01
+0.06
+1.39
+10.52
+0.04
+7.28
+3.76
+Porcentaje
+del total del 
+territorio 
+indígena
+Inclinación de las pendientes (grados)
+3 671
+15 874
+1 946
+137
+385 685
+2 628
+50
+2 138 095
+704 694
+105 895
+11 713
+1
+1 870 637
+160 260
+8 910
+614 083
+396 317
+42 454
+1º-10º. Pendientes ligeramente inclinadas
+1º-10º. Pendientes ligeramente inclinadas
+10º-20º. Pendientes medianamente inclinadas
+20º-45º. Pendientes fuertemente inclinadas
+1º-10º. Pendientes ligeramente inclinadas
+10º-20º. Pendientes medianamente inclinadas
+20º-45º. Pendientes fuertemente inclinadas
+1º-10º. Pendientes ligeramente inclinadas
+10º-20º. Pendientes medianamente inclinadas
+20º-45º. Pendientes fuertemente inclinadas
+1º-10º. Pendientes ligeramente inclinadas
+10º-20º. Pendientes medianamente inclinadas
+1º-10º. Pendientes ligeramente inclinadas
+10º-20º. Pendientes medianamente inclinadas
+20º-45º. Pendientes fuertemente inclinadas
+1º-10º. Pendientes ligeramente inclinadas
+10º-20º. Pendientes medianamente inclinadas
+20º-45º. Pendientes fuertemente inclinadas
+----------------Page (164) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+165
+balance agropecuario usamos la segunda y tercera 
+categoría, ya que no estamos seguros que la prime-
+ra refleje el uso pecuario, sobre todo en las altas 
+montañas. Sin embargo, hay que aclarar que en 
+vastas zonas de México, principalmente en el nor-
+te, se sobreexplotan los pastos naturales. Por otro 
+lado, los pastizales inducidos y cultivados no refle-
+jan toda la dimensión de la ganadería mayor y me-
+nor (sobre todo cabras y borregos), ya que ésta se 
+extiende en los sistemas naturales en las áreas de 
+vegetación subhúmeda y semidesérticas, inclu-
+yendo los bosques templados, afectando de mane-
+ra constante la regeneración de los mismos. Tam-
+bién la ganadería menor ovi-caprina se practica 
+principalmente en las áreas semidesérticas, por lo 
+general de uso común, con un grave impacto no 
+evaluado hasta el momento. Parte de los incen-
+dios forestales (tlachinolli) en bosques templados 
+de altura, en los parques nacionales, son atribui-
+bles a los pastores de ganados ovi-caprino, mis -
+mos que con ese método pretenden adelantar los 
+renuevos de los pastos naturales. Estos últimos 
+también fueron objeto de atención de Hernán-
+dez X. (1985, 1987), que frecuentemente son en-
+démicos y están siendo sustituidos por los africa-
+nos y/o brasileños.
+La ganadería extensiva se practica en casi 1.1 
+millones de km
+2
+, 56 por ciento de la superficie to-
+tal de la República mexicana. Sólo 16 por ciento 
+de la superficie nacional está formada por pastiza-
+les, de modo que la superficie restante, es decir, 
+40 por ciento, debe corresponder a la vegetación 
+natural ( Semarnat, 2002: 37, 70 y 71).
+A nivel nacional hay presencia de pastos indu-
+cidos y cultivados, mientras que en territorios de los 
+pueblos indígenas se registran 2720923 hectáreas, 
+es decir, 11.3 por ciento del total de su territorio.
+La política de desmontes oficial de las selvas 
+tropicales hasta los bosques mesófilos que dieron 
+lugar a la ganadería extensiva tropical y subtro-
+Paisaje biocultural en la huasteca veracruzana.
+----------------Page (165) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+166
+pical, repercutió en los territorios indígenas de 
+Chiapas, Campeche, Yucatán, Veracruz y San Luis 
+Potosí. 
+En el mapa anterior se puede observar cómo 
+los pastos inducidos van trepando las sierras des-
+de las planicies; así como la gran superficie que 
+ocupa la ganadería extensiva en la Península de 
+Yucatán. De hecho, los mayas tienen la mayor su-
+perficie de ganadería extensiva entre todos los 
+pueblos indígenas. En las zonas tropicales del es-
+tado de Oaxaca la tasa anual de cambio hacia pas-
+tizales cultivados es de 0 a 0.30 por ciento (Semar-
+nat, 2002: 41), principalmente desde el Istmo de 
+Tehuantepec hacia la Sierra de Juárez. También 
+tenemos avances de la ganadería desde las costas 
+hacia las sierras en la vertiente del Pacífico. En el 
+caso de Chimalapas se observa una intrusión de la 
+ganadería hacia el territorio zoque, desde la colo -
+nia Cuauhtémoc, en Veracruz, y Cintalapa, Chia-
+pas. En el caso de la Península de Yucatán tene-
+mos una tasa anual de crecimiento entre 1993 y 
+2003 de más de 3.42 por ciento, al igual que en 
+Chiapas. En este último lugar las planicies coste -
+ras están muy afectadas, al igual que una parte im-
+portante de los territorios zoques, choles, tzelta -
+les, tzotziles y tojolobales que según el capítulo 
+anterior, tienen los más altos valores nacionales en 
+diversidad biológica. En estas áreas se han trans-
+formado sobre todo las selvas altas perennifolias 
+en pastizales. Casi toda la población indígena relo-
+calizada por la construcción de las presas presenta 
+altos índices de recambio del suelo en favor de la 
+ganadería y la caña de azucar. Los pueblos indíge -
+nas que tienen más de 100 000 hectáreas de pasti-
+zales son los mayas, con 551287, es decir, casi un 
+tercio de los pastizales cultivados e inducidos de 
+los pueblos indígenas. Les siguen, en orden des-
+cendente, los mixtecos con 250 732, los nahuas 
+de la Sierra Norte de Puebla, Veracruz y San Luis 
+Potosí con 182 777, los choles con 159985, los rará-
+muri con 158 486, los tzeltales con 139769, los chi-
+Maiz nativo.
+----------------Page (166) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+167
+Maya
+Mixteco
+Náhuatl de SLP, SNP, NVER
+Tzeltal
+Tarahumara
+Zapoteco
+Chol
+Tzotzil
+Chinanteco
+Huichol
+Totonaca
+Huasteco
+Zoque
+Náhuatl del Sur de Veracruz
+Mixe
+Otomí
+Mazateco
+Náhuatl de Gro., Altiplano, Edomex, Oax. 
+Popoluca
+Tepehuán
+Tojolabal
+Tlapaneco
+Chatino
+Mayo
+Chontal de Tabasco
+Maya lacandón
+Cora
+Mazahua
+Náhuatl de Zongolica-Pico de Orizaba
+Cuicateco
+Purhépecha
+Triqui
+Kanjobal
+Amuzgo
+Guarijio
+Huave
+Mame
+7 440 854
+1 700 796
+947 703
+924 774
+2 647 372
+1 773 830
+792 334
+774 323
+651 480
+832 951
+313 948
+250 712
+678 665
+96 293
+681 045
+488 627
+315 254
+663 813
+109 819
+1 182 536
+230 634
+294 429
+223 077
+321 124
+79 406
+490 074
+367 047
+125 891
+348 988
+104 314
+216 044
+56 290
+31 032
+156 146
+83 014
+106 879
+35 796
+CUADRO 26. 
+ Pastizal inducido y cultivado en los territorios de los pueblos indígenas de México
+Pueblo indígena
+Superficie de pastizal 
+inducido y cultivado
+(hectáreas)
+Superficie total de 
+territorios indígenas
+(hectáreas)
+Porcentaje de la 
+extensión del pastizal 
+respecto a la extensión 
+del territorio indígena
+600 260
+316 025
+184 654
+175 795
+174 229
+166 547
+157 415
+133 214
+126 519
+101 978
+97 810
+79 969
+76 688
+69 295
+64 504
+62 745
+58 643
+55 258
+46 351
+43 921
+43 918
+38 026
+30 024
+27 173
+25 467
+17 884
+16 753
+13 614
+13 074
+10 467
+6 975
+6 064
+5 858
+5 800
+5 397
+4 914
+4 435
+8.07
+18.58
+19.48
+19.01
+6.58
+9.39
+19.87
+17.20
+19.42
+12.24
+31.15
+31.90
+11.30
+71.96
+9.47
+12.84
+18.60
+8.32
+42.21
+3.71
+19.04
+12.92
+13.46
+8.46
+32.07
+3.65
+4.56
+10.81
+3.75
+10.03
+3.23
+10.77
+18.88
+3.71
+6.50
+4.60
+12.39
+----------------Page (167) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+168
+CUADRO 26. 
+ Pastizal inducido y cultivado en los territorios de los pueblos indígenas de México 
+(C
+ONTINUACIÓN
+)
+Pueblo indígena Superficie de pastizal 
+inducido y cultivado
+(hectáreas)
+Náhuatl de Michoacán
+Yaqui
+Popoloca
+Pame
+Chontal de Oaxaca
+Tepehua
+Pima
+Chocho
+Quiché
+Náhuatl de Durango
+Paipai
+Ixil
+Chuj
+Kikapu
+Kumiai
+Matlatzinca
+Náhuatl
+Kiliwa
+Jacalteco
+Pápago
+Kekchi
+TOTAL
+76 218
+449 320
+42 272
+104 479
+135 933
+9 027
+53 767
+11 746
+32 414
+36 582
+68 326
+14 444
+7 093
+7 040
+7 603
+4 071
+3 549
+27 557
+3 777
+16 660
+3 669
+27 652 861
+Superficie total de 
+territorios indígenas
+(hectáreas)
+Porcentaje de la 
+extensión del pastizal 
+respecto a la extensión 
+del territorio indígena
+3 956
+3 406
+2 747
+2 696
+2 268
+2 166
+2 062
+1 380
+1 344
+767
+750
+741
+579
+521
+510
+457
+395
+288
+225
+32
+6
+3 094 965
+5.19
+0.76
+6.50
+2.58
+1.67
+23.99
+3.84
+11.75
+4.15
+2.10
+1.10
+5.13
+8.17
+7.40
+6.71
+11.23
+11.14
+1.05
+5.97
+0.19
+0.18
+11.19
+nantecos con 112550, los huastecos con 111 844, 
+los tzotziles con 109 438, los tepehuanes con 
+110 701, los zapotecos con 105729. En términos 
+relativos la proporción de pastizales con el total 
+de cada territorio indígena, destacan los nahuas 
+del sur de Veracruz con 83 por ciento, los chonta-
+les de Tabasco con 47 por ciento, los popolucas 44 
+por ciento, los huastecos con 40.3 por ciento, y los 
+totonacos con 34 por ciento. 
+El cuadro 26 revela la magnitud del cambio en 
+el uso de suelo por esta actividad y los procesos de 
+desmonte y sustitución de la vegetación original.
+Recursos fitogenéticos domesticados en los territorios 
+de los pueblos indígenas de México. Interacción de 
+tres espacios: el área natural intervenida, la milpa y el 
+huerto familiar
+Los procesos de domesticación de las plantas úti-
+les, especialmente las comestibles, abarcan tres es-
+pacios: 1) el área de vegetación natural e inter-
+venida: vegetación primaria y secundaria; 2) la 
+milpa fija o itinerante, y 3) los huertos familiares. Se 
+interacciona en los tres espacios, se modifican y se 
+utilizan distintas áreas para aprovechar la diversidad 
+de condiciones físicas y se intercambia germo-
+----------------Page (168) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+169
+Medicinas
+Alimentos
+Forrajes
+Animales de corral
+(alimentados por forrajes y 
+esquilmos agrícolas)
+Hierbas
+Especias
+Sombra
+(para la familia campesina 
+y los animales de corral)
+Alimentos básicos
+Cultivos para el mercado
+Forrajes
+(esquilmos agrícolas)
+Leña y materiales 
+de construcción
+(de árboles derribados)
+Hierbas, especias 
+y quelites
+Siembra de especies útiles
+(árboles frutales, etc., 
+para alimento y para atraer 
+presas de caza)
+MilpasHuerto familiar Ve g e t a c i ó n s e c u n d a r i a Ve g e t a c i ó n p r i m a r i a
+Productos con valor de uso y de intercambio requeridos 
+para satisfacer las necesidades de la familia campesina
+Conservación de los recursos del agroecosistema y del ecosistema natural
+Formación de suelo
+Conservación de la 
+biomasa
+Formación de suelo
+(en terrazas en las laderas 
+y en acahuales)
+La rotación de terrenos 
+permite la recuperación 
+de la fertilidad del suelo
+MOSAICO DE
+AMBIENTES NATURALES
+Y TRANSFORMADOS
+RESULTADO DE LA
+ESTRATEGIA DE USO
+MÚLTIPLE PARA
+PROPORCIONAR UNA
+AMPLIA VARIEDAD DE
+PRODUCTOS
+LO QUE REQUIERE
+UN USO ECOLÓGICO
+RACIONAL Y LA
+CONSERVACIÓN DE LA
+DIVERSIDAD BIOLÓGICA
+Y DE LOS PROCESOS
+ECOLÓGICOS
+LO QUE REQUIERE Y
+TAMBIÉN REFUERZA
+EL MANTENIMIENTO
+DE LOS SERVICIOS
+ECOLÓGICOS
+ESENCIALES A LO LARGO
+DEL TIEMPO
+ESTO ES
+EL USO SUSTENTABLE
+DE LOS RECURSOS
+Mantenimiento de los servicios ecológicos a lo largo del tiempo
+Recolección
+(alimentos, medicinas, hierbas, especias, colorantes, resinas, miel, etc.)
+Caza, caza con trampa y pesca
+(alimento, cuero, piel, plumas, etc.)
+Leña
+Materiales para la construcción y para artesanías
+Forrajes
+Hábitat para polinizadores de los cultivos 
+y depredadores de plagas
+Diversidad genética de los cultivos
+(especies y variedades locales)
+Domesticación incipiente de especies silvestres
+(para alimento y medicina. Parientes silvestres 
+de los cultivos se hibridizan con ellos, etc.)
+La secuencia de cultivo con frecuencia imita 
+la suceción ecológica
+Redes alimentarias sencillas, incluyendo 
+cultivos y sus plagas. Los depredadores de éstas, 
+ganado y la familia campesina
+Mantenimiento de la cubierta vegetal mediante el 
+cuidadoso arreglo espacial de las plantas cultivadas
+(contribuye a suprimir el crecimiento de las malezas 
+y a optimizar el uso de los recursos)
+Los árboles talados y podados vuelven a brotar para acelerar 
+la regeneración natural del ecosistema
+Diversidad genética
+Diversidad de especies
+Diversidad de ecosistemas
+Sucesión ecológica
+Mantenimiento de relaciones interespecíficas complejas
+(por ejemplo, redes alimentarias, etc.)
+Mantenimiento de la cubierta vegetal
+Conservación y formación del suelo
+(contrarresta el riesgo de erosión)
+Conservación de la biomasa
+Mantenimiento del ciclo hidrológico
+(el flujo regulado de agua limpia en los ríos reduce el riesgo de 
+inundaciones, etc. y facilita la recarga de los acuíferos)
+La fertilidad del suelo es mantenida mediante el 
+reciclaje natural de nutrientes
+(productores-consumidores de componentes)
+FIGURA 2. 
+Paisajes indígenas. Esquema ideal de interrelación de los procesos de domesticación y manejo del área natural 
+intervenida, la milpa y el huerto familiar. Tomado de Challenger, 1998.
+----------------Page (169) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+170
+plasma 1 con 2, 2 con 3 y 1 con 3. Los paisajes indí-
+genas son una mezcla de comunidades naturales 
+de vegetación, seminaturales, y artificiales cuya 
+combinación alberga una riqueza biológica extraor-
+dinaria (Challenger, 1998). Como espacios de do-
+mesticación, el huerto familiar y la milpa son dos 
+áreas en constante transformación. El huerto fami -
+liar tiene plantas medicinales, abejas sin aguijón 
+para producción de miel, plantas útiles, hortalizas 
+anuales, perennes y semiperennes, animales de co -
+rral, árboles frutales y plantas ornamentales. Para 
+los indígenas este lugar significa simbólicamente el 
+espacio donde “gobierna la gente”. La milpa es un 
+espacio de interacción entre el humano y los due-
+ños de la naturaleza donde hay que dar para recibir. 
+Es, al igual que el huerto familiar, el espacio de cul -
+tivo, campo de experimentación y de resguardo del 
+plasma germinal mesoamericano. Las milpas tie-
+nen una función múltiple: producir alimentos bási-
+cos y cultivos para el mercado, forrajes, material 
+para construcción, hierbas, especias y plantas ali-
+menticias toleradas que en la agricultura industrial 
+se consideran “hierba mala”. Entre los acahuales, 
+huamiles o vegetación secundaria los mayas siem -
+bran para su seguridad alimentaria algunos tubér -
+culos que resisten la sequía o las inundaciones. 
+Lo que genéricamente llamamos milpa, son 
+policultivos, con distintas formas de aproxima-
+ción según las variadas condiciones físicas, climá-
+ticas y bióticas. En otras palabras, hay muchas 
+milpas según cada productor, pueblo indígena o 
+región climática. Los sistemas agrícolas en las distin-
+tas circunstancias permitieron adaptar y seleccio-
+nar las plantas, a lo largo de siglos de observación, 
+prácticas de manejo y adaptación de diversas plan-
+tas. Asimismo, las formas de estructuración del 
+conocimiento y de su transmisión son netamente 
+indígenas y campesinas que involucra a muje res y 
+hombres de distintos grupos de edad. El apren-
+dizaje se da por medio de la práctica, “aprender 
+haciendo”, y viendo cómo lo hace el vecino, cómo 
+lo hicieron los abuelos, es decir, la escuela es la prác-
+tica de la comunidad. El mito y el ritual enmarcan 
+el conocimiento y le dan estructura para explicar 
+fenómenos extraordinarios, o garantizar la sobre-
+vivencia. Las lenguas indígenas son la plataforma 
+para transmitir y conceptualizar este conocimien-
+to; en este sentido es filosofía práctica con sus inte-
+lectuales locales, incluyendo a los hombres y mu-
+jeres de conocimiento (Boege, 1988). 
+La producción agrícola depende de la dispo-
+nibilidad de semilla o de los cultivares en general. 
+Pero no se trata de cualquier semilla o cultivar ge-
+nérico. Los agricultores indígenas y campesinos 
+siembran tal o cual semilla que ha sido sometida a 
+la adaptación de los microhábitat y a las preferen-
+cias y necesidades culturales. Por ejemplo, el 
+maíz nativo tiene 350 generaciones de selección y 
+cultivo desde que se crearon los primeros linajes 
+en condiciones muy diversas (A. Turrent, comu-
+nicación personal, 2006). Las dos líneas de selec-
+ción, la presión ambiental y la cultural, dan a los 
+creadores de semillas culturales un ingrediente 
+particular frente a los fitomejoradores profesiona-
+les de los centros de investigación. Abarcan, según 
+zonas ecológicas y agroecosistemas complejos, 
+distintas variedades de razas de maíz, frijoles, ca-
+labazas, chiles, jitomates, tomates, quelites, quin-
+toniles, huauzontles, epazote, acuyo, chayotes, 
+chipile, verdolagas, amaranto, camotes, girasoles, 
+chía, agaves, aguacates, frutas, etcétera (Conabio, 
+1998). La milpa tiene cultivos universales, como 
+es el maíz, frijol, calabaza, chile y jitomate, y otros 
+cultivos más específicos muy ligados a las condi-
+ciones locales. 
+Una de las características específicas de la agri-
+cultura indígena es la interconexión entre las plan-
+tas cultivadas y sus pares silvestres, de manera 
+que los estudiosos de la etnobotánica hablan de 
+plantas cultivadas, fomentadas y toleradas (C asas 
+et al ., 2000). Se trata de una canasta de productos 
+que, según la región indígena, son sembrados, 
+----------------Page (170) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+171
+cuidados, recolectados, en suma “cultivados” e in-
+tercambiados con frecuencia en mercados serra -
+nos locales y regionales, mismos que integran cul-
+turalmente los productos de varios pisos ecológi-
+cos. Dichos mercados regionales mantienen el 
+germoplasma dinámico en extensiones considera -
+bles. Los distintos ambientes de las cañadas, 
+montañas y planicies generan la presión ambien-
+tal necesaria para que la mano humana vaya selec-
+cionando los mejores cultígenos y fenotipos. La 
+particularidad de estos recursos es que están adap-
+tados a presiones ambientales de distinta índole: 
+tipo de suelo, humedad, sequía, heladas. Así, hay 
+una mayor especialización en las distintas zonas 
+ecológicas de los mismos productos, lo que se re-
+fleja en una mayor diversidad. La milpa es en rea -
+lidad un agrosistema de múltiples caras, difícil de 
+describir en una sola fórmula. 
+La agricultura tradicional se caracteriza por el 
+uso de un gran número de especies y variedades 
+de las mismas en una parcela. Se desarrolla con la 
+habilidad práctica de cada agricultor y se transmi -
+te de generación a generación de agricultores (as) 
+de manera directa (Hernández y Zárate, 1991). 
+Es decir, los campesinos e indígenas reproducen 
+el germoplasma ancestral sin recurrir mayormen-
+te al mercado nacional de semillas. Son los intelec-
+tuales de su propio proceso, tanto en la produc-
+ción, distribución y consumo. Mientras que en la 
+agricultura industrial se depende cada vez más de 
+los centros de investigación estatales y principal-
+mente privados, interviniendo cada vez más los 
+procesos intelectuales de producción y mercadeo, 
+sobre todo cuando se controla vía satélite la apor-
+tación de los insumos y agua en lo que se denomi-
+na precision farming .
+En la agricultura de subsistencia no industrial, 
+el fondo de reposición del germoplasma corre ge-
+neralmente por cuenta del agricultor y de su fami-
+lia, y en caso de crisis como la pérdida de semillas 
+y cultígenos, está a cargo de la comunidad. Los agri-
+cultores con escasos recursos económicos siem-
+Granos de maíz cacahuacintle.
+----------------Page (171) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+172
+bran materiales más heterogéneos para asegurar 
+la producción. Se trata por lo general de unidades 
+de producción con potencial limitado a pequeños 
+espacios que enfrenta la inestabilidad climática y 
+condiciones de suelo extremas. Pero estas condi-
+ciones extremas son las que obligan a fomentar las 
+variedades que se adaptan mejor a ellas. Como 
+agroecosistema, la milpa mantiene funcionando 
+algunos de los principios ecológicos de un ecosis-
+tema (Aguilar, Illsley y Marielle, 2003; Challen-
+ger, 1998); 1) diversidad importante de especies y 
+variedades de una misma especie manteniendo 
+en un mismo espacio un acervo genético variado; 
+2) creación de microclimas favorables al desarro-
+llo de los cultivos y fomento de interacciones sim-
+bióticas o “cooperativas” entre plantas (unas apor-
+tan sostén, otras guardan humedad del suelo, 
+otras dan sombra y controlan las malezas por su 
+carácter alelopático, o bien sirven de hospederas 
+de insectos benéficos y otras como repelentes); 
+3) utilización óptima del espacio, tanto horizontal 
+como verticalmente, propiciando mayor eficien-
+cia en el aprovechamiento de la energía solar, así 
+como de la humedad; los distintos sistemas radicu-
+lares en diferentes estratos del suelo aprovechan 
+al máximo la humedad y los distintos nutrientes; 
+las leguminosas fijan el nitrógeno atmosférico 
+que es aprovechado por los demás cultivos; 4) uti-
+lización adecuada del tiempo; con frecuencia, 
+mientras el maíz ya está madurando, el frijol está 
+en pleno desarrollo, lo cual es aún más acentuado 
+en milpas en que las fechas de siembra de sus di-
+ferentes componentes difieren por meses; 5) el 
+policultivo proporciona una dieta balanceada y 
+variada durante un tiempo prolongado; 6) mayor 
+capacidad de regulación y control de plagas y en-
+fermedades; 7) mayor capacidad para enfrentar 
+riesgos y limitaciones ante fenómenos climáticos, 
+enfermedades o plagas; por ejemplo, en algunas 
+condiciones responde mejor el maíz; en otras, co-
+mo una sequía, responde mejor el frijol; 8) una de 
+las características específicas de la milpa es el po-
+sible flujo genético entre las plantas cultivadas y 
+sus pares silvestres, en ocasiones inducido por los 
+mismos agricultores; y agregaría 9 ) control de 
+las semillas y cultivares por los indígenas (selec -
+ción de semillas por parte de las mujeres y hom-
+bres del campo, almacen y reserva de semillas y 
+cultivares para el siguiente ciclo y reservorios de 
+emergencia según las comunidades).
+Es un ecosistema agrícola sujeto a la producti-
+vidad ecológica natural y sus ciclos (fertilidad del 
+suelo, humedad residual, reposición de la materia 
+orgánica y sus nutrientes), que le imponen las in-
+tervenciones humanas que pretenden ampliar las 
+posibilidades productivas para compensar las defi-
+ciencias o restricciones ambientales. Los agroeco-
+sistemas industriales “compensan” la disminu-
+ción de la productividad ecológica con el uso 
+intensivo de la energía y de insumos exteriores, 
+principalmente energía de origen fósil, mientras 
+que la agricultura campesina e indígena emplea 
+fuerza de trabajo humana, lo que implica que se 
+usa más la energía solar que la fósil (Pimentel et 
+al ., 1979).
+En conclusión, los agroecosistemas indígenas 
+y campesinos son, en México y en el mundo, los 
+reservorios genéticos de origen más importante 
+de las plantas domesticadas. Una visita a los mer-
+cados indígenas es suficiente para darse cuenta 
+de la inverosímil variedad que existe en cuanto a 
+forma, coloración y nomenclatura de maíz, cala -
+baza, chile y frijol (Hernández X., 1993). 
+El uso de distintas variedades de maíz y de-
+más plantas del agroecosistema mesoamericano 
+tiene un valor agronómico estratégico en la pro-
+ducción de la unidad familiar. Por ejemplo, un 
+mismo agroecosistema alberga variedades de 
+maíz que se mantienen latentes en su crecimien-
+to, sin daño importante, cuando se presenta una 
+sequía intermedia, y se dispara cuando se reanu-
+dan las lluvias. 
+----------------Page (172) Break----------------
+B
+LANDO DE
+ S
+ONORA
+C
+ACAHUACINTLE
+B
+OLITA
+A
+RROCLLO AMARILLO
+----------------Page (173) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+174
+ La gráfica 3, tomada de Altieri (1990), nos ex-
+plica las bondades y restricciones del germoplas -
+ma indígena comparado con el industrial. 
+La gráfica 3 contiene dos gráficas hipotéticas 
+que ilustran lo anteriormente dicho: una que es 
+señalada con la leyenda de semillas tradicionales 
+y otra con las llamadas semillas “milagrosas” o de 
+alto rendimiento, de la revolución verde y transgé-
+nicas, ahora distribuidas principalmente por com-
+pañías trasnacionales. La cordenada “y” represen-
+ta el rendimiento por hectárea, mientras que la 
+cordenada “x” las variaciones climáticas. Si com-
+paramos las dos gráficas, tenemos que las semillas 
+híbridas o milagrosas se desarrollan bien en condi-
+ciones agronómicas muy favorables (clima, riego, 
+suelo, fertilizantes), pero que decaen rápidamente 
+en cuanto no se presenten las condiciones ambien-
+tales óptimas. En cambio, las semillas campesinas 
+indígenas tienen una capacidad de adaptación 
+mayor a las condiciones extremas y a los microhá-
+bitat y siguen siendo un germoplasma invaluable 
+para la generación de nuevas variedades con carac-
+terísticas específicas.
+En el cuadro 27 se presentan las especies nati-
+vas domesticadas por los indígenas, que hoy en 
+día se cultivan en la mitad del suelo agrícola de 
+México y que equivale a 10141287 hectáreas, con 
+35197325 toneladas y cuyo valor de la cosecha es 
+de 58 116 millones de pesos (1 dólar = 11 pesos), 
+esto es, el equivalente a 30.2 por ciento de los in-
+gresos de la agricultura mexicana (Molina y Córdo-
+va, 2006). Las cifras se refieren principalmente a 
+la agricultura comercial, y no a la de autosubsisten-
+cia de millones de campesinos e indígenas. En va-
+rios de estos cultivos comerciales se ha abandona-
+do el germoplasma original para sustituirlo por los 
+producidos por las grandes empresas semilleras 
+trasnacionales. Con frecuencia, hay poco cuidado 
+para usar y preservar los recursos fitogenéticos 
+originales. Paradójicamente, en esta estadística 
+no entran los productores de subsistencia —que 
+son la mayoría de los indígenas y campesinos mi-
+nifundistas— o los que abastecen los mercados 
+regionales. En estos territorios se encuentra el ger-
+moplasma original, reservorio genético invaluable 
+que no sigue la lógica del mercado globalizado. 
+Por ejemplo, tenemos varios tipos de aguacates 
+que tienen propiedades en sabor, olor y aceites 
+que son superiores al aguacate variedad Hass. De 
+igual forma, los chayotes sembrados en grandes 
+cantidades para el mercado nacional se están limi-
+tando a prácticamente una variedad. También en 
+este listado de la Sagarpa no se contempla el jito-
+mate (Lycopersicum esculentum) , considerado como 
+exótico. En efecto, el origen de estas solanáceas 
+se localiza en Perú. Sin embargo, Mesoamérica es 
+centro de domesticación de esta hortaliza de im-
+portancia mundial de donde provienen cepas que 
+dieron origen a los jitomates comerciales actuales. 
+Asimismo, encontramos en territorios de los pue-
+blos indígenas variedades de jitomate originales 
+que sólo se encuentran en circuitos comerciales 
+regionales.
+El maíz 
+Como cultivo universal tenemos el maíz, uno de 
+los cereales más importantes para la alimentación 
+humana y considerado como “el gran regalo de 
+GRÁFICA 3. 
+Ilustración comparativa entre las semillas 
+“tradicionales” y las “mejoradas”
+Productividad
+óptimamarginal marginal
+Productividad
+Semillas “milagrosas”
+Semillas tradicionales
+Gradientes de climas de montaña o latitudinales del trópico húmedo al desierto
+Y
+X
+----------------Page (174) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+175
+Mesoamérica para el mundo” (Taba, 1995). Inde-
+pendientemente de los destinos de la discusión 
+acerca del origen multicéntrico del maíz, es segu-
+ro que una buena parte de las variedades que hoy 
+conocemos se originaron y diversificaron en Méxi-
+co y Centroamérica, así como en la región Andina. 
+Su gran divesidad se debe no sólo a los distintos 
+climas y tipos de vegetación, sino también a su di-
+versidad cultural. Para la mayoria de las socieda-
+des y culturas de México es imposible pensar el 
+maíz sólo en términos de un producto alimenticio 
+cultivado a gran escala para el consumo masivo de 
+un cereal, como se concibe en otros países del 
+mundo. Este cereal representa una cultura, una 
+forma de vida y una parte de nuestra raíz; incluso 
+muchos mexicanos no concebimos a nuestra raíz 
+sin cultura del maíz.
+11
+En este sentido, el maíz es 
+algo más que mera mercancía. 
+En México existe aún esta gran riqueza genéti-
+ca del maíz gracias a que cientos de variedades 
+nativas o indígenas
+12
+se siguen sembrando por ra-
+zones culturales, sociales, técnicas y económicas. 
+Según distintos autores, tenemos las siguientes 
+variedades de maíz (cuadro 28), de las cuales se 
+derivan y combinan cientos de variedades. A me-
+dida que se van depurando las técnicas genéticas 
+para identificar las variedades de maíz, se van 
+agregando a la lista nuevas variedades; así, el maíz 
+11
+ Esto lo debieran considerar los teóricos y políticos neo-
+liberales que fomentan la idea de que el maíz debe ser susti-
+tuido por cultivos más rentables. La importación masiva de 
+maíz subvencionado de Estados Unidos es un grave peligro 
+para México como país de origen. 
+12
+ En una aclaración pertinente, Rafael Ortega Pazcka in-
+dica que el concepto de variedades criollas o razas criollas es 
+inadecuado porque la idea de autóctono se formula en Euro-
+pa, incluyendo a los colonizadores españoles. Estos maíces 
+son generados y desarrollados por pueblos indígenas y cam-
+pesinos que retoman la tradición. El concepto de “indígena” 
+también tiene su carga histórico-colonial, pero es una noción 
+definida por la Constitución y por ello preferimos definir los 
+maíces nativos como “maíces indígenas”. El concepto se usa 
+para deslindar las variedades de maíces tradicionales de las 
+generadas a partir de híbridos y de las llamadas “variedades 
+mejoradas”. Ortega, (2003b: 23).
+Paisaje biocultural: selva, platanar y milpa. 
+Los hombres preparan la tierra para sembrar después 
+de quemar el terreno en la Huasteca veracruzana. 
+----------------Page (175) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+176
+CUADRO 27. 
+ Importancia económica de las especies anuales y perennes comestibles en 
+Mesoamérica domesticadas principalmente por los pueblos indígenas de México
+Nombre común Nombre científico
+209 360
+2 321
+91 916
+461 967
+85 792
+61 739
+95 957
+900
+4 706
+1 368 259
+82 022
+1 230
+1 414 903
+96 387
+203
+750
+2 007
+166 880
+503 407
+8 880 267
+20 703 161
+650 000
+5 362
+570
+5 011
+22 437
+726 218
+1 498 572
+8 352
+13 008
+22 243
+667
+302 060
+435 779
+831 238
+48
+Superficie 
+cosechada 
+(hectáreas)
+60 634
+1 435
+50 222
+30 841
+16 992
+2 602
+1 532
+300
+301
+86 719
+56 173
+139
+1 904 100
+9 664
+232
+30
+170
+6 175
+43 227
+290 419
+7 522 055
+13
+440
+71
+586
+12 217
+54 044
+48 317
+682
+991
+1 999
+958
+4 720
+3 943
+84 483
+13
+1 230 959 
+13 052
+428 076
+1 466 394
+335 349
+171 168
+172 103
+2 430
+14 200
+5 243 732
+2 166 075
+3 993
+7 183 875
+336 136
+12 377
+450
+5 017
+314 367
+618 180
+2 473 668
+33 499 849
+19 500
+13 554
+1 324
+24 189
+411 164
+2 059 331
+5 917 197
+28 527
+28 678
+38 586
+5 950
+955 720
+3 254 408
+5 020 954
+38
+Algodón hueso
+Amaranto
+Cacahuate
+Calabaza 1
+Calabaza 2
+Camote
+Chayote
+Chía
+Chilacayote
+Chile verde
+Chile seco
+Epazote
+Frijol 
+Frijol en ejote
+Girasol
+Guaje verdura
+Huauzontle
+Jícama
+Maíz en elote
+Maíz forrajero verde
+Maíz grano
+Nochebuena (plantas)
+Pápalo
+Quelite
+Romerito
+Tabaco
+Tomate verde
+Tomate (jitomate)
+Verdolaga
+Yuca alimenticia
+Cempaxúchitl (flor)
+Achiote
+Agave mezcal 
+Agave tequilero
+Aguacate Hass
+Anona
+Gossypium hirsutum
+Amaranthus hipocondriacus L. Arachis 
+hypogea L.
+Curcúbita pepo
+Curcúbita pepo L. 
+Ipomoea batata L. 
+Sechium edule (Jacq.)
+Salvia hispánica L.
+Cucúrbita fictofolia B.
+Capsicum frutescens
+Capsicum frutescens
+Chenopodium ambrosioides L.
+Phaseolus vulgaris
+Phaseolus vulgaris
+Helianthus annuus
+Leucaena leucocefala
+Chenopodium berlandien Moq.
+Pachyrrhizus erosus (L.)
+Zea mays (L.)
+Zea mays (L.)
+Zea mays (L.)
+Uuphorbia pulcherrima 
+Parophillum macrocephalum 
+Amaranthus cruentusL.
+Suaeda torreyana Wats
+Nicotiana rustica L. 
+Physalis ixocarpa Brut. Lam
+Licopersicum esculentum
+Portulaca oleracea L.
+Manihot esculenta Crantz
+Tagetes erectga L.
+Bixia orellana L.
+Agave angustifolia
+Agave tequilaza Wever 
+Persea americana Hill
+Annona reticulata L. 
+Producción 
+(toneldas)
+Valor de la 
+producción 
+(miles de pesos)
+ANUALES
+----------------Page (176) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+177
+CUADRO 27. 
+ Importancia económica de las especies anuales y perennes comestibles en 
+Mesoamérica domesticadas principalmente por los pueblos indígenas de México
+(C
+ONTINUACIÓN
+)
+Nombre común Nombre científico
+35
+49 965
+293
+4 433
+56 535
+3 947
+11 386
+107 106
+279
+229 015
+6 670
+9 457
+46 557
+563 443
+729 080
+1 680
+3 734
+332 168
+177
+14 366
+588
+40 926 613
+Superficie 
+cosechada 
+(hectáreas)
+10
+80 903
+78
+68
+12 407
+381
+1 672
+16 461
+310
+2 233
+742
+1 848
+2 244
+9 579
+18 656
+944
+655
+38 365
+575
+1 547
+97
+10 487 214
+105
+845 412
+774
+1 728
+162 058
+10 714
+47 868
+311 722
+5 022
+487 907
+28 961
+29 301
+15 993
+1 272 805
+2 093 788
+12 095
+8 657
+458 583
+21 760
+30 766
+842
+78 086 472
+Arrayan
+Cacao
+Capulín
+Chirimoya
+Ciruela tropical
+Guaje
+Guanábana
+Henequén
+Jojoba
+Maguey pulquero
+Mamey
+Nanche
+Nopal forrajero
+Nopalitos
+Papaya
+Pitahaya
+Tejocote
+Tuna
+Vainilla
+Zapote chicozapote
+Zapote Negro
+TOTALES ANUALES
+Psidium sartorianum
+Theobroma cacao L.
+Prunas serotina Eheh.
+Anona chirimoya Mill
+Spondias purpurea, S. Bombin
+Leucaena leucocefala
+Annona muricata L.
+Agave foucrouyedes Lam.
+Simmondsia chinensis
+Agave spp
+Puoteria zapota
+Birsonima crassifolia L. HBK
+Opuntia spp
+Opuntia ficus indica L.Mill
+Carica papaya
+Stenocereus queretroensis
+Crataegus pubecens
+Opuntia Picus indica
+Vanilla planifolia
+Manilkara zapota L.
+Diospyros dgyna
+Producción 
+(toneldas)
+Valor de la 
+producción 
+(miles de pesos)
+PERENNES
+Fuente: Servicio de Información y Estadística Agroalimentaria y Pesquera. Sagarpa, 2006.
+terior expansión hacia los demás países sudameri-
+canos, y después al mundo, ha generado nuevas 
+variedades o combinaciones de ellas. 
+La distribución de las variedades indígenas 
+del maíz por toda la República se mantuvo intacta 
+hasta la introducción de la agricultura industrializa-
+da en Estados Unidos en la década de 1930. En 
+ese esquema se generaron pocas variedades híbri-
+das que resultaron muy productivas y uniformes 
+para las necesidades de una producción a gran es-
+cala en forma de monocultivo en las mejores tie -
+que se identificaba como chalqueño en los territo-
+rios de los pueblos purhépecha, resultó una línea 
+clara de una variedad que ahora se denomina Pur-
+hépecha (Mijangos, 2005). 
+En los procesos de domesticación y dispersión 
+del maíz hay razas que han desaparecido; y respec-
+to a las técnicas de identificación se modifican, 
+pues cambia también la percepción de las varieda-
+des. En el momento de la conquista española el 
+maíz se había expandido desde lo que hoy es el sur 
+y centro de Estados Unidos hasta Bolivia. La pos-
+----------------Page (177) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+178
+rras. Este sistema produce masivamente alimento 
+para las urbes y la sociedad en general. Los rendi-
+mientos se incrementaron a partir de inversión in-
+tensiva de energía fósil e insumos exteriores, sin 
+importar el daño a los sistemas de producción 
+campesinos, la polarización social y la erosión de 
+los ecosistemas. Es también, en esta fase, que la 
+investigación fitogenética para aumentar la pro-
+ductividad comenzó a cobrar interés público y pri-
+vado. En nuestro tiempo, la mayoría de los maíces 
+indígenas ha quedado marginada del mejoramien-
+to fitogenético nacional. De hecho, para el mejo-
+ramiento genético moderno de maíz en México 
+se ha aprovechado menos de 10 de las 59 razas na-
+tivas (Antonio Turrent, comunicación personal).
+Ortega (2003b) hace la siguiente síntesis del 
+proceso de recolección y sistematización de los 
+maíces indígenas de México. Desde la década de 
+1930 y hasta la de 1950 la Secretaría de Agricultu-
+ra por medio de la Dirección de Campos Experi-
+mentales y el Instituto de Investigaciones Agríco-
+las realizó colectas de poblaciones nativas que se 
+constituyeron en antecedentes directos de muchos 
+maíces mejorados mexicanos. Esta experiencia 
+no fue documentada y las colecciones se perdie-
+ron. No fue sino hasta la década de 1940 cuando se 
+formaron las valiosas colecciones que ahora se en-
+cuentran depositadas en el 
+INIFAP
+ y el 
+CIMM
+y
+T
+. Es-
+ta colecta dio origen a la obra clásica Las razas de 
+maíz en México de Wellhausen, Roberts, Hernán-
+dez X., en colaboración con Mangelsdorf (1951).
+Después de una intensa actividad de colecta 
+se fue perdiendo el interés porque se consideraba 
+que había suficientes muestras que conservaban 
+lo esencial de la diversidad. En los años de 1970 
+se produjo un serio revés en la agricultura indus-
+trializada de Estados Unidos, ya que en los mono-
+cultivos de los híbridos tipo Texas entró masiva-
+mente una enfermedad (Helminthosporium maydis 
+raza T ). Como consecuencia del ataque del Hel-
+minthosporium , la Academia Nacional de Ciencias 
+de Estados Unidos estableció un comité para el 
+estudio de la vulnerabilidad genética de los princi-
+pales cultivos en Estados Unidos. El futuro del 
+maíz en Norteamérica parecía estar en entredicho 
+hasta que se descubrió en el sur de México una va-
+riedad inmune a la plaga. Especímenes de ésta se 
+enviaron de inmediato a Estados Unidos para cru-
+zarlos con las variedades comerciales, salvando así 
+la agricultura estadounidense de una catástrofe. 
+EI comité encontró que la diversidad genética 
+en muchos de los cultivos importantes de ese país 
+era peligrosamente estrecha. Por ejemplo, 96 por 
+ciento de los frijoles sembrados en ese país proce-
+dían de sólo dos variedades y 95 por ciento de los 
+cacahuates cultivados de sólo nueve variedades.
+En esta misma época, la mirada y la conciencia 
+del tema de la erosión genética y de la vulnerabi-
+lidad de los cultivos masivos monoespecíficos re-
+novaron el interés por los maíces nativos. Asimis -
+mo, la intención de mejorar la producción de maíz 
+de calidad para las zonas de temporal con condicio-
+nes climáticas y edáficas calificadas de regular a 
+malas, fracasó debido al tipo de recursos genéti -
+cos que se introducían en las distintas regiones. 
+Dicho de otra manera, la experiencia acumulada 
+durante siglos por los fitomejoradores indígenas y 
+campesinos fue superior para resolver situaciones 
+climáticas y de suelo extremas en que se encuen-
+tra la mayoría de la agricultura de temporal mexi-
+cana (Muñoz, 2003). La agricultura campesina e 
+CUADRO 28. 
+ Inventario de razas de maíz en 
+México, según diversos investigadores
+Autor Razas identificadas
+Wellhausen et al. (1951)
+Hernández X. y Alanis (1970)
+Ortega P. et al. (1991) (Taba, 1995)
+Sánchez et al. (2000)
+Conabio ( 2006 a)
+25 razas y siete por definir
+Agregan cinco más
+41 razas
+59 razas
+62
+----------------Page (178) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+179
+Diversidad de variedades de maíz. Fuente: Feria de intercambio de semillas nativas en Vicente Guerrero, Tlaxcala 
+(febrero de 2007). 
+indígena especializa su germoplasma en las pe-
+queñas diferencias de suelo, clima o ubicación de 
+la parcela, mientras que la agricultura de “promo-
+ción” o comercial usa semillas genéricas. 
+Además de las múltiples variedades indígenas 
+y mejoradas, en México y Centroamérica existen 
+poblaciones de teocintle , consideradas como uno 
+de los ancestros del maíz; recurso amenazado que 
+también debe ser protegido. Por otro lado exis-
+ten, poblaciones de zea , que son gramíneas empa-
+rentadas con el maíz, y que junto con el teocintle
+forman el acervo genético in situ original más im-
+portante del mundo. 
+ El maestro Efraím Hernández X. reanudó en 
+1970 sus trabajos acerca de la diversidad de maíz y 
+la etnobotánica, volcando su atención hacia el es-
+tudio de la diversidad nativa del maíz en México, 
+así como hacia el conocimiento relacionado con el 
+poder de los campesinos y las comunidades indí-
+genas. Varios investigadores han retomado hoy el 
+camino del maestro, y en especial organizaciones 
+campesinas e indígenas —preocupadas por la pér-
+dida— están desarrollando metodologías con base 
+en la agricultura tradicional para aumentar la pro-
+ductividad y a la vez garantizar la seguridad ali-
+mentaria de los campesinos e indígenas pobres. 
+Son cuatro los factores de la diversidad de los 
+maíces de México (Hernández et al. , 1987):
+. 
+1) ra-
+zas primitivas que en países como Perú se en-
+cuentran principalmente como reliquias arqueo-
+lógicas, mientras que en México existen como 
+variedades vivas e interactuando con todo tipo de 
+----------------Page (179) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+180
+maíz; 2) durante algunas épocas, incluyendo la 
+prehispánica, las variedades de maíz se vieron en-
+riquecidas con variedades de América del Sur y 
+viceversa; 3) el teocintle se ha cruzado de manera 
+natural con el maíz y ha introducido nuevas varie-
+dades y características a los maíces de ambas re-
+giones; incluso hay informes de que algunos pue-
+blos indígenas han sembrado teocintle en la milpa 
+para mejorar su maíz; en los popolucas, por ejem-
+plo, existe el término o concepto de maíz silvestre 
+(Blanco, 2006), y 4) el aislamiento geográfico y las 
+distintas culturas de México favorecen la rápida 
+diferenciación, pues poseen varias clases de fac-
+tores aislantes. 
+Las ventajas que tienen los maíces indígenas, 
+después de un tiempo considerable de adaptación 
+a la altura, a los distintos regímenes climáticos y a 
+sus variantes —precipitación y temperaturas— 
+son: 1) rusticidad; se refiere a que es de manejo 
+campesino, que no requiere de procesos comple -
+jos de hibridación y especializados por compañías 
+semilleras, y que, además, es tolerante a diversas 
+situaciones ambientales adversas; 2) rendimiento 
+en condiciones adversas (véase más adelante la 
+gráfica 4 ; 3) desarrollo de múltiples variedades 
+para usos específicos; 4) tolerancia a plagas y enfer-
+medades; 5) tolerancia al acame de algunas varie-
+dades de maíz, y 6) variedades con alta calidad 
+proteínica, alto contenido de aceite en el germen, 
+resistencia a algunas plagas y a enfermedades del 
+follaje y en almacén, raíz y mazorca, resistencia a 
+plagas y enfermedades, adaptación a hiperacidez 
+e hiperalcalinidad del suelo; relaciones asociativas 
+con microorganismos para la fijación de nitrógeno, 
+y accesible a fósforo (Antonio Turrent, comunica-
+ción verbal).
+En México, en los territorios de los pueblos 
+indígenas y en las comunidades campesinas no 
+indígenas, aún persiste una gran riqueza genética 
+de maíz a pesar de los programas oficiales y reque-
+rimientos del mercado para que se siembren unas 
+cuantas variedades. En México, casi 50 por ciento 
+de la superficie sembrada con maíz ha perdido los 
+maíces indígenas en sus líneas más originales. De 
+esta sustitución, 25 por ciento de las semillas mejo-
+radas tiene elementos de cuatro razas indígenas y 
+el 25 por ciento restante son nuevas generaciones 
+de las mismas (Ortega, 2003b), principalmente 
+aplicadas a las zonas de riego de alta productivi-
+dad (por ejemplo, Sinaloa). Del total de la super-
+ficie sembrada de maíz, 3.1 millones de hectáreas 
+concentran dos millones de productores con me-
+nos de una hectárea o hasta cinco hectáreas. Los 
+indígenas tienen más generaciones de maíz adap-
+tadas a las distintas zonas ecológicas que cualquier 
+otro grupo o institución científica. 
+De aquí se desprenden tres conclusiones de 
+importancia vital para México. En México, en te-
+rritorios de los pueblos indígenas y en comunida -
+des campesinas no indígenas aún existe una gran 
+riqueza genética de maíz. Los pueblos indígenas 
+y comunidades campesinas con sus agroecosiste-
+mas tradicionales tienen los reservorios de germo-
+plasma mesoamericano más importantes del país 
+y del mundo, cuyo valor no es reconocido por la 
+sociedad en su conjunto. Este patrimonio repre-
+senta —en los recursos biológicos y genéticos co-
+lectivos
+13
+ de los pueblos indígenas clave— un im-
+portante potencial para la conservación in situ y 
+desarrollo del país en el siguiente sentido: 1) la con-
+servación in situ de los maíces indígenas no sólo 
+responde a la necesidad de enfrentar con el acervo 
+genético situaciones adversas actuales y futuras 
+para el sistema alimentario nacional y mundial (co-
+mo nuevas situaciones por el cambio climático glo-
+bal y megaplagas), sino que los maíces están adap-
+13
+ Se entiende como “recursos biológicos” a los organis-
+mos o parte de ellos, las poblaciones o cualquier tipo del com-
+ponente biótico de los ecosistemas de valor o utilidad real o 
+potencial para la humanidad. Los recursos genéticos son mate-
+rial genético de valor real o potencial ( Diario Oficial de la Fede-
+ración , 7 de mayo de 1993).
+----------------Page (180) Break----------------
+C
+ELAYA
+C
+ONEJO
+C
+ÓNICO
+C
+OMITECO
+----------------Page (181) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+182
+tados a condiciones ambientales desfavorables que 
+se podrían intensificar con el cambio climático glo-
+bal; 2) las tradiciones y el conocimiento de los pue-
+blos indígenas radican principalmente en la cul-
+tura del maíz; la diversidad de las variedades de 
+los maíces indígenas se refleja en el gusto culina-
+rio popular (colores, textura, sabor, usos, etcétera), 
+y 3) es fundamental reconocer los recursos gené-
+ticos, los saberes y los conocimientos del maíz y 
+de la agrobiodiversidad para la supervivencia de 
+los pueblos indígenas, la autosuficiencia alimen-
+taria y la soberanía nacional (Ortega, 2003b: 125).
+To m a n d o e n c u e n t a e s t e ú l t i m o p u n t o , p o d r í a -
+mos preguntar cuál es el proceso de mejoramiento 
+genético de las razas nativas y cuyos intelectuales 
+son los colectivos de los pueblos indígenas y co -
+munidades campesinas.
+Gran parte de los acervos del germoplasma 
+han sido evaluados desde el punto de vista agro-
+nómico (Muñoz, 2003); sin embargo, por la estruc-
+tura y diseño de las investigaciones no se cuenta 
+con catálogos descriptivos de las muestras indivi-
+duales. En ese trabajo sobre prehistoria, diversi-
+dad, origen genético y geográfico del maíz se in-
+forma del potencial productivo de varios tipos de 
+maíz en un comparativo —en condiciones iguales 
+y favorables— con los maíces híbridos usados en 
+las mismas regiones. El autor se pregunta acerca 
+de los criterios de selección de fitomejoradores(as) 
+indígenas con otros criterios de selección (cultu-
+rales y por su uso) que son diferentes a las empre-
+sas comerciales o de los centros de investigación, 
+empeñados en mejorar principalmente el rendi-
+miento y la dependencia comercial hacia ellos. 
+También en el trabajo mencionado se documenta 
+la superioridad de las variedades nativas, por su 
+adaptación a los agroecosistemas, porque: 1) es más 
+probable encontrar estas variedades de alta con-
+centración específica adaptadas a las condiciones 
+de “nicho”; 2) han tenido lugar largos periodos de 
+selección y la acción de varias generaciones de fi-
+tomejoradores tradicionales; 3) se aplicaron crite-
+rios de selección concordantes con la problemáti-
+ca del “nicho” y según las necesidades culturales 
+de los productores; 4) se ejerce la selección en am-
+plias poblaciones de plantas y mazorcas; 5) la se-
+lección se basa en caracteres de heredabilidad 
+superior al rendimiento; 6) la valoración visual 
+que de ellos se hace tiene una baja probabilidad 
+de error; 7) los colores son estables e inconfun-
+dibles; 8) es más eficiente hacer la selección por 
+medio de varios criterios simultáneos que por uno 
+solo, como el rendimiento; 9) los caracteres aso-
+ciados a los criterios de selección fueron cribados 
+por los productores a través del proceso evolutivo 
+del maíz, que conlleva un ajuste constante de los 
+genes modificadores, y 10) la selección no la hace 
+un grupo especializado; se realiza de manera más 
+integrada y colectiva, incluyendo preferencias de 
+género (participación activa de las mujeres en des-
+tacar algunas preferencias culturales). La eficien-
+cia de los métodos antes descritos es muy impac-
+Terrazas para la conservación de los suelos en la Mixteca 
+Alta, Oaxaca. 
+----------------Page (182) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+183
+tante si se consideran las situaciones adversas en 
+las cuales han desarrollado el maíz. 
+El fitomejoramiento es un proceso colectivo, 
+que incorpora varios elementos que tal vez no se 
+dan en una parcela, pero sí en otra. El intercambio 
+regional o extrarregional del germoplasma es una 
+constante: el campesino indígena prueba, ensaya 
+y adopta o descarta el germoplasma nuevo. Sabe 
+separar muy bien las variedades de germoplasma 
+de una misma especie, de manera que puede 
+mantener las variedades sin que se crucen, o vice-
+versa, y fomenta su cruzamiento. Es así como se 
+genera un grupo de variedades de una misma es-
+pecie adaptadas a cada uno de los problemas am-
+bientales. Es una forma muy aproximada de 
+coevolución entre las condiciones naturales y las 
+culturales: Si se trata de una ladera norte con más 
+humedad con cierto tipo de arvences, luz, profun-
+didad de suelo, se utiliza determinado tipo de se-
+millas; igual el grupo va seleccionando las semi-
+llas que resisten plagas, tanto en el campo como 
+en los almacenes. En el caso del maíz, casi todos 
+los tipos tienen variedades precoces (para aprove-
+char al máximo la humedad y los tiempos de se-
+quía alternadas por mucha lluvia, o bien para evitar 
+las heladas, y variedades de ciclo largo, de mejor 
+productividad). Para asegurar la cosecha se siem-
+bran con frecuencia las dos variantes. Estos proces-
+os se presentan año con año para todos los tipos y 
+variedades nativas vivas . Es decir, el proceso de 
+domesticación y diversificación sigue vivo.
+Para documentar el potencial de las varieda-
+des y razas de los maíces indígenas, González 
+(1994) hace la tipificación bacteriana del mucíge-
+no de las raíces aéreas del maíz de variedad olotón ,
+que en este caso ha sido adaptado a condiciones 
+de muy alta precipitación (más de 3500 mm) por 
+una comunidad mixe en Oaxaca. Encuentra que 
+en estas condiciones climáticas la saturación de 
+humedad del suelo es tan alta que no debiese de-
+sarrollarse el maíz, y, sin embargo, estas plantas 
+cultivadas por los indígenas contienen bacterias 
+(Bellenquia indica y Enterobacter agglomeranz) que
+muestran una alta capacidad de fijación de nitróge-
+no e indica actividad fungicida y accesibilidad al 
+fósforo normalmente insoluble. Este hecho nos 
+indica por dónde podrían abrirse líneas de investi-
+gación de biofertilizantes de los maíces y fortale -
+cer la conservación in situ para mantener las condi-
+ciones edafológicas de las bacterias benéficas. Sin 
+conocer los principios de la genética moderna, los 
+indígenas desarrollaron una variedad de maíz con 
+todas estas características. ¿Cuántas generaciones 
+de maíz y de fitomejoradores(as) indígenas mixes 
+u otros pueblos serranos se requirieron para que 
+estas características estuviesen presentes de for-
+ma generalizada en las milpas de Totontepec? 
+La pregunta obligada en este tipo de estudios 
+es a quién pertence la propiedad intelectual de 
+adaptación por siglos (hasta milenios) de varieda-
+des de maíces que se desarrollan en condiciones 
+ambientales adversas. En todo caso el estudio nos 
+Raíces adventicias del maíz olotón en la región de la 
+sierra mazateca, Oaxaca.
+----------------Page (183) Break----------------
+C
+ÓNICONORTEÑO
+C
+HALQUEÑO
+C
+HAPALOTE
+M
+AÍZDULCE
+----------------Page (184) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+185
+muestra la importancia de desarrollar una estra-
+tegia nacional de conservación de la agrobiodi-
+versidad in situ , ya que no sólo es importante el 
+germoplasma de los cultígenos clave, sino las con -
+diciones de su coevolución con la diversidad bio-
+lógica del suelo, así como con otras especies de 
+plantas, insectos, aves, murciélagos, etcétera. El 
+potencial para la agricultura mexicana y mundial 
+es enorme; sólo piénsese en los biofertilizantes 
+que se pueden desarrollar, lo que evitaría la apli-
+cación nociva de millones de toneladas de fertili-
+zante químico, y la compra onerosa del mismo 
+para las muy pequeñas economías campesinas.
+Los inventarios de la agrobiodiversidad en 
+los territorios de los pueblos indígenas de México
+Como en todo el presente libro, el tema del inven-
+tario se realiza por aproximaciones, según la infor-
+mación disponible a nivel nacional y algunas ex-
+periencias locales. Los acervos son dinámicos, por 
+lo que los inventarios tienen que ser actualizados 
+constantemente. 
+Las colectas del
+CIMMYT
+tuvieron originalmen-
+te la intención de contar con un acervo de germo-
+plasma para poder resolver problemas de enfer-
+medades en los cultivos de escala. Sin embargo, 
+Caracterización de microorganismos de mucigel de raíces adventicias y suelo 
+rizoférico de maíz olotón en territorio mixe, Oaxaca (González, 1994)
+E
+l maíz nativo “olotón” no es frecuente, y el reco-
+lectado en Totontepec corresponde por lo menos a 
+las variedades distribuidas en las elevaciones medias de 
+Oaxaca (sierra Mixe y Miahuatlán) y en Chiapas (sierras 
+del Soconusco y San Cristobal). El “olotón” de la sierra 
+mixe se denomina también “serrano mixe” (Sánchez y 
+Goodman, 1992, citado en González, 1994a). Su culti -
+vo en un ambiente de suelo saturado por agua (llueve 
+en promedio 4 m anuales) tiene un manejo agroecoló-
+gico bajo en energía e insumos exteriores. De tamaño 
+alto, presenta características singulares, como altura 
+hasta de 6 m con raíces adventicias (aéreas) en el tallo a 
+una altura de 1 a 1.5 m con un abundante mucigel. El 
+mucigel son exudados pegajosos en el cual se desarro-
+llan varios tipos de colonias de bacterias y hongos, bené-
+ficos al desempeño de las plantas, por lo que es impor-
+tante su esudio, ya que son varios sus efectos positivos, 
+como procesos regulatorios de crecimiento, protección 
+contra patógenos, incremento de la captación de nitró-
+geno y modificación positiva en la asimilación de nutri-
+mentos como el fósforo. Por ello es altamente resistente 
+al chahuixtle de la mesa central. Se aislaron 93 cepas 
+diferentes que se pueden dividir en cinco grupos: I) 33 
+cepas de Pseudomonas, mismas que son altamente an-
+tifúngicas; II) 17 cepas de azospirillum, fijadoras de ni-
+trógeno en gramíneas; III) 18 cepas aisladas de Derxia, 
+IV) 15 cepas de Azotobacter; V) 12 cepas para Beije-
+rinckia, esta última mostró mayor significancia en el in-
+cremento de nitrógeno en maíz.
+Características de las cepas con funciones múlti-
+ples aisladas de mucigel y suelo rizoférico de maíz 
+“olotón” de Totontepec.
+Pseudomonas fluorescens
+Azospirillum sp
+Azospirillum sp
+Klebsiella pneumononiae
+No identificada
+Citrobacter freundii
+Enterobacter cloacae
+Enterobacter cloacae
+Xanthobacter
+No identificada
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+-
+-
++
+-
+-
+-
++
++
++
+-
++
+Mucigel
+Mucigel
+Mucigel
+Mucigel
+Mucigel
+Suelo
+Suelo
+Suelo
+Suelo
+Suelo
+Especie
+FN AB SF
+Origen
+FN
+: Organismos fijadores de nitrógeno en gramíneas
+AB
+: Antibióticos
+SF
+: Solubilización de fosfato tricálcico
+----------------Page (185) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+186
+estas colecciones también resultaron ser un tesoro 
+invaluable en contra de la erosión genética pre-
+sente y futura (Taba, 1995). En la actualidad hay 
+en varios países de Latinoamérica y en Estados 
+Unidos bancos de germoplasma ex situ. Con los 
+auspicios del gobierno estadunidense —
+USDA
+— y 
+del Nacional Seed Storage Laboratory, el 
+CIMM
+y
+T
+organizó una campaña internacional en Latino-
+américa para resembrar las semillas, algunos ejem-
+plares en peligro de extinción. De este modo, el 
+germoplasma ex situ en América Latina y Estados 
+Unidos constaba de 26 mil colectas en 1994, de 
+las cuales nueve mil se encuentran como ejempla-
+res únicos en los bancos de germoplasma naciona-
+les. En México, el 
+INIFAP
+y el
+CIMM
+y
+T
+ tienen 11 000 
+colectas en sus bancos de germoplasma formados 
+con colectas en el territorio nacional. Sin embar-
+go, de las 11 000 colectas, sólo se tomaron en cuen-
+ta 7 144 para este trabajo, debido a que la informa-
+ción restante no está bien integrada. En general, 
+el objetivo de este banco de datos era obtener el 
+germoplasma, por lo que no registraron los facto-
+res climáticos, de suelo o culturales como formas 
+de selección y propagación, incluso ni las asociacio-
+nes con otras especies —con arvenses toleradas o 
+suprimidas, o con plantas silvestres de la misma 
+especie—, ni los agroecosistemas asociados y los 
+usos culturales. Tampoco se registran en estos 
+bancos de datos los actores sociales y nombres de 
+los agricultores involucrados en los procesos de cul-
+tivo y en la toma de decisiones sobre ese germo-
+plasma. Esto es indebido porque se está utilizan-
+do material producto de procesos intelectuales de 
+otros. Estas colectas se hicieron para generar un 
+Feria campesina de productos agroecológicos e intercambio de semillas en la Mixteca Alta, Oaxaca.
+----------------Page (186) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+187
+acervo genético ex situ para el uso de los centros 
+de investigación nacionales y extranjeros sin que 
+se tome en cuenta la opinión de los campesinos 
+y/o indígenas acerca del destino del germoplasma 
+ni la participación de los fitomejoradores campesi-
+nos e indígenas en las estrategias de conservación 
+y desarrollo del mismo.
+14
+Tampoco estas colectas 
+se realizaron para crear el inventario nacional de 
+maíces de los pueblos indígenas actuales, por lo 
+que consideramos que el uso de esta información 
+es una aproximación inicial de lo que se puede en-
+contrar en sus territorios. Por todo ello, tenemos 
+muchas lagunas en los bancos de datos acerca de 
+las variedades de maíz en territorios de los pue-
+blos indígenas. En general, a pesar del esfuerzo 
+del 
+CIMM
+y
+T
+ —y de que se tiene uno de los acervos 
+mundiales más importantes de plasma germinal 
+de maíz—, no ha habido inversión para hacer reco-
+lectas para verificar si estos tipos o variedades exis-
+ten todavía o han desaparecido de las regiones, 
+para de este modo lograr un banco de semillas con 
+una diversidad adicional en áreas insuficientemen-
+te muestreadas (Ortega, 2000). 
+De las 7 144 colectas, 2 012 se encuentran en 
+territorios indígenas o en su área de influencia in-
+mediata (10 km a la redonda). Aragón et al , (2006) 
+reporta que en los bancos de germoplasma ex situ
+del 
+CIMM
+y
+T
+y
+INIFAP
+, existen 1 320 ejemplares 
+colectados entre 1943 y 2005 que corresponden a 
+13 pueblos indígenas de Oaxaca. Las colectas in -
+dican que estos grupos étnicos tienen en sus terri-
+torios el 70 por ciento de toda la diversidad de ra-
+zas existente en México.
+14
+ El Centro de Investigación de la Fundación Swamina-
+than, en India, ha desarrollado toda una estrategia de conser-
+vación ex situ e in situ en que se llega a acuerdos con las comu-
+nidades campesinas donde se realizó la colecta para la 
+conservación del germoplasma de las variedades de arroz, im-
+pulsando técnicas de ecodesarrollo comunitario que incluyen 
+a los que nada tienen, creando, además, escuelas de fitomejo-
+radores(as) locales.
+Maíces nativos en San Andrés Tlalnelhuayocan, Veracruz.
+----------------Page (187) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+188
+Inventarios de las razas de teocintle y maíz 
+de los pueblos indígenas
+Poblaciones de teocintle aún existentes se repor-
+tan en Chihuahua, Durango, Jalisco, Nayarit, Co-
+lima, Michoacán, Guerrero, Morelos, Estado de 
+México, Guanajuato y Oaxaca (Sánchez y Ordaz, 
+1987). Frecuentemente este acervo genético, de 
+riqueza invaluable, es considerado por los produc-
+tores como maleza o es utilizado como forraje. Sin 
+embargo, el naturalista Lumholtz (1902), a finales 
+del siglo 
+XIX
+ observó cómo en el occidente de Mé-
+xico el teocintle se sembraba junto con el maíz 
+para mejorar las cosechas (Benz, 1997: 22). Según 
+Miranda (citado en Muñoz, 2003), esta misma 
+práctica se realiza en Huetamo, Michoacán, don -
+de abundan poblaciones de teocintle y cuyos pro-
+ductores afirmaban que amansaba el maíz, resistía 
+la sequía y tenía una mejor producción en condi-
+ciones extremas (citado en Muñoz, 2003: 82). Es-
+te hecho debe llevarnos a considerar al teocintle, 
+igual que al maíz, como una planta cultural me-
+soamericana y como plasma germinal pertenece a 
+varias generaciones de fitomejoradores anónimos, 
+incluyendo los actuales, de los pueblos indígenas.
+Hay múltiples teorías del origen del maíz; la 
+más aceptada es la que vincula su origen con el 
+teocintle. Esta última especie data de hace unos 
+80 mil años (Muñoz 2003) , y según su estructura 
+genética debe haberse originado en Guatemala y 
+Honduras, desplazándose después hacia México. 
+El teocintle más reciente tiene nudos cromosó-
+micos más parecidos al maíz actual. En México 
+crece en la Sierra Madre del Sur y en la Sierra Ma-
+dre Transversal. Según los autores mencionados, 
+su domesticación debió desarrollarse entre los pa-
+ralelos 19, 20 y 21, con mayor involucramiento en 
+la región centro-occidente. En efecto, recientes 
+estudios genéticos realizados por Doebley mues -
+tran al teocinte clasificado en México como Balsas 
+Zea mays spp parviglunis Iltis & Doebley , que precisa-
+mente encuentran en la cuenca del Balsas la sobre-
+posición genética con el maíz indígena. En el re-
+sultado más sorpresivo de esta investigación, el 
+proceso de domesticación involucró un solo gen 
+tb1 que activó el proceso de domesticación, mis-
+mo que modifica la estructura de los granos y 
+arquitectura de la planta (Iltis, 2000). Según Doe-
+bley, el teocintle subespecie Balsas fue seleccio-
+nado por los antecesores de los pueblos indígenas 
+actuales y tiene muy altas posibilidades de que 
+fuera el origen de las razas modernas. Estos even -
+tos de domesticación sucedieron entre nueve mil 
+y seis mil años. Los registros más antiguos se loca-
+lizan en el valle de Oaxaca, cerca de Mitla, en el 
+sitio Guilá Naquitz; tres mazorcas primitivas con 
+una morfología prototípica del maíz moderno y 
+una edad estimada en 6250 años (Flannery, 1986). 
+Ante las escasas investigaciones en el Balsas y la 
+abundancia en los Valles Centrales de Oaxaca y 
+Tehuacán, es difícil determinar el lugar de origen. 
+Actualmente tenemos que las razas de maíz como 
+el Pepitilla, Tabloncillo (en Jalisco) y Maíz Ancho 
+coinciden regionalmente con el teocintle arriba 
+mencionado.
+Hay que notar que la mayoría de los sitios de 
+colecta del teocintle se encuentra en localidades 
+afuera de los territorios de los pueblos indígenas. 
+Sin embargo, los que presentamos en el cuadro 
+22 se encuentran en áreas de influencia y con pre-
+sencia indígena importante en las localidades de 
+recolección. 
+Si se compara este árbol filogenético con las 
+colectas de maíz indígena en todo el país, nos per-
+cataremos que si bien hay razas más cercanas al 
+teocintle, prácticamente todo México se puede 
+presentar como país de origen, ya que la domesti-
+cación, diversificación y mantenimiento del ger-
+moplasma es todavía una práctica indígena y cam -
+pesina. La discusión alrededor de la domesticación 
+y centro de origen ha dejado de ser un tema neta-
+mente académico para convertirse en un tema es-
+tratégico de defensa de la diversidad biológica y 
+----------------Page (188) Break----------------
+D
+ULCILLODELNOROESTE
+H
+ARINOSODEOCHO
+J
+ALA
+M
+USHITO
+----------------Page (189) Break----------------
+N
+AL
+-T
+EL
+O
+LOTILLO
+O
+LOTÓN
+O
+NAVEÑO
+----------------Page (190) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+191
+dar lugar a procesos actuales de mejoramiento y 
+selección asociados a las variedades actuales... 
+El inventario de lugares donde se han recolec-
+tado las muestras de maíz nativo en territorio in-
+dígena no es exhaustivo, pero nos da una idea 
+aproximada de lo que se puede encontrar en te-
+rritorios de los pueblos indígenas. Asimismo, hay 
+varios lugares do nde se encuentran maíces nativos 
+cultivados por indígenas campesinos con cultura 
+mesoamericana, pero que no pertenecen a los te-
+rritorios descritos. Por ejemplo, la raza Pepitilla se 
+encuentra o encontraba en varios pueblos con ha-
+blantes de lengua nahua en Morelos, sin que és-
+tos sean mayoritarios en sus comunidades. Muñoz 
+(2003) nos hace el siguiente recuento de la asocia-
+ción de razas con las culturas prehispánicas. Los ti-
+pos como el Nal-Tel, Olotillo (Tzi’t Bakal), Tehua, 
+Te p e c i n t l e , Va n d e ñ o y C o m i t e c o s e p u e d e n a s o -
+ciar con los pueblos mayas de la Península de Yuca-
+tán, de Chiapas y de Guatemala; el Zapalote Chico 
+a los zapotecos (inicia su diferenciación hace 2500 
+años, reúne no menos de 22 complejos genéticos 
+favorables, no integrados a otra raza, por tanto la 
+más perfecta del planeta; Muñoz, 1991 y 1992), Bo-
+lita, Zapalote Grande, Mixteco y Mushito, a los 
+pueblos mixtecos y zapotecos; el Arrocillo Amari -
+llo, Tuxpeño y Tuxpeño Norteño, con las culturas 
+tropicales del Golfo; con las culturas del altiplano 
+y del Eje Neovolcánico tenemos el Palomero To-
+luqueño, Cónico, Cacahuacintle, Elotes Cónicos, 
+Pepitilla, Ancho y Chalqueño; el Reventador, Ta -
+blilla de 8, Chapalote, Maíz Dulce, Maíz Conejo, 
+Cónico Norteño, Celaya y Jala (que representa las 
+mazorcas más largas, ¡hasta 50 cm de longitud!) con 
+las culturas de occidente. Aragón et al. (2006) des-
+criben las siguientes asociaciones: El Zapalote 
+chico, a los zapotecos del istmo, el Olotón por los 
+zapotecos de los Valles Centrales de Oaxaca, el 
+Serrano y Tepecintle a los mixes; el Chalqueño, 
+Cónico, Olotón x Mushito, Arrocillo, Comiteco x 
+agrobiodiversidad. En este sentido, el informe 
+presentado por el Instituto Nacional de Ecología 
+de la Semarnat, elaborado por Ortiz y Otero 
+(2006), define la domesticación como un proceso 
+que involucra varias escalas tanto a nivel biológico 
+como social. Ci tando a Zeder (2006), nos dicen 
+que para entender la naturaleza evolutiva de las 
+relaciones de domesticación es más valioso consi -
+derar la totalidad de escalas involucradas en vez 
+de tratar de definir la demarcación exacta entre 
+una población de plantas silvestres y una pobla-
+ción de plantas do mesticadas. Por tanto, la domes -
+ticación no es un evento histórico único que se de -
+sarrolló en un momento dado, s ino que involucra 
+un largo proceso de di spersión y adaptación conti -
+nua. Blake (2005), nos siguen diciendo las dos au -
+toras (p. 6), establece fechas (estudiando los ma -
+crofósiles y microfósiles como el polen) para la 
+dispersión inicial de maíz desde las regiones de 
+su domesticación temprana hasta regiones donde 
+su uso temprano también indica que formaron 
+parte del proceso de domest icación tardío de ese 
+cultivo. Concluyen (p. 8) que 
+con la información presentada en el análisis de 
+Blake (2005) y considerando que aún se requiere la 
+exploración de otros sitios arqueológicos, así como 
+la generación de mayor información actualizada 
+sobre la distribución de parientes silvestres y varie-
+dades criollas de maíz y tomando en cuenta que el 
+origen de este cultivo se asocia a un proceso de do-
+mesticación que abarca varios miles de años y una 
+parte extensa de nuestro territorio, se puede esti-
+mar que el centro de origen y domesticación del 
+maíz abarca porciones del territorio contenidas en 
+estas isoclinas (dispersión que presentan los con-
+tornos de las edades con intervalos de 500 años) 
+temporales de por lo menos hace 500 años, antes 
+de la llegada de los españoles, momento en que el 
+uso de cultivo se modificó y el proceso de domesti-
+cación entró en su etapa tardía para posteriormente 
+----------------Page (191) Break----------------
+Bahía Kino
+Santa Rosalía
+Nuri
+Mazatán
+Tecoripa
+Ortíz
+El Triunfo
+Topolobampo
+Pueblo Yaqui
+Esperanza
+Los Mochis
+Navojoa
+Ciudad 
+Obregón
+Huatabampo
+Guaymas
+Hermosillo
+SONORA
+GOLFO DE CALIFORNIA
+(MAR DE CORTÉS)
+Bahía
+Guásimas
+S
+I
+E
+R
+R
+A
+E
+L
+E
+N
+C
+I
+N
+A
+L
+Y
+AQUI
+S
+ERI
+M
+AYO
+Isla Partida
+Isla Santa Catalina
+Isla El Carmen
+Isla San Marcos
+Isla Lobos
+111º
+112º
+110º
+109º
+S
+IMBOLOGÍA DE LAS RAZAS DE
+MAÍZ
+Apachito
+Argentino
+Azul
+Blando (i)
+Blanco (j)
+Bolita
+Celaya
+Cónico
+Cónico Norteño
+Complejo Cristalino 
+Chihuahua
+Dulcillo del Noroeste (a)
+Dulcillo del Noroeste (b)
+Harinoso
+Hembra
+Lady Finger
+Maíces Dulces
+Mushito
+Onaveño
+Palomero
+Perla
+Reventador
+San Juan
+Tabloncillo
+Tabloncillo Perla
+Tampiqueño
+Tunicado
+Tuxpeño
+Gordo
+----------------Page (192) Break----------------
+Chihuahua
+Madera
+Yécora
+Álvaro Obregón
+Guadalupe
+y Calvo
+Hidalgo 
+del Parral
+Santa 
+Bárbara
+Guasave
+San Blas
+San 
+Bernardo
+Choix
+Álamos
+San Pablo Balleza
+San Juanito
+Creel
+La Bufa
+Guachochi
+Guerrero
+Ciudad 
+Cuauhtémoc
+Aldama
+CHIHUAHUA
+SINALOA
+DURANGO
+R
+AZAS DE MAÍZ EN LOS TERRITORIOS INDÍGENAS YAQUI
+,
+MAYO
+,
+TARAHUMARA
+,
+TEPEHUÁN
+,
+PIMA Y GUARIJÍO
+T
+EPEHUÁN
+T
+ARAHUMARA
+P
+IMA
+G
+UARIJÍO
+30º
+29º
+28º
+27º
+108º 107º
+106º
+----------------Page (193) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+194
+Nal Tel
+(Oaxaca)
+Zapalote
+(Oaxaca y Chiapas)
+Olotillo
+(Chiapas)
+Conejo
+(Oaxaca)
+Reventador
+(Nayarit)
+Harinoso de Ocho
+(Nayarit)
+Chapalote
+(Sinaloa)
+Pepitilla
+(Guerrero)
+Bolita
+(Oaxaca)
+Nal Tel
+(Yucatán)
+Olotillo
+(Guerrero)
+Reventador
+(Michoacán)
+Reventador
+(Guerrero)
+Maíz Ancho
+(Guerrero)
+Dzit Bacal
+(Yucatán)
+Tabloncillo
+(Jalisco)
+Reventador
+(Jalisco)
+Jala
+(Nayarit)
+Balsas Teocinte
+(Teloloapan)
+Balsas Teocinte
+(Huetamo)
+Balsas Teocinte
+(Luvianos)
+FIGURA 3.
+Árbol filogenético derivado de nudos cromosómicos que muestra el patrón de ramificación del maíz del 
+complejo mexicano de mazorca estrecha. Tomado y modificado de Benz (1997: 21).
+----------------Page (194) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+195
+Cónico a los mixtecos de la Mixteca Alta; el Oloti-
+llo, Tuxpeño x Conejo a los mixtecos de la Costa; 
+el Cónico a los triques.
+Benz (1997a) nos presenta una asociación en-
+tre el Grueso de Nayarit, Tabloncillo de Jalisco, 
+Maíz Ancho y Conejo de Guerrero, Olotillo de 
+Chiapas, Bolita, Chatino, Maizón y Zapalote Chi-
+co de Oaxaca que se distribuyen a lo largo de te-
+rritorios de los pueblos indígenas de la familia 
+lingüística otomangue. La coincidencia geográfi-
+ca entre esta familia y las variedades sugiere que 
+compartieron una historia cultural y biológica co-
+mún. Esas variedades también insinúan que el 
+maíz fue domesticado por antepasados que habla-
+ban lenguas antecesoras del otomí, matlatzinca, 
+tlapaneco, amuzgo y zapoteco, entre otras. El léxi-
+co más rico alrededor del maíz lo tenemos en la 
+protolengua del otomangue. Según este enfoque, 
+las variedades Nal-Tel de Yucatán y Chapalote de 
+Sinaloa no son las más primitivas, como se pensa-
+ba. El árbol filogenético sugiere, más bien, que 
+las variedades Tabloncillo, Maíz Ancho y Pepitilla 
+son más antiguas. El grupo de los maíces de los al-
+tiplanos centrales (Arrocillo, Cacahuacintle, Cóni-
+co Chalqueño y Palomero Toluqueño, clasifica-
+dos como cónicos) existía por lo menos desde el 
+primer siglo de nuestra era (Benz, 1997a).
+En un artículo reciente se analizan los posibles 
+orígenes de la diferenciación fenotípica de las mis-
+mas variedades de maíz olotón y el comiteco se-
+gún los pueblos indígenas tzeltal y tzotzil (Pera-
+les, Benz y Brush, 2005). Se trata de un examen del 
+papel de la cultura para generar la agrodiversidad. 
+El estudio sugiere que a pesar de que las semillas 
+son reconocidas como diferentes por parte de ca-
+da una de las comunidades etnolingüísticas, las 
+isozymas sólo muestran una diferenciación genéti-
+ca débil. En general, la diferenciación está relacio-
+nada con adaptaciones a condiciones ambientales 
+locales diferenciales, y son las mismas presiones 
+ambientales las que marcan la diferencia. Pero 
+también las identidades grupales van generando 
+preferencia en algún tipo de maíz, en un ejercicio 
+para enfrentar la pérdida de las variedades. 
+CUADRO 29. 
+El teocintle en los territorios de los pueblos indígenas o áreas de influencia
+Pueblos indígenas Localidad
+Tepehúan 
+Tarahumara 
+Nahua del Balsas (presencia)
+Náhua del Balsas (presencia)
+Nahua del Balsas (presencia)
+Nahua del Balsas (presencia)
+Nahua del Balsas (presencia)
+Nahua
+Nahua (presencia)
+Purhépecha (presencia)
+Nahua
+Purhépecha (presencia)
+Purhépecha
+Chatino
+Nabogame
+Urique
+Los Sabinos
+Km 48 Iguala Teloloapan
+Ahuacatitlán
+Taxco
+Iguala Teloloapan
+Rincón del Sauce (3 km) El Teloloapan
+Tlalmanalco
+Tzintzuntzán
+Caltepec
+Opopeo
+Patambicho
+San Cristóbal Honduras 
+(mun. Juchatengo)
+Altitud en
+MSNM
+1 850
+600
+1 200
+1 560
+1 640
+1 755
+1 570
+1 650
+2 400
+2 050
+1 900
+2 320
+2 100
+1 120
+Raza o variedad
+Nabogame
+?
+Balsas
+Balsas
+Balsas
+Balsas
+Balsas
+Balsas
+Chalco
+Mesa Central
+?
+¿Chalco?
+Mesa Central
+Balsas
+----------------Page (195) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+196
+El inventario de los maíces en territorios indí-
+genas permite documentar las adaptaciones que 
+hicieron los productores(as) en condiciones agro-
+ecológicas extremas, como la sequía o la abundan-
+cia de lluvias, las altas o bajas temperaturas du-
+rante el ciclo agrícola, la altitud, vientos, suelos 
+someros, ácidos, alcalinos, etcétera. Así, tenemos 
+variedades que se mantienen en estado de laten-
+cia cuando no llueve y sin la merma normal por el 
+estrés hídrico y vuelven a despegar al momento 
+en que se desata la lluvia. En cada microrregión 
+existe un conjunto de variedades específicas. Al-
+gunos tipos o variedades pueden adscribirse a un 
+pueblo indígena; otras a una región determinada, 
+y en una tercera categoría, las que comparten dis-
+tintos pueblos (veáse cuadro 30).
+La gráfica 4 refleja de manera simplificada las 
+adaptaciones ambientales que ha experimentado 
+el maíz, ya que encontramos su cultivo desde 0 a 
+3400 msnm. Siempre siguiendo a los autores cita-
+dos, consideramos el tipo cónico y sus variedades 
+como la que mejor se ha adaptado a las bajas tem-
+peraturas, de manera que hay menos superficie 
+de exposición de la mazorca al frío. Igualmente, 
+sus hojas de color púrpura sirven para enfrentar 
+mejor los rayos ultravioleta (Benz, 1997a).
+A raíz de este estudio, es posible concluir que 
+todo el país aún es centro de origen y diversifica-
+ción de maíz, en procesos dinámicos actuales 
+como su conservación y desarrollo de facto , y que 
+80 por ciento de los productores lo mantienen 
+vivo. Sus acervos fitogenéticos pueden conside-
+rarse como reservas y laboratorios genéticos de 
+larga duración. Perales et al. (2005), en un estudio 
+acerca de la variabilidad de las variedades nativas 
+en Chiapas, afirma que las variedades arriba de 
+los 1 500 se mantienen intactas, mientras debajo 
+de ese nivel hay una sustitución creciente por 
+maíces híbridos y mejorados. 
+El mapa 10 y el cuadro 30 contienen colectas 
+de los últimos 60 años de los distintos tipos y va-
+riedades de maíz y de las especies comestibles 
+nativas mesoamericanas. Es una aproximación 
+mínima que refleja la enorme riqueza fitogenéti-
+ca generada por los pueblos indígenas de México 
+y de comunidades campesinas del país que requie-
+re reconocimiento legal como “recursos fitogené-
+ticos indígenas o nativos”. Las otras especies de 
+la milpa más allá del maíz, no están clasificadas 
+por variedades y tipos. Llama la atención la cons-
+tante mesoamericana de los cultivos universales 
+—maíz, chile, frijol, calabaza, jitomate, tomate— 
+adaptadas a ambientes muy diversos. Los demás 
+cultivos se presentan por región y por ecosiste-
+mas. Asimismo, los componentes del huerto fami-
+liar, frecuentemente están vinculados con la vege-
+tación natural que rodea en múltiples casos a las 
+comunidades. Esto es, a los pares silvestres y se-
+misilvestres básicos para la generación de nuevas 
+variedades regionales. Este proceso de domesti-
+cación vivo es de un valor cultural no reconocido 
+legalmente, combatido y destruido por el queha-
+cer de la ciencia, cultura y política trasnacional 
+dominantes bajo el signo de la ganancia de los 
+grandes capitales. Así, el germoplasma indígena 
+GRÁFICA 4. 
+Adaptación de las variedades de maíces 
+indígenas a condiciones climáticas y alturas contrastantes.
+3,500
+3,000
+2,500
+3,000
+3,500
+2,500
+2,000
+2,000
+Altitud
+msnm
+Tuxpeño 
+Cónico
+Cacahuacintle
+Bolita
+Tepecintle 
+Olotillo
+Zapalote chico
+Precipitación
+mm
+1,500
+1,500
+1,000
+1,000
+500
+500
+0
+----------------Page (196) Break----------------
+22º
+22º
+21º
+105º106º
+Bahía de
+Banderas
+Durango
+Tepic
+Guadalajara
+Azul
+Blanco (j)
+Carmen
+Celaya
+Chalqueño
+Cónico
+Cónico Norteño
+Complejo Cristalino 
+Chihuahua
+Dulcillo del Noroeste
+Elotes Cónicos
+Jala
+Maíces Dulces
+Olotillo
+Pepitilla
+Reventador
+San Juan
+Tablilla
+Tabloncillo
+Tabloncillo Perla
+Tamaulipeco
+Tunicado
+Tuxpeño
+Vandeño
+S
+IMBOLOGÍA DE LAS
+RAZAS DE MAÍZ
+Mezquital
+Valparaiso
+Escuinapa
+San Blas
+Santiago Ixcuintla
+Tuxpan
+Mascota
+Puerto Vallarta
+DURANGO
+ZACATECAS
+JALISCO
+NAYARIT
+El Salto
+Acaponeta
+Chalchihuites
+Ameca
+Aserradero 
+La Flor
+Magdalena
+Tequila
+T
+EPEHUÁN
+N
+AHUA
+DE
+ D
+URANGO
+H
+UICHOL
+C
+ORA
+R
+AZAS DE MAÍZ EN LOS TERRITORIOS
+INDÍGENAS TEPEHUÁN
+,
+NAHUA DE
+D
+URANGO
+,
+HUICHOL Y CORA
+----------------Page (197) Break----------------
+P
+ALOMEROTOLUQEÑO
+P
+EPITILLA
+R
+EVENTADOR
+S
+ERRANODE
+J
+ALISCO
+----------------Page (198) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+199
+en los bancos fitogenéticos ex situ es de acceso li-
+bre para instituciones públicas y privadas, pero no 
+interactúa con sus proveedores de este germo -
+plasma: los indígenas y campesinos. 
+El uso específico de estos maíces es patrimo-
+nio cultural de la humanidad que la 
+UNESCO
+ debe-
+ría reconocer.
+Las amenazas para la conservación y el desarrollo 
+de los recursos fitogenéticos domesticados en México. 
+El tema de los transgénicos en los países que son centros 
+de origen y diversificación de las plantas domesticadas
+La diversidad genética de las especies usadas en 
+el sistema alimentario nacional e internacional se 
+está perdiendo. En efecto, 75 por ciento de los ali-
+mentos provienen de 12 especies de plantas y cin-
+co de animales, de las cuales el arroz, maíz y trigo 
+contribuyen en 60 por ciento de las calorías y pro-
+teínas obtenidas por los humanos (Lambrou y 
+Laub, 2006). Estamos en un momento histórico 
+en el cual la agricultura campesina de origen indí-
+gena y de subsistencia está sometida a presiones 
+y crisis severas. Una de las consecuencias de esta 
+crisis es la erosión genética y la pérdida de la di-
+versidad de los policultivos. Cada vez con más fre-
+cuencia en todos lados se informa la declinación o 
+el peligro de extinción de variedades nativas. Una 
+grave amenaza es el Proyecto Maestro de Maíz 
+Mexicano, que significa la apropiación de los re-
+cursos genéticos del maíz por las empresas biotec-
+nológicas (en específico, Monsanto), junto con 
+algunas instituciones públicas (Universidad Au-
+tónoma Agrícola Antonio Narro y la 
+CNC
+). Estas 
+tendencias proponen depositar dichos recursos 
+genéticos en nuevos bancos de germoplasma, y a 
+su vez, las empresas biotecnológicas “mejoran 
+este germoplasma en beneficio de los pequeños 
+productores mexicanos”. “Planteamos acciones 
+para la conservación, desarrollo de la producción, 
+caracterización comercial y búsqueda de nichos 
+de mercado para los maíces mexicanos.”
+15
+Aquí 
+no se menciona que la rectoría del proyecto es de 
+la trasnacional que precisamente presiona para 
+introducir productos transgénicos al país.
+El esquema es el tradicional: se expropian los 
+recursos biológicos colectivos, “se mejora” y se 
+hace negocio sin los campesinos indígenas. Por 
+supuesto se cumple a cabalidad, otra vez, la sen -
+tencia “un México sin nosostros”. Por ello, es ne-
+cesario desarrollar políticas de custodio de la agri-
+cultura indígena y del germoplasma nativo. 
+Con la deforestación anual de más de 250000 
+hectáreas anuales y la destrucción de los ecosiste-
+15
+ Declaración a la prensa del ingeniero Héctor Salazar, 
+secretario general de la Confederación Nacional de Produc-
+tores Agrícolas de Maíz en México, ( La Jornada 9 de agosto 
+de 2007).
+Mujer purhépecha muele en el metate, Michoacán.
+----------------Page (199) Break----------------
+San Miguel 
+de Allende
+León
+Celaya
+San Juan del Río
+Ciud
+ Vall e
+Toluca
+Irapuato
+Salamanca
+CIUDAD
+DE
+MÉXICO
+HIDALGO
+MICHOACÁN
+GUANAJUATO
+SAN LUIS POTOSÍ
+QUERÉTARO
+99º
+100º
+101º
+H
+UAST
+P
+AME
+O
+TOMÍ
+M
+AZAHUA
+P
+URHÉPECHA
+Maravatío
+Zitácuaro
+Ciudad Hidalgo
+Salvatierra
+Ciudad del Maíz
+Salinas de Hidalgo
+San Felipe
+Ojuelos 
+de Jalisco
+Río Verde
+Zacapu
+Pedro Montoya
+Mixquiahuala
+Jalpan
+Dolores
+Hidalgo
+Querétaro
+San Luis Potosí
+Guanajuato
+Morelia
+----------------Page (200) Break----------------
+GOLFO
+DE
+MÉXICO
+Cabo Rojo
+ad 
+e s
+Tuxpan
+Poza Rica
+Veracruz
+Ébano
+Cerro Azul
+PUEBLA
+TAMAU L I PA S
+VERACRUZ
+TLAXCALA
+21º
+22º
+20º
+19º
+96º
+97º
+H
+UASTECO
+ECO
+T
+OTONACA
+T
+EPEHUA
+N
+AHUA
+N
+AHUA DE
+Z
+ONGOLICA
+N
+AHUA
+DE
+ S
+AN
+ L
+UIS
+ P
+OTOSÍ
+,
+S
+IERRA
+ N
+ORTE DE
+ P
+UEBLA
+Y
+ N
+ORTE DE
+ V
+ERACRUZ
+Tulancingo
+Papantla
+Cazones
+Gutiérrez 
+de Zamora
+El Higo
+Tlapacoya
+Altotonga
+Texcoco
+Nautla
+Pachuca
+Tampico
+Tlaxcala
+Puebla
+Xalapa
+R
+AZAS DE MAÍZ DE LOS PUEBLOS INDÍGENAS HUASTECO
+,
+NAHUA
+,
+TOTONACA
+,
+PAME
+,
+OTOMÍ
+,
+MAZAHUA Y TEPEHUA
+Arrocillo Amarillo
+Arrocillo
+Arrocillo Blanco
+Bolita
+Cacahuacintle
+Celaya
+Chalqueño
+Cónico
+Cónico Norteño
+Complejo Serrano 
+de Jalisco
+Dulcillo del Noroeste
+Elotes Cónicos
+Maíces Dulces
+Mushito
+Olotillo
+Palomero
+Pepitilla
+Tabloncillo
+Tepecintle
+Tuxpeño
+Vandeño
+S
+IMBOLOGÍA DE LAS RAZAS DE
+M
+AÍZ
+----------------Page (201) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+202
+mas naturales, México participa a pasos agiganta-
+dos en lo que ecólogos y paleontólogos han deno-
+minado la sexta gran extinción de las especies 
+(Leakey y Levin, 1997). En paralelo, tenemos la 
+pérdida de la diversidad biológica domesticada y 
+las culturas que la acompañan. En efecto, un 
+tema básico para la supervivencia de los pueblos 
+indígenas, así como de México como país y su sis-
+tema alimentario, es la pérdida de los agroecosiste-
+mas indígenas y campesinos, con la consiguiente 
+pérdida y erosión genética de los recursos fito-
+genéticos, que son patrimonio de los pueblos in-
+dígenas, de su identidad y de México en general .
+“La ero sión genética es la pérdida de genes en un 
+acervo genético a causa de la eliminación de pobla-
+ciones por factores como la adopción de varie-
+dades modernas y el desmonte de tierras con ve-
+getación” (Ortega, 2003b).
+La preocupación por la pérdida del germo-
+plasma nativo y regional ha estado presente en va-
+rios investigadores, de manera que Ortega (1973a) 
+genera un estudio para evaluar si en Chiapas en-
+tre 1946 y 1971 se produce el mismo fenómeno 
+de pérdida que en las grandes zonas maiceras de 
+Estados Unidos, cuando se introducen las varie -
+dades mejoradas. Él encuentra que la pérdida 
+en un ambiente campesino indígena no es tan 
+evidente. Sin embargo, en casi la mitad del país 
+se ha sustituido el maíz indígena por el mejorado 
+e híbrido, principalmente en áreas de riego y de 
+temporal con buenas condiciones de lluvias anua -
+les. Esto quiere decir que la gran mayoría de los 
+campesinos e indígenas pobres, que son el 80 por 
+ciento de todos los productores mantienen el ger-
+moplasma nativo en condiciones tanto ambienta-
+les como sociales muy difíciles. El análisis de pro-
+cesos recientes no son tan optimistas. Así, Blanco 
+(2006) hace un estudio puntual, en los Tuxtlas, Ve-
+racruz, acerca de la pérdida de 70 por ciento de las 
+especies cultivadas en cuatro ejidos del territorio 
+popoluca. Su estudio indica cómo las políticas pú-
+blicas para el aparente mejoramiento de los culti-
+vos consistentes en la sustitución del germoplasma 
+local por el de las trasnacionales, la introducción 
+sistemática de insumos industriales como fertili-
+zantes, insecticidas y herbicidas, y el mismo Pro-
+campo son incompatibles con los agroecosistemas 
+agrícolas de los policultivos y de la conservación 
+de las selvas. Los trabajos que los indígenas con-
+seguían temporalmente en Pemex y ahora en Es-
+tados Unidos han servido para desmontar, gana-
+derizar la economía y, sobre todo, comprar insumos 
+“modernos” como fertilizantes, herbicidas e insec-
+ticidas. La pérdida de control de las semillas, en 
+los procesos de producción indígenas de la milpa 
+se hace evidente en los territorios nahuas y popolu-
+cas de los Tuxtlas. Se trata de un periodo de 40 años 
+en que la región perdió una de las selvas tropica-
+les altas perennifolias más importantes del país. 
+Para la región lacustre de Pátzcuaro, Michoa-
+cán, se mencionaba la existencia de 20 variedades 
+del frijol Phaseolus vulgaris , mientras que para 1990 
+se encontraron sólo cinco variedades. Ello parece 
+sugerir la pérdida de gran cantidad de variedades 
+existentes en sólo seis décadas (Mapes, 2007). 
+Lazos y Espinosa (2004), en un estudio realiza-
+do en Oaxaca, concluyen que la pérdida de la agro-
+biodiversidad y de los sistemas productivos lo-
+cales son multifactoriales: 1) factor ecológico: la 
+pérdida de fertilidad del suelo, inestabilidad cli-
+mática, sequías prolongadas, abandono de agro-
+ecosistemas complejos; 2) factor económico: con-
+trol transnacional de los mercados y monopólico 
+de la harina para tortilla, importación masiva del 
+maíz amarillo, privilegio del mercado por el maíz 
+blanco discriminando a los de color; los bajos pre-
+cios y la ausencia de mercados diferenciados por 
+variedades constituyen, según las autoras, las ma-
+yores amenazas a la conservación de los maíces 
+nativos; 3) factores sociales: migración masiva que 
+erosiona el tejido social solidario en el trabajo, la 
+mano y vuelta ya no funciona, ya no hay jóvenes 
+----------------Page (202) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+203
+en las comunidades; por lo mismo, la circulación 
+de semillas se reduce y se empobrece el germo-
+plasma, y 4) políticas públicas agrícolas que favo-
+recen los intereses de las compañias trasnaciona-
+les, abandono por parte del Estado de políticas 
+públicas hacia los pequeños productores.
+Las políticas oficiales hacia centros de investi-
+gación públicos para crear maíces mejorados a 
+partir del germoplasma de semillas indígenas han 
+sido sistemáticamente boicoteadas por la actual 
+Sagarpa. Incluso, los intentos por desarrollar maí-
+ces indígenas mejorando los agroecosistemas por 
+parte del 
+INIFAP
+ obtuvieron para el año 2005 un 
+financiamiento mínimo (50 mil pesos) por parte 
+del Conacyt-Sagarpa, mientras que el Cinvestav 
+Irapuato obtuvo en un solo año 70 millones de 
+Agaves semidomesticados en los territorios mixes.
+----------------Page (203) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+204
+CUADRO 30. 
+ Custodio del patrimonio fitogénetico por los pueblos indígenas: distribución de 
+los tipos y algunas variedades de maíz y otros cultivos mesoamericanos en los territorios 
+de los pueblos indígenas
+Región 
+biocultural 
+prioritaria 
+(
+RBP
+)
+1
+2
+3
+4
+5
+San Pedro 
+Mártir
+Konkaak
+Yaqui Mayo
+Tarahumara
+Huicot
+Cochimi, 
+kumai, cucapa, 
+kiliwa, paipai
+Seri 
+Yaqui, mayo 
+Pima, guarijio, 
+tepehuán 
+rarámuri
+Cora, nahua,
+huichol, 
+tepehuán 
+Territorios 
+indígenas
+Tipos y variedades de maíz 
+reportados en territorios 
+indígenas*
+Panicum sornorum (3)
+Pitahaya
+Milpa. Amaranto: Amaranthus hybridus (quelites);
+Calabazas: Cucurbita pepo , C. Ficifolia ; Frijol: Phaseolus
+coccineus (1)
+Milpa. Agaves: Agave americana , Agave angustifolia ,
+Agave durangensis , Agave lechuguilla , Agave maximiliano ;
+Amarato: Amaranthus leucocarpus , Amaranthus hybridus ;
+Frijoles: Phaseolus leptostachyus ; Calabazas: Curcubita sp. ,
+C. Moschata ; Huauzontle: Chenopodium mexicanun ;
+Tomates: Physalis leptophylla , Physalis angulata .
+Aguacate: Persea americana ; Anonas: Annona reticulata ;
+Jinicuil: Inga vera ; Guayabas : Psidium sartorianum , Psidium
+Otras especies comestibles domesticadas, cultivadas o arvenses 
+que aparecen en la milpa y huertos indígenas, así como algunos 
+de sus pares silvestres reportados en territorios de los pueblos 
+indígenas. Especies manejadas, toleradas o protegidas**
+Blando de Sonora, Chapalote, 
+Dulce norteño, Dulce, Dulcillo 
+noreste, Elotes occidentales, 
+Harinoso, Onaveño, San Juan, 
+Tuxpeño (A, B, C)
+Ancho pozolero, Apachito, 
+Apachito 8, Apachito 9, Azul, 
+Bofo, Bolita, Chalqueño, Cristalino 
+norteño, Cristalino Chihuahua, 
+Cónico norteño, Dulce norteño, 
+Dulce, Hembra, Perla harinoso, 
+Gordo, Hembra, Lady Finger, 
+Nal tel, Onaveño, Reventador, 
+Reventador palomero, San Juan, 
+Tablita, Tabloncillo, Tabloncillo 
+perla, Tuxpeño (A, B, C)
+Amarillo cristalino, Blanco 
+tampiqueño, Bofo, Celaya, 
+Cónico norteño, Harinoso de 8, 
+Jala, Reventador, Pepitilla, 
+Serrano, Tabloncillo, Tuxpeño, 
+Tablita, Tabloncillo perla, 
+Tamaulipeco, Teocinte (A, B, C) 
+* Fuentes consultadas para la distribución de variedad de maíz: (A) CIMMyT, Wellhausen et al. (1987), Hernández X. (1985, 1987); 
+(B) Ortega (2003b); (C) Illsley, Aguilar y Marielle (2003); (D) V. Heerwaarden y Solís (2003); (E) Blanco (2006); (F) Aragón (2 007); (G) Navarro 
+(2004) (H); (I) Muñoz (2003); (J) Perales, Benz y Brush (2005); (K) Ortega (a) (1973); (L) Martínez et al. (2000); (M) Astier y Barrera (2006).
+ ** Fuentes consultadas para la distribución de la agrobiodiversidad: (1) Conabio 2007; como los territorios indígenas y comuni dades cam-
+pesinas son centros de origen de domesticación y diversificación genética, las especies enunciadas provienen de colectas de los pares silvestres a 
+veces sembradas por los indígenas. Tal es el caso de los registros de la distribución nacional de los chiles Capsicum annuum variedad glabriuscu-
+lum; Cucúrbita. pepo l. y sus parientes silvestres que se pueden hibridizar y tener descendencia viable; del jitomate Lycopersicon esculenta y su 
+variedad silvestre Lesculentum leptophyllum ; de los frijoles (cinco especies) que se relaciona con el Phaseolus vulgaris silvestre. Conabio (2007a, 
+2007b,2007c, 2007d); (2) Terán, Rasmussen y May (1998; (3) Colunga y May (1992); (4) Blanco (2006); (5) González (1989); (6) Dá vila 
+(2003); (7) Arellano y Casas (2003), Casas et al. (1999b, 1999c); Casas y Barbera (2002), Cruz y Casas (2002), Otero-Arnaiz et al. , (2003, 
+2005a, 2005b); Carmona y Casas (2005), Casas et al. (1999b, 1999c); (8) Martínez et al. (2000); (9) García-Mendoza, Ordóñez, Briones-Salas 
+(2004); (10) Berlín (2000); (11) Mapes (2007); (12) Gispert y Rodríguez (1998); (13) Vázquez-Dávila (2001); (14) Nations y Nig h (1980); (15) 
+Martínez A. et al. (2001); (16) Navarro (2004).
+----------------Page (204) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+205
+CUADRO 30. 
+ Custodio del patrimonio fitogénetico por los pueblos indígenas: distribución de 
+los tipos y algunas variedades de maíz y otros cultivos mesoamericanos en los territorios 
+de los pueblos indígenas
+(C
+ONTINUACIÓN
+)
+Región 
+biocultural 
+prioritaria 
+(
+RBP
+)
+6
+7
+8
+9
+10
+Nahua de 
+Michoacán
+Purhépecha
+Otomí, 
+matlazinca,
+mazahua 
+Nahuas de 
+Guerrero, 
+Morelos, Edo. 
+de México, sur 
+de Puebla
+Nahua, otomí 
+de Ixtenco 
+Sierra 
+Coalcoman
+Tancítaro
+Sierra de 
+Chincua, 
+Nevado de 
+Toluca
+Montaña de 
+Guerrero, 
+sierras Taxco 
+y Huautla
+Sierra 
+Nevada y 
+La Malinche
+Territorios 
+indígenas
+Tipos y variedades de maíz 
+reportados en territorios 
+indígenas*
+guajava , Mastichodendron camiri (sapotacea) , Casimiroa
+edulis , Vitex pyramitdata (capulín) , Vitex mollis , Spondias
+mombasa , S pondias purpurea (ciruelo) , Stenocereus
+montanus (pitayo) , Randia Laevigata , Sarcostemma
+odoratum , Byrsonima crassifolia ; Guajes: Leucaena
+lanceolata , Leucaena esculenta ; Nopales: Opuntia sp (1)
+Milpa. Ipomoea bracteata (jícama de monte)
+Annona purpurea (1)
+Milpa. Agave atrovirens (maguey), Agave inaequidens ;
+Amaranto: Amaranthus hybridus (quelites), Amaranthus 
+retroflexus ; Frijoles: Phaseolus pluriflorus , Phaseolus 
+vulgaris , Phaseolus coccineus ; Tomates : Jaltomata 
+procumbens , Physalis Pubescens , Solanum stoloniferum ,
+Solanum verrucosum ; Calabazas: Cucurbita ficifolia , C. 
+Moschata ; Chía: Chenopodium mexicanun , C. album , C. 
+berlandieri. Huerto. Annona cherimola (1, 11)
+Milpa. Agaves: Agave atrovirens. Calabazas: Cucurbita
+pepo , C. ficifolia ; Frijoles: Phaseolus vulgaris (1)
+Milpa. Agave americana , Agave cupreata ; Amaranto:
+Amarantus sp ; Cacahuate: Arachis hypogaea ; Calabazas:
+Cucurbita moschata , C. pepo ; Guajes: Leucaena esculenta ;
+Frijoles: Phaseolus coccineus , P.vulgaris , P. leptostachyus ;
+Chiles: Capsicum nahum (1)
+Milpa. Agaves: Agave atrovirens(maguey) , A. Angustifolia ;
+Chiles: Capsicum annuum ; Calabazas: Cucurbita ficifolia ,
+C. pepo ; Guajes: Leucaena esculenta ; Nopales: Opuntia
+strepacantha ; Papas: Solanum stoloniferum (papa de monte 
+o voladora), S. demissum (papa cimarrona); Chayote: 
+Secchium edulis ; Tomate: Physalis chenopodifolia , P. 
+philadelphica ; Jitomates: Lycopersicon esculentum ; Frijoles: 
+Phaseolus vulgaris , P. coccineus , P. leptostachyus ,
+Huerto: Aguacate: Persea americana ; Anonas: Annona
+angustifolia , A. cherimola , A. verticulata (1)
+Otras especies comestibles domesticadas, cultivadas o arvenses 
+que aparecen en la milpa y huertos indígenas, así como algunos 
+de sus pares silvestres reportados en territorios de los pueblos 
+indígenas. Especies manejadas, toleradas o protegidas** 
+Cónico, Elote cónico, Olotillo, 
+Reventador, Tabloncillo (A)
+Arrocillo, Cacahuacintle, Celaya, 
+Cristalino norteño, Cónico norteño, 
+Elotes cónicos, Dulce, Mushito, 
+Palomero toluqueño, Pepitilla, 
+Tabloncillo, Tuxpeño, Vandeño, 
+Zapalote grande, Purhépecha 
+(A, B, M)
+Arrocillo amarillo, Arrocillo azul, 
+Cacahuacintle, Chalqueño, 
+Cristalino norteño, Cónico norteño, 
+Elotes cónicos, Palomero, 
+Palomero toluqueño (A, B, C)
+Ancho, Ancho pozolero, Bolita, 
+Elotes cónicos, Pepitilla, Bolita, 
+Elotes cónicos, Tabloncillo, 
+Olotillo, Nal tel, Palomero, 
+Vandeño (A)
+Arrocillo azul, Arrocillo blanco, 
+Bolita, Cacahuacintle, 
+Chalqueño, Cristalino norteño, 
+Tuxpeño, Palomero (A, C, H)
+----------------Page (205) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+206
+CUADRO 30. 
+ Custodio del patrimonio fitogénetico por los pueblos indígenas: distribución de 
+los tipos y algunas variedades de maíz y otros cultivos mesoamericanos en los territorios 
+de los pueblos indígenas
+(C
+ONTINUACIÓN
+)
+Región 
+biocultural 
+prioritaria 
+(
+RBP
+)
+11
+12
+13
+14
+Tlapaneco, 
+triqui, amuzgo,
+mixteco de las 
+Mixtecas Alta y 
+Baja, mixteco 
+de la costa
+Zapoteco 
+sureño del 
+Istmo, chatino,
+chontal de 
+Oaxaca
+Kikapú 
+Huasteco, 
+otomí, nahuas 
+del norte de 
+Puebla, 
+Veracruz, 
+San Luis 
+Potosí, 
+tepehua, 
+totonaca 
+Mixteca 
+Alta, 
+Baja, Costa
+Sierra Sur 
+Oaxaca
+Kikapú
+Huastecas, 
+Sierra Norte 
+de Puebla
+Territorios 
+indígenas
+Tipos y variedades de maíz 
+reportados en territorios 
+indígenas*
+Milpa. Agaves: Agave atrovirens (maguey) ; Amaranto:
+Amaranthus hybridus (quelite ) , Chenopodium mexicanun 
+(huauzontle ) ; Calabazas: Cucurbita argyrosperma , C. 
+frutenscens , C. pepo ; Guaje: Leucaena esculenta ; Frijol:
+Phaseolus coccineus , P. leptostachyus , P. vulgaris , P. 
+chiapasanus .
+Huerto familiar. Allium glandusolum ( cebollin); Aguacate:
+Persea americana ; Chayote: Sechium edule (1)
+Milpa. Tubérculos: Ipomea batatas ; Yuca: Manihot sp .;
+Frijoles: Phaseolus spp (garrote. enredador , piñero , shumil ,
+tacaná ; Calabazas: Cucucurbita , sp. (tamala, chompa 
+cáscara dura), Crotallaria pumila ; Verdolaga: Portulaca 
+oleracea ; Xicama: Pachyrhizus erosus ; Lycopersicon 
+lycopersicum (1).
+Milpa. Phaseolus sp. , Cucurbita sp.
+Milpa. Amarantos: Amaranthus hypochondriacus , A. 
+hybridus (quelite); Calabazas: Cucurbita ficifolia , C. 
+okeechobeensi , C. Pepo , C. moschata , C. argyrosperma ;
+Chiles: Capsicum annuum , C. pubescens , Diospyros digyna ;
+Tubérculos: Ipomoea batatas , Ipomoea hederacea , Ipomoea 
+indica , Ipomoea edule , Ipomoea phillomega , Manihot 
+esculenta , Pachyrhizus erosus ;Frijoles: Phaseolus acutifolius ,
+Phaseolus acutifolius , P. coccineus , Phaseolus vulgaris , P. 
+polyanthus , P. lunatus , P. vulgaris , Vigna unguiculata ; Tomate:
+Physalis philadelphica , Porophyllum ruderale , Prunas serrotina ;
+Otras especies comestibles domesticadas, cultivadas o arvenses 
+que aparecen en la milpa y huertos indígenas, así como algunos 
+de sus pares silvestres reportados en territorios de los pueblos 
+indígenas. Especies manejadas, toleradas o protegidas** 
+Ancho, Arrocillo, Bolita, 
+Celaya, Chalqueño, Chiquito, 
+Conejo, Cristalino norteño, 
+Cónico x Comiteco, Carriceño, 
+Condensado, Elotes Cónicos, 
+Fascia, Maizón, Sapo, 
+Magueyano, Mixeño, 
+Mixteco, Mushito, Nal tel, 
+Naranjero, Olotón, Olotón 
+Imbricado, Olotillo, Comiteco, 
+Pastor veracruzano, Pepitilla, 
+Serrano Mixe, Mushito, 
+Serrano de Oaxaca, Tablita, 
+Tehua, Tehuacanero, 
+Tehuanito, Tepecintle, 
+Tuxpeño, Vandeño 
+(A, E, F, G, I, J, K)
+Bolita, Chalqueño, Cristalino 
+norteño, Cuarenteño amarillo, 
+Magueyano, Maíz Boca de 
+Monte, Maíz Hoja Morada, 
+Maizón, Mushito, Mejorado 
+nativizado, Nal tel, Olotón,
+Olotillo, Olotillo amarillo, 
+Rocamay Tablita grande, 
+Amarillo, blanco, Tempranero 
+Amarillo, Tepecintle, Tuxpeño, 
+Vandeño, Zapalote chico (A, F)
+Tehua, Tuxpeño (A)
+Arrocillo, Arrocillo amarillo, 
+Arrocillo blanco, Arrocillo azul, 
+Cacahuacintle, Celaya, Cónico 
+norteño, Cristalino norteño, 
+Elotes cónicos, Mushito, Olotillo, 
+Palomero, Pepitilla, Tamaulipeco, 
+Tepecintle, Tepecintle 7, 
+Tuxpeño, Tuxpeño 8, Tuxpeño 
+9, Ts’it Bakal, Ratón (A, B, H, L)
+----------------Page (206) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+207
+CUADRO 30. 
+ Custodio del patrimonio fitogénetico por los pueblos indígenas: distribución de 
+los tipos y algunas variedades de maíz y otros cultivos mesoamericanos en los territorios 
+de los pueblos indígenas
+(C
+ONTINUACIÓN
+)
+Región 
+biocultural 
+prioritaria 
+(
+RBP
+)
+15
+16
+17
+18
+Otomí,
+pame,
+chichimeca,
+jonaz
+Chocho,
+popoloca, 
+nahuas de 
+Zongolica,
+cuicateco,
+mazateco,
+chinanteco,
+mixteco 
+ixcateco
+Nahua de 
+Zongolica,
+mazateco, 
+chinanteco, 
+cuicateco, 
+zapoteco, mixe
+Nahuas del sur 
+Veracruz,
+Popoluca 
+Sierra
+Gorda 
+Mármoles
+Meztitlán
+Valle de 
+Tehuacán
+Zongolica-
+Sierra Norte 
+de Oaxaca
+Los Tuxtlas-
+Sierra Santa 
+Martha
+Territorios 
+indígenas
+Tipos y variedades de maíz 
+reportados en territorios 
+indígenas*
+Huerto. Sechium edule , Spondias Purpurea , Xanthosoma 
+roboustum , (1, 8) Annona cherimola ; Aguacate: Persea 
+americana , Vanilla planifolia en las partes bajas (1, 15)
+Milpa. Solanum schenkii , Ipomoea lozanii , Ipomoea 
+pubescens , Phaseolus coccineus , Solanum verrucosum (1)
+Milpa. Agaves: Agave angustifolia , A karwinskii , A. 
+potatorum , A. paecockii ; Amarantos: Amaranthus hybridus ,
+Solanum lesteri , Solanum polyadenium , Escontria chiotilla ;
+Cactáceas: Polaskia chende , P. chichipe , Myrtillocactus
+geometrizans , M. schenckii , Pachycereus hollianus y
+Stenocereus stellatus , Hylocereus undatus ; Nopales: 
+Opuntia spp, O. cochenillifer , O. Aubert ; Frijol: Phaseolus
+vulgaris , Neubouxbania tetezo ; Verdolaga: Portulaca oleracea. 
+Huerto. Yucca periculosa , Acacia acatlensis , Stenocereus 
+pruinosus ; Guaje: Leucaena esculenta , L. Leucocephala ;
+Nopales: Opuntia sp . (1, 6, 7)
+Milpa: Agaves: Agave angustifolia , A. karwinskii , A. 
+potatorum , A. salmiana , A atrovirens var. Mirabilis , A. 
+mapisaga , A. chiapensis ; Amarantos: Amaranthus , sp. ;
+Calabazas: Cucurbita okeechobeensi , C. ficifolia , C. 
+argyrosperma , C. maxima , C. pepo , C. moschata ; Chiles: 
+Capsicum rhomboideum : Guaje: Leucaena esculenta , L. 
+macrophylla , L. Leucocephala ; Aguacates: Persea 
+americana ; Ciruelas: Spondias bombin ; Solanum schenkii ;
+frijoles: Phaseolus coccineus , P. vulgaris , P. chiapasanus ;
+Jitomates: Lycopersicon esculentum (jitomate riñón); 
+tomates: Physalis philadelphica ; chayotes: Sechium 
+americanum , S. chinanense S. edule ; Terminalia cottapa .
+Huerto. Anonas: Annona cherimola , A. muricata , Bixa
+orellana , L. Carica papaya , Diospyros digyna (zapote 
+negro), Vanilla planifolia (1, 8)
+Milpa . Allpphylus cominia , Arum sagitaefolium , A. pajiat ,
+Arachis hypogaea , Brumelia retusa ; frijoles: Phaseolus 
+lunatus , Phaseolus vulgaris , Cajanus cajan , Canavalia 
+glabra , Vigna unguiculata ; chiles: Capsicum annuum ;
+Otras especies comestibles domesticadas, cultivadas o arvenses 
+que aparecen en la milpa y huertos indígenas, así como algunos 
+de sus pares silvestres reportados en territorios de los pueblos 
+indígenas. Especies manejadas, toleradas o protegidas** 
+Arrocillo amarillo, Chalqueño, 
+Cristalino norteño, Cónico 
+norteño, Ts’it bakal, Elotes 
+cónicos, Fascia, Mushito, 
+Tabloncillo Tuxpeño (A, B, C)
+Bolita, Chalqueño, Elotes cónicos, 
+Olotón, Pepitilla, Tuxpeño (A, B, C)
+Onaveño, Chalqueño, Cristalino 
+norteño, Elotes cónicos, 
+Mushito, Nal tel, Olotillo, 
+Olotón, Pepitilla, Tepecintle, 
+Tuxpeño, Vandeño, Zapalote 
+chico, Zapalote grande, (A, B, C)
+Olotillo, Olotillo x Tepecintle, 
+Tuxpeño, Tuxpeño x Olotón,
+Tuxpeño x Tepecintle, Nal tel, 
+Olotillo, Tepecintle x Tuxpeño 
+(A, B, E)
+----------------Page (207) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+208
+CUADRO 30. 
+ Custodio del patrimonio fitogénetico por los pueblos indígenas: distribución de 
+los tipos y algunas variedades de maíz y otros cultivos mesoamericanos en los territorios 
+de los pueblos indígenas
+(C
+ONTINUACIÓN
+)
+Región 
+biocultural 
+prioritaria 
+(
+RBP
+)
+19
+20
+21
+Zoque, tzotzil
+Tzeltal, chol
+Zoque, maya 
+lacandón, 
+chol, 
+kanjobal, 
+chuj, 
+tojolabal, 
+tzotzil, tzeltal, 
+chontal de 
+Tabasco (en 
+la sierra), 
+mame, 
+chinanteco
+Tzeltal, tzotzil
+Selva Zoque-
+Sepultura
+Bosques 
+Mesófilos 
+Altos de 
+Chiapas, 
+Selva 
+Lacandona, 
+Lagunas de 
+Montebello
+El Triunfo
+Territorios 
+indígenas
+Tipos y variedades de maíz 
+reportados en territorios 
+indígenas*
+chayotes: Sechium edule ; Palmas: Chamaedorea elatior , C. 
+Tepejilote , Chrysophyllum mexicanum , Colocasia 
+esculenta , Crotalaria longirostrata , Diospyros dygina ,
+Erythrina americana ; jitomates: Lycopersicon esculentum ,
+Jaltomata procumbens , otros: Pasiflora fostida , Pasiflora 
+quadrangularis , Xanthosoma violaceaum. 
+Huerto. Anonas: Annonna muriceta , A. purpurea c , A. 
+reticulata ; Otros: Manilkara zapota (chicozapote), Ficua
+hartwegil , Inga jinicuil , Inga punctata , Inga sapindoides ,
+Inga Vera , Manihot sculenta , Persea americana , Pasiflora 
+sp. , Piper auritum , Yuca elephantiapes , Plumeriopsis ahual ,
+Pachyrhizus erosus , Solanum nigrum , Spondia spp. , Pouteria 
+campechania , Trophis racemosa , Parathesis sp. , Pimenta 
+dioica , Pouteria zapota ;Guayabas: Psidium friedrichsthalia-
+num , P. quineense , P. guajaba ; Palmas: Acrocomia
+mexicana (cocoyol) , Astrocaryum mexicanum (1, 4)
+Milpa. Chiles: Capsicum lanceolatum , C. 
+Rhomboideum.
+Huerto. Spondias mombin , Byrsonimia crassifolia (1)
+Milpa. Amarantos : Amaranthus caudatus , Amaranthus 
+hybridus (quelite) ;Chiles: Capsicum annuum , C. pubescens ;
+Calabazas: Cucurbita argyrosperma , C. ficifolia , C. moschata ,
+C. okeechobeensis , C. Pepo ; Cacahuate : Arachis hypogaea ;
+Frijoles y otras leguminosas : Phaseolus coccineus , P. leucanthus ,
+P. vulgaris , Vigna unguculata , Cajanus cajan ; Guajes :
+Leucaena diversifolia , Cymbopogon citratus , Parathesis 
+chiapensis , Inga leptoloba ; Jitomates : Lycopersicon 
+esculentum ; Tomates : Cyphomandra betacea (tomate de 
+árbol) , Physalis gracilis , Jaltomata procumbens ; Camotes :
+Ipomoea batatas ; Verdolaga : Portulaca oleracea ; Jatropha 
+curcas ; Guayaba : Psidium guajava , Psidium guineense ,
+Salvia coccinea ; Papa : Solanum hirtum , Solanum 
+americanum , Eryngium foetidum ; Nothoscardum bivalve ,
+Bidens pilosa , Cirsium horridulum , Brassica campestre ,
+Galinsoga quadriradiata , Byrsonima crassifolia , Guazuma 
+ulmifolia ; Epazote : Chenopodium ambrosioides (1, 10, 14 )
+Cucurbita agyrosperma (1) 
+Otras especies comestibles domesticadas, cultivadas o arvenses 
+que aparecen en la milpa y huertos indígenas, así como algunos 
+de sus pares silvestres reportados en territorios de los pueblos 
+indígenas. Especies manejadas, toleradas o protegidas** 
+Cristalino norteño, Olotillo, 
+Olotón, Tepecintle, Vandeño, 
+Zapalote chico (A, B, C )
+Arrocillo amarillo, Clavillo, 
+Comiteco, Cristalino norteño, 
+Comiteco, Cubana, Elotes 
+cónicos, Motozintleco, Nal tel, 
+Olotillo, Olotón (incluye Negro 
+de Chimaltenango), Olotillo, 
+Quicheño, Tehua, Tepecintle, 
+Tuxpeño, Vandeño, Zapalote 
+chico, Zapalote grande 
+(A, B, C, K, J) 
+Olotillo, Olotón, Tepecintle, 
+Tuxpeño (A)
+----------------Page (208) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+209
+22
+23
+CUADRO 30. 
+ Custodio del patrimonio fitogénetico por los pueblos indígenas: distribución de 
+los tipos y algunas variedades de maíz y otros cultivos mesoamericanos en los territorios 
+de los pueblos indígenas
+(C
+ONTINUACIÓN
+)
+Región 
+biocultural 
+prioritaria 
+(
+RBP
+)
+Chontal de 
+Tabasco 
+Maya de 
+Yucatán, 
+chol, tzeltal, 
+kekchi,
+kanjobal
+Chontalpa
+Maya
+Península
+Yucatán
+Territorios 
+indígenas
+Tipos y variedades de maíz 
+reportados en territorios 
+indígenas*
+Milpa. Chile: Capsicum annuum ; Calabazas: Cucurbita 
+lundeliana .
+Huerto. Byrsonima crassifolia (nance); Cacao: Theobroma
+cacao ; Palmas: Acoelorrhaphe wrightii , Acronimia 
+mexicana (cocoyol), Bactris balonoidea , Rystonea 
+dunlapiana , Sabal mexicana , Scheelea liebmannii ,
+Spondias mombasa , Hylocereus undatus (Pitahaya de 
+monte), Tradescantia pendula , Trema micrantha (1)
+Chiles: Capsicum annuum , C. argyrosperma , C. Frutesces 
+L., C. pubescens , C. Sinense ; calabazas: Cucurbita ochata ,
+C. argyrosperma , C. pepo , C. foetidissima , C. lundelliana ,
+Lagenaria siceraria ; Frijoles: Phaseolus vulgaris , P. lunatus ,
+Vigna unguiculata , Cajanus cajan ; Tubérculos: Xanthosoma 
+yucatanese , (ñame) , Ipomoea batatas , Manihot esculenta ,
+Solanum tuberosum , Pachyrhizus erosus ; Jitomates:
+Lycopersicon esculentum , Cnidoscolus chayamansa ;
+Papaya: Carica papaya , Carica pennata.
+Huerto: Aarachis hypogaea , Acrocomia mexicana (cocoyol),
+Annona muricata ; Annona squamosa , Annona 
+diversifolia , Annona squamosa , Ananas comosus , Achras
+zapota (Manilkara zapota) , Bixa orellana (achiote),
+Brosimum alicastrum , Byrsonima crassifolia (nance),
+Chrysophyllum cainito , Cnidoscolus chayamansansces ,
+Cocos nucifera , Cordia dodecandra Discorea alata ,
+Hylocereus undatus , Manilkara Achras , Persea americana ,
+Psidium guajava , Pimenta dioica, Sechium edule ,
+Spondia spp., Talisia olivaeformis (1, 2, 3)
+Otras especies comestibles domesticadas, cultivadas o arvenses 
+que aparecen en la milpa y huertos indígenas, así como algunos 
+de sus pares silvestres reportados en territorios de los pueblos 
+indígenas. Especies manejadas, toleradas o protegidas**
+Olotillo, Tuxpeño, Marceño 
+( A, C) 
+Boxloch, Chac chob, Bekech 
+Bakal, Chuya, Clavillo, Cubana, 
+E hub, Ek sa kaa, Nal tel, Nal 
+xoy, Olotillo, Sak tux, Sak nal, 
+Servera, Tepecintle, Ts’it Bakal, 
+Zapalote chico, Xnuk nal 
+(Tuxpeño), Xkan nal, Xee ju, 
+Xtuo nal (Nal tel x Tuxpeño) 
+(A, B, D)
+----------------Page (209) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+210
+pesos para investigar maíces transgénicos para sa-
+tisfacer la demanda de validación de las trasnacio -
+nales (Espinosa, 2006).
+Las ventas de semilla mejorada en México cu-
+bren entre 27 y 34 por ciento de la superficie cul-
+tivada, principalmente en Sinaloa, Sonora, Ta-
+maulipas, Jalisco, Colima y Guanajuato, donde la 
+superficie sembrada con semilla mejorada cubre 
+70 por ciento, con las mejores condiciones produc-
+tivas. Adicionalmente, entre 20 y 25 por ciento de 
+la superficie maicera está ocupada por generacio-
+nes de maíces mejorados por los propios agricul-
+tores, frecuentemente combinadas con maíces 
+nativos. Además, existe una mayor variación, ya 
+que sólo una parte de los productores puede adop-
+tar las nuevas semillas, y por medio de infiltración 
+genética se establece un continuum entre los maí-
+ces mejorados introducidos y se amplía la varia-
+ción. Esta nativización de los híbridos ha formado 
+buenas variedades de maíz, pero también han es-
+tado acompañados de grandes presiones y subsi-
+dios para que los agricultores los adopten y aban-
+donen sus poblaciones nativas (Ortega, 2003b). 
+Las amenazas son multicausales: 1) adopción 
+de semillas mejoradas, mismas que son incorpo-
+radas de manera compulsiva por los principales 
+procesos de comercialización; asimismo, el des-
+mantelamiento de la empresa estatal Productora 
+Nacional de Semillas (Pronase) puso en manos de 
+muy pocas trasnacionales la producción de semi-
+lla, de modo que más de 90 por ciento de la se-
+milla de maíz para cultivos comerciales proviene 
+de estas empresas; evidentemente éste es un fac-
+tor que uniforma la producción y genera erosión 
+genética, ya que los cultivos masivos se basan en 
+muy pocas variedades; 2) el abandono del cultivo 
+Calabazas silvestres. Frijoles enredadores.
+----------------Page (210) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+211
+del maíz para dedicarse a otros más remunerati-
+vos, o bien para emigrar a otras regiones del país 
+o Estados Unidos (no hay posibilidad de compe-
+tir con la producción estadunidense de maíz 
+subsidiada; pérdida de experiencia de los jóve -
+nes; simplificación de los agroecosistemas y sus-
+titución de áreas por cultivos de psicotrópicos), y 
+3) catástrofes naturales y sociales (el Estado in-
+troduce a las zonas devastadas después de un 
+huracán maíces que no son de la región (Ortega, 
+2003b: 141 y ss.).
+El mismo autor señala que la pérdida de las 
+poblaciones nativas de maíz se ha agravado des -
+pués del Tratado de Libre Comercio de América 
+del Norte (
+TLCAN
+), ya que las variedades locales 
+no encuentran mercado o tienen un precio casti-
+gado. Importar maíz sin aranceles, las políticas de 
+sustitución indiscriminada de maíces nativos por 
+mejorados, es un crimen contra los indígenas y un 
+duro golpe contra las poblaciones nativas de maíz. 
+La tendencia a la monopolización de la produc-
+ción de la tortilla de maíz, principalmente por 
+parte de 
+MASECA
+, está fortaleciendo el desarrollo 
+de maíces tipo harinoso, bajando la calidad alimen-
+ticia de las tortillas al sustituir los procesos biotec-
+nológicos mesoamericanos —esto es la nixtamali-
+zación— por harinas de maíz. Al agregar cal y la 
+CUADRO 31. 
+ Algunos usos de los maíces nativos o indígenas más allá de las tortillas
+Raza-variedad Uso específico
+Cacahuacintle
+Elotes cónicos
+Elotes occidentales
+Olotillo
+Ancho
+Zapalote chico
+Bofo
+Reventador, Chapalote, Palomero, Toluqueño, 
+Apachito, Arrocillo
+Azul
+Panecillos tostados, elote, pozole, memelas, gorditas
+Elotes, pozole, tlacoyos, tamales, (maíz dulce), mole
+Elotes, pozole, ceremonial
+Elotes, xocoatole, atole agrio, tixtli, masa diferentes usos
+Pozole
+Totopos
+Tostado, huacholes, sin cocinar remojado en agua
+Palomitas, tostado 
+Tamales, tortillas especiales, tlacoyos
+fermentación del “nixtamal”, se generan varios 
+procesos bioquímicos que favorecen los cambios 
+de la composición nutricional durante el proceso de 
+elaboración que dan la maleabilidad a la masa y a 
+las tortillas. La biodisponibilidad de aminoácidos, 
+el contenido de calcio y fósforo, de fibra soluble y 
+almidón resistente, el contenido de ácido fítico 
+disminuye también, mejorando con ello la absor -
+ción de minerales en mamíferos monogástricos 
+(incluyendo al hombre). El proceso de nixtamaliza-
+ción aumenta la disponibilidad de niancina (com-
+plejo de vitaminas B) eliminando con ello el riesgo 
+de desarrollar la pelagra, enfermedad por defi-
+ciencia de vitamina B que se desarrolla si se consu-
+me en grandes cantidades maíz sin estos procedi-
+mientos biotecnológicos mesoamericanos.
+La pregunta obligada sería ¿qué segmentos de 
+la población siguen reproduciendo los maíces na-
+tivos? Planteamos aquí que son los campesinos 
+indígenas y pobres de la economía de subsisten -
+cia que aún mantienen el germoplasma nativo 
+por razones culturales, sociales y económicas. Sin 
+embargo, la población que sostiene este tipo de 
+germoplasma está envejeciendo rápidamente, 
+mientras que los jóvenes optan por migrar acele-
+rando la pérdida. En resumen, según Ortega 
+(2003a), 1) paradójicamente, los maíces indígenas 
+----------------Page (211) Break----------------
+Colima
+Minatitlán
+Armería
+Sayula
+Tecaltlán
+Tamazula
+Unión de Tula
+Coalcoman
+Tepalcatepe c
+Manzanillo
+Ciudad Guzmán
+Tecomán
+Nevado de Colima
+COLIMA
+OCÉANO PACÍFICO
+104º 103º
+19º
+20º
+N
+AHUA
+DE
+ M
+ICHOACÁN
+Cacahuacintle
+Celaya
+Chalqueño
+Conejo
+Cónico
+Cónico Norteño
+Elotes Cónicos
+Jala
+Maíces Dulces
+Olotillo
+Pepitilla
+Perla
+Reventador
+Tabloncillo
+Tabloncillo Perla
+Tampiqueño
+Tuxpeño
+Vandeño
+Zamorano Amarillo
+S
+IMBOLOGÍA DE LAS RAZAS
+DE MAÍZ
+----------------Page (212) Break----------------
+Morelia
+Arteaga
+Zacapu
+Nueva Italia
+c
+Tacámbaro
+Lázaro Cárdenas
+Apatzingán
+Jacona
+Pátzcuaro
+Uruapan
+Los Reyes
+MICHOACÁN
+102º 101º
+P
+URHÉPECHA
+Lago de Pátzcuaro
+Lago Cuitzeo
+Presa El Infiernillo
+R
+AZAS DE MAÍZ EN TERRITORIOS
+PURHÉPECHA Y NAHUA DE
+ M
+ICHOACÁN
+----------------Page (213) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+214
+sustituidos, de excelente calidad y que se desen-
+volvían en tierras tanto de riego como de tempo-
+ral de buenas condiciones, son muy vulnerables 
+ante la competencia de maíces híbridos comer-
+ciales; 2) el uso de la variedad chalqueño práctica-
+mente se perdió porque su cutícula era muy dura, 
+según las compañías que procesan el maíz para la 
+producción de tortilla; 3) los maíces de color o va-
+riedades como el Pepitilla de muy buena calidad 
+pero ligero, fue extinguido de áreas importantes 
+por las políticas públicas de comercialización; pa-
+radójicamente, la economía agrícola subsidiada 
+en el sureste de Estados Unidos, reporta un creci-
+miento importante de siembra de maíces de color 
+y blanco de variedades indígenas mexicanas, 
+principalmente para los consumidores mexicanos 
+de esa nación (Barkin, 2003); 4) gran parte de los 
+acervos del germoplasma indígena ha sido evalua-
+da desde el punto de vista agronómico;
+16
+ sin em-
+bargo, por la estructura y diseño de las investigacio-
+nes no se cuenta con catálogos descriptivos de las 
+muestras individuales, por lo que se pierden expe-
+riencias de investigación muy valiosas; 5) el caso 
+del maíz en México es la política de sustitución 
+de esta semilla por otros cultivos (Ortega, 2003b: 
+165); 6) también se registran pérdidas importan-
+tes de 19 variedades indígenas de frijoles Phaseo-
+lus sp. ; el mismo autor,citando a Brush (1995: 352) 
+indica que las poblaciones locales de los cultivos 
+adaptadas a condiciones óptimas son particular-
+mente vulnerables a desaparecer; es precisamen-
+te en estas áreas donde se sustituyen las varieda-
+des indígenas por las llamadas semillas mejoradas; 
+7) en los últimos 50 años se perdieron poblaciones 
+de las variedades Celaya (en la región de El Bajío 
+y en los llanos de Jalisco), Tuxpeño (propio del 
+trópico de temporal en suelos roturados y en algu-
+nas áreas subtropicales de riego) y el Tuxpeño Nor-
+16
+ Un estudio reciente acerca de la evaluación de los maí-
+ces indígenas o nativos fue publicado por Muñoz (2003). 
+te (adaptado a las regiones subtropicales secas del 
+norte del país); 8) siempre siguiendo a los autores 
+citados, parece que la variedad Vandeño ha sido 
+desplazada por la Tuxpeña y el Tepecintle por ca-
+fetales; este es un proceso que ha contribuido a la 
+erosión genética de lunatus (ibes) en la agricultura 
+tradicional maya; los otros riesgos de erosión gené-
+tica radican en el empobrecimiento de las varieda-
+des (Colunga, Zizumbo y Martínez, 2002); 9) esta 
+tendencia se ha acentuado desde la política del 
+GATT
+ y el 
+TLCAN
+, en las cuales las políticas públi-
+cas han promovido la importación masiva del maíz 
+y la transformación de las regiones maiceras en 
+pastizales o productoras de algodón, sorgo y culti-
+vos de exportación; 10) hoy día la erosión genética 
+también se da en la medida que los campesinos 
+abandonan la agricultura en forma total o parcial 
+para migrar; con frecuencia, el germoplasma nati -
+vo es sostenido por los más pobres o los ancianos;
+11) la erosión genética no sólo se da en cantidad 
+sino en calidad; se ha observado el abandono de 
+cultivares de algunas variedades más productivas, 
+como el Celaya, Vandeño, Tuxpeño y Chalqueño, 
+mundialmente consideradas como el germoplas-
+ma más importante para el mejoramiento por su 
+capacidad productiva (Ortega, 2003b: 166), y 
+12) riesgo de perder algunos recursos fitogenéti-
+cos regionales por abandono o por eventos extra-
+ordinarios únicos, como sequías prolongadas y 
+huracanes. 
+El cuadro 32 muestra, a grandes rasgos, las va-
+riedades de maíz que son raras y están en peligro 
+de extinción, o en franca declinación.
+17
+17
+ Los sitios de recolección, que nos presenta el 
+CIMM
+y
+T
+no fueron escogidos para ser representativos respecto de los 
+usos de las variedades de maíz relacionadas con los pueblos 
+indígenas.Asi mismo, no hay visitas nuevas a los mismos sitios 
+para renovar el germoplasma, o bien para corroborar si todavía 
+existe esa variedad o ha sido desplazada. Como recurso del 
+método se asocia el lugar de recolección con el territorio indí-
+gena más cercano, así como la presencia de indígenas en el 
+sitio, de manera que las probabilidades de que todavía existan 
+estas variedades son muy altas. 
+----------------Page (214) Break----------------
+T
+ABLONCILLO
+T
+EHUA
+T
+EPECINTLE
+T
+UXPEÑO
+----------------Page (215) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+216
+Un tema adicional muy candente para la agri-
+cultura, y en particular para la indígena, son las 
+presiones del gobierno estadunidense, y en espe -
+cial de las trasnacionales lidereadas por Monsanto 
+y Aventis, para la introducción en México de los 
+cultivos transgénicos. A raíz de la contaminación 
+transgénica de los maíces indígenas en Oaxaca, 
+uno de los destacados centros de origen, la Comi-
+sión para la Cooperación Ambiental de América 
+del Norte fue emplazada por las organizaciones 
+campesinas para realizar una amplia consulta pú-
+blica. En las conclusiones se destaca que: 
+Los elevados niveles de pobreza; el que grandes 
+porciones de la población dependan exclusiva-
+mente de la agricultura para su ingreso y seguri-
+dad alimentaria, y una considerable población in-
+dígena son factores que distinguen al México 
+rural del agro en Estados Unidos o Canadá. Méxi-
+co enfrenta una “crisis rural” de pobreza, migra-
+ción y desplazamiento conforme la economía 
+mexicana transita de una base rural y agrícola ha-
+cia una mayoría urbana sustentada en la manufac-
+tura y los servicios. En regiones donde se cultiva 
+el maíz criollo, la memoria cultural y la historia 
+política reciente han contribuido entre las comu-
+nidades indígenas a la percepción de inequidades 
+e injusticias en manos de mexicanos mestizos, es-
+tadunidenses y las élites de poder. El asunto del 
+impacto del maíz transgénico en el maíz criollo se 
+ha visto entrelazado con problemas y agravios his-
+tóricos que afectan al campesinado mexicano y 
+que no están directamente asociados con el maíz 
+mejorado o con las variedades tradicionales.
+La Comisión es ambigua respecto a la morato-
+ria generalizada y recomienda más estudios. Ya 
+mencionaba que en México un número relativa-
+mente reducido de agricultores siembra maíz “me-
+jorado” generalmente en zonas de riego, y una 
+gran mayoría, entre ellos los indígenas, siembra 
+variedades autóctonas. El objetivo de la produc -
+ción de los primeros es netamente comercial, 
+mientras que para los segundos el objetivo pro -
+ductivo es el consumo doméstico y eventualmen-
+te su venta a los mercados regionales. Los organis-
+mos genéticamente modificados son introducidos 
+por un grupo de grandes compañías cuyo objetivo 
+principal es la ganancia mediante el control de la 
+producción nacional en todas sus fases producti-
+vas, incluyendo los insumos. 
+La introducción y desarrollo de organismos 
+genéticamente modificados en los países de ori-
+gen y megadiversos, contiene aspectos ambienta-
+Frijol ibes de los mayas de la península de Yucatán 
+(arriba) y frijol botil (abajo). 
+----------------Page (216) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+217
+les, culturales, sociales y económicos que vale la 
+pena desglosar en caso de que se produzca co-
+mercialmente el maíz transgénico.
+Las semillas transgénicas se produjeron para 
+satisfacer necesidades comerciales de las empre-
+sas trasnacionales. Hay que recordar que México 
+no es un estado del “cinturón maicero” de Esta-
+dos Unidos, donde no hay cultura mesoamericana 
+y campesinos e indígenas que siembren el germo-
+plasma producto de generaciones de productores. 
+Allá, en caso que se cambie anualmente el ger-
+moplasma con transgénicos de las compañías co-
+mercializadoras, el problema es de dependencia 
+económica de los productores hacia la compañía. 
+Aquí, la introducción comercial de los transgéni-
+cos generaría un problema cultural, social, eco-
+nómico y de soberanía nacional, y además se des-
+truiría la experiencia y el reservorio genético de 
+las plantas domesticadas, únicos en el mundo. 
+La política pública actual pretende delimitar 
+zonas para permitir siembra de híbridos trans-
+génicos; es la continuación de intentos de susti-
+tución de maíces nativos por líneas mejoradas e 
+híbridas que no tienen relación con los maíces na-
+tivos sembrados localmente. Así se desarrollan es-
+tímulos en los subsidios cuando se sustituyen los 
+maíces nativos favoreciendo netamente a las pro-
+ductoras de semillas trasnacionales. Refleja, ade-
+más, la renuncia del Estado para la producción de 
+semillas (cierre de 
+PRONASE
+) y el control trasnacio-
+nal de la producción y mercado de semillas, apun-
+talado por recientes cambios en la legislación, 
+como la Ley de Producción, Certificación y Co-
+mercio de Semillas. 
+A pesar que ha habido procesos de sustitución 
+de semillas nativas por mejoradas, la presencia de 
+maíces indígenas es general en México. La salva-
+guarda del germoplasma nativo o indígena no de-
+be ser sólo en los centros de conservación ex situ ,
+como el 
+CIMM
+y
+T
+, el 
+INIFAP
+ o el Colegio de Posgra-
+duados de la Universidad Autónoma de Chapin-
+go. Respecto a estas colecciones, los productores 
+indígenas y campesinos no tienen el control de su 
+germoplasma ni de los procesos locales que deter-
+minan la domesticación. Comparativamente, en 
+la India el equivalente al 
+CIMM
+y
+T
+ el Centro de In-
+vestigaciones M.S. Swaminathan Research Foun-
+dation, localizado en Madras, India, desarrolló 
+una nueva política que no sólo tiene en sus labo-
+ratorios el germoplasma ex situ y hace biotecnolo-
+gía de punta, sino que tiene convenios firmes con 
+las comunidades que conservan in situ , con el com-
+Mujer dedicada a desgranar maíz en la Huasteca 
+hidalguense.
+----------------Page (217) Break----------------
+S
+IMBOLOGÍA DE LAS RAZAS DE MAÍZ
+Ancho
+Arrocillo
+Arrocillo Amarillo
+Bolita
+Celaya
+Chalqueño
+Comiteco
+Conejo
+Cónico
+Cónico Norteño
+Dulcillo del Noroeste (a)
+Elotes Cónicos
+Nal Tel
+Olotillo
+Olotón
+Palomero
+Pepitilla
+Perla
+San Juan
+Tepecintle
+Tuxpeño
+Vandeño
+Zapalote Chico
+Zapalote Grande
+S
+I
+E
+R
+R
+A
+PUEBLA
+GUERRERO
+OAXACA
+TLAXCALA
+MORELOS
+C
+HI N
+Z
+APOTECO
+DEL SUR
+Z
+APOTECO DE LA
+SIERRA DE
+ J
+UÁREZM
+IXTECO
+T
+LAPANECO
+A
+MUZGO
+C
+HATINO
+T
+RIQUI
+P
+OPOLOCA
+YCHOCHO
+C
+UICATECO
+M
+AZATECO
+N
+AHUA
+DE
+ G
+URERERO
+N
+AHUA DE
+Z
+ONGOLICA
+Tlaxcala
+Distrito Federal
+Toluca
+Cuernavaca
+Puebla
+Chilpancingo
+Oaxaca
+Xalapa
+Tehuacán
+Ciudad Mendoza
+Orizaba
+Taxco
+Iguala
+Tierra 
+Colorada
+Cuautla
+Izúcar 
+Atlixco 
+Tlacolula
+Puerto Escondido
+Copala
+Puert o
+Huajuapan
+de León
+Pinotepa Nacional
+Putla
+96º97º
+----------------Page (218) Break----------------
+ISTMO DE TEHUANTEPEC
+VERACRUZ
+CHIAPAS
+TA B A S CO
+M
+IXE
+Z
+OQUE
+T
+ZOTZIL
+N
+AHUA
+DEL SUR DE
+ V
+ERACRUZ
+N ANTECO
+Z
+APOTECO
+DEL
+ I
+STMO
+C
+HONTAL
+DE
+ O
+AXACA
+H
+UAVE
+P
+OPOLUCA
+Villahermosa
+Tuxtla
+Gutiérrez
+Acayucan
+Alvarado
+Jesús Carranza
+Coatzacoalcos
+Villa Flores
+Cintalapa
+Huimanguillo
+Tecolutilla
+Tupilco
+Sunuapa
+Cosamalpapan
+Salina Cruz
+Veracruz
+Juchitán
+Agua Dulce
+Arriaga
+Puerto Arista
+Santiago Astata
+Ixtepec
+San Pedro
+Tepanatepec
+o Angel
+Tuxtepec
+Catemaco
+Juan Díaz Cobarrubias
+Niltepec
+19º
+18º
+17º
+16º
+93º
+94º95º
+GOLFO
+DE MÉXICO
+GOLFO
+DE TEHUANTEPEC
+R
+AZAS DE MAÍZ EN LOS TERRITORIOS DE LOS PUEBLOS INDÍGENAS POPOLUCA
+,
+NAHUA DEL
+ALTIPLANO
+,
+DE
+ G
+UERRERO
+,
+DE
+ Z
+ONGOLICA Y DEL SUR DE
+ V
+ERACRUZ
+;
+POPOLOCA
+,
+MIXTE-
+CO
+,
+TLAPANECO
+,
+AMUZGO
+,
+TRIQUI
+,
+CHATINO
+,
+MAZATECO
+,
+CUICATECO
+,
+CHINANTECO
+,
+ZAPOTECO DE LA SIERRA DE
+ J
+UÁREZ
+,
+DEL SUR Y DEL
+ I
+STMO
+, V
+ALLES
+ C
+ENTRALES
+;
+CHONTAL DE
+ O
+AXACA
+,
+MIXE
+,
+ZOQUE Y HUAVE
+----------------Page (219) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+220
+promiso que si se pierde por alguna razón ese ger-
+moplasma, la fundación lo repara. El programa 
+promueve la evaluación, conservación y manejo 
+sustentable de los recursos biológicos colectivos, 
+con las tribus y comunidades con especial hinca-
+pié en el trabajo de equidad de género. De esta 
+manera se establecen programas conjuntos para 
+áreas protegidas en peligro de conservación de 
+biodiversidad por parte de las tribus y comunida -
+des, bancos comunitarios de germoplasma en una 
+relación entre la conservación in situ y ex situ . Ade-
+más, se desarrollan las políticas de denominación 
+de origen y marcas campesinas y la ardua lucha en 
+contra de las patentes estadunidenses de los sub-
+productos de árbol del neem, planta cultural de 
+tribus y campesinos de India. 
+Los argumentos que se han esgrimido acerca 
+de las amenazas de los transgénicos a los maíces 
+nativos son:
+1) El maíz es un grano de polinización abierta 
+y fertilización cruzada. Las compañías que pre-
+tenden introducir comercialmente maíces trans-
+génicos aducen que se hará sólo en terrenos “li-
+bres” de maíces indígenas o nativos. Por ello, hay 
+un esfuerzo mayor de los “científicos” ligados a 
+las trasnacionales y de algunos de instituciones 
+públicas que intentan demostrar que es reducida 
+la posibilidad de intercruza de polen entre las 
+plantas transgéncias y las indígenas y los teocin -
+tes. Para ellos, la contaminación es un problema 
+de distancias entre el cultivo transgénico y el de 
+los maíces nativos. Sin embargo, este argumento 
+Arriba: Comida mesoamericana: maíz, frijoles, salsa de chile verde y chayotes (izquierda). Calabaza (derecha).
+Abajo: Tuna tapona (izquierda). Miltomate (derecha). 
+----------------Page (220) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+221
+ha sido refutado una y otra vez por distintos espe-
+cialistas del tema. El aislamiento total es imposi-
+ble. La dispersión a larga distancia del polen ocu-
+rre con una fracción pequeña del polen total, lo 
+que hace que simplemente se reduzca la veloci-
+dad de contaminación, pero no la evita. 
+2) Si bien el flujo genético biológico es impor-
+tante, es necesario destacar que son mucho más im-
+portantes los flujos sociales (Álvarez, 2005). En 
+efecto, que suceda un intercambio entre producto-
+res campesinos indígenas no se puede controlar 
+con leyes ad hoc para favorecer la propiedad intelec-
+tual de las trasnacionales. Es necesario recordar que 
+basta que un campesino siembre deliberada o acci -
+dentalmente semillas transgénicas o indígenas con 
+estos transgenes, y éstas contaminarán a las demás.
+3) Lo grave sería que, más temprano que tar-
+de, los maíces indígenas se conviertan en el basu-
+rero genético de las trasnacionales por el fenóme-
+no gene stacking , incluso con líneas o variedades 
+que se desarrollen para medicamentos, por ejem-
+plo (Bellon y Berthaud, 2005). Este fenómeno se 
+da porque los transgenes de distintos orígenes y 
+posiciones en el 
+ADN
+, incluso los que se introduci-
+rían para producir medicamentos o productos para 
+uso industrial, se van acumulando en las varie-
+dades. Es posible que estos transgenes no tengan 
+una expresión visible inmediata (Turrent 2008). 
+Esto pondría en riesgo la seguridad alimentaria de 
+México y Centroamérica (Álvarez, 2005).
+4) Está demostrada la posibilidad de que por 
+medio de variedades indígenas se transmitan 
+transgenes resistentes a herbicidas a las varieda -
+des silvestres, pudiéndose generar superinfesta-
+ciones de las mismas en los cultivos. 
+5) Puede haber resultados inesperados en el 
+uso de semillas transgénicas (Bellon y Berthaud, 
+2005).
+6) En el tema de la introducción de los transgé-
+nicos a México no se trata de la “modernización” 
+del agro, sino de la imposición de nuevas estructu-
+ras de poder, comerciales y culturales, puesto que 
+la biotecnología genética está dominada por el sec-
+tor privado principalmente por cinco poderosas 
+trasnacionales. Las semillas transgénicas de ahora 
+no han demostrado ser más productivas que las 
+mejoradas o nativas. Lentamente estas trasnacio -
+nales se han impuesto para que las leyes mexi-
+canas las favorezcan y avalen sus estructuras de 
+poder. Si se generalizara el uso de semillas trans -
+génicas habría un cambio fundamental en la toma 
+de decisiones de los agricultores tanto pobres co-
+mo empresariales. Primero, renunciarían a la tra-
+dición milenaria de producir semillas. En segun-
+do lugar, no habría los procesos de adaptación 
+finos que existen en todas las regiones ecológicas 
+de México. Y en tercer lugar se perdería el acervo 
+y diversidad genética de los cultígenos mesoame-
+ricanos. Todo ello para satisfacer los negocios de 
+las trasnacionales y sus aliados gubernamentales. 
+En un país de origen, la presencia de las distin-
+tas razas de maíz, como de los agroecosistemas en 
+territorios de los pueblos indígenas, son prioritarios 
+para la conservación de los agroecosistemas y ger-
+moplasma nativo. El reconocimiento del carácter 
+prioritario requiere procedimientos específicos 
+para su conservación para garantizar su viabilidad 
+con cara al siglo de las grandes extinciones. Las co-
+lecciones de germoplasma ex situ y los centros de 
+investigación deben relacionarse estrechamente 
+con las comunidades para garantizar así una política 
+de Estado para la conservación y el desarrollo. 
+La argumentación acerca de que si el maíz trans-
+génico de los campos de experimentación pueda 
+contaminar a los maíces nativos por polinización, 
+es parcial y deliberadamente engañosa. Una vez 
+instaurada la producción comercial y masiva de maí-
+ces transgénicos para uso industrial, animal o hu-
+mano, la contaminación se dará a larga distancia 
+en las rutas de la comercialización y consumo. Así 
+lo demostró la contaminación transgénica en los 
+maíces nativos de la Sierra de Juárez, Oaxaca.
+----------------Page (221) Break----------------
+V
+ANDEÑO
+Z
+AMORANOAMARILLO
+Z
+APALOTECHICO
+Z
+APALOTEGRANDE
+----------------Page (222) Break----------------
+Construyendo las regiones bioculturales prioritarias para la conservación in situ y el desarrollo sustentable
+223
+CUADRO 32. 
+ Variedades de maíz raras, en declinación o en peligro de extinción 
+estudiadas en los sistemas agrícolas tradicionales
+Raza de maíz 
+en peligro de 
+extinción o raras
+Estatus
+Apachito*
+Blando de 
+Sonora *
+Celaya**
+Cónico
+Norteño**
+Elotes cónicos**
+Jala*
+Palomero de 
+Chihuahua *
+Pueblos indígenas en los sitios 
+de colecta o aledaños
+1968
+1968
+1968
+1968
+1968
+1968
+1968
+1968
+1971
+1961
+1998
+1972
+ 1968
+1968
+1968
+1968
+1952, 1961 
+1973
+1972
+1974
+1974
+1972
+1974
+ 1967
+1960
+ 1952
+ 1944
+1968
+1952,1961
+1951
+1944
+1968
+Raro
+Raro
+Raro
+Dominante en 
+algunas zonas del 
+norte pero en 
+otras de presencia 
+ocasional (rara) 
+Abundante en el 
+Estado de México 
+pero raro en otras 
+zonas del país
+En peligro 
+de extinción
+Raro
+Municipio
+Alto Babícora (Chihuahua)
+Bocoyna (Chihuahua)
+Guachochi (Chihuahua)
+Guerrero (Chihuahua)
+Gómez Farias (Chihuahua)
+Saucillo (Chihuahua)
+Madera (Chihuahua)
+Choix (Sinaloa)
+El Fuerte (Sinaloa)
+Tangancícuaro (Michoacán)
+Xilitla (San Luis Potosí)
+Guerrero (Chihuahua)
+Ixtacmatitlán, Aquixtlán (Puebla)
+Balleza (Chihuahua)
+Guadalupe y Calvo (Chihuahua)
+Yesca, Tepic ( Nayarit)
+ Mezquital (Durango)
+Xilitla, Acaxochitlán (San Luis Potosí)
+Atenango del Río (Guerrero)
+Tenango de Doria (Hidalgo) 
+Zacapoaxtla (Puebla)
+Teziutlán (Puebla)
+Acaxochitlán (Hidalgo)
+Jalpan (Puebla)
+Tlatlauhqui (Puebla)
+Teotitlán del Camino
+Tochimilco (Puebla)
+Quiroga (Michoacán)
+Sta. María el Oro (Nayarit)
+ Jala (Jalisco)
+San Pedro Lagunillas (Nayarit)
+Ixtlán del Río (Nayarit) 
+Madera (Chihuahua)
+Año de 
+colecta
+Rarámuri
+Rarámuri
+Rarámuri (presencia)
+Rarámuri (presencia)
+Rarámuri (presencia)
+Rarámuri (presencia)
+Rarámuri (presencia)
+Rarámuri (presencia)
+Mayo (presencia)
+Purhépecha (presencia)
+Nahua (Sierra de Puebla, 
+SLP
+)
+Rarámuri (presencia)
+Nahua (Sierra de Puebla, 
+SLP
+)
+Rarámuri (presencia)
+Rarámuri (presencia), Tepehuán
+Huichol,
+Huichol y Tepehuán 
+Nahua (Sierra de Puebla, 
+SLP
+) 
+Nahua Guerrero
+Otomí
+Nahua S.N.P.
+Nahua S.N.P.
+Nahua S.N.P.
+Totonaco
+Nahua S.N.P. 
+Nahua Zongolica
+Nahua Altiplano
+Purhépecha
+Huicholes
+Presencia Huichol
+Huicholes
+Presencia Huichol
+Rarámuri (presencia)
+* Ortega 2003; ** Gil M. (2006)
+Nota. Cuando las colectas se encuentran fuera de los territorios pero hay presencia indígena en los sitios de colecta se advi erte en la última 
+columna “presencia” . El último autor incluye entre las variedades en declinación la raza Tuxpeño que dio origen al Tuxpeño mej orado. No lo 
+incluímos porque los registros no consignan la diferencia entre los maíces tuxpeños originales y los mejorados.
+----------------Page (223) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+224
+CUADRO 32. 
+ Variedades de maíz raras, en declinación o en peligro de extinción 
+estudiadas en los sistemas agrícolas tradicionales
+(C
+ONTINUACIÓN
+)
+Raza de maíz 
+en peligro de 
+extinción o raras
+Estatus
+Pepitilla*
+Tablilla**
+Tabloncillo*
+Tehua*
+Vandeño*
+Zamorano
+Amarillo*
+Zapalote
+grande*
+Pueblos indígenas en los sitios 
+de colecta o aledaños
+2007
+ 1967
+1967
+1966
+1961
+1961
+1947
+1945
+1945
+1968
+1968
+1968
+1968
+1968
+1968
+1968
+1968
+1944
+1972
+1972
+1946
+1973
+1970
+1970
+1970
+S.D.
+1960
+1946-61
+1945
+1972,1999
+1972
+1972
+1972
+1972
+ 1946
+1944
+ 1944
+En peligro 
+de extinción
+Abundancia
+regular
+Desplazado
+por “maíces 
+mejorados”
+en Jalisco
+En peligro 
+de extinción
+En peligro 
+de extinción
+En peligro 
+de extinción
+En peligro 
+de extinción
+Municipio
+Nayar (Nayarit)
+ Jojutlla (Morelos)
+Chignautla (Puebla)
+Teotitlán del Valle ( Oaxaca)
+Zacapoaxtla (Puebla)
+Mezquitall (Durango)
+Chilapa (Guerrero)
+Tangancícuaro (Michoacán)
+Nahuatzen (Michoacán)
+La Yesca (Nayarit)
+Mezquital (Durango)
+La Yesca (Nayarit)
+Tepic (Nayarit)
+Mezquital (Durango)
+Balleza (Chihuahua)
+Moris (Chihuahua)
+Yécora (Sonora)
+Tangancícuaro (Michoacán)
+La Trinitaria (Chiapas)
+Motozintla (Chiapas)
+La Trinitaria (Chiapas)
+Alcalá (Chiapas)
+Pátzcuaro (Michoacán)
+Pochutla (Oaxaca)
+Tixtla (Guerrero)
+Uruapan (Michoacán)
+Zamora (Michoacán) 
+Tangancícuaro (Michoacán)
+Zacapu (Michoacán)
+Chahuites (Juchitán, Oaxaca)
+Cintalapa (Chiapas)
+Frontera Comalapa (Chiapas)
+Tanapatepec (Chiapas) 
+Tonalá (Chiapas)
+Escuintla (Chiapas) 
+Bella Vista (Chiapas) 
+Tuxtepec (Oaxaca)
+Año de 
+colecta
+Huichol
+Nahua Altiplano (presencia)
+Nahuas de la S.N.P.
+Zapoteco
+Nahuas de la S.N.P.
+Huichol
+Nahuas de Guerrero, 
+Purhépecha
+Purhépecha
+Huichol
+Huichol
+Huichol
+Huichol
+Huichol
+Rarámuri
+Guajirio
+Pima
+Purhépecha
+Tzeltales, Kanjobales
+Mame
+Mame
+Tzotzil
+Presencia Purhépecha
+Zapoteco
+Presencia Nahua (Gue)
+Presencia Purhépecha
+Presencia Purhépecha 
+Presencia Purhépecha
+Presencia Purhépecha
+Zapoteco
+Presencia Chol, Zoque
+Mame
+Presencia Zapoteca
+Presencia Zapoteca
+Tzotziles, Mame 
+Mame
+Chinantecos, Mazateco
+----------------Page (224) Break----------------
+Río Lagartos
+Dzilam de Bravo
+Progreso
+Celestún
+Champotón
+Nuevo Coahuila
+Tulúm
+Tekantó
+Mérida
+Campeche
+Chetumal
+Felipe 
+Carrillo Puerto
+Cancún
+Cozumel
+Valladolid
+Tizimín
+Escárcega
+22º
+21º
+20º
+19º
+18º
+90º91º 89º 88º
+M
+AYA
+M
+AME
+C
+HOL
+T
+ZOTZIL
+T
+ZELTAL
+YUCATÁN
+QUINTANA
+ ROO
+CAMPECHE
+Bahía de 
+Ascensión
+Punta Holochit
+Cabo Catoche
+BELIZE
+Isla
+Cozumel
+Arrecife Chinchorro
+Isla
+Mujeres
+Isla Holbox
+S
+IMBOLOGÍA
+DE LAS RAZAS DE MAÍZ
+Clavillo
+Dzit Bacal (a)
+Dzit Bacal (b)
+Nal Tel
+Olotillo
+Tepecintle
+Tuxpeño
+Zapalote Chico
+Xmehen Nal
+R
+AZAS DE MAÍZ EN EL TERRITORIO
+INDÍGENA MAYA DE
+ Y
+UCATÁN
+----------------Page (225) Break----------------
+Tuxtla Gutiérrez
+Arriaga
+Puerto Arista
+Jericó
+Cintalapa
+Villa flores
+Teapa
+San Cristóbal
+de las Casas
+CHIAPAS
+93º
+T
+ZOTZIL
+Z
+OQUE
+K
+A
+M
+AME
+C
+HOL
+----------------Page (226) Break----------------
+Ocosingo
+Palenque
+Comitán
+de Domínguez
+Lagunas
+de Montebello
+Río
+Guerrero
+17º
+16º
+91º92º
+GUATEMALA
+T
+ZELTAL
+T
+OJOLABAL
+K
+ANJOBAL
+N JOBAL
+J
+ACALTECO
+M
+AME
+M
+AYA
+ L
+ACANDÓN
+S
+IMBOLOGÍA
+DE LAS RAZAS DE MAÍZ
+Chalqueño
+Clavillo
+Comiteco
+Cónico
+Cubano Amarillo
+Elotes Cónicos
+Nal Tel
+Olortillo
+Olotón
+Tehua
+Tepecintle
+Tuxpeño
+Vandeño
+Zapalote Chico
+Zapalote Grande
+R
+AZAS DE MAÍZ EN LOS TERRITORIOS INDÍGENAS
+ZOQUE
+, 
+TZOTZIL
+, 
+TZELTAL
+,
+CHOL
+, 
+MAYA LACANDÓN
+,
+TOJOLABAL
+, 
+KANJOBAL
+, 
+MAME Y JACALTECO
+----------------Page (227) Break----------------
+G
+O
+L
+F
+O
+D
+E
+C
+A
+L
+I
+F
+O
+R
+N
+I
+A
+O
+C
+É
+A
+N
+O
+P
+A
+C
+í
+F
+I
+C
+O
+E S TA D O S U N I D O S M E X I C A N O S
+16º
+114º
+112º 110º 108º 106º 104º
+102º
+18º
+20º
+22º
+24º
+26º
+28º
+30º
+32º
+Isla Ángel
+de la Guarda
+Isla Cedros
+Isla Tiburón
+Isla Santa
+Margarita
+Isla Cerralvo
+Islas Marías
+Dzit Bacal (b)
+Gordo
+Elotes Cónicos
+Harinoso
+Harinoso de 8
+Hembra
+Jala
+Lady Finger
+Maizón
+Maíces Dulces
+Mezcla
+Mushito
+Nal Tel
+Olotillo
+Olotón
+Onaveño
+Palomero
+Pepitilla
+Perla 
+Reventador 
+San Juan 
+Tablilla 
+Tabloncillo 
+Tabloncillo Perla 
+Tamaulipeco 
+Tampiqueño 
+Tehua 
+Tepecintle 
+Tunicado 
+Tuxpeño Norteño 
+Tuxpeño 
+Xmehen Nal 
+Zamorano Amarillo 
+Zapalote Chico 
+Zapalote Grande 
+Vandeño 
+Amarillo
+Ancho
+Apachito
+Argentino
+Arrocillo Amarillo
+Arrocillo Azul
+Arrocillo Blanco 
+Arrocillo 
+Azul 
+Bofo
+Blando (i) 
+Blando (o) 
+Blanco (J) 
+Bolita 
+Cacahuacintle 
+Carmen 
+Celaya 
+Chalqueño 
+Chapalote 
+Clavillo 
+Comiteco 
+Complejo Blanco 
+Conejo 
+Cónico
+Cónico Norteño
+Coscomatepec
+Complejo Cristalino Chihuahua 
+Cristalino
+Complejo Serrano de Jalisco 
+Cubano Amarillo
+Dulcillo del Noroeste (a)
+Dulcillo del Noroeste (b) 
+Dzit Bacal (a) 
+S
+IMBOLOGÍA DE LAS RAZAS DE MAÍZ
+----------------Page (228) Break----------------
+GOLFO
+DE
+MÉXICO
+E S TA D O S U N I D O S D E A M É R I C A
+100º
+98º 94º96º
+92º
+90º
+88º
+Isla Cozumel
+Arrecife Alacranes
+Banco
+Chinchorro
+T
+ODO
+ M
+ÉXICO ES CENTRO DE ORÍGEN Y DIVERSIFICACIÓN GENÉTICA DEL MAÍZ
+----------------Page (229) Break----------------
+
+----------------Page (230) Break----------------
+231
+Consideraciones generales
+L
+os artículos 7, 8 y 10 del Convenio de Diversidad Biológica (
+CDB
+) signado por México a partir 
+de la Conferencia de Río en 1992, son un buen pretexto para analizar el papel de los pueblos 
+indígenas con cara al futuro de México. El artículo 7 se refiere a la identificación nacional de 
+los componentes de la diversidad biológica que sean importantes para la conservación y la utilización 
+sostenible. El artículo 8 trata de la conservación in situ de la diversidad biológica, en particular el artícu-
+lo 8j que se refiere al respeto y desarrollo de los conocimientos tradicionales para la conservación. Final-
+mente, el artículo 10 trata acerca de la utilización sostenible de los componentes de la diversidad bioló-
+gica, esto es, la relación entre la conservación, la construcción de los sistemas productivos y la resolución 
+de problemas de pobreza, y la satisfacción de las necesidades básicas de la población del país. 
+En México no se ha creado una comisión específica, con participación directa y representativa de las 
+organizaciones indígenas, que logre transformar las directrices pactadas internacionalmente en políti-
+cas públicas de Estado explícitas, así como garantizar su evaluación y seguimiento. 
+A continuación transcribimos los compromisos básicos de estos acuerdos. La Conferencia de Partes 
+insta a los paises signantes. 
+a) Desarrollar estrategias nacionales, programas y planes que deben potenciar a las comunidades indígenas y 
+locales, y fortalecer sus capacidades para la conservación y uso sostenible in situ así como la gestión de la diver-
+sidad biológica agrícola basándose en los sistemas de conocimiento y prácticas indígenas con la mención es-
+pecífica de las funciones de género. b) Reconocer según las leyes nacionales los territorios de los pueblos in-
+dígenas o los que corresponden a las comunidades agrarias. (Convenio sobre Poblaciones Indígenas y Tribales 
+169, 
+OIT
+.) c) Respetar los lugares sagrados y los manantiales y otras fuentes de agua de las comunidades indí-
+genas y locales. d) Proponer mecanismos de participación efectiva, particularmente de las mujeres, en la toma 
+de decisiones sobre los recursos naturales en territorios o tierras de los pueblos indígenas. e) Reconocer los 
+Tejiendo la red biocultural 
+de conservación y desarrollo.
+Las experiencias de reapropiación de los recursos 
+naturales por los pueblos indígenas
+P. 230
+ Cafetales diversificados cultivados por los miembros nahuas 
+de la Cooperativa Tosepan Titataniske en Cuetzalan, Puebla.
+----------------Page (231) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+232
+sos naturales, así como las áreas protegidas propie-
+dad de los pueblos indígenas en la clasificación de
+la
+UICN
+sobre manejo de áreas protegidas. 6) Se crea-
+rá un programa de creación de capacidad para las
+comunidades locales y pueblos indígenas a fin de
+que puedan participar efectivamente en la conser-
+vación y gestión de áreas protegidas. 7) Se esta-
+blecerán mejores formas de gobernabilidad que
+reconozcan métodos tanto tradicionales como inno-
+vadores de gran valor potencial para la conserva-
+ción (
+CDB
+,artículo8j)(ConferenciadeDubay,en
+Estrategias de Conservación ,2005).
+El Convenio de Diversidad Biológica signado
+por casi todos los países del orbe reconoce en su
+artículo 8j que se refiere a la conservación insitu ,y
+en las Conferencias de Partes subsiguientes, el
+papel y la capacidad de los pueblos indígenas y
+comunidades tradicionales para preservar la diver-
+sidad biológica desde su conocimiento tradicio-
+nal. Casi todas las decisiones tomadas tanto en el
+Convenio de Diversidad Biológica como en las
+Conferencias de Partes, los acuerdos de Durban,
+Cartagena, etcétera, y convenios afines son en la
+mayoría vinculantes para México. Sin embargo el
+lenguaje del
+CDB
+“sin dientes” (promovido por Es-
+tados Unidos para después no firmar, o ser ratifi-
+cado por el Senado), dificulta su ejecución obliga-
+toria.
+Después de 15 años de existencia del
+CDB
+,y
+otros convenio má s del artículo 169 de la
+OIT
+,los
+acuerdos de Cartagena, y los derechos de los agri-
+cultores tradicionales (
+FAO
+,1988)yresoluciones
+subsiguientes vinculantes o no, existe un laberin-
+to de compromisos que el país tiene que cumplir
+por mandato de las Naciones Unidas para impul-
+sar a los pueblos indígenas como sujetos sociales
+importantes en la preservación del patrimonio na-
+tural y cultural. Sin embargo, los mencionados
+acuerdos no se han cumplido ni traducido en accio-
+nes de políticas públicas vigorosas. En especial,
+conocimientos indígenas en tierras áridas y subhú-
+medas, especialmente en lo que se refiere a las
+plantas medicinales y la gestión de los ecosistemas.
+f) Reconocer la importancia del papel de las comu-
+nidades indígenas y locales en la aplicación del
+programa de trabajo en la conservación y uso soste-
+nible de la biodiversidad forestal integrando el co-
+nocimiento tradicional. g) Desarrollar medidas le-
+gislativas y de políticas administrativas nacionales
+acerca del acceso y participación en beneficio de re-
+cursos genéticos. Aborda, además, el papel del co-
+nocimiento indígena y tradicional para la mitigación
+de cambios climáticos en el contexto de ecosistemas
+de bosques. h) Promover prácticas de conocimiento
+tradicional e indígena para la gestión en ecosiste-
+mas de montaña, en especial para el cuidado de la-
+deras, recursos hídricos, biodiversidad y agrobiodi-
+versidad. i) Reconocer los sistemas suigeneris para la
+protección de los conocimientos, innovaciones y
+prácticas de comunidades indígenas y locales.
+En Dubay se llegó a los siguientes acuerdos:
+1) Promover la participación de las comunidades
+locales y pueblos indígenas en la creación, declara-
+ción y gestión de las
+ANP
+.Lospueblosindígenasy
+comunidades locales estarán representados en la
+gestión de las
+ANP
+por representantes electos, de for-
+ma proporcional a sus derechos e intereses. 2) Pro-
+mover una gestión de áreas protegidas que procure
+reducir la pobreza y que en ningún caso la agrave,
+que comparta los beneficios con los pueblos indí-
+genas y las comunidades locales. 3) Reconocer, for-
+talecer y proteger las áreas de conservación comu-
+nitaria y prestarles apoyo. 4) Se reconocerán los
+derechos consuetudinarios y otros derechos de las
+comunidades locales y de los pueblos indígenas
+con relación a sus tierras y recursos naturales. 5) Se
+reconocerán oficialmente la contribución de las
+áreas conservadas por comunidades y las modali-
+dades conexas de protección y gestión de los recur-
+----------------Page (232) Break----------------
+Te j i e n d o l a r e d b i o c u l t u r a l d e c o n s e r v a c i ó n y d e s a r r o l l o
+233
+estratégica para la preservación y gestión de los 
+ecosistemas clave del país en tres sentidos: 1) la 
+cubierta vegetal o macizos de vegetación que se 
+traducen en biomasa que captura carbono, mantie-
+ne los suelos, e interviene positivamente en la re-
+gulación del ciclo del agua; 2) la riqueza biológica 
+que alberga cada uno de estos tipos de vegetación 
+en un país megadiverso, y 3) la interacción entre 
+los ecosistemas y agroecosistemas indígenas que 
+mantienen el reservorio fitogenético más impor -
+tante que se ha producido en Mesoamérica. 
+Para llegar a esta conclusión se desarrolló una 
+metodología que define los territorios mínimos 
+actuales de los pueblos indígenas. He demostra-
+do que existen territorios indígenas que rebasan 
+la imprecisión de los “municipios indígenas”, “re-
+giones indígenas”, “microrregiones de alta margi-
+nación”, o los mismos límites estatales, todos 
+ellos instrumentos político-administrativos del 
+Estado mexicano. Con esta metodología se obtu -
+vieron territorios que abarcan 28 033 092 hectá-
+reas, lo que representa 14.3 por ciento del total 
+nacional. Este territorio es el núcleo duro, donde 
+se aglutina la población indígena que se compone 
+por localidades contiguas de 40 por ciento y más 
+de hogares indígenas, mismos que frecuente-
+mente son parte de núcleos agrarios de tipo ejidal 
+o comunal, a veces en conjunción con pequeñas 
+propiedades. Hay entonces condiciones inmejo-
+rables para impulsar con los pueblos indígenas 
+nuevas culturas ambientales sostenibles y apos-
+tarle a la resiliencia de los ecosistemas y sus servi-
+cios ambientales globales y regionales. Esta tesis 
+se deriva de la conclusión que 75 por ciento del 
+territorio de los pueblos indígenas está cubierto 
+de vegetación natural, esto es, 21 286 469 hectá-
+reas, de las cuales 42.2 por ciento es vegetación 
+primaria, 29.3 por ciento secundaria arbórea, 26.3 
+por ciento secundaria arbustiva. 
+Los bosques y selvas primarias —se supone— 
+deben contener la cadena trófica completa. Tene -
+233
+los tratados internacionales comerciales y la pre-
+sión de los países desarrollados para regular la pro-
+piedad intelectual, y la no claridad del significado 
+en la práctica de los derechos colectivos sui generis ,
+o los recursos biológicos colectivos, para proteger 
+sus conocimientos y patrimonio propio, están ce-
+rrando los espacios de opciones de protección. 
+ El 
+CDB
+ acordó crear programas de apoyo a los 
+gobiernos signantes para la conservación de la di-
+versidad biológica, en especial la de los pueblos 
+indígenas y comunidades locales (Fondo Interna-
+cional para el Apoyo y la Protección de los Ecosis-
+temas, 
+GEF
+ por sus siglas en inglés). Sin embargo, 
+a pesar de avances puntuales, como los proyectos 
+de Conservación de la Biodiversidad de Comuni-
+dades Indígenas (Coinbio), Programa de Desarro-
+llo Rural Sustentable (Proders), Proyecto para la 
+Conservación y Manejo Sustentable de Recursos 
+Forestales en México (Procymaf), Corredor Bio-
+lógico Mesoamericano-México, pago por servicios 
+ambientales o programas de reforestación masi-
+vos con limitada eficacia, o esfuerzos puntuales y 
+efímeros para la conservación in situ de la agrobio-
+diversidad), México presenta un gran déficit en 
+cuanto a la aplicación de los derechos de los pue-
+blos indígenas, de sus territorios, de participación 
+equitativa de los beneficios que se derivan por el 
+uso comercial de terceros de la diversidad domes-
+ticada, de recursos biológicos colectivos y de cono-
+cimientos tradicionales. 
+Sostengo que depende del gobierno y Estado 
+mexicanos, y principalmente de las organizacio-
+nes sociales, la profundidad con que se apliquen 
+las directrices obligatorias generadas en el concier-
+to internacional, y en este sentido tenemos expe-
+riencias nacionales de suma importancia que po-
+drían ser ejemplos a generalizar. 
+De la evaluación general de la diversidad bioló-
+gica, de la agrobiodiversidad y de la ubicación de 
+los territorios de los pueblos indígenas respecto a 
+la captación del agua, se desprende la importancia 
+----------------Page (233) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+234
+genas (entre otras regiones), al estar mayoritaria-
+mente en las cabeceras de cuenca de las serranías 
+principales del país, son áreas de alto impacto y 
+riesgo de las tormentas y ciclones tropicales. 
+Cuando en los Acuerdos de San Andrés se ha-
+blaba sobre el manejo de los recursos naturales 
+por parte de los pueblos indígenas, se referían en 
+realidad a la gestión indígena o social de la diversi-
+dad biológica, de la agrobiodiversidad del agua 
+como recursos naturales y de los territorios. En 
+este trabajo quisimos contribuir en la evaluación 
+de los mismos. Por ello, este trabajo intenta hacer 
+una aportación en este sentido. Con la metodolo-
+gía para delinear los territorios (por lo menos sus 
+núcleos duros) se realizó un marco espacial para 
+evaluar los recursos naturales y biológicos como 
+base para proponer políticas específicas. Los terri-
+torios así planteados guían necesariamente a la 
+pregunta sobre la autodeterminación y autonomía 
+para lograr un aspecto básico de los territorios y su 
+proyecto de desarrollo: la gobernanza ambiental-
+territorial por parte de los grupos sociales que en 
+ellos viven. En este tenor es importante generar 
+convenciones por pueblo indígena para que deli-
+neen sus proyectos culturales, económicos, políti-
+cos y sociales. En este marco destaca el tema de 
+tratar especialmente a los guardianes, o “captado-
+res” de agua, de la diversidad biológica y agrobiodi-
+versidad de México como estrategia para comba -
+tir la pobreza. 
+Para ello, el marco de las reformas constitucio-
+nales del 2001 es insuficiente. Mientras que el ar-
+tículo 2
+o
+ de la Constitución mexicana por una par-
+te reconoce el carácter de pueblos a los indígenas 
+de México, por otra les niega dos componentes 
+importantes esenciales: ser sujetos sociales con 
+plenos derechos (y no sujetos de interés público) 
+y el territorio. No puede haber pueblos, autono-
+mía y autodeterminación sin territorios en donde 
+se pueda ejercerlas. Respecto a la diversidad bio-
+lógica, la Constitución refiere indirectamente el 
+mos un gradiente de intervención humana en la 
+cubierta vegetal primaria y secundaria principal -
+mente arbolada (que suma 54 por ciento de los te-
+rritorios indígenas, esto es, 15237253 hectáreas), 
+por lo que no se trata de bosques y selvas prísti-
+nas. Su diversidad se debe más a la interacción 
+compleja entre las formas de uso de los recursos 
+naturales y los ecosistemas. Los aspectos cultura -
+les tienen mucho que ver con esta paradoja apa-
+rente, en la que coexisten bosques alterados y 
+fragmentados con una enorme diversidad biológi -
+ca (Madrid y Chapela, 2002).
+Al analizar las cubiertas vegetales en territorios 
+de los pueblos indígenas se concluye que en ellos 
+se encuentran más de 50 por ciento de selvas altas 
+y medianas, bosque mesófilo, la cuarta parte de los 
+bosques de pino y la cuarta parte de toda la produc-
+ción de agua nacional. Contrastando esta visión 
+general con las cubiertas de vegetación y uso espe-
+cífico por pueblo indígena, además con su posi-
+ción en la captación del agua en las cabezas de 
+cuenca se definieron las Regiones Bioculturales 
+Prioritarias para la Conservación y el Desarrollo. 
+Éstas se refieren a los centros de origen de diversi-
+dad biológica, de la agrobiodiversidad y de áreas 
+de importancia vital para la conservación de las es-
+pecies, los ecosistemas y los servicios ambientales 
+vitales. Las áreas de las 
+RTP
+, 
+RHP
+, 
+ANP
+ y 
+AICA
+ sobre-
+puestas, cubren 19 675 979 hectáreas, lo que sig-
+nifica que más de 70 por ciento del territorio de los 
+pueblos indígenas tiene alguna categoría de prio-
+ridad para la conservación desarrollada por la Co-
+nabio. Por ello, las áreas prioritarias bioculturales 
+en territorios de los pueblos indígenas están 
+acompañadas de una lista jerarquizada de los más 
+altos valores de diversidad biológica nacional (di-
+versidad de especies, de ecosistemas, centros de 
+origen tanto natural como de diversidad domesti -
+cada, de su mantenimiento, corredores biológicos, 
+etcétera) que serían prioritarias para la conserva-
+ción. Asimismo, demostramos que las zonas indí-
+----------------Page (234) Break----------------
+Te j i e n d o l a r e d b i o c u l t u r a l d e c o n s e r v a c i ó n y d e s a r r o l l o
+235
+uso preferente de los recursos naturales . Sin embargo, 
+este “uso preferente” tiene indefinición jurídica 
+y puede interpretarse de distintas maneras; por 
+ello, la excepción elimina la preferencia y se vuel-
+ve normalidad. Además se le niega el carácter de 
+derecho de usufructo colectivo dando pie a que 
+terceros aprovechen los bosques, por ejemplo. 
+Gran parte de la diversidad biológica de los 
+pueblos indígenas se encuentra en tierras de uso 
+común, por lo que los acuerdos y reglas de acceso 
+de los ejidatarios y comuneros es condición nece-
+saria para evitar lo que se denomina la “tragedia 
+de los comunes” y la ingobernabilidad regional 
+impuestas por taladores y narcotraficantes. La tra-
+gedia de los comunes se cumple cuando se pier-
+den o violentan las reglas colectivas del uso y acce-
+so de los recursos y que para apropiarse de este 
+bien común, se impone una minoría de personas 
+o grupos privados, de origen externo o interno a 
+las comunidades. 
+La interfase entre pueblos indígenas y bienes 
+comunes son los derechos indígenas colectivos, y 
+los recursos comunes la base material, social y cul-
+tural. Es decir, que los derechos incluyen aspectos 
+centrales como la propiedad de la tierra, el acceso 
+colectivo a los recursos naturales, el conocimien-
+to, la gobernanza ambiental y social, el desarrollo 
+y la identidad (Lauriola, 2005). Por otro lado, la 
+agrobiodiversidad se encuentra parcialmente en 
+las parcelas individuales y en los huertos familia-
+res que en procesos grupales se va intercambian-
+do y generando así un bien colectivo. Las plantas 
+medicinales se encuentran en todos los rincones 
+de sus territorios, es decir, en el monte, en los aca-
+huales y en los huertos familiares. Se trata del pa-
+trimonio biocultural de los pueblos indígenas de 
+México.
+La defensa de la agrobiodiversidad indígena y 
+de los conocimientos indígenas sui generis como 
+marca el acuerdo del 
+CDB
+ ni siquiera se menciona 
+en la Constitución mexicana. No hay constitucio-
+Paisaje agrario de Jiquipilco El Viejo, Estado de México.
+----------------Page (235) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+236
+nalmente la protección para las semillas y plantas 
+que los indígenas domesticaron y que hoy se en-
+cuentran todavía en sus territorios, siendo que los 
+derivados de esta proeza que contribuyen con 
+15.4 por ciento de las plantas y semillas al sistema 
+alimentario mundial proviene de México (Cona-
+bio, 2006a), en especial de los pueblos indígenas 
+que mantienen y hacen evolucionar ese acervo. 
+Por tanto, es necesaria una reforma constitucional 
+y del Estado que responda al gobierno de los pue-
+blos indígenas, al derecho al territorio, a México 
+como centro de origen de la diversidad biológica, 
+al agua, al uso y acceso colectivo de los recursos 
+naturales y agrobiodiversidad como bien común y 
+su manejo sustentable, a la propiedad intelectual 
+sui generis de los conocimientos tradicionales y, en 
+especial, de las semillas y plantas domesticadas 
+como recursos biológicos colectivos
+1
+ cuando en-
+tran al circuito comercial o pretenden ser utiliza-
+dos por terceros, como las compañías semilleras 
+trasnacionales y farmacéuticas.
+Los indígenas no aparecen como colectivo en 
+las comisiones y consejos en instituciones interna-
+cionales, nacionales, estatales, regionales o munici-
+pales que afectan sus intereses y los acervos que 
+tratan sobre la diversidad biológica y agrobiodiver-
+sidad; comisiones forestales, de derechos intelec-
+tuales, de bioseguridad, de propiedad intelectual, 
+de cuenca, de desarrollo sustentable o de la misma 
+Conabio, de áreas naturales protegidas, etcétera. 
+1
+ Por recursos biológicos “se entiende los recursos genéti-
+cos, los organismos o partes de ellos, las poblaciones, o cual-
+quier otro componente biótico de los ecosistemas con valor real 
+o utilidad real o potencial para la humanidad”, Larson (2002). 
+Jóvenes nahuas de Tzinacapan, Puebla.
+----------------Page (236) Break----------------
+Te j i e n d o l a r e d b i o c u l t u r a l d e c o n s e r v a c i ó n y d e s a r r o l l o
+237
+ De cara al cambio climático global, los pueblos 
+indígenas podrían participar significativamente 
+en la agenda mínima para conservar y aumentar la 
+captura de carbono, manejar y asegurar la capta-
+ción de agua (la quinta parte del país), custodiar o 
+ser guardianes de los pocos ecosistemas funciona-
+les y de la mitad de las especies que se encuen-
+tran en el país, y salvaguardar el germoplasma 
+cultural de la biodiversidad cultivada. 
+En este capítulo deseo presentar, a partir de 
+las conclusiones generales anteriormente plan-
+teadas, algunos procesos de fortalecimiento de lo 
+que podemos llamar culturas indígenas de conserva-
+ción , en estas áreas prioritarias bioculturales como 
+parte de la discusión estratégica de qué hacer en 
+un país megadiverso, de origen del sistema ali-
+mentario nacional e internacional. En efecto, tan-
+to a nivel internacional desde el 
+CDB
+ hasta las co-
+munidades locales se ha desarrollado el interés de 
+cómo construir modelos de organización partici-
+pativa que miren hacia la sustentabilidad. En este 
+sentido, sobre la base del conocimiento local se 
+crea un nuevo conocimiento de conservación, or-
+ganismos de gobierno local creados ad hoc , y orga-
+nismos de segundo nivel para la “gobernanza” 
+que conduzcan a la conservación y al desarrollo 
+local. También observamos cómo estas nuevas 
+culturas de conservación tienen como uno de sus 
+atributos la resiliencia de la vegetación natural y 
+de la fauna. 
+En México, la creación de las culturas indígenas 
+de conservación son un hecho y se están multipli-
+cando sus experiencias, de manera que se co-
+mienza a tener nuevos paisajes con cubierta vege-
+tal como en la Sierra Norte de Oaxaca-Mixe, entre 
+muchas otras regiones.
+¿Cuáles podrían ser las experiencias y leccio-
+nes a aprender para desarrollar las “culturas indí-
+genas” y campesinas de conservación? La defen-
+sa de los recursos biológicos colectivos se 
+interseccionan en tres ámbitos: 1) bioseguridad, 
+2) la propiedad intelectual, y 3) el acceso y desa-
+rrollo de los recursos por parte de los pueblos in-
+dígenas. 
+Te n e m o s e x p e r i e n c i a s q u e n o s b r i n d a n l a o p o r -
+tunidad de establecer la defensa y desarrollo de la 
+enorme riqueza de la biodiversidad y agrobiodi-
+versidad en México para que los pueblos indíge-
+nas integren un eje estratégico (en caso que sea 
+posible) en alianza con el Estado para enfrentar el 
+deterioro ambiental y combatir la pobreza. A partir 
+de las experiencias y conocimientos de los pue-
+blos indígenas, las comunidades han elaborado 
+programas y procedimientos que apuntan al uso 
+sustentable de los recursos naturales en áreas de 
+uso común y en las propias parcelas, con benefi-
+cios sociales y económicos evidentes, creándose 
+superficies de conservación importantes, lo que se 
+puede denominar sustentabilidad espacial de los re-
+cursos naturales. Ésta responde íntegramente a los 
+planteamientos del Milenio de las Naciones Uni-
+das (Millennium Ecosystem Assessment, 2005) 
+cuando se postula que no sólo se trata de preservar 
+genes, especies en peligro, interacciones entre las 
+especies y ecosistemas, sino también sus servicios 
+ambientales. Algunos de ellos serían la conserva-
+ción de la diversidad biológica, la agrobiodiver-
+sidad, los suelos, el agua y la masa forestal. 
+Experiencias en la gestión ambiental de los 
+ecosistemas por parte de las comunidades 
+y los ejidos en los territorios de los pueblos 
+indígenas. Definiendo las regiones bioculturales 
+de conservación y desarrollo
+Partimos de las experiencias de lo que podemos 
+denominar “las nuevas políticas de las comunida-
+des indígenas y campesinas hacia la sustentabili-
+dad” que se han ido forjando desde la década de 
+1980 en territorios de los pueblos indígenas. Pre-
+viamente, las comunidades campesinas e indíge-
+----------------Page (237) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+238
+sarrollan la capacidad para mejorar los recursos 
+ecosistémicos que se dan local, regional y nacional-
+mente; también aportan métodos y técnicas pro-
+pias para enfrentar los problemas de la pobreza. 
+Dividiremos en cuatro partes estas experien-
+cias de conservación de los bosques y selvas prima-
+rias y secundarias, y de la agrobiodiversidad en las 
+regiones bioculturales y, en general, en territorios 
+de los pueblos indígenas: 1) programas para el me-
+joramiento de la funcionalidad de los ecosistemas 
+naturales: conservación y restauración de la cu-
+bierta de vegetación primaria y secundaria princi-
+palmente arbórea con cubierta de muy alto valor 
+biológico y de especies en vía de extinción; 2) ini-
+ciativas de conservación en comunidades indíge-
+nas; en este apartado consideramos los siguientes 
+aspectos: A) ordenamiento ecológico y territorial: 
+definición y delimitación de áreas de cultivo, de 
+ganadería, manejo forestal, conservación y restau-
+ración, y B) administración de los recursos bio-
+lógicos colectivos; en esta sección se clasifican los 
+nas habían recuperado mediante los procesos de 
+reforma agraria territorios importantes de selvas y 
+bosques. Miles de hectáreas de selva en manos de 
+empresas estadunidenses y mexicanas fueron re-
+partidas a los ejidos para el aprovechamiento del 
+chicle y con criterio de sustentablidad el gobierno 
+de Lázaro Cárdenas dio en uso común 400 hectá-
+reas por chiclero, fundándose las primeras selvas 
+extractivas en América Latina (Boege y González, 
+1996). Estas experiencias tienen como origen mo-
+vimientos sociales, principalmente en Quintana 
+Roo, Campeche, Oaxaca, Durango y Michoacán, 
+por la recuperación de los recursos forestales en 
+contra de las concesiones a industrias privadas y 
+estatales que arrasaron o descremaron los bosques 
+y selvas primarias. Posteriormente incursionan en 
+otros ámbitos como el manejo de fauna, no made-
+rables y la agroforestería y agroecología. Estas ex-
+periencias revalúan los recursos naturales en los 
+territorios de los pueblos indígenas, refuerzan la 
+organización social autónoma y democrática, y de-
+Selva rozada para sembrar una milpa, Veracruz. 
+----------------Page (238) Break----------------
+Te j i e n d o l a r e d b i o c u l t u r a l d e c o n s e r v a c i ó n y d e s a r r o l l o
+239
+siguientes temas: a) iniciativas indígenas para el 
+establecimiento de reservas comunitarias para la 
+conservación; b) manejo de cuencas y microcuen-
+cas como acción colectiva, y c) forestería social o 
+comunitaria: manejo forestal sustentable; manejo 
+de no maderables: café bajo sombra; 3) programa 
+indígena para la conservación in situ de la agrobio-
+diversidad mesoamericana, y 4) de la organización 
+social democrática para la defensa y desarrollo 
+sustentable de los recursos naturales. 
+Para estructurar estas experiencias dentro de 
+un proyecto nacional con los pueblos indígenas, 
+documentamos suficientes ejemplos que permi -
+tan proponer líneas de trabajo futuro para las orga-
+nizaciones sociales y las políticas públicas. 
+Programas para el mejoramiento de la 
+funcionalidad de los ecosistemas naturales: 
+conservación y restauración de la cubierta de 
+vegetación primaria y secundaria principalmente 
+arbórea con cubierta de muy alto valor 
+biológico y de especies en vías de extinción
+Frente al siglo 
+XXI
+, el reto más importante para la 
+humanidad es enfrentar en todos los ámbitos so -
+ciales, incluyendo a los pueblos indígenas, la crisis 
+ambiental generada por el proceso civilizatorio de 
+Occidente. Esta crisis se manifiesta no sólo en los 
+altos índices de deforestación, sino en la pérdida 
+de acervos genéticos, de especies, y de funcionali-
+dad de los ecosistemas para proveer los servicios 
+ecosistémicos globales y regionales regulatorios 
+(como clima, agua, enfermedades), de suministro 
+(como agua y suelos), básicos (como agua, materias 
+primas, alimentos) y culturales (como paisajes es-
+téticos y espirituales). Las 
+RTP
+, 
+RHP
+y 
+AICA
+ son los 
+primeros instrumentos analíticos espaciales que 
+ideó la Conabio para ubicar la megadiversidad de 
+México. Resulta que si sobreponemos las poligo-
+nales de estas regiones a los territorios indígenas, 
+éstas cubren una superficie de 19 675 979 hectá-
+reas, esto es, 70 por ciento. Para 2006 esta superficie 
+incluía las áreas naturales protegidas federales y es -
+tatales, sumando un total de 2039 057 hectáreas, 
+por lo que podemos conluir que la enorme riqueza 
+biológica y de la agrobiodiversidad no tiene oficial-
+mente más que una cobertura de 7 por ciento. 
+Obviamente, el 
+ANP
+ para la conservación es im-
+portante pero insuficiente cuando están involu-
+cradas comunidades y territorios indígenas. En la 
+discusión internacional y nacional sobre los dis-
+tintos mecanismos de conservación, son cada vez 
+más las voces, tanto de los propios actores como 
+de la academia, que señalan que cuando se crea -
+ron las reservas o parques naturales, no se tomó 
+en cuenta la opinión ni se impulsó la participa-
+ción activa de la población local para “gobernar” a 
+las 
+ANP
+. Del mismo modo, desde el punto técnico, 
+las 
+ANP
+ no pueden ser el único instrumento para 
+construir la estrategia de conservación en un país 
+(Halffter, 2005; Toledo, 2005; Gerez, 1999; Jan-
+zen, 2000). La relación 
+ANP
+ con los distintos gru-
+pos sociales, incluyendo los indígenas, no siem-
+pre ha sido de sinergia. Paré y Cortés (2006) 
+hacen un estudio comparativo de Montes Azules 
+y Los Tuxtlas, dos reservas de la biosfera con im -
+portante presencia indígena y nos presentan las 
+siguientes conclusiones:
+En las dos se muestran los intereses contradic-
+torios entre los distintos actores, como son colo-
+nizadores originales que fueron incitados por el 
+Estado a colonizar estas regiones de compañías 
+madereras privadas y paraestatales, de los distin-
+tos intereses con políticas específicas de cada una 
+de las dependencias gubernamentales tanto fede-
+rales como estatales, de organizaciones de media-
+ción política del 
+PRI
+ y otros partidos que se dedican 
+a la invasión de áreas federales, o bien la presencia 
+del movimiento autonómico zapatista, de las 
+ONG
+de gestión ambiental nacionales e internacionales 
+cada una con sus propias agendas. Hay zonas en 
+----------------Page (239) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+240
+chinantecos o tzotziles en la sierra norte de Oaxa-
+ca o Chiapas respectivamente. En los territorios 
+indígenas hay una presencia inmejorable desde el 
+punto de vista de la variedad de ecosistemas y es-
+pecies, por lo que si México quiere preservar su 
+diversidad biológica, tiene que incorporar obliga -
+toriamente además de las 
+ANP
+ otros esquemas a la 
+conservación, mismos que los pueblos indígenas 
+y comunidades campesinas pueden proporcionar 
+de manera protagónica. 
+En conclusión, la cuestión central es entender 
+cómo las comunidades, organizaciones indígenas 
+y campesinas participan activamente en lo que po-
+demos llamar una sustentabilidad espacial más 
+allá del Sistema Nacional de Áreas Naturales Pro-
+tegidas y las 
+ANP
+ estatales. En realidad, en la con-
+servación se trata de la “gobernanza” sobre territo-
+rios de alto valor en diversidad biológica que 
+proporcionan a la sociedad servicios ecosistémi-
+cos globales, regionales y locales imprescindibles 
+para sobreviviencia del planeta y de las regiones. 
+Según la experiencia indígena en la conservación 
+de facto , y de varios procesos de conservación in situ ,
+tanto de la forestería social y/o de áreas de conser-
+vación comunitaria, podemos afirmar que los me-
+jores caminos hacia el combate a la desertificación 
+del país, la protección de los ecosistemas, de la 
+vegetación primaria y secundaria, pasan por el 
+control social autogestivo de las propias comuni-
+dades principalmente indígenas. Inclusive, para 
+las propias reservas en sus múltiples modalidades 
+es necesario lanzar una nueva política para que los 
+habitantes que viven dentro de ellas, y en espe-
+cial los indígenas, participen junto a las demás co-
+munidades en la toma de decisiones tanto estra-
+tégicas como de los programas operativos anuales 
+de las mismas. Esto se logra con tener representa-
+ción como indígenas en los consejos técnicos de 
+las reservas, cuando éstos existen. 
+Hay un tema que apenas se menciona en la con-
+servación nacional. Son los lugares sagrados de los 
+las reservas y afuera de ellas, que se vuelven terri-
+torios con poderes fácticos de los narcotraficantes 
+o de taladores. En este coctel de intereses, los 
+pueblos indígenas quedan prácticamente a la de -
+riva, ya que no participan como tales en los conse -
+jos de las reservas. Así se decreta una reserva y se 
+dan casos en que los directivos, o la misma 
+PROFE
+-
+PA
+, no comprende que en esos territorios se han 
+desarrollado actividades de larga duración en la 
+misma como sería la pesca de la corvina por parte 
+de los cucapás en el delta del río Colorado, o la 
+recolección de palma por los otomíes en la Barran-
+ca de Meztitlán. Por otro lado, las políticas de pro-
+tección de las 
+ANP
+ no incluyen la conservación in 
+situ de la agrobiodiversidad, ni los agroecosiste-
+mas creados históricamente por los pueblos indí-
+genas. Justamente, las distintas reservas presen-
+tan diferentes tipos de vegetación y adaptaciones 
+específicas a esos ecosistemas por los indígenas 
+que deberían ser objeto de conservación. 
+Halffter (2005) nos explica que la riqueza de 
+la biodiversidad en México no sólo se encuentra 
+en la diversidad alfa (número de especies por área 
+determinada), atendida en parte para su conser-
+vación por las 
+ANP
+, sino que está en la diversidad 
+beta (ensambles distintos entre el medio físico, la 
+flora y fauna de un mismo tipo de ecosistema o ti-
+po de vegetación). El análisis comparativo entre 
+la presencia nacional de los tipos de vegetación 
+con aquella que se encuentra en territorios indí-
+genas, nos lleva a concluir que los pueblos indíge-
+nas son imprescindibles para la preservación de la 
+diversidad biológica y sus servicios ecosistémicos. 
+Esta importancia se magnifica con la observación 
+de Halffter para crear algo así como “reservas ar-
+chipiélago” para atender la conservación de la di -
+versidad beta, que es uno de los secretos de la me-
+gadiversidad en México. Por ejemplo, la diversidad 
+de ecosistemas y variedades de coníferas o enci-
+nos en los territorios de los rarámuri, no son las mis-
+mas que las que se encuentran en los territorios 
+----------------Page (240) Break----------------
+Te j i e n d o l a r e d b i o c u l t u r a l d e c o n s e r v a c i ó n y d e s a r r o l l o
+241
+pueblos indígenas, como por ejemplo los sitios de 
+la peregrinación huichola que culminan en Wiri-
+kuta, situado en Real del Catorce, San Luis Potosí; 
+el Cerro Rabón en la Sierra Mazateca: el Cerro 
+Cempoaltépetl en la Mixe, o el Cerro Monteflor 
+en la comunidad chinanteca de San Miguel Mali -
+naltepec, Oaxaca, etcétera. De hecho, no existe un 
+catálogo nacional de lugares sagrados de los pue-
+blos indígenas mismos que deberían tener un es -
+tatus de protección constitucional. Como en todos 
+los casos estos lugares sagrados deben ser maneja -
+dos bajo la batuta autogestiva de las comunidades 
+indígenas y por supuesto no por planes de manejo 
+desarrollados por cualquier consultora externa.
+Por lo anterior, es central el desarrollo de polí-
+ticas públicas y de los propios pueblos indígenas 
+en tres ámbitos de sus territorios y comunidades: 
+defender el bosque y selvas primarias, mejorar las 
+selvas y bosques secundarios, reconstruir y refo-
+restar las partes más destruidas, y desarrollar las 
+áreas de defensa de la agrobiodiversidad. Hoy en 
+día ya no sólo se trata de conservar el acervo de los 
+Ritual de la fertilidad y petición de agua de los indígenas nahuas en el paraje llamado El Cruzco, municipio de Zitlala, 
+Guerrero.
+----------------Page (241) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+242
+genes o especies en peligro, sino los ecosistemas y 
+sus servicios en una dinámica cambiante por el 
+cambio climático, ante la erosión de su funcionali-
+dad, lo que nos acercaría a lo que se podría llamar 
+conservación biorregional. 
+Iniciativas de conservación 
+de las comunidades indígenas 
+Hay numerosas experiencias exitosas de organiza-
+ción y manejo sustentable de los recursos natura-
+les por parte de organizaciones sociales con raíces 
+indígenas, que al reorganizarse tienen éxito noto-
+rio en los aspectos comunitarios, económicos y so-
+ciales importantes. Una y otra vez observamos 
+que estas experiencias se construyen desde la 
+perspectiva de la defensa de lo propio frente al sa-
+queo desde el exterior. Los comuneros y ejidata-
+rios de las comunidades forestales de México han 
+observado como fueron destruidos sus bosques y 
+selvas primarias por grandes empresas o sus inter-
+mediarios bajo la figura legal de las “concesiones” 
+o bien por caciques y sus pistoleros. Esta situación 
+creó desazón en los propios comuneros y descuido 
+de los bosques por ejemplo, cuando se presentaban 
+incendios forestales.
+2
+ Asimismo, la pérdida del con-
+trol social sobre sus recursos tanto por las concesio-
+nes como por caciques internos de las comu-
+nidades, cambio de uso del suelo, ha creado una 
+situación de destrucción. La venta de madera ilegal 
+en comunidades descontroladas, sigue siendo uno 
+de los flagelos de los bosques y selvas mexicanos.
+Las experiencias de manejo forestal comunita-
+rio sustentable, parte de una lucha intensa de las 
+comunidades indígenas y campesinas forestales 
+que se opusieron en los años setenta en contra de 
+las concesiones forestales a grandes monopolios 
+privados y estatales, mismos que esperaban del 
+gobierno del presidente José López Portillo que 
+les renovara la concesión por otros 25 años. Pero 
+el movimiento campesino e indígena logró frenar 
+esta iniciativa con distintas estrategias de lucha 
+como los paros, bloqueos de los caminos foresta-
+les, huelgas de trabajadores en los aserraderos, 
+marchas, y una gran batalla legal en la Suprema 
+Corte de la Nación para que no se renovaran las 
+concesiones consideradas por los indígenas como 
+ilegales. El proceso fue largo y comuneros y líde -
+res murieron en manos de los caciques intermedia-
+rios o fueron encarcelados. La Suprema Corte de 
+la Nación les dio la razón y comenzó el largo pro-
+ceso a veces inconcluso de reapropiación de los 
+recursos naturales por parte de los comuneros y 
+ejidatarios. Asimismo desde la Subsecretaría Fo-
+restal Federal, bajo la dirección del ingeniero 
+2
+ Ostrom (2000) describe con agudeza la situación de de-
+terioro de los recursos naturales cuando los usuarios tradicio-
+nales (campesinos o indígenas) pierden los derechos sobre sus 
+recursos —léase por ejemplo concesiones o convenios o con-
+tratos— y desaparecen los incentivos para la vigilancia y la or-
+ganización para restringir el libre acceso a los recursos. 
+Alumnos de la escuela rural de Santa Cruz, Hidalgo.
+----------------Page (242) Break----------------
+Te j i e n d o l a r e d b i o c u l t u r a l d e c o n s e r v a c i ó n y d e s a r r o l l o
+243
+Cuauhtémoc Cárdenas, se inició un proceso de 
+apoyo a la forestería comunitaria. Con los triunfos 
+del movimiento indígena y campesino por la recu-
+peración del control social sobre sus recursos, se 
+fueron construyendo modelos múltiples de orde-
+namiento, conservación y aprovechamiento. Los 
+agentes externos que apoyaron estos procesos sus-
+tentables son de diverso origen, a veces 
+ONG
+, pres-
+tadores de servicios forestales honestos, organiza -
+ciones campesinas e indígenas regionales, algunas 
+instituciones gubernamentales, programas con 
+apoyo internacional .
+En estas experiencias de conservación, orde-
+namiento territorial ecológico de las comunidades 
+indígenas, de la creación de empresas ejidales y 
+comunales, de servicios técnicos comunes, de la 
+formación de capacidades técnicas locales, de bús-
+queda de frentes de comercialización comunes, 
+de agroforestería sustentable, de mercados justos 
+etcétera, se formaron uniones regionales u organi-
+zaciones de segundo nivel.
+3
+ Las comunidades 
+que lograron recuperar el control social de la asam-
+blea ejidal y comunal sobre sus territorios y recur-
+sos, comenzaron a buscar alternativas para apro-
+vecharlos de forma sustentable. 
+A partir de todas estas experiencias se desarro-
+llaron algunos programas piloto auspiciados por el 
+Global Environnmental Facility (
+GEF
+, por sus si-
+glas en inglés) que retoman estas experiencias 
+planteando un menú de alternativas como el Pro-
+grama de Conservación y Manejo de Recursos Fo-
+3
+ Ejemplos de estas organizaciones de segundo nivel se-
+rían la Unión de Comunidades Zapotecos y Chinantecas, 
+Unión Ixtlán-Etla, Comité Regional de Recursos Naturales 
+de la Chinantla, Unión de Comunidades Indígenas de la Re-
+gión del Istmo, Unión de Comunidades Zapotecas y Chinan-
+tecas, Sistema Comunitario para el Manejo y Conservación 
+de la Biodiversidad, Coordinadora Estatal Productores Café 
+Organico Oaxaca 
+CEPCO
+, 
+UCIRI
+ en Oaxaca, etcétera; la organi-
+zación regional campesina 
+SSS
+ Sanzekan Tinemi en Chilapa, 
+Guerrero, la Cooperativa Productores Campesinos Tozepan 
+Pankizaske, S.C. de R.L. de C.V en la Sierra de Puebla, las 
+Sociedades Civiles de Quintana Roo.
+restales (Procymaf), el Proyecto de Conservación 
+de la Biodiversidad en Comunidades Indígenas 
+(Coinbio), Manejo Integrado de Ecosistemas en 
+tres Ecorregiones Prioritarias (
+MIETEP
+), Corredor 
+Biológico Mesoamericano-México y a nivel nacio-
+nal, y con presupuestos muy limitados los Progra-
+ma de Desarrollo Regional Sustentable (Proders), 
+etcétera. Por ejemplo, Coinbio tiene en proceso 
+el ordenamiento territorial de 140 mil hectáreas 
+en ejidos y comunidades, de ellas 70 mil se dedi-
+can al uso sustentable de los recursos y otra canti-
+dad igual está destinada a reservas comunitarias.
+ En Anta y Pérez (2004) se hace un recuento 
+de 616 comunidades del estado de Oaxaca que 
+tienen alguna actividad o experiencia en el buen 
+manejo de sus recursos naturales. Los autores con-
+sideran que 200 de ellas pueden ser consideradas 
+con avances; las más numerosas se ubican en el sec-
+tor agropecuario y agroforestal (principalmente 
+en la producción del café a sombra), seguidas por 
+las comunidades forestales de las cuales 150 co-
+munidades forestales trabajan 650 mil hectáreas 
+sustentablemente y treinta empresas silvícolas 
+comunitarias. Le siguen en importancia comuni-
+dades de las selvas húmedas, bosques mesófilos, 
+selvas secas y pocas experiencias en manglares. 
+La Sierra Norte de Oaxaca-Mixe es la 
+RTP
+ con ma-
+yor número de localidades (213) que con sus acti-
+vidades de buen manejo cubren miles de hectá-
+reas de bosque primario y secundario. Esta 
+RTP
+coincide con la descripción dada en el capítulo III 
+de este libro, y en la cual esta zona tiene los más 
+altos valores de diversidad biológica. Simplemen-
+te, en el territorio de los mazatecos y chinantecos 
+tenemos ocho y nueve tipos de vegetación, respec-
+tivamente, y precipitaciones anuales que van de 
+500 a 4 500 mm, cuya diferencia se expresa en me-
+nos de 100 km en línea recta. 
+Los servicios ecosistémicos que esta 
+RTP
+ pro-
+porciona son importantísimos para la economía 
+nacional: agua, suelos, sumideros de carbono, di-
+----------------Page (243) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+244
+versidad biológica y área focal como centro de ori-
+gen de diversificación de la agrobiodiversidad 
+mesoamericana. Las cuestiones son cómo gene-
+ralizar las experiencias de manejo comunitario en 
+toda la 
+RTP
+, y cómo asimilar las enseñanzas para 
+impulsarlas en otras zonas. Con estas experiencias 
+que podemos denominar in etno situ (Challenger, 
+1998) se han registrado avances importantes en el 
+aprovechamiento sustentable de los recursos natu-
+rales. Las experiencias más exitosas para la conser-
+vación y el desarrollo biorregional, se refieren a la 
+integración de políticas de manejo sustentable en 
+tres frentes articulados: el frente regional (con or-
+ganizaciones de segundo nivel), de las comunida-
+des dentro de su territorio agrario principalmente 
+en las tierras comunales y de uso común, y el de 
+los productores(as) individuales (integrados en 
+cooperativas o asociaciones de tipo productivo 
+cultural u otro). Para garantizar la sustentabilidad 
+y las experiencias comunitarias de la forestería so-
+cial, el manejo de microcuencas, como las inicia-
+tivas de áreas comunitarias protegidas tienen 
+procesos en común ordenamientos ecológicos y 
+territoriales, reorganización social y reglas claras 
+de acceso a los recursos naturales. 
+Lecciones para la conservación del patrimonio 
+biocultural de los pueblos indígenas: 1) estableci-
+miento de reservas comunitarias para la conserva-
+ción de selvas y bosques primarios y secundarios; 
+2) manejo de cuencas, subcuencas y microcuencas 
+como acción colectiva de comunidades indígenas 
+y campesinas; 3) manejo forestal comunitario sus-
+tentable que incluye los no maderables como el 
+chicle, palma camaedora y pita, miel multifloral de 
+las distintas selvas; 4) el desarrollo de la produc-
+ción de café bajo sombra y en parte de miles de 
+Paisaje de Jiquipilco El Viejo, Estado de México.
+----------------Page (244) Break----------------
+Te j i e n d o l a r e d b i o c u l t u r a l d e c o n s e r v a c i ó n y d e s a r r o l l o
+245
+El ordenamiento de los territorios comunales im-
+plica la existencia de mecanismos legales de reco-
+nocimiento de los derechos colectivos de propie-
+dad sobre los territorios por ordenar. Tales derechos 
+comprenden, por supuesto, el relativo a la titulari-
+dad de las tierras, pero incluyen también los dere-
+chos a acceder, usar y disponer de la tierra y los re-
+cursos asociados, a aprovechar los productos que se 
+obtengan y a transferir la propiedad a un nuevo due-
+ño. Como veremos, no siempre se reconocen todos 
+estos derechos de propiedad colectiva; por el con-
+trario, lo normal es que solamente se acepten algu-
+nos y que, sobre la marcha, las comunidades ejer-
+zan los derechos otorgados y adquieran otros, en un 
+proceso paulatino de apropiación.
+Todas las experiencias parten de la planeación 
+territorial que realizan las propias comunidades 
+con apoyo técnico exterior
+4
+ se conjuntan así los 
+saberes indígenas con los requerimientos oficiales 
+para el manejo sostenible de los recursos natura-
+les. Chapela y Lara (1996) señalan que los ordena-
+mientos, permiten crear un espacio de planifica -
+ción más allá de las necesidades individuales 
+apremiantes. Planificar el uso de los territorios co -
+
+ Estudios Rurales y Asesoría, 
+ERA
+, A.C., asociación pione-
+ra en la promoción de la Planeación Comunitaria del Manejo 
+del Territorio, metodología enfocada hacia el ordenamiento 
+de comunidades forestales en Oaxaca. Grupo de Estudios 
+Ambientales, 
+GEA
+, A.C, en varias partes del país principalmete 
+en Campeche, Guerrero, Michoacán. Grupo Autónomo de 
+Gestión Ambiental, 
+GAIA
+, A.C., organización con amplia expe-
+riencia en la gestión participativa de recursos naturales en la 
+Costa Oaxaca y que en el año 2000 realizó el ordenamiento 
+para el manejo de las subcuencas del río Copalita. Methodus, 
+S.C., organismo civil profesional experto en sistemas agrofo-
+restales, fortalecimiento del capital social y creación de em-
+presas comunitarias. Capacitación y Planeación Comunitaria, 
+A.C. en la Chinantla Alta, con amplia capacidad técnica para 
+la elaboración cartográfica, el trabajo comunitario y la educa-
+ción ambiental. Programa de Aprovechamiento Integral de 
+los Recursos Naturales, 
+PA I R
+, A.C. con más de 15 años de tra-
+bajo en ordenamientos y desarrollo comunitario, sobre todo 
+en el estado de Guerrero. Asimismo, Procymaf, Coinbio, et-
+cétera, han trabajado con las comunidades forestales de Oaxa-
+ca, Guerrero y Michoacán, Quintana Roo, Durango, y Jalisco. 
+pequeños productores indígenas; 5) esquemas de 
+ecoturismo de bajo impacto y 6) La conservación 
+in situ en agroecosistemas mejorados de la agro-
+biodiversidad mesoamericana con métodos 
+agroecológicos afines a las tradiciones indígenas. 
+Ordenamiento ecológico y territorial: definición y 
+delimitación de áreas de cultivo, de ganadería, manejo 
+forestal, conservación y restauración 
+El ordenamiento del territorio no es algo nuevo 
+para las comunidades indígenas y/o campesinas. 
+De hecho, existe el “territorio simbólico”, en don-
+de se plantea la existencia de sitios sagrados, el 
+área de la selva o bosques en donde hay que ha-
+cer rituales para intervenir en ellos, como derribar 
+árboles para sembrar, cazar, etcétera, (Boege, 
+1988). El ordenamiento de los territorios ejidales 
+y comunales desde los años 1980 hasta la fecha, 
+se ha convertido en parte en una conquista de los 
+comuneros y ejidatarios y el reconocimiento de 
+los derechos colectivos de propiedad sobre la tie-
+rra y los recursos, en resumen el gobierno sobre 
+sus territorios. Tales derechos comprenden, por 
+supuesto, la titularidad de la tierra, el ser socios 
+ejidales y comuneros, el de acceder, usar y dispo-
+ner de la tierra. La importancia de los derechos 
+colectivos con relación al ordenamiento territorial 
+es fundamental. En México, es muy difícil con-
+cebir la continuidad de los procesos ecológicos 
+básicos (flujos migratorios, ciclos de agua y carbo-
+no, regeneración de la fertilidad de los suelos), sin 
+el gobierno de los bienes comunes en ejidos y tie -
+rras comunales. Claro que se pudieran constituir 
+macizos forestales de propiedad latifundista y/o 
+estatal, pero en el caso histórico de México, la re-
+forma agraria se encargó de repartir los grandes 
+latifundios. Asimismo, la colonización por incen-
+tivo público de selvas y terrenos nacionales ha 
+concluido (Chapela, 2006). 
+En el mismo artículo Chapela señala lo si-
+guiente: 
+----------------Page (245) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+246
+munales con una perspectiva a largo plazo implica 
+que la colectividad ha decidido voluntariamente 
+sujetarse a un régimen normativo establecido que 
+favore ce a los socios y no necesariamente a los indi -
+viduos. Continúa señalando que regenerar, por 
+ejemplo, áreas de bosques degradadas obedece a 
+una necesidad de formar los “almacenes” de re -
+cursos forestales del futuro y que no se puede ex -
+plicar la decisión como un estricto requerimiento 
+productivo de los comuneros que hoy ahí viven. 
+La regeneración emerge como un interés colecti -
+vo que antes no existía. Una experiencia típica de 
+los ordenamientos territoriales comunitarios como 
+instrumento de planeación es la que se da en un 
+proceso de intercambio de saberes y de coopera -
+ción activa entre gente designada por la asamblea, 
+la comunidad y voluntarios por sectores (mujeres, 
+ancianos, comuneros activos, niños), con gran co-
+nocimiento de causa y capacidad de generar con -
+sensos entre grupos contradictorios y un equipo 
+técnico multidisciplinario que maneja sistemas de 
+información geográfica. En talleres de planeación 
+participativa se habla por primera vez de manera 
+sistemática de prácticas de aprovechamiento, de 
+la calidad de los recursos e incluso de formas inde-
+bidas o ilegales de apropiación por algunos de sus 
+miembros. Uno de los ejes conductores es la pre-
+gunta de cómo hacer para que los recursos no se 
+acaben, esto es, la necesidad de un uso sustenta -
+ble. Otro punto clave es construir la confianza de 
+que los acuerdos y reglas se respeten. En resu-
+men, Pardo (2003) presenta la siguiente síntesis 
+de los ordenamientos territoriales comunitarios 
+que estudió: 
+1) El ordenamiento del territorio es una he-
+rramienta de gran utilidad para la planeación de 
+los recursos comunitarios, al combinar técnicas 
+de análisis y modelación geográfica y metodolo -
+gías de participación comunitaria. El ordena-
+miento puede considerarse la plataforma hacia la 
+autonomía en la toma de decisiones acerca del ma-
+nejo de los recursos y hacia la autogestión comu-
+nitaria.
+2) La integración de ordenamientos comunita-
+rios a nivel de cuenca hidrográfica y región puede 
+constituir la base para una política de ordenamien-
+to regional y desarrollo sustentable construida “de 
+abajo hacia arriba”, que oriente las inversiones pro-
+ductivas del gobierno hacia los programas diseña-
+dos por las comunidades.
+3) Para las comunidades, el ordenamiento es un 
+medio para mejorar la organización social y obtener 
+apoyos para proyectos productivos sustentables.
+4) Con ello se logra establecer una plataforma 
+de negociación interna para fijar las reglas de apro-
+piación del recurso, restricción al acceso abierto y 
+desordenado y la recuperación del recurso aprove-
+chado.
+5) Para los tres niveles de gobierno, el ordena-
+miento genera certidumbre para invertir en pro-
+gramas diseñados en función de la vocación de 
+uso del suelo y con el consenso comunitario.
+6) Para las organizaciones civiles que promue-
+ven los ordenamientos, éstos son instrumentos 
+que permiten una planeación a largo plazo del de-
+sarrollo de la comunidad con base en criterios loca-
+les de bienestar.
+7) El principal logro de los ordenamientos es 
+llegar a consensos sobre normas de uso del territo-
+rio, que integran el conocimiento local con criterios 
+técnicos de optimización del aprovechamiento.
+8) Una de las principales limitantes para la im-
+plementación de los ordenamientos ecológicos 
+comunitarios es que no tienen vinculación legal, 
+al no estar reconocidos en ningún instrumento 
+normativo. Para su validación, deben ser expedi-
+dos por las autoridades municipales o, una vez in-
+cluidos en Reglamentos o Estatutos Comunita -
+rios, validados en el Registro Agrario Nacional.
+9) Los ordenamientos comunitarios deben 
+adaptarse a los tiempos locales y no a los calenda -
+rios fiscales. Para que la comunidad se apropie del 
+----------------Page (246) Break----------------
+Te j i e n d o l a r e d b i o c u l t u r a l d e c o n s e r v a c i ó n y d e s a r r o l l o
+247
+prometer a dar seguimiento al proyecto, debe plan-
+tearse si es oportuno comenzar el estudio.
+13) Para llegar a acuerdos sobre el uso colecti-
+vo del territorio en comunidades o ejidos parcela-
+dos es conveniente buscar la reflexión sobre pro-
+blemáticas comunes: la contaminación del agua, 
+la escasez de leña, la productividad agrícola, el 
+mercado, etc. A partir de ahí se debe buscar la con-
+cientización sobre la importancia de trabajar en 
+común.
+14) La integración de ordenamientos comunita-
+rios para construir un “plan de gestión de la cuen-
+ca hidrológica” debe partir del interés de las comu-
+nidades hacia una estrategia regional. La búsqueda 
+de objetivos comunes, como el pago de servicios 
+ambientales, puede servir de detonante, por ejem-
+plo, en el caso del Sistema Comunitario para la 
+Biodiversidad que promueve 
+GAIA
+ en la Cuenca 
+de Huatulco-Copalita.
+15) La elaboración de acuerdos y reglas comu-
+nitarias para el manejo de los recursos debe partir 
+proceso, se recomienda realizar el trabajo por fa-
+ses. Un ejercicio completo puede durar entre uno 
+y dos años.
+10) No existe una propuesta metodológica ho-
+mogénea entre las diferentes organizaciones que 
+promueven este tipo de estudios. La variedad de 
+técnicas, productos y calidad de los trabajos impi -
+de que en la actualidad puedan homologarse o in-
+tegrarse hacia la construcción de un ordenamien-
+to regional. 
+11) El ordenamiento debe responder a una ne-
+cesidad de la comunidad de mejorar el manejo de 
+sus recursos naturales. Se debe incluir en las discu-
+siones a todos los sectores interesados, incluso los 
+que tradicionalmente no tienen derechos de de-
+cisión (mujeres, avecindados, etcétera).
+12) A la hora de comenzar un estudio de orde-
+namiento se deben prever los mecanismos y finan-
+ciamiento necesarios para dar seguimiento a los 
+acuerdos y poner en marcha los programas de tra-
+bajo que se deriven. Si el equipo no se puede com-
+Cultivo de jitomate.
+----------------Page (247) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+248
+de un análisis profundo del sistema de usos y cos-
+tumbres locales, pues allí se puede encontrar la 
+clave de gestión responsable que ha permitido 
+la conservación de la biodiversidad a lo largo de 
+los siglos. 
+No todas las experiencias de ordenamiento 
+territorial y ecológica han sido exitosas. Por una 
+parte, depende en gran medida de la motivación 
+de las comunidades, pero también de los grupos 
+promotores y de su experiencia. A veces se aplican 
+mecánicamente los procedimientos de ordena-
+ción territorial sin que las comunidades se apro-
+pien realmente del proceso. Todos los involucra-
+dos tienen que darle seguimiento al proceso y es 
+imprescindible la formación de técnicos(as) de las 
+propias comunidades. 
+Administración de los recursos biológicos colectivos,
+Iniciativas indígenas para el establecimiento de reservas 
+comunitarias para la conservación
+Decíamos en el tercer capítulo que los pueblos in-
+dígenas están involucrados en los instrumentos de 
+conservación federales y estatales con 2000298 has 
+de su territorio. Sin embargo, la conservación en 
+los territorios indígenas se está desarrollando por 
+afuera del Sinanp, por las iniciativas comunitarias 
+de conservación y desarrollo sustentable. Estas úl-
+timas obedecen a varios procesos con experien-
+cias distintas como los ordenamientos fo restales 
+de la forestería comunitaria en áreas forestales per-
+manentes. Estas consisten en áreas de aprovecha-
+miento forestal y otras de conservación de la flora 
+y fauna. Aparte de los ordenamientos forestales 
+tenemos iniciativas comunitarias en donde se han 
+designado en sus respectivas asambleas, áreas 
+para la conservación, mismas que no tienen re-
+gistro más que en los propios anales, y otras certifi-
+cadas por la Conanp. Las iniciativas de conserva-
+ción comunitaria y su certificación por parte de la 
+Conanp se apoyan legalmente en el artículo 59 de 
+la 
+LGEEPA
+ o en el artículo 48 de la Ley de Vida Sil-
+vestre. Esta modalidad en la ley fue una propues -
+ta impulsada por iniciativa de comunidades indí-
+genas de los Chimalapas, que ante la amenaza de 
+FIGURA 1.
+Ordenamiento territorial y ecológico de ejidos y comunidades. Fuente: 
+SEMARNAP
+, 1994.
+Reforestación
+Acuacultura
+Infraestructura social
+y productiva
+Manejo integral
+de microcuencas
+Manejo
+de vida silvestre
+Conservación
+y restauración del suelo
+Intensificación
+ganadera
+Producción
+de leña
+Infraestructura
+de riego
+Agricultura sustentable
+Ejido
+o comunidad
+----------------Page (248) Break----------------
+Te j i e n d o l a r e d b i o c u l t u r a l d e c o n s e r v a c i ó n y d e s a r r o l l o
+249
+rias cuentan con ordenamientos territoriales y 
+ecológicos. En ellos se zonifica y se delimita con 
+claridad el área a proteger, las zonas de cultivo, de 
+aprovechamientos forestales y/o de productos no 
+maderables y de protección. La asamblea general 
+aprueba los lineamientos, criterios y acciones para 
+todo el ejido y en especial para la reserva comuni-
+taria, mismos que son adoptados y respetados por 
+la Comisión Nacional de Áreas Naturales Protegi -
+das. Se compromete, además, a realizar progresi-
+vamente los inventarios florístico y faunísticos 
+que están bajo custodia de la asamblea. El manejo 
+del área quedará a cargo del ejido, con la finalidad 
+de mantener en buen estado de conservación sus 
+recursos naturales, permitiendo su uso y aprove-
+chamiento en términos de las disposiciones lega -
+les y reglamentos que los ejidatarios o comuneros 
+establecieron. Las áreas en las que el ejido decida 
+permitir el acceso público se dotarán de las insta -
+laciones necesarias y que estén de acuerdo con el 
+paisaje. Idealmente, las reservas deben tener un 
+componente didáctico para los niños de las escue-
+las de la región, habitantes locales y visitantes. La 
+Procuraduría Federal de Protección al Ambiente 
+colaborará con los ejidos y comunidades para for-
+mar inspectores y sistemas de vigilancia comuni-
+taria, previa aprobación de la asamblea. 
+La certificación de estas áreas ha promovido el 
+fortalecimiento de las comunidades indígenas en 
+las negociaciones y gestiones para que las accio-
+nes del gobierno federal y estatal prioritarias, nor-
+malmente dispersas y caóticas, pasen por el tamiz 
+de las autoridades de los ejidos. Asimismo, se faci-
+lita la solicitud y operación de programas específi-
+cos de compensaciones que paga la sociedad por 
+los servicios ambientales ecosistémicos: hídricos, 
+custodio de la diversidad biológica, conservación 
+de los acervos de carbono. Chapela (s.f.) calcu- 
+la que las comunidades principalmente indíge-
+nas agrupadas en las organizaciones regionales de 
+IXETO
+ y 
+UZACHI
+, aumentarán sus acervos de carbo-
+que se decretara una reserva de la biosfera por en-
+cima de la voluntad de las comunidades, propu -
+sieron vincular la conservación con la gestión 
+campesina e indígena de sus territorios. 
+En Oaxaca se han originado estas iniciativas 
+indígenas y campesinas para el establecimiento 
+de reservas comunitarias para la conservación. 
+Con esta modalidad, la Comisión Nacional de 
+Áreas Naturales Protegidas (
+CONANP
+-
+SEMARNAT
+,
+2005) ha certificado alrededor de 50 mil hectáreas 
+para el año 2004 y se pretende lograr 170 mil para 
+finales del 2007 en los estados de Oaxaca, Guerre-
+ro y Michoacán. Sólo las comunidades chinante-
+cas organizadas en el Comité Regional de Recur-
+sos Naturales de la Chinantla A.C. (Corenchi) han 
+certificado en las regiones terrestres prioritarias 
+30 000 hectáreas de bosque mesófilo en combina-
+ción con selvas altas perennifolias y bosque en-
+cino-pino primario. Hay además en proceso de 
+certificación 20 000 más, como iniciativa de las co-
+munidades indígenas para la creación de un corre-
+dor biológico. Las comunidades presentan a la 
+Conanp para su certificación: 1) la cartografía de la 
+comunidad, ejido; 2) descripción general del área 
+a proteger: características físicas, valores bio-
+lógicos y culturales (por ejemplo, sitios sagrados); 
+3) estudios o proyectos con que cuenta; 4) acredi-
+tación de la propiedad y seguridad jurídica; 5) ma-
+nifestación comunitaria de la temporalidad que se 
+desea dar a la protección, el uso que se le dará a la 
+tierra, las reglas de acceso; 6) programa de mane-
+jo; 7) acta de asamblea validada por la Procuradu-
+ría Agraria, para ser inscrita en el Registro Agrario 
+Nacional, y que contenga los acuerdos relativos al 
+nuevo destino de la superficie a certificar, se no-
+tifica al municipio correspon diente que se ha in -
+corporado al ejido o comunidad un área de conser-
+vación, y se solicita al gobierno del estado que 
+incorpore estas áreas a su sistema estatal de áreas 
+protegidas. En el estado de Oaxaca, la mayoría de 
+los ejidos y comunidades con reservas comunita -
+----------------Page (249) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+250
+no secuestrado en 200 mil toneladas en treinta 
+años. Las condiciones para incorporar a las re-
+servas comunitarias la conservación in situ de la 
+agrobiodiversidad mesoamericana son excelen-
+tes. Hasta ahora no se ha legislado a nivel federal el 
+reconocimiento e incorporación de las reservas co-
+munitarias dentro del Sinanp, lo que obligaría a la 
+federación a canalizar recursos para el manejo y 
+custodia de estos territorios por parte de los cam-
+pesinos y miembros de los pueblos indígenas. 
+Manejo de cuencas y microcuencas 
+como acción colectiva
+En los territorios de los pueblos indígenas se cap-
+ta el 23.3 por ciento de todas las aguas nacionales. 
+La captación se establece con base en la precipi-
+tación, y depende de la gestión de los ecosistemas 
+la calidad de la captura. El agua captada se infiltra, 
+escurre o se evotranspira según la presencia espa-
+cial de la vegetación, y si domina la forma primaria 
+o si ha entrado en estados sucesionales recientes. 
+La pregunta sería cómo maximizar esa captura 
+para el provecho de todos los usuarios, incluyendo 
+los propios ecosistemas. En el capítulo tres se lle-
+gó a la conclusión de que los territorios de los pue-
+blos indígenas se encuentran principalmente en 
+las cabeceras de cuencas y que por su ubicación 
+tiene riesgos enormes en caso de eventos metereo-
+lógicos como los huracanes. 
+Se presentan consecuentemente distintos gra-
+dientes de erodibilidad del suelo, así como de ve-
+locidad de las corrientes de agua. En el caso de cam-
+bio de uso del suelo para actividades ganaderas y 
+agrícolas la erosión contribuye a la desertificación
+5
+5
+ La erosión es probablemente uno de los principales pro-
+motores de la desertificación de la superficie nacional, por lo 
+que es considerada como uno de los problemas ecológicos 
+más severos de los recursos naturales renovables de México. 
+De los casi 200 millones de hectáreas del territorio nacional, 
+154 millones están sujetos a diversos grados de erosión (leve y 
+moderada entre 74 y 94 millones de hectáreas; severa y muy 
+severa entre 60 y 80 millones de hectáreas), lo que representa 
+del país.Un bosque bien manejado, con laderas 
+cubiertas de vegetación, con sistemas de manejo 
+de suelo agrícola, que logre la retención e infiltra-
+ción del agua cuenca arriba, debe ser central en 
+un enfoque ecosistémico de gestión ambiental.
+ La Ley de Aguas Nacionales propone que 
+dentro de los usuarios se incluya a los ecosistemas 
+y que los recursos hídricos que éstos usan se defi-
+nan como: “el caudal o volumen mínimo necesa-
+rio en cuerpos receptores, incluyendo corrientes 
+de diversa índole, embalses o el caudal mínimo 
+de descarga natural de un acuífero que debe con-
+servarse para proteger las condiciones ambienta -
+les y el equilibrio ecológico del sistema”. Sin em-
+bargo, no hay procedimientos operativos que 
+traduzcan la definición de caudal o volumen nece-
+sario mínimo. Así los ecosistemas no están repre-
+sentados por la autoridad ambiental en los Conse -
+jos de Cuenca para definir cuánta agua necesitan 
+para sobrevivir.
+Incluso los indígenas, como guardianes, custo-
+dios, productores o proveedores de grandes canti-
+dades de agua, no tienen representación en los 
+Consejos de Cuenca porque no son considerados 
+como usuarios. 
+Al incluir en la Ley General de Desarrollo Fo-
+restal Sustentable la problemática del agua al ma-
+nejo integral por cuencas hídrico forestales, consta-
+tamos que los permisos para aprovechamientos 
+forestales maderables y no maderables subordi-
+nan los recursos hídricos al manejo forestal. La 
+pregunta que surge es qué sucederá cuando no 
+existan aprovechamientos forestales, siendo que 
+78.30 por ciento de la superficie del país. Las entidades más 
+afectadas son: Oaxaca, Tamaulipas, Yucatán, Veracruz, Chia-
+pas, Nuevo León, Estado de México, Coahuila, San Luis Po-
+tosí y Michoacán. Actualmente, como consecuencia de lo an-
+terior, sólo 14 por ciento de la superficie cultivable se 
+encuentra en óptimas condiciones para la siembra, además 
+existen poco más de 400 000 hectáreas de tierra de riego con 
+problemas de salinización, ésta es referida al deterioro de los 
+suelos por el incremento en el nivel de sales solubles que re-
+ducen su capacidad productiva (
+INE
+ 1994).
+----------------Page (250) Break----------------
+Te j i e n d o l a r e d b i o c u l t u r a l d e c o n s e r v a c i ó n y d e s a r r o l l o
+251
+los bosques tienen un papel importante para la re-
+gulación del agua en las cabezas de cuenca. Encon-
+tramos problemas de aplicación de los instrumen-
+tos de política y de las autorizaciones, entre otros, 
+que afectan el cuidado real de las cuencas hidro-
+lógico-forestales. 
+Por el acceso al agua que se encuentra en los 
+territorios se han generado varios conflictos im -
+portantes entre la población indígena y el Estado-
+gobiernos. Los territorios de los pueblos indíge-
+nas han sufrido embates importantes por parte de 
+la sociedad en su conjunto. Así, la construcción de 
+enormes represas para el control de avenidas en 
+eventos metereológicos extraordinarios, la genera-
+ción de electricidad y el almacenamiento de agua 
+para los sistemas de riego han generado pérdidas 
+de tierras importantes, desplazamientos y relocali-
+zaciones masivas, pérdida de lugares en donde ya-
+cen los ancestros y sitios sagrados (Barabas y Barto-
+lomé, 1973; Boege, 1988). La lista de estos agravios 
+es larga y el conflicto entre comunidades indíge-
+nas y gobierno ha tenido distintas rutas. En varios 
+territorios de los pueblos indígenas se captura el 
+agua para un rosario de represas que forman los 
+distritos de riego de la agricultura de alto rendi-
+miento y de sistemas importantes para la genera -
+ción de electricidad afuera de su territorio. Llama 
+la atención que no exista una política pública clara 
+para mantener la salud de los ecosistemas de estas 
+cabeceras de cuenca. Casi todas las cabezas de 
+cuencas están perdiendo suelos, las presas se es -
+tán azolvando y la sustentabilidad de la genera-
+ción de electricidad a largo plazo sufre una merma 
+importante, ya que las presas pierden su capaci-
+dad de almacenamiento. Ante este fenómeno, la 
+CFE
+únicamente atina a proponer la construcción 
+de otra presa en territorio indígena cuenca arriba o 
+abajo como fue el caso del alto Balsas, Guerrero. 
+De la integridad de los ecosistemas depende la 
+calidad de la captación de agua, de la infiltración, 
+la evotranspiración y los escurrimientos superficia-
+Roza tumba y quema en los Tuxtlas, Veracruz.
+Roza, tumba y quema en la península de Yucatán.
+----------------Page (251) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+252
+les y subsuperficiales. La velocidad del vaciamien-
+to de la cuenca depende, asimismo, de la calidad 
+de la cubierta vegetal. Los ecosistemas naturales 
+en su mayor complejidad son las mejores trampas 
+para la infiltración del agua y dosifican el escurri-
+miento superficial y la evotranspiración. Por otro 
+lado, la remoción de la vegetación genera erosión 
+del suelo, acelera el escurrimiento y el vaciamien-
+to de la cuenca, así como el azolvamiento de los 
+cuerpos de agua naturales y artificiales, incluyen-
+do los ríos, lagunas costeras, presas, lo que pone 
+en entredicho la sustentabilidad y funcionamien-
+to a mediano y largo plazo de las mismas. 
+Otro espacio de conflictividad es el abasto de 
+agua para las ciudades desde los territorios de los 
+pueblos indígenas. Por un lado, el manejo inade-
+cuado de las laderas va azolvando los sistemas de 
+captación de agua para canalizarla a las ciudades. 
+Por otro lado, desde las ciudades el agua se consi-
+dera “dada” y no se ve la necesidad de procedi-
+miento compensatorio para los dueños de los terri-
+torios ni obras para mejorar la captación. 
+Paré y Robles (2006) presentan el caso concre-
+to de negociación para la compensación por parte 
+de las ciudades de Minatitlán y Coatzacoalcos pa-
+ra las comunidades popolucas y nahuas de la parte 
+alta de la Sierra Santa Marta y San Martín Pajapan 
+que viven en la parte alta de la cuenca. De este 
+modo, el conflicto entre las ciudades y las comuni-
+dades indígenas llevó a experimentar la creación 
+de nuevas instituciones para llenar el vacío que 
+implicó la acción de los gobiernos de tomar sim-
+plemente el agua sin importar de donde provenía. 
+Asimismo, el trasvase entre cuencas para el abaste-
+cimiento de las ciudades, puede reducir dramática-
+mente el acceso de las comunidades al agua, tanto 
+Los mixtecos hacen zanjas a nivel para captar el agua y revivir los manantiales en la Mixteca Alta, Oaxaca.
+----------------Page (252) Break----------------
+Te j i e n d o l a r e d b i o c u l t u r a l d e c o n s e r v a c i ó n y d e s a r r o l l o
+253
+para consumo humano como para la pequeña irriga-
+ción (caso de los mazahuas y la ciudad de México).
+Por otro lado, tenemos experiencias exitosas 
+en un enfoque integral, y en la culminación de un 
+proceso de algunos años, se está construyendo un 
+proyecto para el manejo de la subcuenca de los 
+ríos Copalita-Zimatán-Huatulco, misma que abas-
+tece de agua al desarrollo del complejo turístico 
+Bahías de Huatulco. Esta subcuenca, forma parte 
+de la 
+RTP
+ Sierra Sur y Costa de Oaxaca con domi-
+nancia de los pueblos indígenas zapoteco del sur 
+y chatinos. La importancia de la gestión de la 
+cuenca es que integra un rosario de comunidades 
+que a su vez integran ecosistemas que abarcan 
+incluso bosques templados, algunos bajo aprove-
+chamiento forestal por parte de empresas comuni-
+tarias. En la parte intermedia tenemos el bosque 
+mesófilo, selva alta y mediana subperennifolia 
+que permite una de las áreas más importantes de 
+café bajo sombra del estado de Oaxaca, y en la par-
+te baja de la cuenca se encuentra un mosaico de 
+selvas secas caducifolias con 20 mil hectáreas. 
+SICOBI
+ (Sistema Comunitario para la Biodiversidad) 
+ha logrado ordenar alrededor de 100 mil hectáreas 
+de una cuenca que abarca 270 mil hectáreas, de 
+las cuales 27 793 se redestinaron a la conservación, 
+27 265 a la protección y 6 046 a la restauración. 
+Mediante la organización social regional se ge-
+nera una comunidad de aprendizaje entre organi-
+zaciones regionales, comunidades que la com-
+ponen y una 
+ONG
+ que la acompaña, un proyecto 
+regional que tiene como límites la cuenca. Este 
+proyecto, como otros, está ligado a los ordena-
+mientos territoriales comunitarios, con planes de 
+uso de suelo y una estrategia de desarrollo inter-
+comunitario. Las comunidades involucradas reci-
+ben 4 millones de pesos como compensación de 
+servicios ambientales por parte de la Conafor, 
+mismos que son aplicados por la organización para 
+pagar proyectos de conservación, restauración y el 
+salario de los técnicos comunitarios (González y 
+Miranda, 2006). La defensa del agua, como dere-
+cho humano y no como mercancía, requiere un 
+trabajo colectivo importante dentro de las comuni-
+dades. Tal vez el proyecto más ambicioso y com-
+pleto en territorios indígenas para el manejo del 
+agua, laderas, subcuencas y microcuencas, ligado 
+a la recuperación de suelos, agua, maíces indíge-
+nas y el amaranto, lo tenemos en la mixteca pobla-
+na y oaxaqueña impulsado por Alternativas, A.C. 
+en alianza con las comunidades principalmente 
+indígenas mixtecas en los estados de Puebla y Oa-
+xaca. Se trata del desarrollo de un proyecto en el 
+sitio donde se encuentran la mayor cantidad de 
+cactáceas endémicas del mundo. Ante la escasez 
+de agua, la gente de las comunidades solicitó al 
+gobierno la perforación de varios pozos. Sin em-
+bargo, esta estrategia no resolvía la problemática 
+del creciente deterioro de la captación de agua, 
+pérdida de suelos, abatimiento de los mantos 
+acuíferos y el acceso desigual al agua disponible. 
+En diagnósticos con la gente, se identificó la pér-
+dida de vegetación por la tala de subsistencia agra-
+vada por la comercial. Asimismo, los desmontes 
+para la utilización agrícola de la tierra constituyen 
+pérdidas importantes de ejemplares de mamila -
+rias o bien cactáceas columnares de cientos de años 
+de antigüedad. El sobrepastoreo principalmente 
+de ganado caprino y ovino ha sido desde siglos 
+uno de los principales problemas de pérdidas de 
+vegetación y del suelo. Esta situación ha provoca-
+do que los escurrimientos superficiales no se infil-
+tren, el agua escurra más rápido y se generen cár-
+cavas profundas. Estamos ante el avance de la 
+desertificación. 
+A partir de este diagnóstico y estimulando las 
+técnicas tradicionales de captación y manejo de 
+agua nació el programa de largo aliento Agua 
+Compartida para Todos. En lugar de iniciar una 
+gran represa al final de las barrancas, se comenzó 
+en los lugares más elevados de los cerros y colinas, 
+en donde el agua se empieza a juntar para produ-
+----------------Page (253) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+254
+cir una pequeña corriente. Las actividades de re-
+cuperación de suelos, y de la diversidad biológica 
+en contra de la desertificación, consisten en cons-
+truir zanjas trinchera y reforestar en las curvas de 
+nivel con especies nativas principalmente de va -
+lor comercial, como el agave mezcalero nativo de 
+la zona (Agave cupreata) , árboles para leña, repre-
+sas filtrantes, pequeños jagüeyes, la construcción 
+de bordos para retener el agua, represas de mam-
+postería, rompeolas para los bordos y digestores 
+para las aguas negras. La acumulación del azolve 
+en las represas filtrantes funciona como esponja 
+que soltará lentamente el agua logrando un peque-
+ño flujo semi-permanente, en lugar del torrente 
+que dura unas cuantas horas. Con represas y terra-
+zas y reforestación se logra aumentar la humedad 
+del suelo y la posibilidad de reconstruir flujos per-
+manentes de agua (Hernández G.R., G. Herre-
+rías, 2002). Es así como se logra la recuperación de 
+tres recursos básicos: diversidad biológica, agua y 
+suelo. A través del tiempo la tierra fértil y los sue-
+los se restauran, lo que provocará la cicatrización 
+en barrancas y laderas heridas por cárcavas.
+Como conclusión podemos afirmar que los te-
+rritorios de los pueblos indígenas y sus comunida-
+des son ignorados como custodios, guardianes, 
+proveedores o productores de agua. Por ello, es 
+necesario desarrollar una política en que la socie-
+dad reconozca ese papel como guardianes o “pro-
+veedores de agua” y evitar su expropiación por 
+parte de grandes compañías refresqueras o priva -
+das que crecientemente proporcionan este servi-
+cio a las ciudades. En efecto, en los consejos de 
+cuenca, no están representados los propietarios 
+del bosque ni los actores sociales tales como eji-
+dos y comunidades, y por esta vía no hay platafor-
+ma alguna para negociar. Sin embargo, tenemos 
+varios ejemplos documentados de la participación 
+activa de algunos pueblos indígenas contra la de-
+sertificación. 
+GEA
+-Sansekan Tinemi en alianza con 
+las comunidades nahuas y campesinas de Chi-
+lapa, Guerrero, Alternativas, con comunidades 
+mixtecas y nahuas, así como 
+GAIA
+-Sistema Comu-
+nitario para la Biodiversidad, Sicobi, con comunida-
+des zapotecas y chontales de Oaxaca, le apuestan 
+a la formación de comunidades indígenas y cam -
+pesinas de conservación, regeneración y resilien-
+cia ecológica teniendo como ejes centrales la pla-
+nificación en el manejo de la cuenca, subcuenca o 
+microcuenca. En estos proyectos se incluyen tam-
+bién las reservas comunitarias para la conservación 
+de la diversidad biológica, jardines botánicos co-
+munitarios, conservación y restauración de suelos 
+y la defensa de la agrobiodiversidad mesoamerica-
+na a nivel regional, así como la generación de la ca-
+pacidad técnica local. Para este último rubro, la 
+compensación por los servicios ambientales que 
+recibe 
+SICOBI
+ por parte de la Conafor, se aplican a 
+las actividades de conservación y restauración y al 
+pago de los técnicos comunitarios de las mismas co-
+munidades locales. Con ello, tenemos experien-
+cias de avanzada para la construcción de las regio-
+nes bioculturales de conservación y desarrollo.
+Silvicultura comunitaria: manejo forestal 
+sustentable y de no maderables
+Con la Cartografía de Uso del Suelo y Vegetación Serie 
+III , (
+INEGI
+, 2002), determinamos que en territorios 
+de los pueblos indígenas 20 264 565 ha son selvas 
+(desde altas perennifolias hasta las selvas secas 
+subcaducifolias) y bosques templados (bosques 
+de pino, pino-encino, encino, encino-pino, ayarín, 
+mesófilo de montaña); 72 por ciento ha de ellas 
+perte necen al estrato arbóreo, de las cuales 57.9 
+por ciento son primarias y 42.1 por ciento secun-
+darias del estrato arbóreo, mientras 26.8 por cien-
+to son clasificadas como secundarias en el estrato 
+arbustivo y herbáceo. 
+En estas selvas y bosques arbolados se registran 
+varias actividades, desde el aprovechamiento de los 
+maderables y leña hasta la recolección de chicle, miel, 
+plantas medicinales, manejo de fauna, recolección 
+----------------Page (254) Break----------------
+Te j i e n d o l a r e d b i o c u l t u r a l d e c o n s e r v a c i ó n y d e s a r r o l l o
+255
+de paxtle, palma camaedor, hongos, como pasto-
+reo extensivo de ganado menor y mayor, y el apro-
+vechamiento de la madera para el autoconsumo. 
+La silvicultura social o comunitaria sostenible 
+es una experiencia importante para vincular la 
+conservación y el aprovechamiento sostenible 
+con la organización social indígena y campesina, 
+misma que se ha desarrollado en ejidos y comuni-
+dades campesinas. El marco original y general son 
+los movimientos sociales del siglo 
+XX
+ que permitie-
+ron mediante la Reforma Agraria, la reapropiación 
+de la tierra por parte de millones de indígenas y 
+campesinos. En el caso de los recursos forestales, 
+los movimientos sociales de los indígenas y campe-
+sinos han permitido en los últimos treinta años 
+del siglo pasado, la reapropiación productiva sus-
+tentable y organizacional de los bosques y selvas, 
+aunque hay vastas zonas que reflejan lo contrario. 
+Para lograr la conservación y el desarrollo es preci-
+so que se avance de manera sostenida y acelerada 
+en la apropiación y manejo de los recursos (biodi-
+versidad, agrobiodiversidad y agua) por parte de 
+los pueblos indígenas, construyendo así una go-
+bernanza del bien común. Las experiencias múl-
+tiples son minoritarias en la dimensión geográfica, 
+ya que no todas las comunidades con recursos fo-
+restales han adoptado los procedimientos de la 
+forestería comunitaria, sin embargo, son cualitati-
+1
+2
+3
+4
+5
+6
+7
+8
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+FIGURA 2. 
+Esquema del manejo integrado y sostenible de las cuencas. Grupo Alternativas y Procesos en Participación Social, 
+Tehuacán, Puebla.
+1. Zanja trinchera
+2. Anillos de captación
+3. Reforestación
+4. Curvas de nivel con vegetación
+5. Terrazas
+6. Aguajes
+13. Rehilete
+14. Tubería de conducción
+15. Tanque de regulación
+16. Pozo somero
+17. Jagüey
+18. Digestores
+7. Presa de piedra
+8. Presa de gaviones
+9. Presa derivadora
+10. Manantial
+11. Obras de irrigación
+12. Canal de tierra
+----------------Page (255) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+256
+selvas y bosques secundarios en estrato arbustivo y 
+herbáceo, en superficies enriquecidas y restaura-
+das que tendrían un alto valor para los servicios am-
+bientales, como la captura de carbono, la conserva-
+ción de suelos, captura de agua y posteriormente 
+de aprovechamiento sustentable del bosque.
+Respecto a los aprovechamientos, tenemos los 
+siguientes escenarios en territorios indígenas: Se 
+mantienen la tala hormiga o en zonas de saqueo 
+por parte de talamontes que provienen tanto del 
+exterior como del interior de las comunidades de-
+sorganizadas; por otro lado hay empresarios priva-
+dos que llevan todo el papeleo y el “ordenamien-
+to del bosque” y les pagan a los dueños de la tierra 
+una renta por ello. Hay además, aprovechamien-
+tos con permisos que entregan madera en rollo a 
+los compradores a pie de camino. En este proce-
+der, pocas comunidades controlan realmente el 
+bien común. 
+Es interesante señalar que a pesar de eso, las 
+comunidades indígenas generalmente no aprove -
+chan todo el volumen autorizado y la asamblea de-
+cide cuánto del mismo se va aprovechar (Alatorre, 
+2000) y en qué áreas de corta autorizadas. En cier-
+tas comunidades este hecho entra en conflicto con 
+el manejo tradicional. Es, finalmente, la empresa 
+forestal la que toma las decisiones y las hace valer 
+ante sus miembros. Casi todas las empresas socia-
+les, así como los ejidos y comunidades tradiciona-
+les, tienen sistemas de vigilancia para la observan-
+cia de estas reglas por parte de sus miembros, y 
+también para evitar la entrada de saqueadores desde 
+el exterior. Por ello, grupos de interés al interior de 
+la comunidad tratan de romper el colectivo para 
+crear un ambiente de acceso privado o de facción. 
+Un mejor nivel entre los dueños productores de 
+madera es la creación de aserraderos comunales 
+que si son exitosos, integran puestos de trabajo fi-
+jos o semifijos, dependiendo de su capacidad orga-
+nizativa. Aproximadamente, 150 comunidades fo-
+restales de Oaxaca, por ejemplo, practican la 
+vamente importantes en la construcción social 
+para la conservación y el desarrollo. 
+En los últimos treinta años, varias organizacio-
+nes indígenas y campesinas han tomado en sus 
+manos el aprovechamiento de sus bosques y sel-
+vas lo que permite afirmar que se están constru-
+yendo culturas indígenas y campesinas de conser-
+vación de nuevo cuño que podemos llamar las 
+nuevas sociedades resilientes. Éstas, por supues-
+to, pueden incorporar la restauración y recompo-
+sición de parte de la superficie de bosques y sel-
+vas secundarias en su estrato arbustivo y herbáceo, 
+las cuales pueden cumplir mejor con los requeri-
+mientos de compensación por servicios ambienta-
+les para la captura de carbono y la captura de agua. 
+En efecto, el valor “conservacionista” de la silvi-
+cultura comunitaria sustentable, es que se crea 
+una gobernanza sobre el territorio y el uso susten-
+table de los recursos naturales que extiende su in-
+fluencia hacia la restauración de áreas degradadas, 
+consistente en el mejoramiento de los acahuales, 
+restauración de superficies erosionadas y el aumen-
+to y cuidado de la superficie arbolada. Así, en luga-
+res donde existe algún ordenamiento de los apro-
+vechamientos forestales, por ejemplo, en las zonas 
+selváticas de Quintana Roo y en la Sierra Norte de 
+Oaxaca, se muestra una recuperación importante 
+de selvas y bosques (Bray y Merino, 2005).
+Cuando se integra el manejo del bien común 
+en una empresa comunitaria de aprovechamiento 
+forestal del bosque natural con procedimientos 
+forestales adecuados, la actividad forestal comuni-
+taria genera empleo, mejora las condiciones de vi-
+da y las condiciones ambientales y la conservación 
+de la diversidad biológica. Por ello, es esencial 
+que las políticas públicas de desarrollo forestal 
+sustentable tomen en cuenta todas las condicio-
+nes en que se encuentran los aprovechamientos 
+forestales para su fomento.
+Un tema central de la forest ería comunitaria 
+sostenible es la conversión de áreas degradadas de 
+----------------Page (256) Break----------------
+Te j i e n d o l a r e d b i o c u l t u r a l d e c o n s e r v a c i ó n y d e s a r r o l l o
+257
+silvicultura comunitaria del bosque natural y 
+cuentan con programas de manejo forestal que 
+abarcan 650 mil hectáreas en donde se generan 
+alrededor de 22 mil empleos, 30 cuentan con em-
+presas fores tales comunales a nivel de aserrío y al -
+gunas tienen fábrica de muebles. Además, varias 
+de las comunidades se organizan en organismos 
+de segundo nivel para compartir servicios foresta-
+les, frentes de comercialización y diseño de políti-
+cas forestales comunes. De toda la superficie fo-
+restal con permisos de aprovechamiento, 15 por 
+ciento se encuentra certificada bajo los estándares 
+internacionales del Forest Stewardship Council 
+(Anta y Pérez, 2004).
+Aparte de los éxitos de la silvicultura comunita-
+ria en Oaxaca, es de mencionarse la estrategia del 
+Plan Piloto Forestal de Quintana Roo y Campe-
+che, que promovió en el proceso de ordenación 
+forestal, la asignación consciente y voluntaria en 
+los ejidos no parcelados, de un “área forestal per-
+manente”. La finalidad era doble: crear un espa-
+cio en la conciencia grupal de que se trataba de un 
+área de manejo de sus recursos destinada exclusi-
+vamente a lo forestal, y por otro lado para estable -
+cer reglas de acceso para una ordenación forestal, 
+para su aprovechamiento sostenible. Implicaba 
+ejercicios democráticos para levantar los inven-
+tarios con nomenclaturas mayas de suelos y el 
+conocimiento del arbolado en un intercambio de 
+saberes, y de formar técnicos campesinos para el 
+campo y para la administración. Este procedimien-
+to fue un ejemplo de varios de los primeros orde-
+namientos territoriales de la forestería social. Se 
+construyó así un ordenamiento territorial del bien 
+común (de los socios ejidatarios) para el aprove-
+chamiento forestal, de acceso ordenado, y las 
+áreas para el desarrollo ganadero, y agrícola. Aun-
+que no se nombró así a estas primeras experien-
+cias sistemáticas, sí han contribuido a lo que pos-
+teriormente se describiera como ordenamiento 
+territorial comunitario.
+Las áreas forestales permanentes más los or-
+denamientos forestales, provocaron el efecto del 
+principio de exclusión (Ostrom, 2000), mismo 
+que no permite el uso del suelo para otros fines 
+que no sean forestales. Este hecho permite a la 
+comunidad fijar las reglas de manejo forestal y de 
+otras actividades como la extracción de chicle, ca-
+cería, etcétera. Sin embargo, no dejó de ser conflic-
+tivo para algunos ejidos forestales mayas y aun pa-
+ra el manejo de especies forestales como la caoba 
+y el cedro que requieren para reproducirse claros 
+en la selva como los generados por la perturbación 
+producida por roza, tumba y quema. 
+Un siguiente nivel necesario para la silvicultu-
+ra comunitaria es el que se refiere al manejo fores-
+tal de los productos no maderables. Son notorias 
+las nuevas incursiones de las empresas forestales 
+comunitarias en la venta de agua embotellada, 
+servicios ecoturísticos o recolección de resinas 
+(chicle), y secado de hongos silvestres. 
+Casi todas las experiencias de empresas co-
+munales exitosas han invertido en mejorar su ca-
+pacidad técnica local y sus principales cuadros se 
+van formando desde las filas de los jóvenes capa-
+citados y especializados para el manejo técnico de 
+las empresas. En comparación con las empresas 
+privadas, las estrategias económicas de las empre-
+sas sociales no se centran en generar ganancias 
+repartibles entre unos cuantos socios, sino más 
+bien se basan en esta etapa de su desarrollo, en la 
+generación de nuevos empleos. Algunos ejidos y 
+comunidades invierten en un aserradero, en pe-
+queñas empresas subsidiarias como es la produc-
+ción de agua embotellada, carpinterías de la gran 
+empresa o empresas de transporte; en otras oca-
+siones se generan pequeñas empresas de algunos 
+socios. 
+México es el país que cuenta con el mayor nú-
+mero de empresas forestales comunitarias en el 
+mundo. Además, de acuerdo con Bray (2007), se 
+tienen identificadas 164 empresas forestales, inclu-
+----------------Page (257) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+258
+yendo las indígenas, que tienen la capacidad de 
+transformar y agregar valor a sus materias primas.
+La segunda gran experiencia productiva de los 
+pueblos indígenas y campesinos, que a la vez con-
+serva la diversidad biológica y los servicios ambien-
+tales, es la producción de café orgánico a sombra, 
+ligada a esquemas de comercio justo, que integra 
+a miles de productores indígenas. En México, se 
+cultiva el café en 690000 ha, en 12 estados y 400 
+municipios, produciéndose alrededor de 5 millo-
+nes de sacos de 60 kg cada uno. De los 280 mil 
+productores, 92 por ciento tienen menos de cinco 
+hectáreas y casi 200 mil tienen dos hectáreas y 
+menos, de los cuales 60 por ciento pertenecen a 
+las comunidades de los pueblos indígenas. Justa-
+mente, estos pequeños productores siembran en 
+las modalidades que aparecen a veces en las eti-
+quetas como “café de sombra benéfico a las aves”, 
+café benéfico al medio ambiente, o café orgánico 
+en el sistema de comercio justo. De manera alter-
+nativa, las organizaciones oficiales, unos 66 mil pe-
+queños agricultores —la mayoría indígenas— se 
+agrupan en la Coordinadora Nacional de Organiza-
+ciones Cafetaleras (
+CNOC
+). Precisamente es en 
+Oaxaca, Chiapas y Puebla en donde se desarrolla 
+el manejo orgánico de café bajo sombra y comer-
+cio justo (Bartra, 2001: 14). Estos pequeños pro-
+ductores producen el café en lo que podemos cla-
+sificar como “jardines de café” diversificados o 
+huertos de café, que albergan hasta 200 especies 
+distintas entre árboles, arbustos, hierbas y epífitas 
+(Moguel y Toledo, 2001). 
+Otras experiencias importantes que ligan la 
+conservación con la producción y la defensa de 
+recursos biológicos colectivos de los pequeños 
+productores indígenas se refiere a la producción 
+FIGURA 3.
+Esquema de ordenamiento territorial y ecológico para los ejidos con áreas forestales permanentes del Plan Piloto 
+Forestal en Quintan Roo, incluyendo la Zona Maya .
+#AMINOS
+Área forestal permanente 
+(comunal), con 25 unidades 
+de aprovechamiento anual
+Parcelas
+Individuales
+Recursos maderables
+Inventarios
+Plan de manejo
+Reproducción natural
+Enriquecimiento forestal
+Recursos no maderables
+Manejo de la fauna
+Apicultura
+Recolección de pimienta
+Recolección de palmas
+Recolección de chicle
+Ecoturismo
+arqueológico
+Circuitos ejidales
+UNA UNIDAD DE
+APROVECHAMIENTO ANUAL UNA PARCELA
+Apicultura
+Área forestal 
+y de fauna
+Agricultura
+permanente
+Ganadería mayor y 
+menor semiestabulada
+Área agroforestal
+Huerto familiar 
+intensivo
+----------------Page (258) Break----------------
+Te j i e n d o l a r e d b i o c u l t u r a l d e c o n s e r v a c i ó n y d e s a r r o l l o
+259
+de miel en la selva seca y húmeda, con las abejas
+europeas pero también de las meliponas o nativas
+sin aguijón. También tenemos el chicle, la pita, la
+pimienta gorda, la vainilla, el cacao, la palma ca-
+maedora, distintos agaves mezcaleros, Agave cu-
+preata , A. potatorum , A.espadín, A. angustifolia, A.
+korwinnski, A. tequilana o azul, A. fourcroydes (hene-
+quén), A. lechuguilla ;magueyespulqueros( A. sla-
+mamiana, A. mapisaga y A. atrovirens) ,todotipode
+cactáceas principalmente de los subgéneros opun-
+tia y nopalea .Anteelaugedelademandadetequi-
+la, la siembra masiva del agave azul está despla-
+zando a otros agaves nativos. Por ello, son pioneros
+los proyectos de defensa de los recursos biológicos
+colectivos de los indígenas nahuas y de comuni-
+dades campesinas de Chilapa, Guerrero que rea-
+liza la organización regional Sanzekan Tinemi-
+GEA
+.Elproyectoconsisteenlacosechadel Agave
+cupreata ,lasiembradeunmillóndeagavesanua-
+les, respetando las adaptaciones locales de la plan-
+ta, la siembra de árboles para el uso de la leña que
+se ocupa en el proceso de destilación, la organiza-
+ción artesanal para garantizar la calidad en que
+cada botella de mezcal, y reglas claras en la co-
+mercialización del producto. Finalmente, este pro-
+ducto tiene identidad regional y su defensa como
+recurso biológico colectivo indígena es promovi-
+do desde la misma organización.
+En las selvas secas bajas, el manejo tradicional
+de los productos maderables no es factible, aun-
+que frecuentemente esta madera es utilizada para
+artesanía y la recolección de resinas como es el
+copal y de leña. Asimismo, las selvas subcaducifo-
+lias albergan una enorme variedad de plantas me-
+dicinales utilizadas en el sistema informal de ven-
+ta de plantas medicinales (Challenger, 1998).
+Programa indígena para la conservación in situ
+de la agrobiodiversidad mesoamericana
+Partimos del reconocimiento de los especialistas
+que el germoplasma de la agrobiodiversidad de
+los pueblos indígenas es un tesoro invaluable para
+construir el Sistema Nacional Alimentario de
+México. En el tercer capítulo presentamos el va-
+lor comercial de los productos domesticados en
+mesoamérica que presenta un tercio de los ingre-
+sos del campo mexicano. El germoplasma original
+de estos productos se encuentra todavía en territo-
+rios de los pueblos indígenas. Por lo tanto, es nece-
+sario que se desarrolle una política pública explíci-
+ta para la conservación in situ de los agroecosistemas
+ylosrecursosfitogenéticosenMéxico.Susagro-
+ecosistemas se adaptan a casi todos los ecosiste-
+mas, en las distintas latitudes y altitudes con sus
+gradientes de temperatura y humedad. Los agro-
+ecosistemas tradicionales constituyen el principal
+repositorio del germoplasma y su evolución, tanto
+de las plantas cultivadas como de sus variedades
+silvestres. Su evolución ha dependido principal-
+mente de las prácticas agrícolas de las culturas
+particulares construidas por generaciones. La pre-
+sencia de tal diversidad genética, sobre todo en
+los centros de origen, ha sido fundamental para
+conservar, defender y mejorar la productividad de
+los cultivos agrícolas del sistema alimentario na-
+cional y agroindustrial (Altieri, 2003).
+Los pueblos indígenas y comunidades locales
+deben ser un componente importante para la cons-
+trucción de denominaciones de origen, regiones
+exclusivas, áreas de conocimiento original, etcé-
+tera. Son los custodios in situ del germoplasma
+nativo que ha estado profundamente anclado en
+la cultura mesoamericana y mexicana sin necesi-
+dad específica de protección. Como estamos atra-
+vesando por una historia de desplazamiento,
+apropiación ilegítima y degradación cultural es
+urgente definir políticas públicas que reconozcan
+el papel de los indígenas y campesinos como ex-
+perimentadores y mejoradores fitogenéticos que
+tienen en “custodia” un acervo genético único de
+sus antepasados, equivalente a los endemismos
+biológicos.
+----------------Page (259) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+260
+183 17 5 21 6 12
+24
+7 1819 4
+24
+16 22 2011 14 2 2323
+23
+15
+24 24 24 24 24 24 24
+13 10 9
+5 m
+10 m
+20 m
+30 m
+40 m
+50 m
+200 m
+El inventario de la agrobiodiversidad en terri-
+torios de los pueblos indígenas presentado en el 
+capítulo III tiene que ser actualizado por las mis-
+mas organizaciones indígenas para generar estra-
+tegias para la conservación in situ . Asimismo, es 
+necesario generar bancos de germoplasma regio-
+nales para enfrentar eventuales pérdidas por se-
+quía, plagas o inundaciones. Las experiencias de 
+estas organizaciones nos plantean que la protec-
+ción, conservación in situ de la agrobiodiversidad 
+se da a nivel regional y se expresa con mayor énfa -
+sis en algunas comunidades.
+De las más destacadas mencionaré las múlti-
+ples experiencias de fitomejoradores indígenas y 
+campesinos como las de Vicente Guerrero (Ramos, 
+1998), que abarcan a más de cinco municipios en 
+la región occidental del estado de Tlaxcala, nos 
+señalan que se pueden desarrollar políticas de 
+conservación del germoplasma local a niveles re-
+gionales al vincular el mejoramiento de los agro-
+ecosistemas tradicionales con las enseñanzas de la 
+agroecología moderna. El sistema productivo de 
+las agriculturas indígenas y campesinas significa 
+adaptaciones culturales al clima, suelos y a la bio-
+diversidad. Esta orientación energética con base 
+en la energía solar y fotosíntesis representa un 
+acervo de conocimiento importante en la búsque-
+da de alternativas para una nueva civilización, ba-
+sada en la biomasa. Por ello, la agroecología y la 
+gestión de los bosques y selvas naturales de ma -
+FIGURA 4.
+Perfil de un transecto de 200 metros en un policultivo tradicional o “jardín de café” en Santos Reyes Nopala, Oaxaca 
+(región indígena chatina). Fuente: Moguel y Toledo 2004.
+E
+STRATO ARBÓREO ALTO
+:
+1: carnero (Licania arborea) ; 
+2: chicozapote (Manilkara 
+zapota) ; 3: zapote negro 
+(Diospyros cumzalli) ; 
+4: guanacastle (Enterolobium 
+cydocarpum), 5: mamey 
+(Pouleria mammosa) ; 
+6: palo mulato (Bursera 
+simaruba) ; 7: cuapinol 
+(Hymenaea courbaril) ; 
+8: aguacate (Persea sp.);
+9: árbol de piedra (?); 
+10: palo murciélago (?); 
+11: mano de danta 
+(Didymopauax morolotoni) ; 
+12: frailillo (Couepia
+polyandria) . 
+E
+STRATO ARBÓREO MEDIO
+: 
+13: cuil (Inga sp.) ; 
+14: mariquita (?); 
+15: achiote (Bixa orellana) ; 
+16: aguacatillo (Lauraceae) ; 
+17: bambú (Arundo sp.) ; 
+18: palo de humo (?); 
+19: palo de cobre (?). 
+E
+STRATO ARBÓREO BAJO
+: 
+20: cacao; (Theobroma 
+cacao) ; 21: guayaba (Pydium
+guayaba) ; 22: naranja 
+(Citrus sp.) ; 23: plátano 
+(Musa sp.) ; 24: café.
+----------------Page (260) Break----------------
+Te j i e n d o l a r e d b i o c u l t u r a l d e c o n s e r v a c i ó n y d e s a r r o l l o
+261
+nera ecológica prudente podrían ser el vínculo 
+entre los saberes ambientales campesinos e indí-
+genas con una nueva agricultura y gestión de los 
+recursos naturales. Es necesaria una segunda re-
+volución verde que incorpore los nuevos conoci-
+mientos de la agroecología a la conservación del 
+germoplasma indígena de los centros de origen y 
+diversificación genética. 
+La agroecología finca su estrategia productiva 
+en la biodiversidad, agrobiodiversidad, en las se-
+millas y plantas culturales, en la energía solar, con 
+bajos insumos exteriores y rendimientos altamen-
+te satisfactorios, sin deteriorar y poner en peligro 
+los servicios ambientales de los ecosistemas natu -
+rales y agroecosistemas. La agroecología integra a 
+su estrategia la “productividad ecológica”, tal 
+como el mejoramiento de los suelos con materia 
+orgánica (incluyendo los estiércoles), manejo de 
+la humedad, imitación de la condición de producti-
+vidad ecológica del bosque, como lo propone la 
+agroforestería tropical y subtropical y aun en las 
+áreas templadas. Asimismo, esta aproximación a 
+la agricultura es adecuada para el manejo de lade-
+ras y la reconstrucción de áreas degradadas me-
+diante policultivos y hortalizas, cortinas rompe -
+vientos y manejo de cuencas con terrazas, cubierta 
+de vegetación y pequeñas obras hidráulicas que 
+pueden mitigar los impactos de tormentas, lluvias 
+torrenciales y sequías prolongadas. 
+Por supuesto, existen tecnologías intermedias 
+que logran con pocos insumos exteriores o de man-
+tenimiento aumentar la eficiencia de los sistemas 
+agrosilvopastoriles integrados de la agroecología: 
+el uso de abonos como los estiércoles procesados 
+por sistemas de biodigestores, manejo de suelos en 
+laderas, labranza de conservación y cultivos de co-
+bertera con abonos verdes, siembra en terrazas se-
+gún las curvas a nivel, aumento sustancial de la 
+materia orgánica y de la diversidad biológica en 
+los suelos, integración a la agricultura de sistemas 
+agroforestales, incorporación de abonos orgánicos, 
+aprovechamiento de los nutrientes en distintos 
+sistemas radiculares, aumento de la biomasa y di-
+versidad en general por unidad de superficie, ma -
+nejo y conservación de la humedad de los suelos, 
+sistemas de labranza que conservan la estructura 
+y humedad del suelo, policultivos y selección de 
+semillas en campo, según preferencias del agricul-
+tor, rescate y cuidado de semillas en proceso de 
+extinción regional, formación de técnicos locales 
+en agroecología, incluyendo fitomejoradores(as), 
+intercambio de los acervos de germoplasma en 
+ferias regionales, intercambio de experiencias, y 
+fomento de la cultura culinaria tradicional. Es im-
+portante señalar que estas políticas focales de orga-
+nizaciones campesinas e indígenas han llevado a 
+sus protagonistas a organizarse para defender la agri-
+cultura campesina y sus recursos fitogenéticos en 
+distintos foros ante las amenazas de que represen -
+ta la introducción de los transgénicos al agro mexi-
+cano por parte de las compañías trasnacionales, pro-
+tegidas por cierto sector del gobierno mexicano. 
+Asimismo, la protección de agroecosistemas 
+indígenas, que incluyen la agroecología como es-
+trategia productiva, incluye la defensa de los recur-
+sos fitogenéticos indígenas, plantas medicinales, 
+germoplasma de plantas ornamentales con mar-
+cas regionales, denominaciones de origen y el re-
+gistro como recursos biológicos colectivos. Tam -
+bién productos y subproductos que entran en los 
+circuitos de comercialización e impulsan la protec-
+ción y los servicios ambientales como café orgáni-
+co de sombra ligado al comercio justo, mezcales 
+indígenas regionales, colorantes tradicionales. 
+En los últimos años se han desarrollado expe-
+riencias de conservación in situ por parte de algu-
+nas organizaciones campesinas y proyectos de in-
+vestigación-participación, que han proporcionado 
+la información que integramos en la tabla del in-
+ventario de los maíces indígenas de México (Be -
+llón, Lazos y Espinoza, 2004; Aragón et al ., 2006; 
+Blanco, 2002, Martínez, 2002). En especial hay 
+----------------Page (261) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+262
+que mencionar las experiencias del grupo Yaxca-
+bá, coordinado por el maestro Hernández X. entre 
+los años 1970 y 1980, y los talleres recientes gene-
+rados por la Red de Organizaciones del Sureste 
+para el Desarrollo Sustentable, A.C. en Mérida, 
+Yucatán, que desarrolla una metodología específi -
+ca para el rescate del maíz como consecuencia de 
+la devastación del huracán Isidoro en el año 2003, 
+con la finalidad de que los protagonistas decidie-
+ran estrategias para la conservación y rescate del 
+sistema milpero tradicional maya. También se in-
+cluyen en el inventario la información generada 
+por Aguilar, Illsley, Marielle, y Ortega publicados 
+recientemente en el excelente trabajo Sin maíz no 
+hay país (2003). El 
+INIFAP
+ ha desarrollado algunas 
+experiencias en Jalisco y el 
+CIMM
+y
+T
+ en los Valles 
+Centrales de Oaxaca (Bellón et al .) y en los Tux-
+tlas (Perales y Blanco). Otras experiencias impor-
+tantes las han realizado grupos de trabajo en el 
+Centro Nacional de Rescate y Mejoramiento de 
+Maíces Criollos (Cenremmac) de la Universidad 
+Autónoma Chapingo en Guadalajara, Jalisco. 
+La conservación ex situ de las semillas se practica 
+en algunas instituciones públicas y privadas de inves-
+tigación en México. Estos acervos provienen de co-
+lectas en las parcelas de los productores y cuentan 
+con acceso libre para los centros de investigación 
+pública y privada, así como para las compañías tras-
+nacionales de semillas. No hay ningún reconoci -
+miento de autoría que pudiera apuntar a derechos 
+intelectuales colectivos sui generis , tal como propo-
+ne el Convenio de Diversidad Biológica firmado 
+por el gobierno mexicano y ratific ado por el sena -
+do. Cada colecta para la conservación ex situ , debe-
+ría estar vinculada con un compromiso por escrito 
+de beneficios mutuos entre las instituciones de 
+investigación pública y los propios productores.
+Es necesario vincular las distintas especies, 
+sus variedades y su uso con un Programa Nacional 
+de Protección de la Agrobiodiversidad Indígena y 
+Campesina principalmente de origen mesoame-
+ricano, y a la vez constituir una institución nacio-
+nal para la defensa de los derechos de los campe-
+sinos y el pago compensatorio por ese servicio de 
+los indígenas a la sociedad. Por su diseño institu-
+cional, la Conabio debiera defender la agrobiodi-
+versidad, los derechos colectivos y el fomento de 
+su uso. El 
+INIFAP
+ y otros centros de investigación 
+agrícola y escuelas y universidades agropecuarias 
+debiesen trabajar con los fitomejoradores indíge-
+nas bajo los intereses de las comunidades (Ortega 
+R. comunicación personal, 2005). 
+En general, la investigación fitogenética de las 
+instituciones privadas y públicas, salvo excepcio-
+AÑO: 1998
+EJIDO: VALENTÍN GÓMEZ FARÍAS
+Región de Calakmul, Campeche, México
+Agroforestería y agroecología
+ESCALA 1:250
+0 10 M
+maíz y nescafé
+maíz, canavalia y calabaza
+árboles frutales
+árboles maderables
+otras plantas útiles
+FIGURA 5 
+. Parcela agroforestal diseñada por doña Catalina 
+de Valentín Gómez Farías en el municipio de Calakmul, 
+Campeche.
+----------------Page (262) Break----------------
+Te j i e n d o l a r e d b i o c u l t u r a l d e c o n s e r v a c i ó n y d e s a r r o l l o
+263
+nes honrosas, excluyen a los actores sociales tanto 
+de sus objetivos como, para explorar junto a los in-
+dígenas, del mejoramiento de tecnologías interme-
+dias para la conservación, custodia y desarrollo de 
+la agrobiodiversidad. 
+A nivel nacional es urgente el impulso de un 
+programa para la revaloración de la agrobiodiver -
+sidad indígena, sus agroecosistemas mejorados 
+por métodos agroecológicos. En casi todos los pro-
+yectos de conservación de la biodiversidad no se 
+incluyen la agrobiodiversidad de los pueblos indí-
+genas. Sin embargo, las tareas para la defensa de 
+los recursos fitogenéticos de los pueblos indí-
+genas son amplias. La agricultura y las plantacio-
+nes forestales industrializadas de uso intensivos de 
+energía fósil (máquinas, combustible, fertilizantes 
+y plaguicidas, semillas de alto rendimiento y mo-
+nocultivo) han mostrado tener costos ecológicos 
+inadmisibles (pérdida de biodiversidad, contami-
+nación de cauces de ríos, pérdida de suelo, salini -
+zación por riego, plagas, etcétera). La agricultura 
+industrializada, intensiva en recursos financieros 
+y tecnológicos que acapara grandes extensiones 
+de las mejores tierras, excluye los conocimientos, 
+tecnologías y germoplasma de los campesinos e 
+indígenas, aunque paradójicamente en nuestros 
+países la mayoría de las unidades de producción 
+del campo son precisamente de ese origen.
+En términos de rendimiento y costos por hec-
+tárea, la agricultura tradicional campesina no pue-
+de competir con la agricultura industrializada. Si 
+bien, el campesino no cobra su trabajo para produ-
+cir la agrobiodiversidad, observamos un deterioro 
+de los sistemas productivos y pérdida de recursos 
+Acuacultura rústica, Cuetzalan, Puebla. 
+----------------Page (263) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+264
+naturales como suelo, biodiversidad y agua, y con 
+la migración, el deterioro de la transmisión del co-
+nocimiento a los jóvenes. En términos de eficien-
+cia ecológica, el sistema productivo de las agricul-
+turas indígenas y campesinas significa adaptaciones 
+culturales al clima, suelos y a la biodiversidad. 
+Para enfrentar las necesidades alimentarias de 
+una población creciente en un ambiente climáti-
+co más adverso se requiere por lo menos doblar o 
+triplicar la producción de maíz para el año 2050 (Es-
+pinosa, 2006). El autor citado expresa que el país 
+ha sostenido su producción con base en las 237 
+variedades de maíz desarrolladas a través del tiem-
+po por parte de los fitomejoradores indígenas, 
+campesinos y de los centros de investigación agrí-
+colas públi cos. Nos dice que son necesarias por lo 
+menos otras 500 variedades mejoradas, que sem-
+bradas en superficies no mayores a 5000 hectáreas 
+cada una, contribuyan al avance en la producción, 
+productividad y sustentabilidad en México. Es ne-
+cesario, por lo tanto, en el tema de los maíces ge-
+nerar corredores para la conservación y desarrollo 
+in situ del germoplasma. En el caso de los transgé-
+nicos, estos corredores no deben ser pretexto para 
+tener confinado el maíz indígena y otras áreas para 
+la siembra del maíz transgénico, sino como cen-
+tros de desarrollo y experimentación y agotar al 
+máximo sus posibilidades. Como hemos mostra-
+do en diversos lugares de este trabajo que todo 
+México debe considerarse país de origen y diver-
+sificación y por ello no se debe ni importar ni sem-
+brar transgénicos (más que harinas) por más aisla -
+do que sea el lugar. 
+Por su complejidad, la conservación y defensa 
+de la agrobiodiversidad mesoamericana como re-
+cursos biológicos colectivos, con denominación de 
+Programa de cultivo de hortalizas en la escuela rural de Tzinacapan, Puebla.
+----------------Page (264) Break----------------
+Te j i e n d o l a r e d b i o c u l t u r a l d e c o n s e r v a c i ó n y d e s a r r o l l o
+265
+origen, marcas indígenas o derechos de propiedad 
+sui generis debe incorporarse como política de Es-
+tado en alianza con los pueblos indígenas. Se trata 
+de un enfoque biocultural del desarrollo de las re-
+giones y territorios sin estar bajo la lógica de las 
+regionalizaciones que nos impone el Tratado de Li-
+bre Comercio para el mercado principalmente de 
+larga distancia. La globalización, los tratados 
+de libre comercio y sobre todo la apropiación de 
+los recursos genéticos que los pueblos indígenas y 
+campesinos de México han desarrollado, nos obli-
+gan a buscar instrumentos para su defensa.
+De las iniciativas de defensa del germoplasma 
+indígena, del Grupo de Desarrollo Rural Integral 
+Vicente Guerrero en Tlaxcala, 
+UNITONA
+ de la Sie-
+rra de Puebla, 
+PNUD
+ Península de Yucatán, Grupo 
+Yaxkabá Yucatán, Proyecto 
+SAS GEA
+-Sansekan Ti-
+nemi, Conservación in situ de los maíces nativos 
+en el valle de Oaxaca, 
+CEDICAM
+ en la Mixteca Alta, 
+destacamos los siguientes temas para la conserva-
+ción in situ mediante métodos agroecológicos:
+1) Diagnóstico regional y comunitario de la 
+agrobiodiversidad indígena regional, la vege-
+tación natural, sus usos y los agroecosistemas 
+construidos.
+2) Priorización de las acciones para la conserva-
+ción y desarrollo de la agrobiodiversidad. La for-
+mación de grupos de indígenas y campesinos in-
+teresados en la preservación, desarrollo y defensa 
+de la agrobiodiversidad, comenzando por los maí -
+ces para la autosuficiencia alimentaria.
+3) Desarrollo de una estrategia campesina indí-
+gena comunitaria y regional para la preservación 
+del germoplasma nativo. 
+4) Formación y detección mediante métodos 
+de campesino a campesino los mejores fitomejo-
+radores locales con que realizan las mejores prác-
+ticas agroecológicos.
+5) En los minifundios la creación de verda-
+deros huertos agrointensivos indígenas de poli-
+cultivos que tienen como ejes el maíz indígena, la 
+agroforestería, el mejoramiento del suelo en cada 
+ciclo agrícola, la introducción de materia orgánica, 
+el trazo de curvas a nivel o labranza de conserva-
+ción, el manejo de la humedad, zanjas a nivel en 
+laderas, almacénes de agua, producción de abo-
+nos en base de estiércoles con sus respectivos bio-
+digestores, abono verdes, barreras vivas, pastos de 
+corta para la ganadería. Integración de la ganade-
+ría a la agricultura y a la agroforestería
+6) Restitución de los maíces y agrobiodiversi-
+dad perdida en la región. Programa especial estra-
+tégico para la restitución y conservación in situ de 
+los maíces y otros recursos fitogenéticos en peli-
+gro de perderse.
+7) Creación de fondos de semillas de emergen-
+cia bajo custodio cooperativo de los grupos. 
+8) Formación de corredores maiceros regionales, 
+en los cuales se “cultivan” los maíces nativos, y del 
+germoplasma mesoamericano que los acompañan.
+9) Mejoramiento de las prácticas de cultivo con 
+principios agroecológicos.
+10) Mejoramiento genético por intercambio 
+en ferias regionales del germoplasma indígena.
+11) Métodos eficientes para el almacenamien-
+to, tomando en cuenta que la principal pérdida de 
+las cosechas de maíz no está en el campo, sino en 
+el almacenamiento.
+12) Impulso decidido al uso cultural por parte 
+de los pueblos indígenas específicos del germo-
+plasma regional: ferias culinarias, ferias regionales 
+de productos de la biodiversidad indígena como 
+son los nopales, mezcales, aguacates, maíces, frijo-
+les, etcétera. Intercambio de experiencias entre 
+los mejores agricultores. 
+13) Visitas de intercambio de conocimientos 
+con las metodologías de campesino a campesino.
+14) Mecanismos de defensa regional en contra 
+de la biopiratería de los derechos intelectuales de 
+los indígenas. Declaración de patrimonio de la hu-
+manidad, denominaciones de origen, geográficas 
+y étnicas. 
+----------------Page (265) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+266
+15) Monitoreo de la conta minación de los maí-
+ces y otros cultivos nativos con germoplasma de 
+los transgénicos.
+16) Gestión en los distintos congresos locales y 
+en el nacional de la moratoria indefinida para la 
+siembra de transgénicos, y estímulos para la pro-
+tección y desarrollo del germoplasma nativo.
+Destacamos además, el interés de las comuni-
+dades para realizar colectivamente (tequio) obras 
+para el manejo de las microcuencas, reforestación 
+y acciones de conservación de suelos para frenar 
+los procesos de desertificación.
+De la organización social democrática para la defensa 
+y desarrollo sustentable de los recursos naturales
+Casi todas las iniciativas del buen manejo de los 
+recursos naturales están basadas en una especie 
+de economía política indígena de los bienes comu-
+nes. El manejo colectivo de los bienes comunes 
+es un tema soslayado jurídicamente y combatido 
+sistemáticamente por las instituciones del Esta-
+do. Prueba de ello son los pocos recursos que asig-
+na la Sagarpa para el manejo de los bienes comu-
+nes. Hay que apuntar que Procede, a partir de una 
+interpretación inadecuada de la ley agraria del 
+1992, ha promovido la parcelación de los bienes 
+comunes cuando se trata de bosques y selvas. Por 
+otro lado, varias comunidades indígenas se han ne-
+gado a entrar al proceso de certificación agraria, 
+por temor de perder los derechos colectivos de su 
+territorio. Ahí donde sucedió la parcelación sin res-
+peto a los bienes colectivos se cumplieron puntual-
+mente los presagios de la que se aceleraría la des-
+trucción de la vegetación natural. Un ejemplo de 
+ello sería la destrucción aguda de la selva en eji-
+dos nahuas en la Sierra de Santa Marta, mismos 
+que tienen los más altos valores de ganaderización 
+en los territorios indígenas. Si se compara el uso de 
+suelo parcelado o de uso común entre los ejidos y 
+las comunidades, observaremos que la vegetación 
+natural sólo permanece donde persiste el segundo 
+caso (Semarnat, 2002). Parte de los recursos que 
+se encuentran en las áreas de uso común que con-
+servan una gran porción de vegetación primaria y 
+secundaria natural es utilizada para la recolección, 
+autoconsumo o pastoreo por toda la comunidad, 
+sin distingo de si es socio comunero o ejidatario. 
+Éstas pueden tener acceso colectivo con reglas se-
+gún los acuerdos de las comunidades agrarias o 
+pueden ser apropiadas por poderosos locales 
+o abandonadas en razón de que no son tierras ap -
+tas para la agricultura. Asimismo, las asambleas de 
+los miembros de tierras comunales pueden hacer 
+valer el acceso a la tierra para todos, cosa impensa-
+ble en los ejidos. Las tierras de uso común pueden 
+mantenerse como tal formalmente, sin embargo, 
+las asambleas pueden acordar el acceso privado 
+por parte de sus socios. 
+Uno de los puntos clave de los acuerdos de San 
+Andrés entre el 
+EZLN
+ y el gobierno federal fue el 
+reconocimiento al acceso colectivo de los recursos 
+naturales, que fue transformado tramposamente 
+en la Ley de Desarrollo y Derechos de los Pue-
+Familia nahua frente a la primera casa ecológica 
+inaugurada en la región de Cuetzalan, Puebla.
+----------------Page (266) Break----------------
+Te j i e n d o l a r e d b i o c u l t u r a l d e c o n s e r v a c i ó n y d e s a r r o l l o
+267
+E
+sta nota pretende demostrar que mediante méto-
+dos tradicionales de mejoramiento genético se 
+puede mejorar la resistencia a sequía en el caso del 
+maíz. El mejoramiento practicado en el Centro Nacio -
+nal de Rescate y Mejoramiento de Maíces Criollos 
+(Cenremmac) de la Universidad Autónoma Chapingo 
+en Guadalajara, Jalisco, es sumamente sencillo; no nece-
+sita más que un polinizador de maíz (una persona entre-
+nada en la tarea de polinizar al maíz artificialmente), un 
+lote de control de la humedad bajo riego (en este caso 
+se usó un campo de El Grullo, Jalisco, en las estaciones 
+de otoño-invierno) y, desde luego los recursos apropia -
+dos; se calculó que se necesitaría unos $20 000 por 
+raza, en la totalidad de 4 años y 6 ciclos, incluyendo la 
+experimentación respectiva en varios lugares de la Re-
+pública (4 lugares: Tlajomulco y El Grullo, Jalisco, Cotax-
+tla, Veracruz, y Saltillo, Coahuila).
+Se partió de razas mejoradas por el método de “re -
+trocruza limitada”. En éste la raza criolla se cruza con 
+una variedad mejorada de adaptación similar a la de la 
+raza. Por polinización artificial la raza se cruza con la va-
+riedad mejorada y se lleva a la siguiente generación; en 
+ésta la cruza raza X mejorada se cruza, a su vez, con la 
+raza obteniéndose la primera retrocruza con 3/4 del ge-
+noma de la raza y 1/4 del genoma del mejorado, razón 
+por la que a esta población se le conoce también como 
+raza 3/4. La raza 3/4 se lleva por polinización libre a su 
+segunda generación y ésta es la raza mejorada. En dife-
+rentes experimentos, comparando la raza original con 
+la raza 3/4 se ha visto que ésta supera a aquélla amplia-
+mente (hasta en un 40 por ciento en rendimiento), pe-
+ro desde luego tienen menor altura, mayor rendimien-
+to y adaptabilidad conferida por el maíz mejorado.
+Mejoramiento para la resistencia a la sequía en variedades mejoradas 
+de maíz por métodos tradicionales*
+* Coordinador del Cenremmac. fidelmqz@hotmail.com. 
+El responsable del trabajo de mejoramiento fue el doctor Luis Saha -
+gún Castellanos colaborando con él el doctor Erasmo Barrera 
+Gutiérrez; al primero, el autor de esta nota le agradece su gentileza 
+en permitir escribirla.
+En 25 razas 3/4 se llevó a cabo el mejoramiento para 
+resistencia a sequía. En un lote común en El Grullo, en la 
+estación otoño-invierno se sembró bajo riego y se dio un 
+segundo riego de nacencia. Después se dejaron a las 
+plantas bajo sequía por un periodo de un mes, hacién-
+dose los riegos posteriores más o menos cada mes pro-
+curando que en la floración no hubiese riego. En este 
+momento las plantas sobrevivientes, unas 60 de un total 
+de 400 sembradas originalmente, eran polinizadas entre 
+sí, y a la cosecha se seleccionaban las mejores 20 mazor-
+cas. En la estación siguiente, primavera-verano en Tlajo -
+mulco, se hacía la recombinación genética entre las pro -
+genies de las 20 mazorcas seleccionadas. Esta población 
+se sometía nuevamente a la resistencia a sequía en la si-
+guiente estación otoño-invierno en El Grullo y así en 
+Mazorcas provenientes de San Andrés Tlalnelhuayocan, 
+Veracruz.
+----------------Page (267) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+268
+blos Indígenas en el “acceso preferente”. Este te-
+ma fue mal interpretado por algunos sectores y 
+diputaciones de derecha, aduciendo que se pro-
+ponía algo así como una colectivización forzada. 
+El buen gobierno de los bienes comunes (Os-
+trom, 2000) es clave y estratégico para el manejo 
+sustentable de los recursos naturales y de la con-
+servación de la diversidad biológica en México, 
+puesto que millones de hectáreas de bosques, sel-
+vas y vegetación desértica y semidesértica se en-
+cuentran en ejidos y comunidades.
+Al respecto, la discusión teórica sobre bases 
+empíricas que se ha impulsado a nivel mundial se 
+centra en el control de los recursos a través del go-
+bierno de los bienes comunes cuando las tierras 
+de uso común tienen esta característica específica 
+(Ostrom, 2000). En efecto, a nivel mundial 370 
+millones de hectáreas están en manos de comuni -
+dades campesinas e indígenas y son manejadas 
+como bien común (White y Martin, 2002). La ac -
+ción común incluye los sitios sagrados, apenas re-
+conocidos por el Estado mexicano.
+La evidencia empírica en los territorios de los 
+pueblos indígenas muestra una gama de situacio-
+nes que van desde la deforestación y pérdida de 
+recursos hasta los aprovechamientos sostenibles. 
+Todas las experiencias tienen como tema central 
+la gobernanza de los bienes comunes: tenemos 
+situaciones de éxitos y sustentabilidad a partir del 
+manejo de los recursos naturales; otras, de posibi-
+lidad para llegar a la sustentabilidad, y un tercer 
+escenario donde dominan la desorganización so-
+cial, los intereses ajenos y privados en los bienes 
+comunes tanto de afuera como del interior de la 
+comunidad indígena (Gerez, 1999). En los mejo-
+res escenarios se da lo que podemos llamar la 
+construcción de la economía política del manejo 
+indígena de los recursos biológicos comunes, co-
+mo serían bosques, selvas en general o recursos 
+determinados en particular, incluyendo el agua.
+cada uno de los ciclos posteriores lográndose seis ciclos 
+de selección. Lo importante es que todo este trabajo se 
+hacía con las 25 razas con sólo dos polinizadores: los 
+doctores Luis Sahagún Sandoval y Erasmo Barrera Gutié-
+rrez. Los resultados se basaron en varios experimentos 
+bajo sequía y bajo temporal. Después del ciclo 3 de resis-
+tencia a sequía los resultados indicaron que las 11 razas 
+3/4: Bolita, Tuxpeño Norteño, Pepitilla (en 2 versiones), 
+Celaya, Ratón, Amarillo Zamorano, Reventador, Com -
+plejo Serrano de Jalisco, Ancho de Morelos y Vandeño, 
+fueron superiores en rendimiento de grano a las razas, 
+en un rango de 9 a 25 por ciento. Este trabajo se llevó a 
+cabo en 4 años, de 2000 a 2004, como se dijo, inclu-
+yendo la experimentación. Desde luego que bajo tem -
+poral las razas resistentes a sequía también resultaron 
+superiores en rendimiento a las razas originales.
+Finalmente, los investigadores creen que las razas 
+que no respondieron significativamente al método de 
+resistencia a sequía, en general, eran más precoces por 
+lo que la polinización de las plantas sobrevivientes no 
+se hacía en el momento oportuno, o de por sí ya tenían 
+cierta resistencia. Se cree entonces, que con menos ra -
+zas y más facilidades de trabajo de campo, el método 
+puede resultar mucho más efectivo.
+Ritual otomí en una milpa de Jiquipilco El Viejo, 
+Estado de México.
+----------------Page (268) Break----------------
+Te j i e n d o l a r e d b i o c u l t u r a l d e c o n s e r v a c i ó n y d e s a r r o l l o
+269
+Por lo anterior, postulamos que la conserva-
+ción, la defensa de los recursos naturales, depen-
+derá de cómo la organización social tradicional de 
+los indígenas se inserte dentro de las nuevas for-
+mas organizativas. 
+Para el acceso a los recursos naturales, las 
+comunidades indígenas han tenido en general 
+reglas comunitarias de larga tradición. Inclusive 
+se recurre a maneras religiosas de interpretación 
+de la naturaleza, regulan (o bien regulaban) y cas -
+tigaban los excesos en el aprovechamiento no sus-
+tentable del recurso (Boege, 1988). Cuando, sin 
+embargo, los procesos de reforma agraria y otros 
+factores permitieron el desarrollo de cacicazgos 
+político-económicos que transformaron las reglas, 
+se cambiaron las formas e iniciativas colectivas en 
+formas de apropiación privada. Hay procesos de 
+los cuales podemos aprender el movimiento con-
+trario: como es el caso del control social o la apro-
+piación sobre los recursos, en este caso forestales 
+maderables, por parte de las asambleas de ejida-
+tarios y comuneros. A principios de los años 1980 
+se desarrollaron en todo el país movimientos y 
+movilizaciones campesinas para que el manejo 
+de los bosques fuera transferido a sus verdaderos 
+dueños. 
+Para el manejo de los recursos naturales nue-
+vas formas del gobierno de los bienes comunes se 
+fueron configurando a partir de los años 1980, de 
+las cuales podemos sacar las siguientes lecciones 
+que no necesariamente se refieren sólo al manejo 
+forestal. El territorio de las comunidades se reor-
+ganiza en función de reglas aprobadas por la asam-
+blea ejidal o comunal para el aprovechamiento 
+sustentable del bosque natural y selvas. Es decir, 
+se desarrolla “naturalmente” la ordenación del te-
+rritorio para el manejo de “áreas forestales perma-
+nentes” (de aprovechamiento, regeneración y 
+crecimiento), de conservación de la diversidad 
+biológica, áreas de desarrollo agroforestal y agrope-
+cuario. La organización de las comunidades agra-
+rias, con su aproximación económica múltiple a 
+su territorio, las políticas públicas administradas 
+por el Estado y sus gobiernos y el servicio forestal 
+que interviene en los programas de manejo. En 
+las sierras abruptas una sola comunidad puede 
+abarcar ecosistemas distintos, con una variedad 
+de vegetación impresionante, lo que exige aproxi-
+maciones diferenciales tanto desde el punto de 
+vista de la conservación como de los aprovecha-
+mientos. Hay que recordar que se trata de foreste-
+ría comunitaria en bosques y selvas naturales, en 
+territorios generalmente serranos (salvo los que se 
+Conservación de suelos en laderas pronunciadas.
+Agricultura sustentable indígena campesina. 
+----------------Page (269) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+270
+encuentran en la Península de Yucatán) con la ma-
+yor biodiversidad terrestre. En los aprovechamien-
+tos forestales hay partes segregadas que son reser-
+vorios importantes de la diversidad biológica y 
+bancos genéticos de germoplasma forestal. Al res-
+pecto son importantes las iniciativas comunitarias 
+para definir las áreas naturales bajo protección. 
+Asimismo, la actividad sustentable atrae otras acti-
+vidades que aprovechan miembros de la comuni-
+dad, no necesariamente socios, como son la reco-
+lección de hongos, ecoturismo, agua embotellada, 
+cultivo de truchas, etcétera. Otra característica es 
+que los ejidos y comunidades indígenas no se de-
+dican exclusivamente a la actividad forestal ma-
+derable, sino también a recursos no maderables 
+como el manejo de fauna, servicios ambientales 
+como el agua, captura de carbono y biodiversidad 
+y valores escénicos y naturales para el ecoturismo. 
+Están, por otro lado, las tierras cultivadas, las áreas 
+de ganadería o de barbecho. Todo ello nos refleja 
+una manera de ordenación territorial y ecológica 
+ya sea tradicional o inducida. 
+Para desarrollar la sustentabilidad ecológica, 
+social y económica es necesario que las comuni-
+dades campesinas e indígenas se reapropien de 
+su territorio con proyectos propios. Merino (2006) 
+presenta algunos principios básicos para analizar 
+la evolución de las experiencias empíricas del 
+buen gobierno de los bienes comunes:
+1) Consensos comunitarios . Es necesario trabajar 
+con las comunidades para ubicar y reubicar las ac-
+tividades agrícolas, ganaderas y forestales, de tal 
+manera que se puedan fijar reglas y reglamentos 
+claros consensuados por parte de la comunidad y 
+la asamblea. Entre más participativo es este proce-
+so, más fácil es llegar a reglas claras para el manejo 
+y el acceso. Si el ordenamiento es decretado por 
+las autoridades federales y estatales sin consenso 
+local, no hay posibilidad que las reglas impuestas 
+se cumplan. Lo que genera la gobernabilidad so -
+bre los bienes comunes son estas reglas fijadas 
+tanto desde el interior de la comunidad como del 
+exterior y promovidas por las autoridades agrarias, 
+forestales y ambientales. Es muy importante se-
+Reunión de mujeres totonacas.
+----------------Page (270) Break----------------
+Te j i e n d o l a r e d b i o c u l t u r a l d e c o n s e r v a c i ó n y d e s a r r o l l o
+271
+ñalar que en lugares donde hay ordenamiento, 
+manejo y acuerdos sobre el acceso, las masas fo-
+restales han aumentado en superficie y en calidad 
+(Anta y Pérez, 2004).
+2) Delimitación de los usuarios y del territorio para 
+el manejo . Para lograr el buen gobierno de los bie-
+nes comunes tiene que haber una delimitación 
+clara de quiénes tienen derecho sobre los recursos 
+naturales y de qué superficie territorial se trata. 
+Desde el punto de vista de la organización interna 
+de los ejidos o comunidades, la delimitación del 
+área de aprovechamiento es un aspecto crítico. Se 
+trata de una sociedad en una comunidad agraria 
+que ha decidido manejar mejor sus recursos natu-
+rales, llámese bosques, selvas, fauna, etcétera. Co-
+mo ejidatario o comunero se tiene derecho a parti-
+cipar de los beneficios que resultan de la gestión 
+del bosque. Para el aprovechamiento de ciertos 
+recursos, como la madera, los “derechosos” son 
+personas por lo común del género masculino, avala-
+dos por el Estado en el Registro Agrario. No tienen 
+derechos sobre el recurso maderable los avecinda-
+dos, los hijos de los ejidatarios y las mujeres que no 
+estén acreditadas como ejidatarias. En el caso de la 
+modalidad comunal de tenencia de la tierra, el ca -
+rácter de comunero —en algunas comunidades— 
+se adquiere cuando se cumplen los 16 años. Esto 
+vale tanto para los hombres como para las muje-
+res. Lo interesante de este esquema es que el pa-
+drón de socios se va renovando al integrar a las nue-
+vas generaciones y en especial a las mujeres. Este 
+modelo es una excepción más que la norma.
+3) La regulación de cantidad y frecuencia de la 
+apropiación del recurso .Por la naturaleza del apro-
+vechamiento de los recursos, la regulación y fre-
+cuencia de la apropiación del recurso tiene un res-
+paldo técnico y legal. Es importante señalar que 
+ciertas comunidades tradicionales tienen regula-
+ciones para distintos recursos (agua, fauna, leña, 
+madera para construcción, etcétera), incluso hay 
+algunas ancladas en códigos míticos y de castigo 
+para aquellos que rompan las reglas basadas en re-
+ciprocidades. Un ejemplo de reglas específicas 
+sobre el uso adecuado de los recursos son las que 
+impone la asamblea tradicional o bien las que no 
+están escritas pero son entendidas por todos. Nos 
+referimos aquí al trabajo de Aguilar et al. (2006), 
+donde describen las normas y reglas internas de 
+tres comunidades indígenas para el manejo del te-
+rritorio y en específico de la hoja de palma. En es-
+te trabajo se describen los mecanismos exteriores 
+e interiores a las comunidades que deterioran es-
+tos acuerdos escritos y no escritos.
+4) Organización social consensuada y legitimada 
+por todos los participantes. Al respecto presento 
+aquí por lo menos tres situaciones distintas: a) la 
+que se refiere a las situaciones en que la asamblea 
+ha perdido el control sobre los recursos y en que si 
+bien no existe un escenario de acceso abierto al 
+exterior, grupos internos se apropian ilegítima -
+mente del recurso (Merino, Gerez y Madrid, 2000); 
+b) la asamblea controla a sus autoridades y al re-
+curso, y c) las empresas forestales vuelven más 
+complejo su quehacer y generan estrategias em-
+presariales a mediano y largo plazo, creando ins-
+tancias intermedias de toma de decisión. 
+El desempeño de la organización social es cla-
+ve para la reapropiación de los bienes comunes 
+tanto maderables o no maderables. Es aquí donde 
+se debate el acceso abierto a los recursos, el acceso 
+de unos cuantos, excluyendo a los demás, o si los 
+miembros del ejido y/o comunidad controlan los 
+recursos y sus beneficios. En los ejidos y comuni-
+dades exitosos analizados en este libro, se observa 
+que cuando hay la posibilidad de construcción de 
+consensos y de resolución de conflictos internos 
+se tiene la capacidad de plantear políticas y accio-
+nes más estratégicas que benefician tanto al bos-
+que como a los socios. 
+Avalada por la Ley Agraria, la asamblea es la 
+máxima autoridad de un ejido o comunidad y está 
+en la base del gobierno de los bienes comunes. 
+----------------Page (271) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+272
+Bien manejada se trata de un esquema organiza-
+do de manera autogestionaria, lo que implica sis-
+temas complejos de toma de decisiones colectivas 
+y auditadas internamente.
+5) La economía de la acción común es compleja . La 
+asamblea tiene el derecho de elegir a sus autori-
+dades, la presidencia del comisariado ejidal o co-
+munal y el consejo de vigilancia, de decidir qué 
+equipo se va adquirir y qué proporción del volu-
+men autorizado se va a aprovechar. Las autorida-
+des ejidales o comunales son parte de la directiva 
+de la empresa. La ventaja de esta forma de orga-
+nización es que hay un recambio constante y mu-
+chos ejidatarios y comuneros pueden acceder a 
+los puestos directivos. Éstos están vinculados a 
+los sistemas de cargos tradicionales. Son las auto-
+ridades comunales mismas las que administran 
+los acuerdos básicos para mantener el acceso con-
+trolado (Alatorre, 2000), clínicas, caminos, intro-
+ducción de agua potable, seguro social y de vida 
+de los socios. Los altos costos de administración, y 
+muchas veces su lógica distinta a la de los costos y 
+beneficios directos de una empresa colectiva, ge-
+neran descontento en los socios que están al tanto 
+del volumen de madera autorizado, el extraído y 
+los ingresos que debieran repartirse. Desde hace 
+algunos años, y amparados en la Ley Agraria de 
+1992, existen socios que se organizan en grupos 
+para desarrollar las actividades de extracción, aca-
+rreo y transformación de la parte del volumen au-
+torizado que les corresponde sin pasar por la admi-
+nistración central de la empresa. Este fenómeno 
+se da en tres ejidos forestales importantes tanto 
+en Durango como en Quintana Roo (Boege, 
+2006). La economía de la acción común requiere 
+apoyos y transferencias económicas por parte del 
+Estado ante una competencia desleal de planta-
+ciones de enormes empresas privadas, como las 
+que se desenvuelven en el sur de Chile, que ex-
+propiaron de los territorios mapuches para ese 
+efecto. Los bosques y selvas primarios mexicanos 
+se encuentran descremados por la acción de los 
+concesionarios privados y estatales que controla-
+ban los aprovechamientos forestales. Para resti-
+tuir la productividad robada, deben incorporarse 
+en la apreciación de los productos forestales los 
+servicios ambientales que éstos producen, la es-
+pecialización, la integración de cadenas producti -
+vas y, sobre todo, otros productos no maderables. 
+La silvicultura comunitaria es un laboratorio im-
+portante para analizar la ocupación social y cultu-
+ral del territorio que generalmente contiene una 
+parte importante de la alta biodiversidad. Se trata 
+del manejo del bosque natural mediante ordena-
+mientos territoriales para garantizar las aproxima-
+ciones culturales y productivas múltiples. 
+No aplica aquí el análisis de la “tragedia de los 
+comunes” (Hardin, 1968), cuyo marco simplista, 
+abstracto y generalizante sólo toca a una de las dis-
+tintas posibilidades del manejo y economía del 
+bien común. Gran parte de la diversidad biológica 
+de los pueblos indígenas se encuentra en las tie-
+rras de uso común, por lo que los acuerdos y reglas 
+de acceso de los ejidatarios y comuneros es con-
+dición necesaria para evitar lo que se denomina la 
+“tragedia de los comunes” y la ingobernabilidad 
+regional impuestas por los taladores y los narcotra-
+ficantes. Sin embargo, ésta si aplica en múltiples 
+comunidades y regiones cuando no existen orga -
+nización y reglas claras de acceso; en resumen, un 
+buen gobierno de los comunes. La tragedia de los 
+comunes se cumple cuando se pierden o violen-
+tan las reglas colectivas del uso y acceso de los re-
+cursos y cuando, para apropiarse de este bien co-
+mún, se impone una minoría de personas o grupos 
+privados de origen externo o interno a las comu-
+nidades.
+P. 273
+ Niña chamula, Chiapas.
+----------------Page (272) Break----------------
+
+----------------Page (273) Break----------------
+
+----------------Page (274) Break----------------
+275
+Siglas y acrónimos
+ADN
+ Ácido desoxirribonucleico. 
+AICA
+ Áreas de importancia para la conservación de las aves.
+ANP
+ Áreas naturales protegidas.
+CCI
+-
+INI
+ Centros Coordinadores Indigenistas del Instituto Nacional Indigenista.
+CDI
+ Comisión Nacional para el Desarrollo de los Pueblos Indígenas (antes 
+INI
+).
+CDB
+ Convenio sobre Diversidad Biológica.
+CEDICAM
+Centro de Desarrollo Integral Campesino de la Mixteca Hita Nuni A.C.
+CEPCO
+ Coordinadora Estatal/Productores Café Orgánico/Oaxaca.
+CIESAS
+ Centro de Investigaciones y Estudios Superiores en Antropología Social.
+CIMM
+y
+T
+ Centro Internacional para el Mejoramiento del Maíz y el Trigo.
+Cinvestav-
+IPN
+Centro de Investigaciones y de Estudios Avanzados del Instituto Politécnico Nacional.
+CNCA
+ Consejo Nacional para la Cultura y las Artes.
+Coinbio Proyecto de Conservación de la Biodiversidad Comunidades Indígenas.
+Conabio Comisión Nacional para el Uso de la Biodiversidad.
+Conacyt Consejo Nacional de Ciencia y Tecnología.
+Conafor Comisión Nacional Forestal.
+Conanp Comisión Nacional de Áreas Naturales Protegidas.
+Conapo Consejo Nacional de Población.
+Conasupo Compañía Nacional de Subsistencias Populares.
+Coplamar Coordinación General del Plan Nacional de Zonas Deprimidas y Grupos Marginados.
+Corenchi Comité Regional de Recursos Naturales de la Chinantla.
+CUSV
+ Cartografía de Uso de Suelo y Vegetación/ series I, II o III, Instituto Nacional de 
+ Estadística, Geografía e Informática.
+ERA
+ Estudios Rurales y Asesoría Campesina.
+EUA
+ Estados Unidos de América.
+P. 274 
+Tejón en Calakmul, Campeche.
+----------------Page (275) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+276
+EZLN
+ Ejército Zapatista de Liberación Nacional.
+FAO
+ Food and Agriculture Organization, United Nations.
+GAIA
+ Grupo Autónomo para la Investigación Ambiental. 
+GATT
+ General Agreement on Tariffs and Trade (Acuerdo General sobre Aranceles 
+ Aduaneros y Comercio).
+GEA
+-
+AC
+ Grupo de Estudios Ambientales, Asociación Civil.
+GEF
+ Global Environmental Facility (
+FMAM
+Fondo para el Medio Ambiente Mundial)
+Huicot Región Huichol, Cora Tepehuana.
+ILV
+ Instituto Lingüístico de Verano.
+INAH
+ Instituto Nacional de Antropología e Historia.
+Inali Instituto Nacional de Lenguas Indígenas.
+INEGI
+ Instituto Nacional de Estadística, Geografía e Informática.
+INI
+ Instituto Nacional Indigenista.
+INIFAP
+ Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias.
+IIS
+-
+UNAM
+Instituto de Investigaciones Sociales de la Universidad Nacional Autónoma de México.
+Ixeto Unión Ixtlán-Etla.
+LGEEPA
+ Ley General de Equilibrio Ecológico y Protección al Ambiente.
+Mietep Manejo Integrado de Ecosistemas en Tres Regiones Prioritarias.
+NVER
+ Norte de Veracruz.
+OGM
+ Organismos Genéticamente Modificados.
+OIT
+ Organización Internacional del Trabajo, dependiente de la 
+ONU
+.
+ONG
+ Organizaciones No Gubernamentales.
+ONU
+ Organización de Naciones Unidas.
+Pemex Petróleos Mexicanos.
+PNUMA
+ Programa de las Naciones Unidas para el Medio Ambiente.
+PNUD
+ Programa de Naciones Unidas para el Desarrollo.
+Procede Programa de Certificación de Derechos Ejidales y Titulación de Solares.
+Procymaf Proyecto para la Conservación y Manejo Sustentable de Recursos Forestales en México.
+Proders Programa de Desarrollo Rural Sustentable.
+Ramsar Convención de Ramsar sobre Humedales. 1971, Irán.
+RAN
+ Registro Agrario Nacional. 
+RHP
+ Regiones hidrológicas prioritarias para la conservación de la biodiversidad.
+RMP
+ Regiones marinas prioritarias para la conservación de la biodiversidad.
+RTP
+ Regiones terrestres prioritarias para la conservación de la biodiversidad.
+SLP
+ San Luis Potosí.
+Sagarpa Secretaría de Ganadería, Agricultura y Pesca.
+Semarnap Secretaría de Medio Ambiente, Recursos Naturales y Pesca (hoy Semarnat).
+Semarnat Secretaría de Medio Ambiente Recursos Naturales.
+SICOBI
+ Sistema Comunitario para el Manejo y Conservación de la Biodiversidad.
+Sinanp Sistema Nacional de Áreas Naturales Protegidas.
+SNIB
+ Sistema Nacional de Información sobre Biodiversidad.
+----------------Page (276) Break----------------
+Siglas y acrónimos
+277277
+SNP
+ Sierra Norte de Puebla.
+TLCAN
+ Tratado de Libre Comercio con América del Norte.
+UAM
+-
+I
+ Universidad Autónoma Metropolitana-Iztapalapa.
+UCIRI
+ Unión de Comunidades Indígenas de la Región del Istmo.
+UMAS
+ Unidades de Manejo Ambiental.
+UNAM
+ Universidad Nacional Autónoma de México.
+USDA
+ United States Department of Agriculture 
+ (Departamento de Agricultura de los Estados Unidos de América).
+UICN
+ Unión Internacional para la Conservación de la Naturaleza.
+WWF
+ (Siglas en inglés) Fondo Mundial para la Naturaleza.
+Uzachi Unión de Comunidades Zapotecas y Chinantecas.
+Notas sobre la cartografía
+La cartografía de este libro se elaboró con 
+SIG
+ Arc View con base en los mapas siguientes: 
+Mapa de fondo: 
+Conabio: Mosaico 2002 de imágenes 
+MODIS
+, del satélite Te r r a , Bandas 1, 4, 3 (
+RGB
+), 
+resolución espacial 250 metros sobre un modelo digital de terreno.
+Mapa base: 
+Marco Geoestadístico Municipal 2005 (
+MGM
+2005), 
+INEGI
+.
+Mapa de cuencas hidrológicas:
+ Comisión Nacional del Agua (
+CNA
+), 1998, “Cuencas hidrológicas”, es-
+cala 1:250 000, México.
+Mapa de regiones hidrológicas prioritarias: 
+Arriaga, L., V. Aguilar y J. Alcocer, 2002, “Aguas continenta-
+les y diversidad biológica de México”, Conabio, escala 1: 4 000 000, México.
+Mapa de las regiones terrestres prioritarias:
+ Conabio, 2004, “Regiones terrestres prioritarias”, esca- 
+la 1:1 000 000, México.
+Mapa de los territorios de los pueblos indígenas 2008: 
+elaborado por Eckart Boege sobre la siguiente 
+cartografía: Marco Geoestadístico Municipal (
+MGM
+2005) 
+INEGI
+, México; XII Censo General de Po-
+blación y Vivienda 2000, 
+INEGI
+, México, con referencias geoestadísticas y VIII Censo Ejidal 2001, 
+INEGI
+, México.
+Mapa de vegetación y uso del suelo:
+ Cartografía y Uso del Suelo Serie III, 2002, 
+INEGI
+, escala 1:250 000, 
+México.
+Mapa de lenguas zapotecas y mixtecas:
+INALI
+, 2007, Catálogo de las Lenguas Indígenas Nacionales: 
+variantes lingüísticas de México con sus autodenominaciones y referencias geoestadísticas, México.
+Mapas de las razas de maíz: 
+CIMM
+y
+T
+, 1999, “Razas de maíz con geolocalización”, base de datos propor-
+cionada al autor por Conabio, y mapas generados por Aragón, F., S. Taba, J.M. Hernández, J. de Dios 
+Figueroa, V. Serrano, F.H. Castro, 2006, Catálogo de maíces criollos de Oaxaca, 
+INIFAP
+, Libro Técnico 6, 
+México.
+----------------Page (277) Break----------------
+
+----------------Page (278) Break----------------
+279
+A
+BOITES
+, G. y F. Martínez (1995), “La disputa por 
+el control de los recursos filogenéticos: cronolo-
+gía analítica y propuesta”, en J. González, V. de 
+la Cruz, J. Aguilar, V. González, D. Delgado, A. 
+Va rg a s ( e d s . ) , Agroecología y desarrollo sustentable ,
+Universidad Autónoma de Chapingo, México.
+A
+GUILAR
+, J., C. Illsley, T. Gómez, J. Acosta, E. 
+Quintanar, A. Tlacotempa, A. Flores y S. Man -
+cilla (2006), “Normas, acuerdos y mecanismos 
+comunitarios para regular el aprovechamiento 
+de los recursos naturales de acceso común en 
+comunidades indígenas de la región de Chila-
+pa, Guerrero, México”, en E. Boege y L. Me-
+rino, El desarrollo forestal comunitario en México ,
+en preparación.
+——— , C. Illsley y C. Marielle (2003), “Los sis-
+temas agrícolas de maíz y sus procesos técni-
+cos”, en G. Esteva y C. Marielle (coords.), Sin 
+maíz no hay país , Conaculta, Dirección General 
+de Culturas Populares, Museo de Culturas Po-
+pulares, México, pp. 84 y ss.
+A
+GUIRRE
+B
+ELTRÁN
+, G. (1987, 1991), Regiones de re-
+fugio: el desarrollo de la comunidad y el proceso 
+dominical en mestizo América , Fondo de Cultura 
+Económica, México.
+Bibliografía
+A
+LATORRE
+, G. (2000), La construcción de una cultura 
+gerencial democrática en las empresas forestales ,
+Premio Estudios Agrarios 1998, Casa Juan Pa-
+blos-Procuraduría Agraria, México.
+A
+LT I E R I
+, M.A. (1990), “Agroecology and Rural 
+Development in Latin America”, en M. Altie-
+ri y S. Hecht (eds.), Agroecology and Small Farm 
+Development , 
+A
+/
+A
+ Press, Florida. 
+——— y L.C. Merrick (1987), “ In situ Conserva-
+tion of Crop Genetic Resources through Main-
+tenance of Traditional Farming Systems”, en 
+Economic Botany, núm. 41, pp. 86-96.
+Á
+LVA R E Z
+, B.E. (2005), “Aspectos ecológicos, bioló-
+gicos y de agrobiodiversidad de los impactos 
+del maíz transgénico”, documento preparado 
+para la Comisión para la Cooperación Ambien-
+tal de América del Norte.
+A
+NTA
+, S. y D.P. Pérez (2004), Atlas de experiencias 
+comunitarias en manejo sostenible de los recursos 
+naturales en Oaxaca , Semarnat, México.
+A
+RAGÓN
+, F., E. Paredes, H. Castro, S. Taba y J. 
+Díaz (s. f.), Conservation in situ and Improve-
+ment in the Sierra Norte de Oaxaca. Scientific Basis 
+of Participatory Plant Breeding and Conservation 
+of Genetic Resources , Oaxtepec, Morelos, resúme-
+P. 278
+ Momoto corona azul. Momutus momota.
+----------------Page (279) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+280
+nes, reporte núm. 25, University of California, 
+Division of Agriculture and Natural Resour-
+ces, Genetic Resources Conservation Pro-
+gram, Davis, California.
+A
+RAGÓN
+, F., S. Taba, J.M. Hernández, J.D. Figue-
+roa, V. Serrano, F.H. Castro (2006), Catálogo de 
+maíces criollos de Oaxaca, 
+INIFAP
+, Libro técnico 
+6, Oaxaca.
+A
+RELLANO
+, E. y A. Casas (2003), “Morphological 
+Va r i a t i o n a n d D o m e s t i c a t i o n o f Escorentia chio-
+rilla (Cactaceae) under Silvicultural Manage-
+ment in Tehuacan Valley, Mexico”, en Genetic 
+Resources and Crop Evolution 50, pp. 439-453.
+A
+RRIAGA
+, L., J.M. Espinoza, C. Aguilar, E. Martí-
+nez, L. Gómez y E. Loa (coords.) (2000), Re-
+giones terrestres prioritarias de México, Comisión 
+Nacional para el Conocimiento y Uso de la 
+Biodiversidad, México.
+A
+STIER
+, M. y N. Barrera (2005), Catálogo de maíces 
+criollos de las cuencas de Pátzcuaro y Zirahuén, 
+Michoacán , Instituto Nacional de Ecología, 
+México.
+B
+ARABAS
+, A., M.A. Bartolomé y B. Maldonado 
+(2004), Los pueblos indígenas de Oaxaca. Atlas etno-
+gráfico , Fondo de Cultura Económica, Secreta-
+ría de Asuntos Indígenas, Gobierno del Estado 
+de Oaxaca, Etnografía de los Pueblos Indíge-
+nas de México, Conaculta-
+INAH
+, México.
+———, M.A. Bartolomé (1973), Hydraulic Develop-
+ment and Ethnocide. The Mazatec and Chinantec 
+People of Oaxaca , International Workgroup for 
+Indigenous Affairs, núm. 15, Copenhague.
+——— (coord.) (2003), Diálogos con el territorio: 
+Simbolizaciones sobre el espacio en las cultras indí-
+genas de México , Etnografia de los Pueblos In-
+dígenas de México-
+INAH
+, México.
+B
+ARKIN
+, D. (2003), “El maíz y la economía”, en G. 
+Esteva y C. Marielle (eds.), Sin maíz no hay 
+país , Conaculta, Dirección General de Cultu-
+ras Populares, Museo de Culturas Populares, 
+México. 
+B
+ARTRA
+, A. (2001), “La hora del café”, en L. Wari-
+del et al ., Un café por la causa. Hacia un comercio 
+justo , Equiterre, Montreal.
+B
+ELLÓN
+, M.R., (s. f.), Plural Poverty Mapping in 
+Mexico , 
+CIMM
+y
+T
+, http://www.cimmyt/gis/pover-
+tymexico.
+——— yJ. Berthaud(2005), Transgenic Maize and 
+the Evolution of Landrace Diversity in Mexico. The 
+Importance of Farmers’ Behavior,
+CIMM
+y
+T
+, Insti-
+tut de Recherche pour le Développement, 
+Montpellier, www.plantphysiol.org/cgi/ 
+content/full/134/3/883 (consultado el 3 de fe-
+brero de 2006).
+———, J. Berthaud, M. Smale, J.A. Aguirre, S. 
+Taba, F. Aragón, J. Díaz, H. Castro (2003), 
+“ Participatory Landrace Selection for On-
+Farm Conservation: An Example from the 
+Central Valleys of Oaxaca, Mexico”, en Genetic 
+Resources and Crop Evolution, núm. 50, pp. 401-
+416.
+B
+ENZ
+, B. (1997a), “Diversidad y distribución pre-
+hispánica del maíz mexicano”, en Arqueología 
+Mexicana ,núm. 25, vol. V, México.
+———, (1997b), “On the origin, evolution, and 
+dispersal of maize”, en M. Blake (ed.), Pacific 
+Latin America in Prehistory: The Evolution of Ar-
+chaic and Formative Cultures , State University 
+Press, Washington.
+B
+ERLIN
+, B. (2000), La etnobiología de los recursos 
+nutritivos en las comunidades tzeltales en los Altos de 
+Chiapas, Informe final, Conabio, México, 13 pp.
+B
+LAIKIE
+, P., T. Cannon, I. David y B. Wisner (1996), 
+Vulnerabilidad. El entorno social, político y econó-
+mico de los desastres , Red de Estudios Sociales 
+en Prevención de Desastres en América Lati-
+na, www.desenredando.org/public/libros/1996/
+vesped/vespedcap05_AB_sep-09-2002.pdf 
+(consultado en agosto de 2006).
+B
+LAKE
+, M. (2005), “Dating Initial Spread of Zea 
+mays ”, en J. Staller, R. Tykot y B. Benz, Histo-
+ries of Maize: Multidisciplinary Approaches to Pre-
+history, Biogeography, Domestication and Evolu-
+tion of Maiz, Elsevier, Amsterdam. 
+----------------Page (280) Break----------------
+Bibliografía
+281
+años de silvicultura y construcción de empresas fo-
+restales comunitarias , Consejo Civil Mexicano 
+para la Silvicultura Sostenible, Fundación 
+Ford, Semarnat, Instituto Nacional de Ecolo-
+gía, México.
+B
+RUSH
+, S. (1995), “ In situ Conservation of Landra-
+ces in Centers of Crop Diversity”, en Crop 
+Science , núm. 35, pp. 346-354.
+B
+YE
+, R. (1998), “La intervención del hombre en la 
+diversificación de las plantas en México”, en 
+Ramamoorty T.P., R. Bye, A. Lot y J. Fa (eds.), 
+Diversidad biológica en México. Orígenes y distri-
+bución, Instituto de Biología-
+UNAM
+, México. 
+C
+ABALLERO
+, J. (1984), “Recursos comestibles po-
+tenciales”, en T. Reyna (ed.), Seminario sobre 
+la alimentación en México , Instituto de Geogra-
+fía-
+UNAM
+, México, pp. 114 y ss.
+——— (1985), “Exploración de recursos genéti-
+cos potenciales”, en H. Palomino y E. Pimienta 
+(eds.), Memorias del Seminario sobre Investiga-
+ción Genética Básica en el Conocimiento y Evalua-
+ción de los Recursos Genéticos , Jardín Botánico de 
+la 
+UNAM
+, Somefi, México, pp. 28-40.
+C
+ASAS
+, A. (1992), “Etnobotánica y procesos de do-
+mesticación en Leucaenia esculenta ”, tesis, 
+UNAM
+,
+México, 233 pp.
+——— (2001), “Silvicultura y domesticación de 
+plantas en Mesoamérica”, en B. Rendón, S. 
+Rebollar, J. Caballero y M. Martínez (eds.), 
+Plantas, cultura y sociedad. Estudios sobre la rela-
+ción entre los seres humanos y plantas en los albores 
+del siglo 
+XXI
+, 
+UAM
+-
+I
+, Semarnap, México.
+———, J. C aballero, C. Mapes y S. Zárate (1997), 
+“Manejo de la vegetación, domesticación de 
+plantas y origen de la agricultura en Mesoamé-
+rica”, en Boletín de la Sociedad Botánica de Méxi-
+co , núm. 61, pp. 31-47.
+———, B. P ickersgill, J. Caballero y A. Valiente-
+Banuet (1997), “Ethnobotany and Domesti-
+cation in Xoconochtli Stenocereus stellatus (Cac-
+taceae) in the Tehuacan Valley and la Mixteca 
+Baja”, en Economic Botany , 51 (3), pp. 279- 292.
+B
+LANCO
+, J.L. (2006), “La erosión de la agrobiodi-
+versidad en la milpa de los zoque popoluca de 
+Soteapan: Xutunchincon y Aktevet”, tesis doc-
+toral en antropología, Universidad Iberoame-
+ricana, México.
+B
+LAUERT
+, J., M. Rosas, S. Anta y S. Graff (2006), 
+“¿Espacios para la deliberación o la toma de 
+decisiones? Lecciones para la participación y 
+las políticas en consejos ambientales en Méxi-
+co”, en E. Isunsa y A. Olvera, Democratización, 
+rendición de cuentas y sociedad civil: participación 
+ciudadana y control social , Cámara de Diputa-
+dos, 
+CIESAS
+, 
+UV
+, Porrúa, México.
+B
+OEGE
+, E. (1988), Los mazatecos ante la nación. Las 
+contradicciones de la identidad étnica en el México 
+actual , Siglo XXI, México.
+——— (2004), Protegiendo lo nuestro. Manual para 
+la gestión ambiental comunitaria, uso y conserva-
+ción de los campesinos indígenas de América Latina ,
+2a . ed., Serie Manuales de Educación y Capa-
+citación Ambiental 3, Programa de Naciones 
+Unidas para el Medio Ambiente, Semarnat, 
+Conabio, Correo Biológico Mesoamericano-
+Mexicano, Fondo para el Desarrollo de los Pue-
+blos Indígenas de América Latina, México.
+——— (2006), “Los bienes comunes, la foreste-
+ría social y las reservas de la biosfera en Quin-
+tana Roo y Campeche, Mexico”, en E. Boege 
+y L. Merino, El desarrollo forestal comunitario 
+en México , en preparación.
+——— y D. González (1996), “Extractivismo en 
+la selva maya de México. ¿Una alternativa para 
+el desarrollo de un polo verde en el sureste me-
+xicano?”, en Bosques y plantaciones forestales ,
+Cuadernos Agrarios, núm. 14, México.
+B
+ONFIL
+, G. (1990), México profundo: una civiliza-
+ción negada , Conaculta, Grijalvo, México.
+B
+RAVO
+, F. y R. Reséndiz (1996), Intensidad erosiva 
+en las regiones indígenas de México , 
+INI
+-Subdirec-
+ción de Investigación-
+SIG
+, México.
+B
+RAY
+, B. y D.L. Merino (2004), La experiencia de 
+las comunidades forestales en México. Veinticinco 
+----------------Page (281) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+282
+———, M.C. Vázquez, J.L. Viveros y J. Caballero 
+(2000), “Plant Management among the Na-
+hua and the Mixtec of the Balsas River Basin: 
+An Ethnobotanical Approach to the Study of 
+Plant Domestication”, en Human Ecology , 24 
+(4), pp. 455-478.
+——— y G. Barbera (2002), Mesoamerican Do-
+mestication and Difusion”, en P. Nobel (ed.), 
+Cacti, Biology and Uses , University of California 
+Press, Berkeley, pp. 143-162.
+CDI
+-
+PNUD
+ (2002), Sistema de Indicadores sobre la Po-
+blación Indígena , Instituto Nacional de Estadís-
+tica, Geografía e Informática, XII Censo Ge-
+neral de Población y Vivienda 2000, México.
+——— ( 2006), Sistema de Indicadores sobre la Po-
+blación Indígena , Instituto Nacional de Estadís-
+tica, Geografía e Informática, II Conteo de Po-
+blación y Vivienda 2005, México. 
+C
+HALLENGER
+, A. y J. Caballero (1998), Utilización 
+y conservación de los tipos de vegetación terrestres 
+de México. Pasado, presente y futuro , Conabio, 
+Instituto de Biología-
+UNAM
+, Agrupación Sierra 
+Madre, México.
+C
+HAPELA
+, F. y Y. Lara (1996), “La planeación co-
+munitaria del manejo del territorio”, en Cua-
+dernos para la Silvicultura Sustentable, Serie 
+Métodos para la Participación, núm. 2, 
+CCMSS
+,
+Era, México.
+——— (2006), “Reconocimiento de los derechos 
+colectivos y ordenamiento de los territorios co-
+munales en América Latina y el Caribe”, en S. 
+Anta, A. Arreola, M.A. González y J. Acosta 
+(comps.), Ordenamiento territorial comunitario. 
+Un debate de la sociedad civil hacia la construcción 
+de políticas públicas , Semarnat-
+INE
+, Instituto pa-
+ra el Desarrollo Sustentable en Mesoamérica, 
+Grupo Autónomo para la Investigación Am-
+biental, Grupo de Estudios Ambientales 
+GEA
+,
+Methodus Consultora, Servicios Alternativos 
+para la Educación y Desarrollo, México.
+C
+HAPIN
+, M. (1992), “The Coexistence of Indige-
+nous Peoples and Environments in Central 
+America”, en Research and Exploration, 8(1).
+CIMM
+y
+T
+ (1999), A core subset of 
+LAMP
+. From the 
+Latin American Maize Project 1986-1988, Mé-
+xico.
+C
+OLUNGA
+, P. y F. May (1992), “El sistema milpero 
+y sus recursos genéticos”, en D. Zizumbo, C. 
+Rasmussen, L.M. Arias y S. Terán (eds.), La 
+modernización de la milpa en Yucatán. Utopía o 
+realidad , Centro de Investigación Científica 
+de Yucatán (
+CICY
+), Asistencia Danesa para el 
+Desarrollo Internacional (Danida), Mérida.
+C
+OLUNGA
+, P., L. Eguiarte, A. Larqué-Saavedra y 
+D. Zizumbo (2007), En lo ancestral hay futuro: 
+del tequila, los mezcales y otros agaves,
+CICY
+,Co-
+nacyt, 
+CONABIO
+,
+INE
+, México.
+——— D. Zizumbo y J. Martínez (2002), “Con-
+servación in situ de las variedades locales de la 
+milpa”, en Manejo de la diversidad cultivada en 
+los agrosistemas tradicionales, 
+IPGRI
+, Simposio, 
+Mérida, Yucatán. 
+C
+OMISIÓN
+ N
+ACIONAL DE
+ Á
+REAS
+ N
+ATURALES
+ P
+ROTE
+-
+GIDAS
+ (Conanp) (2005), Estrategias de conserva-
+ción: certificación de iniciativas de conservación 
+comunitaria , Semarnat, México.
+C
+OMISIÓN PARA LA
+ C
+OOPERACIÓN
+ A
+MBIENTAL DE
+A
+MÉRICA DEL
+ N
+ORTE
+(2004), Maíz y biodiversi-
+dad: efectos del maíz transgénico en México , Infor-
+me del Secretariado para la Cooperación Am-
+biental, Quebec.
+C
+ONABIO
+ (1998), Diversidad biológica de México. Es-
+tudio de país , Conabio, México.
+——— (2006a), México como centro de origen de 
+plantas cultivadas , Coordinación de Análisis de 
+Riesgo y Bioseguridad, www.conabio.gob.mx/
+conocimiento/bioseguridad/doctos/Doc_Cde 
+OCdeDG.pdf (consultado en febrero). 
+——— (2006b), Capital natural y bienestar social.
+Comisión Nacional para el Conocimiento y 
+Uso de la Biodiversidad, México.
+——— (2006c), Documento base sobre centros de ori-
+gen y diversidad en el caso de maíz en México , Co-
+nabio, México.
+----------------Page (282) Break----------------
+Bibliografía
+283
+C
+RUZ
+, E. de la, C. Mapes y J. García (2004), Infor-
+me del proyecto Colecta, conservación, caracteriza-
+ción y mejoramiento de seudocereales nativos en 
+México , 
+INI
+, México.
+D
+ASMAN
+, R. (1964), Wildlife Biology , Willey, Nueva 
+York. 
+D
+ÁVILA
+, P. y J. Sánchez (1994), Flora del Valle de 
+Te h u a c á n - C u i c a t l á n , Instituto de Biología-
+UNAM
+,México.
+D
+ESCOLA
+, P. (1996), La selva culta, simbología y praxis 
+en la ecología de los achuar , Serie Pueblos del Ecua-
+dor, núm. 3, Abya-yala, Cayambe, Ecuador.
+D
+ÍAZ
+- P
+OLANCO
+, H. (1999), Autonomía regional: la 
+autodeterminación de los pueblos indios , 3a. ed., 
+Siglo XXI, México.
+E
+NCISO
+, Angélica (2006), “La falta de corredores 
+biológicos pone en riesgo las áreas protegidas: 
+Enkerlin”, en La Jornada , Sociedad y Justicia, 
+21 de abril, p. 62.
+E
+SPINOSA
+, A. (2006), Carta para la consulta pública 
+sobre la siembra experimental de maíces transgéni-
+cos , http://senasicaw.senasica.sagarpa.gob.mx/
+portal/ html/inocuidad_agroalimentaria/eva-
+luacion_y_registro_de_insumos_fitosanitarios/ 
+consulta_publica_solicitudes_permisos
+OGM
+s_
+uso agricola/ consulta_publica_2.html (consul-
+tado en febrero).
+E
+SQUINAS
+, J. (2003), Una contribución importante 
+para la construcción de un planeta sostenible y sin 
+hambre , en www.fao.og/tc/tca/esp/refito_rsos 
+tenibles.asp#nota1#nota1.
+E
+STEVA
+, G. y C. Marielle (eds.) (2003), Sin maíz 
+no hay país , Conaculta, Dirección General de 
+Culturas Populares, Museo de Culturas Popu -
+lares, México.
+FAO
+(2001), Tratado Internacional sobre los Recur-
+sos Fitogenéticos para la Alimentación y la 
+Agricultura.
+——— (1988 y 1991), Farmers Rights Resolutions
+5/89 and 3/91, Roma, http://www/fao.org/FO-
+CUS/E/96/06/07-e.htm, consultado en agosto 
+de 2006.
+——— (2007a), Distribución puntual de las especies 
+del género Capsicum L. en México, Shapefile, 
+Sistema de Información de Organismos Vivos 
+Modificados (
+SIOVM
+), Coordinación de Análisis 
+de Riesgo y Bioseguridad, Conabio, México.
+——— (2007b), Distribución puntual de Cucurbita 
+pepo L. y sus parientes silvestres con los que puede 
+hibridizar y tener descendencia viable en México, 
+Shapefile, Sistema de Información de Orga-
+nismos Vivos Modificados (
+SIOVM
+), Coordina-
+ción de Análisis de Riesgo y Bioseguridad, Co-
+nabio, México.
+——— (2007c), Distribución puntual de Lycoper-
+sicon esculentum variedad leptophyllum (Du-
+nal), D’Arcy, Shapefile, Sistema de Infor-
+mación de Organismos Vivos Modificados 
+(
+SIOVM
+), Coordinación de Análisis de Riesgo y 
+Bioseguridad, Conabio, México.
+——— (2007d), Distribución puntual de las especies 
+del género Phaseolus L. en México, Shapefile, 
+Sistema de Información de Organismos Vivos 
+Modificados (
+SIOVM
+), Coordinación de Análisis 
+de Riesgo y Bioseguridad, Conabio, México.
+——— (2007e), Distribución puntual de las especies 
+cultivadas del género Phaseolus L. en México, 
+Shapefile, Sistema de Información de Orga-
+nismos Vivos Modificados (
+SIOVM
+), Coordina-
+ción de Análisis de Riesgo y Bioseguridad, 
+Conabio, México.
+——— (2007f), Distribución puntual de Phaseolus 
+vulgaris L. silvestre en México, Shapefile, Siste-
+ma de Información de Organismos Vivos Mo-
+dificados (
+SIOVM
+), Coordinación de Análisis de 
+Riesgo y Bioseguridad, Conabio, México.
+——— (2007g), Distribución puntual de las razas de 
+maíces nativos en México, Shapefile, Sistema de 
+Información de Organismos Vivos Modifica-
+dos (
+SIOVM
+), Coordinación de Análisis de Ries-
+go y Bioseguridad, Conabio, México.
+CONANP
+ (2005), Estrategias de conservación: Certifi-
+cación de iniciativas de conservación comunitaria ,
+Semarnat, México.
+----------------Page (283) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+284
+——— (2005), Forests and Floods. Drowning in 
+Fiction or Thriving on Facts?, 
+RAP
+ Publication 
+2005/03, Forests Perspectives, 2.
+F
+LANNERY
+, K. V. (1986), Guilá Naquitz. Archaic Fo-
+raging and Early Agriculture in Oaxaca, México ,
+Museum of Anthropology-Ann Arbor Univer-
+sity of Michigan, Michigan. 
+F
+LORES
+, G., J. Jiménez, X. Madrigal, F. Moncayo, 
+y R. y F. Takaki T. (1971), Memoria del mapa de 
+tipos de vegetación de la República Mexicana , Se-
+cretaría de Recursos Hidráulicos, México. 
+F
+LORESCANO
+, E. y A. Moreno (1987), Bibliografía 
+general del maíz en México , Colección Fuentes, 
+INAH
+, México.
+F
+OOTPRINT
+ N
+ETWORK
+(2006), http://www/foot-
+printnetwork.org/gfn_subphp?content=overs 
+hoot (consultado en octubre).
+F
+OWLER
+C.y P. Mooney (1990), Shattering Food, 
+Politics, and the Loss of Genetic Diversity , The 
+University of Arizona Press, Tucson. 
+GAIA
+,
+ERA
+,
+CCMSS
+ (2006), Ordenamiento comuni-
+tario del territorio en México (base de datos), 
+Reporte de Consultoría al Fondo Mexicano 
+para la Conservación de la Naturaleza, Inicia-
+tiva Cuencas, inédito.
+G
+ARCÍA
+-M
+ENDOZA
+, A., M.J. Ordóñez y M. Brio-
+nes-Salas (coords.) (2004), Biodiversidad de 
+Oaxaca , Instituto de Biología-
+UNAM
+, Fondo 
+Oaxaqueño para la Conservación, 
+WWF
+.
+G
+ARCÍA
+, J.L. y A. Hinojosa (2001), Aplicación de tres 
+métodos de sistemas de información geográfica para 
+la caracterización de la hidrología superficial en la 
+región de Puentecitos, San Luis Gonzaga , B.C. ,
+GEOS
+, Unión Mexicana, Guadalajara.
+G
+EORGESCU
+-R
+OEGEN
+, N. (1971), The Entropy Law 
+and the Economic Process , Harvard University 
+Press, Cambridge. 
+G
+EREZ
+, P. (1999), “Aprendizaje de dos estrate- gias 
+aparentemente contradictorias hacia los bos-
+ques: manejo forestal y protección de la bio-
+diversidad”, ponencia presentada en el Foro In-
+tergeneracional del Programa Medio Ambiente 
+y Desarrollo Sustentable (
+LEAD
+-Mex), El Co-
+legio de México, México, noviembre. 
+G
+IL
+, A. (2006), “Conservación in situ ”, en J.L. 
+Molina y L. Cordova (eds.), Recursos fitogenéti-
+cos en México para la alimentación y la agricultu-
+ra. Informe nacional 2006 , Secretaría de Agri-
+cultura y Ganadería, Desarrollo Rural, Pesca y 
+Alimentación, Sociedad Mexicana de Filoge-
+nética, México. 
+G
+IMÉNEZ
+ G. (1996), “Territorio y cultura”, en Es-
+tudios sobre culturas contemporáneas , vol. 11(4), 
+pp. 9-20, Colima.
+G
+ISPERT
+, M. y H. Rodríguez (1998), Los coras: 
+Plantas alimentarias y medicinales , Colección 
+Cultura Popular y Biodiversidad, México.
+G
+ONZÁLEZ
+, M.C. (1989), “Estudio etnobotánico 
+de plantas comestibles de cuatro ejidos zoque 
+popoluca de la Sierra de Santa Marta, Vera-
+cruz”, tesis de licenciatura en biología, Facul-
+tad de Biología, 
+UDICEA
+, 
+UV
+, Xalapa. 
+G
+ONZÁLEZ
+, L.P. (1994a), “Caracterización de mi-
+croorganismos de mucigel de raíces adventicias 
+y suelo rizoférico de maíz olotón de la región 
+mixe, Oaxaca”, tesis, Universidad Autónoma 
+Benito Juárez de Oaxaca, Oaxaca.
+G
+ONZÁLEZ
+, M.A. y M. M iranda (2006), http://www.
+raises.org/centros/Gestiónterritorial.pdf (con-
+sultado en marzo de 2006).
+G
+ORE
+, A. (1993), Earth in Balance. Ecology and the 
+Human Spirit , A Plume Book, Nueva York.
+G
+RIMES
+, B.J. (2002), www.ethnologue.com.
+G
+RUPO DE
+ E
+STUDIOS
+ A
+MBIENTALES
+ (2006), Sistemas 
+alimentarios sustentables, en http://www.gea-ac.
+org/sas.htm (consultado en octubre de 2006).
+H
+ALFFTER
+, G. (2005), “Towards a Culture of Bio-
+diversity Cconservation”, en Acta Zoológica Me-
+xicana, 21 (2), pp. 133-153.
+H
+ARDIN
+, G. (1968), “The Tragedy of the Com-
+mons”, en Science , vol. 162, pp. 1243-1248.
+H
+ARMON
+, D. (1996), “Losing Species, Losing 
+Languages: Connections between Biological 
+and Linguistic Diversity”, citado en D. Har-
+----------------Page (284) Break----------------
+Bibliografía
+285
+da, Instituto Nacional de Estadística, Geogra-
+fía e Informática 2005.
+——— (2000), XII Censo General de Población y Vi-
+vienda 2000 , 
+INEGI
+, México.
+——— (2000), Diccionario de datos de uso de suelo y 
+vegetación: Escalas 1:250 000.
+——— (2000), Diccionario de datos de uso de suelo 
+y vegetación: Escalas 1:250 000. Diccionario de 
+datos geográficos , Dirección General de Geo-
+grafía, 
+INEGI
+, 51 pp.http://mapserver.inegi.
+gob.mx/geografia/español/normatividad/dic-
+cio/
+USUE
+_
+HER
+.
+PDF
+(consultado en diciembre 
+de 2003).
+——— (2000b), XII Censo General de Población 
+y Vivienda 2000, Instituto Nacional de Esta-
+dística, Geografía e Informática México.
+——— (2002), Cartografía y uso del suelo y vege-
+tación. Serie III. Instituto Nacional de Esta-
+dística, Geografía e Informática México.
+——— (2004), www.mapserver.inegi.gob.mx/
+geografia/espanol/cartcat/avances (consultado 
+en marzo de 2005).
+——— (2005a), II Conteo de Población y Vivienda ,
+INEGI
+,México.
+——— (2005b), Instituto Nacional de Estadísti-
+ca, Geografía e Informática www.mapserver.
+inegi.gob.mx/geografia/espanol/cartcat/avances., 
+Avances 1 diciembre, 2004 (consultado en mar-
+zo de 2005).
+——— (2008), Informe sobre la propiedad social, 
+Comunicación Social, 
+INEGI
+, Comunicado núm. 
+069/08, 11 de abril de 2008.
+INI
+ (1993), “Regiones Indígenas de México (do-
+cumento de trabajo)”, México.
+——— (2000), Riesgos y desastres naturales en 
+regiones indígenas de México, México. 
+I
+NOCENTE
+, O., L. Sumar y A. Loaiza (2006), De-
+nominación de origen de Maíz Blanco Gigante ,
+COSUDE
+, Agencia Suiza para el Desarrollo y la 
+Cooperación, Perú.
+I
+NSTITUTO DE
+ G
+EOGRAFÍA
+,
+UNAM
+ (2002), Análisis 
+del cambio del uso del suelo , México. 
+mon (2001), “On the Meaning and Moral Im-
+perative of Biodiversity”, en L. Maffi (ed.), On 
+Biocultural Diversity, Linking Language, Know-
+ledge, and the Environment , Smithsonian Insti-
+tution Press, Washington y Londres. 
+H
+ERNÁNDEZ
+, R. y G. Herrerías (2002), “Progra-
+ma agua para siempre. Obtención de agua y 
+conservación de suelos a través de la regenera-
+ción de cuencas. Alternativas y procesos de par-
+ticipación social, A.C.”, en Experiencias loca les en 
+la lucha contra la desertificación en zonas semiá-
+ridas de América Latina y el Caribe. http://www.
+fidamerica.cl/actividades/conferencias/deser -
+tificación/misxteca.html (consultado el 20 de 
+mayo de 2006).
+H
+ERNÁNDEZ
+, X.E. (1985), “Xolocotzia”, en Obras 
+de Efraim Hernández Xolocotzi , t. I Revista de 
+Geografía Agrícola , Universidad Autónoma de 
+Chapingo, México.
+——— (1987), “Xolocotzia. Obras de Efraim 
+Hernández Xolocotzi”, en Revista de Geografía 
+Agrícola , Universidad Autónoma de Chapingo, 
+t. II, México.
+——— y M.A. Zárate (1991), “Agricultura tradi-
+cional y conservación de los recursos genéticos 
+in situ” , en P. Ortega, G. Palomino, F. Castillo, 
+V. G o n z á l e z y M . L i v e r a ( e d s . ) , Avances en el es-
+tudio de los recursos fitogenéticos de México , Socie-
+dad Mexicana de Fitogenética. 
+——— ( 1993 ), “Aspects of Plant Domestication 
+in México: A Personal View”, en T.P. Ramma-
+moorthy, R. Bye, A. Lot y J. Fa (comps.), Bio-
+logical Diversity of México. Origins and Distribu-
+tion ,Oxford University Press, Oxford.
+I
+LT I S
+, H.H. (2000), “Homeotic sexual transloca-
+tion and origin of maize ( Zea mays poaceae ). A 
+look at an old problem”, en Economic Botany,
+54, pp. 7-42.
+INEGI
+(1993), Cartografía y uso del suelo y vegeta-
+ción. Serie II, Instituto Nacional de Estadísti-
+ca, Geografía e Informática México.
+——— (2000), II Conteo de Población y Vivien-
+----------------Page (285) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+286
+I
+NSTITUTO
+ N
+ACIONAL DE
+ L
+ENGUAS
+ I
+NDÍGENAS
+(Inali) 
+(2007), www.inali.gob.mx/catálogo 2007.
+I
+NSTITUTO
+ N
+ACIONAL
+ I
+NDIGENISTA
+(
+INI
+) (1993), 
+“Regiones indígenas de México, documento 
+de trabajo, México.
+——— (2000), Riesgos y desastres naturales en regio-
+nes indígenas de México , 
+INI
+, México.
+I
+NVENTARIO
+ F
+ORESTAL
+ N
+ACIONAL
+ (2000), escala de 
+1: 250 000, Semarnap, Instituto de Geografía-
+UNAM
+,México.
+J
+ANZEN
+, D. (2000), “Ingredientes esenciales de 
+un enfoque por ecosistemas para la conserva-
+ción de la biodiversidad de las áreas silvestres 
+tropicales”, ponencia presentada al Cuerpo 
+Técnico Subsidiario en preparación de la 5a. 
+Conferencia de las Partes para la Convención 
+sobre Diversidad Biológica (COP5), Montreal, 
+primero de febrero.
+J
+ARVIS
+, D.I., L. Klemick, H. Guarino, L. Smale, 
+M. Brown, A.H.D. Sadki, M. Sthapit y T. Ho-
+dkin (2000), A Training Guide to in situ Conser-
+vation On-Farm, versión 1, International Plant 
+Genetic Resources Institute, Roma.
+J
+OHNSON
+, N. (1995), Biodiversity in Balance: Appro-
+aches to Setting Geographic Conservation Priori-
+ties , 
+BSP
+, 
+WWF
+, 
+TNC
+, 
+WRI
+, pp. 17 y ss. 
+K
+IRCHHOFF
+, P. (1960), “Mesoamérica. Sus lími-
+tes geográficos, composición étnica y caracte- 
+res culturales”, en Tlatoani (suplemento), Es-
+cuela Nacional de Antropología e Historia, 
+México.
+K
+NUDSEN
+, H. (2000), Directorio de colecciones de 
+germoplasma en América Latina y el Caribe , Inter-
+national Plant Genetic Resources Institute, 
+Roma.
+L
+AMBROU
+, Y. y R. Laub (2006), “Gender, Local 
+Knowledge, and Lessons Learnt in Docu-
+menting and Conserving Agrobiodiversity”, 
+Research Paper núm. 2006, p. 69, www.wider.
+unu.edu/rps/rps2006/rp2006-69 (consultado 
+en febrero de 2007).
+L
+ANDELL
+-M
+ILLS
+, N. e I.T. Porras (2002), ¿Bala 
+de plata u oro de tontos? Una revisión global de 
+mercados para servicios ambientales forestales y 
+sus impactos en la pobreza , International Ins-
+titute for Environment and Development, 
+Londres. 
+L
+ARSON
+, J. (2002), Recursos biológicos en México: una 
+lectura desde el Convenio de Diversidad Biológica 
+de Río a Johannesburgo , Taller 
+PNUMA
+, 
+UAM
+, 
+INE
+,
+Semarnat, 7 de mayo.
+——— y L. Neyra (2004), “Programa Recursos 
+Biológicos Colectivos”, Biodiversitas, núm. 53, 
+marzo, Boletín bimestral de la Comisión Na-
+cional para el Conocimiento y Uso de la Biodi-
+versidad.
+L
+AURIOLA
+, V. (2005), “Managing the Commons. 
+Thematic Introduction, Indigenous Rights 
+and the Commons: Land, Governance, Deve-
+lopment and Identity”, en L. Merino y J. Ro-
+binson (eds.), Managing the Commons. Indige-
+nous Rights, Economic Development and Identity ,
+Consejo Civil Mexicano para la Silvicultura 
+Sostenible, The Christensen Funds Ford 
+Foundation, Semarnat, Instituto Nacional de 
+Ecología, México.
+L
+AZOS
+, E. y D. Espinosa (2004), “El maíz como 
+un bien común para las poblaciones rurales en 
+Oaxaca”, ponencia presentada ante el 
+IASP
+,
+agosto, Oaxaca.
+——— y L. Paré (2000), Miradas indígenas sobre 
+una naturaleza entristecida. Percepciones del dete-
+rioro ambiental entre nahuas del sur de Veracruz ,
+UNAM
+, Plaza y Valdés, México.
+——— (2007), “La introducción de cultivos 
+transgénicos en la agricultura mexicana. ¿Nue-
+vas relaciones entre sociedad y cultura?, en A. 
+Contreras y S. Córdova (coords.), El cambio en 
+la sociedad mexicana. ¿Se valoran los recursos es-
+trégicos? , vol. IV, Producción agraria y recursos 
+naturales , México.
+L
+EAKEY
+, R. y R. Levin (1997), La sexta extinción. El 
+futuro de la vida y de la humanidad , Metatemas, 
+50, Barcelona.
+----------------Page (286) Break----------------
+Bibliografía
+287
+de plantas útiles de la Sierra Norte de Puebla”, 
+en Cuadernos 27, Instituto de Biología-
+UNAM
+,
+México.
+M
+ERINO
+, L., P. Gerez y S. Madrid (2000), “Políti-
+cas, instituciones comunitarias y uso de recur-
+sos comunes en México”, en M. Bañuelos 
+(ed.), Sociedad, derecho y medio ambiente , Conse-
+jo Nacional de Ciencia y Tecnología, Univer-
+sidad Autónoma Metropolitana, Semarnap, 
+Profepa, México.
+——— y G. Segura (2002), “El manejo de los re-
+cursos forestales en México 1992-2002. Proce-
+sos, tendencias y políticas públicas”, en E. Leff, 
+E. Escurra, I. Pisanty y P. Romero (coords.), La 
+transición hacia el desarrollo sustentable. Perspecti -
+vas de América Latina y el Caribe , 
+INE
+, 
+UNAM
+, 
+PNUMA
+,
+México.
+——— y J. Robinson (eds.) (2005), Managing the 
+Commons. Indigenous Rights, Economic Develop-
+ment and Identity , Consejo Civil Mexicano para 
+la Silvicultura Sostenible, The Christensen 
+Funds Ford Foundation, Semarnat, Instituto 
+Nacional de Ecología, México.
+M
+IJANGOS
+, C.J.O. (2005), “Estudio de la diversi-
+dad genética y relaciones filogenéticos en po-
+blaciones de maíz de la Sierra Tarasca de Mi-
+choacán”, tesis doctoral, Recursos Genéticos y 
+Productividad Genética, Colegio de Posgra-
+duados, México.
+M
+ILLENNIUM
+ E
+COSYSTEM
+ A
+SSESSMENT
+ (2005), 
+Ecosystem and Human Well-Being , síntesis, 
+Island Press, Washington (Milenio de las Na -
+ciones Unidas, Ecosistemas y Bienestar Hu-
+mano).
+M
+IRANDA
+, F. y X. Hernández (1963), “Los tipos 
+de vegetación de México y su clasificación”, 
+en Boletín de la Sociedad Botánica de México ,
+núm . 28, México.
+M
+ITTERMEIER
+, R.A. y C. Goettsch (1992), “La im-
+portancia de la diversidad biológica de Méxi-
+co”, en J. Sarukhan y R. Dirzo, México ante los 
+retos de la biodiversidad , Conabio, México.
+L
+EFF
+, E. (1998), Saber ambiental: sustentabilidad, 
+racionalidad, complejidad, poder , Siglo XXI, 
+CCIH
+-
+UNAM
+,
+PNUMA
+, México.
+——— (2005), “Pensar la complejidad ambien-
+tal”, en E. Leff (coord.), La complejidad ambien-
+tal , Siglo XXI, 
+CCIH
+-
+UNAM
+,
+PNUMA
+, México.
+L
+ÓPEZ
+ y R
+IVAS
+,G. (2000), Nación y pueblos indios en 
+el neoliberalismo , ed. corregida y aumentada, 
+Universidad Iberoamericana, Plaza y Valdéz, 
+México.
+L
+UMHOLTZ
+, C. (1902), “El México desconocido. 
+Cinco años de exploración entre las tribus de 
+la Sierra Madre Occidental”, en Tierra Caliente 
+de Tepic y Jalisco y los tarascos de Michoacán , vol. 
+I, Museo Americano de Historia Natural, Nue-
+va York. 
+M
+ADRID
+ S. y F. Chapela (2002), La certificación fores-
+tal en México: los casos de Durango y Oaxaca, m.s.
+M
+AFFI
+, L. (2001), On Biocultural Diversity: Lin-
+king Language, Knowledge, and the Environment ,
+Smithsonian Institution Press, Washington y 
+Londres. 
+M
+APES
+, C. (1991), “La importancia de las comuni-
+dades campesinas tradicionales en la conser-
+vación de los recursos fitogenéticos”, en R. 
+Ortega Paczka, G. Palomino, F. Castillo, V. 
+González y M. Livera (eds.), Avances en el estu-
+dio de los recursos fitogenéticos de México , Socie-
+dad Mexicana de Fitogenética, México.
+——— (2007), “El papel de la milpa en la cultura 
+y la subsistencia purhépecha en el lago de Pátz-
+cuaro”, inédito.
+M
+ARCUSE
+, H. (1969), El hombre unidimensional ,
+Seix Barral, Barcelona.
+M
+ARTÍNEZ
+, A., V. Evangelista, F.A. Basurto y M. 
+Mendoza (2000), “La etnobotánica y los recur-
+sos fitogenéticos: el caso de la Sierra Norte de 
+Puebla”, en Geografía agrícola. Estudios regiona-
+les de la agricultura mexicana. Etnobotánica y re-
+cursos fitogenéticos , 31, 
+UACH
+, julio-diciembre.
+M
+ARTÍNEZ
+, M.A., E. Oliva, M. Mendoza, G. Mo-
+rales, G. Toledo y A. Wong (2001), “Catálogo 
+----------------Page (287) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+288
+M
+OGUEL
+, P. y V.M. Toledo (2001), “Mérito ecoló-
+gico 2001: otra enseñanza indígena”, en La 
+Jornada ,5 de junio .
+——— y V.M. Toledo (2004), “Conservar produ-
+ciendo: biodiversidad, café orgánico y jardines 
+productivos”, en Biodiversitas, núm. 55, pp. 
+2-7, Conabio, México.
+M
+OLINA
+, C.J. y L. Córdova (eds.) (2006), Recursos 
+fitogenéticos en México para la alimentación y la 
+agricultura. Informe nacional 2006 , Secretaría 
+de Agricultura, Ganadería, Desarrollo Rural, 
+Pesca y Alimentación (Sagarpa), Sociedad 
+Mexicana de Fitogenética (Somefi), Chapin-
+go, México.
+M
+ÜHLHÄUSLER
+, P. (1996), Linguistic Ecology: Lan-
+guage Change and Linguistic Imperialism in Pacific 
+Regions, Routledge, Londres y Nueva York.
+M
+UÑOZ
+, A. (2003), Centli-maíz. Prehistoria, historia, 
+diversidad, potencial, origen genético y geográfico ,
+Colegio de Posgraduados, Sagarpa, México.
+M
+YERS
+, N. et al . (2000), “Biodiversity Hot Spots 
+for Conservation Priorities”, en Nature, núm. 
+403, pp. 853-858.
+N
+ADAL
+, A. (1999), ¿Dueños de recursos genéticos? 
+http://www.jornada.unam.mx/1999/03/11/ na-
+dal.htlm (consultado en junio de 2006), 
+UNAM
+-
+Diversa, México,
+N
+AHMAND
+, S. (2003), Fronteras étnicas. Análisis y 
+diagnóstico de dos sistemas de desarrrollo: proyecto 
+nacional vs . proyecto étnico. El caso de los ayuuk 
+(mixes) Oaxaca , 
+CIESAS
+, México.
+N
+ATIONS
+, J. y R. Nigh (1980), “ The Evolutionary 
+Potential of Lacandon Maya Sustained-Yield 
+Tr o p i c a l F o r e s t A g r i c u l t u r e ” , e n Journal of 
+Anthropological Research , vol. 36, núm. 1. 
+N
+AVA R R O
+, H. (2004), Agricultura campesina-indíge-
+na, patrimonio y desarrollo agroecológico territo-
+rial , Conacyt, Colegio de Posgraduados, Red 
+Mesoamericana para la Investigación, Desa-
+rrollo de la Agricultura Regional, México.
+N
+EGRETE
+, G. y G. Bocco (2003), “El ordenamien-
+to ecológico comunitario: una alternativa de 
+planeación participativa en el contexto de la 
+política ambiental de México”, en Gaceta Eco-
+lógica, núm. 68, 
+INE
+, Semarnat, México/Stor-
+mwater Managment Design Manual (s. f.), 
+Nueva York. http://www.dec.state.nv.us/web-
+site/dow/toolbox/swmanual/chapter4.pdf#sea
+rch=%22strahler%20horton%22 (consulado 
+en agosto de 2006).
+O
+RTEGA
+P
+ACZKA
+, R. (1973), “Variación en maíz y 
+cambios socioeconómicos en Chiapas, Méxi-
+co, 1946-1971”, tesis de maestría en ciencias, 
+Colegio de Posgraduados, 
+ENA
+, México. 
+——— et al . (1991), “Estado actual de los estudios 
+sobre maíces nativos de Mexico”, en Avances en el 
+estudio de los recursos fitogenéticos de México , Socie-
+dad Mexicana de Fitogenética, México, p. 177.
+——— (1996), “ La tecnología agrícola tradicional: 
+origen de la agricultura e importancia de los maíces 
+criollos de los Valles Centrales de Oaxaca ”, Provee-
+dora Gráfica de Oaxaca, México, pp. 189-200.
+——— (2000), “Colecciones de semilla y sus rela-
+ciones con conservación in situ ”, en Revista de 
+Geografía Agrícola , Estudios Regionales de la Agri-
+cultura Mexicana , núm. 31, julio-diciembre.
+———, G. Palomino, F. Castillo, V. González y 
+M. Livera (eds.) (2003a), Avances en el estudio de 
+los recursos fitogenéticos de México , Sociedad 
+Mexicana de Citogenética-Conacyt-
+IBPGR
+-Jar-
+dín Botánico (
+UNAM
+), México.
+——— (2003b), “La diversidad del maíz en Mé-
+xico”, en G. Esteva y C. Marielle (coords.), Sin 
+maíz no hay país , Conaculta, Dirección General 
+de Culturas Populares, Museo de Culturas Po-
+pulares, México.
+O
+RTIZ
+, S. y A. Otero (2006), “México como centro 
+de origen del maíz y elementos sobre la distri-
+bución de parientes silvestres y variedades o 
+razas de maíz en el norte de México”, Coordi-
+nación del Programa de Bioseguridad del Ins-
+tituto Nacional de Ecología, México, http:/
+www.ine.gob.mx/download/mex_origenmaiz_
+vf.pdf (consultado en diciembre).
+----------------Page (288) Break----------------
+Bibliografía
+289
+national Development Research Centre, Otta-
+wa, Canadá.
+R
+AMOS
+, F. (1998), Grupo Vicente Guerrero de Españi-
+ta, Tlaxcala . Dos décadas de promoción de campe-
+sino a campesino , Serie estudios de caso sobre 
+participación campesina, generación, valida-
+ción y transferencia de tecnología, Fundación 
+Rockefeller, México.
+R
+AMOS
+, M. (2004), “Negociación internacional y 
+desarrollo sostenible”, ponencia sustentada en 
+la mesa redonda Desarrollo Sostenible “Alter-
+nativa XXI: La distribución social del conoci-
+miento”, Feria Internacional del Libro Uni-
+versitario, Xalapa, 10 de septiembre.
+R
+OBLES
+, H. y L. Concheiro (2004), Entre las fábu-
+las y la realidad, los ejidos y las comunidades con 
+población indígena , 
+CDI
+, 
+UAM
+-
+X
+, México.
+R
+OJAS
+, T. (1988), Las siembras de ayer. La agricultu-
+ra indígena del siglo
+XVI
+, 
+SEP
+, 
+CIESAS
+, México.
+R
+ZEDOWSKI
+, J. (1978), Ve g e t a c i ó n d e M é x i c o , Limusa, 
+México.
+——— (1998), “La flora”, en E. Florescano (ed.), 
+El patrimonio nacional de México , vol. I, 
+FCE
+,
+CNCA
+, México, p. 146.
+——— (1992), “Diversidad y orígenes de la flora 
+fanerogámica de México”, en Ciencias , núm. 
+especial 6, pp. 47-56.
+S
+ÁNCHEZ
+, G.J.J. y S.L. Ordaz (1987), Systematic
+and Ecogeographic Studies on Crop Genepools: El 
+teocintle en México. Distribución y situación actual 
+de las poblaciones , 
+IBPGR
+,Roma.
+S
+ÁNCHEZ
+, J., M. Goodman y G.W. Stuber (2000), 
+“Isozimatic and Morphological Diversity in 
+the Races of Maize of Mexico”, en Economic 
+Botany, núm. 54, pp. 43-59.
+S
+ÁNCHEZ
+, J.J. y T.A. Kato Yamamake, M.A. San 
+Miguel, J.M. Hernández, A. López y J.A. Ruiz 
+(1998), Distribución y caracterización del teocintle ,
+INIFAP
+, 
+SAGAR
+, México. 
+S
+ANSEKAN
+, Tinemi y 
+GEA
+ (2007), Reforestación ,
+http://www.laneta.apc.org/sanzekan/reforest.
+htm (consultado en marzo).
+O
+STROM
+, E. (2000), El gobierno de los bienes comu-
+nes. La evolución de las instituciones de acción co-
+lectiva , 
+UNAM
+ (
+CRIM
+), Fondo de Cultura Econó-
+mica, México.
+O
+VIEDO
+, G., L. Maffi y P.B. Larsen (2000), Indige-
+nous and Traditional Peoples of the World Ecoregion 
+Conservation. An Integrated Approach to Conser-
+ving the World’s Biological and Cultural Diversity ,
+WWF
+ International, Terra Lingua, Gland, Suiza.
+P
+ARDO
+ E. (2003), Estudio de reconstrucción metodo-
+lógica y participativa de ordenamientos comunita-
+rios, L. Paré (coord.), 
+IIS
+-
+UNAM
+. Proyecto núm. 
+145 Conacyt-
+INE
+,
+SEMARNAT
+ 2001-2002, docu-
+mento inédito, México. 
+P
+ARÉ
+, L. y C. Cortés (2006), “Conflicting Rights 
+and Agendas in Protected Natural Areas in 
+México: A Case for Accountability”, en L.P. 
+Newel y J. Wheeler (coords.), Rights and ac-
+countability , Zed Books, Londres.
+——— y C. Robles (2006), “En búsqueda de un 
+manejo territorial del agua, transparente e in-
+cluyente: una experiencia en el sur de Vera-
+cruz”, en V. Vázquez, D. Soares, A. de la Rosa 
+Delgado y A. Serrano (coords.), Gestión y cultu-
+ra del agua , t. II, 
+IMTA
+, Colegio de Posgradua-
+dos, México, pp. 62-92.
+P
+EÑA
+, F. (2004), Los pueblos indígenas y el agua: de-
+safíos del siglo 
+XXI
+, El Colegio de San Luis, Se-
+marnat, 
+IMTA
+, 
+WA L I R
+,México.
+P
+ERALES
+, H., B.F. Benz y S.B. Brush (2005), Maize 
+Diversity and Ethnolinguistic Diversity in Chia-
+pas Mexico , 
+PNAS
+, vol. 102, Handbook of Energy 
+Utilization in Agriculture , núm. 3, 18 de enero, 
+pp. 949-954. 
+P
+IMENTEL
+, D. et al. (1979), “Food Production and 
+Energy Crisis”, en Science, núm. 182, pp. 443-449.
+P
+OLANCO
+, H. (1999), Autonomía regional. La auto-
+determinación de los pueblos indios , Siglo XXI, 
+México. 
+P
+OSEY
+, D. y G. Dutfield (1996), Beyond Intellectual 
+Property : Toward Traditional Resource Rights for 
+Indigenous Peoples and Local Communities , Inter-
+----------------Page (289) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+290
+S
+EMARNAP
+(1999), La gestión ambiental en México, 
+Semarnap, México.
+S
+EMARNAT
+ (2002), Informe de la situación del medio 
+ambiente en México. Compendio de estadísticas am-
+bientales , México.
+S
+ERVICIO DE
+ I
+NFORMACIÓN Y
+ E
+STADÍSTICA
+ A
+GROALI
+-
+MENTARIA Y
+ P
+ESQUERA
+,
+SAGARPA
+, 2005.
+S
+ERRANO
+, E., A. Embriz y P. Fernández (2002), 
+Indicadores socioeconómicos de los pueblos indíge-
+nas de México , 
+INI
+, 
+UNDP
+, Conapo, México.
+———, (coord.) (2006), Regiones indígenas de Méxi-
+co , Comisión Nacional para el Desarrollo de 
+los Pueblos Indígenas, Programa de las Nacio-
+nes Unidas para el Desarrollo.
+S
+OBERÓN
+, J. (2000), “Presentación”, en L. Arria-
+ga, J.M. Espinoza, C. Aguilar, E. Martínez, L. 
+Gómez y E. Loa (coords.), Regiones terrestres 
+prioritarias de México , Comisión Nacional para 
+el Conocimiento y Uso de la Biodiversidad, 
+México.
+S
+OLÍS
+, I. y J. van Heerwaarden (2003), Informe fi-
+nal del proyecto: Rescate del sistema milpero tradi-
+cional maya ante el fenómeno del huracán Isidore: 
+la importancia de las especies criollas, Programa 
+de Pequeñas Donaciones, Red de Organiza-
+ciones del Sureste para el Desarrollo Sustenta-
+ble, 
+PNUD
+, Mérida. 
+S
+TAVENHAGEN
+, R. (2001), La cuestión étnica , El Co-
+legio de México, México.
+S
+TERN
+, N. (2007), “The Economics of Climate 
+Change”, en The Stern Review , Cambridge Uni-
+versity Press. 
+S
+WA M I N AT H A N
+, M.S. (1996), Agrobiodiversity and 
+Farmers Rights: Proceedings of a Technical Consulta-
+tion on an Implementation Framework for Farmers 
+Rights , Swaminathan Research Institute, Madrás.
+T
+ABA
+, S. (ed.) (1995), Maize Genetic Resources. Mai-
+ze Program Special Report : Latin America Maiz 
+Germoplasm Regeneration and Conservation ,
+CIMM
+y
+T
+, México.
+T
+ERÁN
+, S. y C. Rasmussen (1994), La milpa de los 
+mayas prehispánicos y actuales , Danida.
+———, C. Rasmussen y O. May (1998), Las plan-
+tas de la milpa entre los mayas. Etnobotánica de 
+las plantas cultivadas entre los mayas en las milpas 
+en el noreste de Yucatán , Fundación Tun Ben Kin, 
+Mérida, 294 pp.
+T
+OLEDO
+, C.A. (1982), “El género Bursera (Burse-
+raceae) en el estado de Guerrero”, tesis, 
+UNAM
+,
+México.
+T
+OLEDO
+L
+LANCAQUEO
+, Víctor (2007), “El nuevo 
+régimen internacional de derechos de propie-
+dad intelectual y los derechos de los pueblos 
+indígenas”, en L. Concheiro y F. López (coords.), 
+Biodiversidad y conocimiento tradicional en la so-
+ciedad rural. Entre el común y la propiedad pri-
+vada , Colección Estudios e Investigaciones, 
+Centro de Estudios para el Desarrollo Rural 
+Sustentable y la Soberanía Alimentaria, Cá-
+mara de Diputados, IX Legislatura, México.
+T
+OLEDO
+, V.M. et. al . (1985), Ecología y autosuficien-
+cia alimentaria , Siglo XXI, México.
+——— y M. Ordóñez (1993), “The Biodiversity 
+Scenario of México. A Review of Terrestrial 
+Habitats”, en T.P. Ramamoorty, R. Bye, A. Lot 
+y J. Fa (eds.), Biological Diversity of Mexico. Ori-
+gin and Distribution , Oxford University Press, 
+Nueva York. 
+——— et al . (2001), “Atlas etnoecológico de 
+México y Centro América; fundamentos, mé-
+todos y resultados”, en Etnoecológica , vol. 6, 
+núm. 8, pp. 7-41.
+——— et al . (2002), “Biodiversidad y pueblos in-
+dios en México y Centroamérica”, en Biodi-
+versitas, núm. 43, pp. 1-8, Conabio, México. 
+———, B. Ortiz-Espejel, L.Cortés, P. Moguel y 
+M. de J. Ordóñez (2003), “The Multiple Use 
+of Tropical Forests by Indigenous Peoples in 
+Mexico: A Case of Adaptive Management”, 
+en Conservation Ecology, 7 (3), p. 9.
+——— (2004), “Hacia un modelo biorregional en 
+las regiones tropicales de México: biodiversi-
+dad, sustentabilidad y pueblos indígenas de 
+México”, en A. Gómez-Pompa et al . (eds.), La 
+----------------Page (290) Break----------------
+Bibliografía
+291
+V
+ELÁZQUEZ
+, A. et al. (en prensa), “ 30 Years of Pro-
+gression of Mexican Forest Resources ” , en
+Singapore Journal of Tropical Geography.
+V
+ITOUSEK
+ P., H. Mooney, J. Lubchenco y J.M. 
+Melillo (1997), “Human domination of earth’s 
+ecosystems”, en Science, núm. 25, julio 1997, 
+vol. 277, pp. 494-499
+W
+ELLHAUSEN
+ E.J., L.M. Roberts, E. Hernández X., 
+P.C. Mangelsdorf (coords. ) (1987), “Razas de maíz 
+en México. Su origen, características y distribu-
+ción”, en Xolocotzia, Obras de Efraim Hernández 
+Xolocotzi , Revista de Geografía Agrícola, Universi-
+dad Autónoma de Chapingo, tomo II, México.
+W
+HITE
+ A. y A. Martín (2002), ¿De quién son los bosques 
+del mundo? Tenencia forestal y bosques públicos en 
+transición, Forest Trends (
+CD
+ Forest Trends).
+W
+ILSON
+, E.O. (1989), “Threats to Biodiversity”, 
+en Scientific American, septiembre.
+W
+ILLIAMS
+-L
+INERA
+,G. (2007), El bosque de niebla del 
+centro de Veracruz: ecología, historia y destino en 
+tiempos de fragmentación y cambio climático , Co-
+nabio, Instituto de Ecología, México.
+Z
+EDER
+, M.A., (2006), “Central Questions in Do-
+mestication of Plants and Animals”, en Evolu-
+tionary Anthropology Issues : News, and Reviews ,
+núm. 15, pp. 105-117.
+Z
+OLLA
+, C. y E. Zolla (2004), Los pueblos indígenas 
+de México , 100 preguntas , Colección La plurali-
+dad Cultural de México, 
+UNAM
+, México.
+conservación en las regiones tropicales de México ,
+Universidad Veracruzana, Xalapa.
+——— (2005), Repensar la conservación ¿Áreas na-
+turales protegidas o estrategias biorregionales? ,
+Congreso “Estrategias para la Conservación 
+de Áreas Naturales Protegidas de Designación 
+Internacional”, Instituto de Ecología y 
+MAB
+-
+Unesco, Xalapa, octubre.
+UICN
+ (2000), Recomendaciones políticas , Quinta Reu-
+nión del Órgano Subsidiario de Asesoramiento 
+Científico Técnico y Tecnología de la Confe-
+rencia de Partes, Montreal. 
+V
+AV I L O V
+, N.I. (1927), Origin and Geography of Culti-
+vated Plants , Cambridge University Press, Cam-
+bridge.
+V
+ÁZQUEZ
+-D
+ÁVILA
+, M.A. (2001), “Etnoecología 
+chontal de Tabasco”, en Etnoecológica , vol. VI, 
+núm. 8-9, México.
+V
+EGA
+, S. de la (2001), “Índice de desarrollo social 
+de los pueblos indígenas”, en E. Serrano, P. 
+Fernández y A. Embriz, Indicadores socioeconó-
+micos de los pueblos indígenas de México , 
+INI
+, 
+UNDP
+,
+Conapo, México.
+V
+ELÁZQUEZ
+, E. (2004), “Distintas formas de la apro-
+piación legal del Procede en la Sierra de Santa 
+Marta, Veracruz”, en E. Leonard, A. Quesnel 
+y E. Velázquez (coords.), Políticas y regulaciones 
+agrarias dinámicas de poder y juegos de actores ,
+CIESAS
+-
+IRA
+,México.
+----------------Page (291) Break----------------
+
+----------------Page (292) Break----------------
+Anexos
+293293
+ANEXO 1.
+ Ciudades con más de 5000 habitantes de población indígena según el Censo General 
+de Población y Vivienda, 
+INEGI
+ 2000
+Ciudades 
+indígenas
+Estado Población 
+indígena
+Población
+total
+Porcentaje 
+por hogares
+indígenas
+Hablantes 
+de lengua 
+indígena 
+de 5 años 
+y más
+Pueblo 
+indígena
+San Miguel Panixtlahuaca Oaxaca 5 389 5 389 100 97.62 Chatino
+San Lucas Ojitlán Oaxaca 5 313 5 732 93 78.94 Chinanteco
+Tamulté de las Sabanas Tabasco 7 633 7 688 99 67.70 Chontal de T abasco
+Tantoyuca Veracruz 7 123 25 492 28 12.62 Huasteco
+San Mateo del Mar Oaxaca 5 161 5 161 100 97.96 Huave
+Nunkini Campeche 5 159 5 159 100 91.41 Maya
+Seye Yucatán 5 309 7 374 72 35.64 Maya
+Becal Campeche 5 478 6 401 86 44.91 Maya
+Pomuch Campeche 6 288 7 278 86 45.21 Maya
+Hecelchakán Campeche 7 152 9 427 76 39.62 Maya
+Tecoh Yucatán 7 308 8 189 89 49.56 Maya
+Acanceh Yucatán 7 680 9 311 82 41.99 Maya
+Halachó Yucatán 7 819 8 626 91 53.57 Maya
+Tekit Yucatán 7 990 8 332 96 64.29 Maya
+José María Morelos Quintana Roo 8 261 9 446 87 51.83 Maya
+Espita Yucatán 8 852 9 375 94 65.54 Maya
+Tzucacab Yucatán 8 858 9 242 96 60.39 Maya
+Akil Yucatán 9 071 9 279 98 76.42 Maya
+Maxcanú Yucatán 9 383 11 229 84 45.57 Maya
+Calkiní Campeche 9613 13 180 73 37.04 Maya
+Muna Yucatán 9 786 10 695 92 55.90 Maya
+Chemax Yucatán 9 806 9 973 98 95.33 Maya
+P
+. 292
+ Iglesia de Pomacuarán, Michoacán.
+----------------Page (293) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+294
+Ciudades 
+indígenas
+Estado Población 
+indígena
+Población
+total
+Porcentaje 
+por hogares
+indígenas
+Hablantes 
+de lengua 
+indígena 
+de 5 años 
+y más
+Pueblo 
+indígena
+Izamal Yucatán 9 853 14 075 70 35.81 Maya
+Dzitbalche Campeche 10 123 10 123 100 66.91 Maya
+Motul de Carrillo Puerto Yucatán 12 515 19 868 63 30.28 Maya
+Umán Yucatán 13 713 26 657 51 22.02 Maya
+Felipe Carrillo Puerto Quintana Roo 15 008 18 545 81 51.23 Maya
+Peto Yucatán 15 730 16 572 95 67.90 Maya
+Oxkutzcab Yucatán 18 851 20 244 93 67.33 Maya
+Tekax de Álvaro Obregón Yucatán 19 533 21 580 91 59.35 Maya
+Kanasin Yucatán 21 993 37 674 58 32.42 Maya
+Ticul Yucatán 25 488 28 502 89 52.94 Maya
+Valladolid Yucatán 27 744 37 332 74 45.88 Maya
+Mérida Yucatán 99 697 662 530 30 12.78 Maya
+Concepción los Baños México 5 707 5 843 98 42.14 Mazahua
+San Francisco Tepeolulco México 6 207 6 535 95 55.41 Mazahua
+San Felipe Jalapa de Díaz Oaxaca 5 487 5 626 98 86.68 Mazateco
+Temascal Oaxaca 5 492 7 698 71 45.07 Mazateco
+Huautla de Jiménez Oaxaca 9 130 9 458 97 82.70 Mazateco
+San Juan Colorado Oaxaca 5 112 5 112 100 97.92 Mixteco
+Pinotepa de Don Luis Oaxaca 5 113 5 242 98 89.88 Mixteco
+Santiago Pinotepa Nacional Oaxaca 9 933 24 347 41 22.24 Mixteco
+Tlapa de Comonfort Guerrero 20 496 31 235 66 42.24 Mixteco
+San Juan Tepulco Puebla 5 171 5 712 91 60.93 Nahua
+Jaltocan Hidalgo 5 352 5 352 100 91.64 Nahua
+Copalillo Guerrero 5 701 5 701 100 96.76 Nahua
+----------------Page (294) Break----------------
+Anexos
+295
+Ciudades 
+indígenas
+Estado Población 
+indígena
+Población
+total
+Porcentaje 
+por hogares
+indígenas
+Hablantes 
+de lengua 
+indígena 
+de 5 años 
+y más
+Pueblo 
+indígena
+San Isidro Buen Suceso Tlaxcala 6 253 6 253 100 93.76 Nahua
+Atliaca Guerrero 6 436 6 436 100 96.29 Nahua
+Tatahuicapan Veracruz 6 723 6 723 100 90.87 Nahua
+Zaragoza Veracruz 7 136 8 085 88 51.00 Nahua
+San José Miahuatlán Puebla 7 301 7 301 100 98.17 Nahua
+Pajapan Veracruz 7 303 7 303 100 93.09 Nahua
+Rafael Delgado Veracruz 7 657 7 657 100 87.64 Nahua
+Resurrección, La Puebla 7 749 7 749 100 68.84 Nahua
+San Gabriel Chilac Puebla 9 897 11 121 89 60.76 Nahua
+San Sebastián Zinacatepec Puebla 12 415 13 628 91 66.40 Nahua
+San Miguel Canoa Puebla 12 896 12 896 100 94.08 Nahua
+Altepexi Puebla 13 883 15 247 91 69.57 Nahua
+Huejutla de Reyes Hidalgo 19 108 34 141 56 28.42 Nahua
+San Pedro Abajo México 5 014 5 014 100 63.79 Otomí
+San Pedro Arriba México 5 529 5 529 100 56.41 Otomí
+Ixmiquilpan Hidalgo 11 494 30 831 37 16.87 Otomí
+San Marcos Tlacoyalco Puebla 8 640 8 640 100 84.32 Popoloca
+Capácuaro Michoacán 7 095 7 095 100 97.71 Purhépecha
+Tarecuato Michoacán 7 939 7 939 100 84.79 Purhépecha
+Coyutla Veracruz 7 455 7 770 96 71.62 Totonaca
+Filomeno Mata Veracruz 8 779 8 782 100 98.71 Totonaca
+Chanal Chiapas 5 116 5 159 99 99.08 Tzeltal
+----------------Page (295) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+296
+Ciudades 
+indígenas
+Estado Población 
+indígena
+Población
+total
+Porcentaje 
+por hogares
+indígenas
+Hablantes 
+de lengua 
+indígena 
+de 5 años 
+y más
+Pueblo 
+indígena
+Petalcingo Chiapas 5 622 5 788 97 92.01 Tzeltal
+Palestina Chiapas 7 444 7 444 100 97.63 Tzeltal
+Yajalón Chiapas 8 290 13 619 61 38.84 Tzeltal
+Ocosingo Chiapas 14 303 26 495 54 42.22 Tzeltal
+Pantelhó Chiapas 5 179 5 649 92 76.95 Tzotzil
+Santa María Xadani Oaxaca 5 537 5 591 99 97.83 Zapoteco
+Espinal, El Oaxaca 5 999 7 224 83 48.50 Zapoteco
+San Pablo Villa de Mitla Oaxaca 6 333 7 158 88 50.71 Zapoteco
+Asunción Ixtaltepec Oaxaca 7 167 7 167 100 68.62 Zapoteco
+San Blas Atempa Oaxaca 10 955 11 305 97 91.25 Zapoteco
+Unión Hidalgo Oaxaca 11 572 12 080 96 67.48 Zapoteco
+Ciudad Ixtepec Oaxaca 12 151 22 261 55 26.87 Zapoteco
+Juchitán de Zaragoza Oaxaca 58 697 64 642 91 71.10 Zapoteco
+----------------Page (296) Break----------------
+Anexos
+297
+ANEXO 2.
+ Inventario forestal y cubierta de vegetación primaria y secundaria y uso del suelo en 
+los territorios de los pueblos indígenas. (No se consideraron asentamientos humanos, obras 
+de infraestructura ni cuerpos de agua.)
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Amuzgo
+Bosque de encino
+Primario Ninguna 688
+Secundario
+Arbustiva 1 354
+Arbórea 5 324
+Bosque de encino-pino
+Primario Ninguna 4 409
+Secundario Arbórea 10 320
+Bosque de pino
+Primario Ninguna 1 684
+Secundario
+Arbustiva 1 971
+Arbórea 2 449
+Bosque de pino-encino
+Primario Ninguna 4 508
+Secundario
+Arbustiva 3 622
+Arbórea 6 767
+Manglar Primario Ninguna 393
+Sabanoide No disponible No disponible 20 020
+Selva baja caducifolia Secundario
+Arbustiva 44 112
+Arbórea 743
+Selva mediana subcaducifolia
+Primario Ninguna 3 392
+Secundario
+Arbustiva 18 004
+Arbórea 9 684
+Tular No disponible No disponible 368
+SUBTOTAL
+139 812
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de riego Ninguna Anual 839
+Agricultura de temporal
+Ninguna Anual 8 904
+Plantacion agrícola Permanente 62
+Pastizal cultivado Ninguna Permanente 5 800
+SUBTOTAL
+15 605
+----------------Page (297) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+298
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Chatino
+Bosque de encino Secundario
+Arbórea 2 964
+Arbustiva 11 172
+Bosque de encino-pino Secundario
+Arbórea 687
+Arbustiva 5 293
+Bosque de pino
+Primario Ninguna 12 040
+Secundario
+Arbórea 10 239
+Arbustiva 1 557
+Bosque de pino-encino
+Primario Ninguna 1 674
+Secundario
+Arbórea 28 176
+Arbustiva 36 273
+Bosque mesófilo de montaña
+Primario Ninguna 11 172
+Secundario
+Arbórea 10 207
+Arbustiva 6 973
+Selva baja caducifolia
+Secundario
+Arbustiva 846
+Selva baja subcaducifolia Arbustiva 53
+Selva mediana subcaducifolia
+Primario Ninguna 217
+Secundario Arbustiva 13 042
+Selva mediana subperennifolia
+Primario Ninguna 4 990
+Secundario
+Arbórea 101
+Arbustiva 10 007
+SUBTOTAL
+167 683
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de riego Ninguna Anual 136
+Agricultura de temporal Ninguna Anual 25 112
+Pastizal cultivado Ninguna Permanente 8 360
+Pastizal inducido No disponible No disponible 21 664
+SUBTOTAL
+55 273
+----------------Page (298) Break----------------
+Anexos
+299
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Chichimeca
+jonaz
+Bosque de encino Primario Ninguna 13
+Matorral crasicaule
+Primario Ninguna 1 662
+Secundario Arbustiva 834
+Pastizal natural Secundario Arbustiva 227
+Selva mediana subperennifolia Primario Ninguna 429
+SUBTOTAL
+3 165
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de temporal Ninguna Anual 1 220
+SUBTOTAL
+1 220
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Chinanteco
+Bosque de encino Secundario
+Arbustiva 4 100
+Arbórea
+1 486
+Bosque de encino-pino
+Primario Ninguna 1 167
+Secundario
+Arbustiva 3 513
+Arbórea 16 427
+Bosque de pino Primario Ninguna 4 735
+Bosque de pino-encino
+Primario Ninguna 6 394
+Secundario
+Arbustiva 2 044
+Arbórea 2 084
+Bosque mesófilo de montaña
+Primario Ninguna 38 588
+Secundario
+Arbustiva 12 506
+Arbórea 13 342
+Sabanoide No disponible No disponible 188
+Selva alta perennifolia
+Primario Ninguna 152 403
+Secundario
+Arbustiva 89 859
+Arbórea 57 482
+Herbácea 252
+Selva baja caducifolia
+Primario Ninguna 10 644
+Secundario
+Arbustiva 4 476
+Arbórea 1 372
+Tular No disponible No disponible 9
+SUBTOTAL
+423 071
+----------------Page (299) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+300
+Chinanteco
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de humedad Ninguna Anual 7 039
+Agricultura de riego Ninguna
+Anual 778
+Semipermanente 299
+Agricultura de temporal
+Ninguna
+Anual 29 352
+Semipermanente 33 592
+Plantacion agrícola Permanente 14 806
+Bosque cultivado Ninguna Permanente 125 080
+Pastizal inducido Ninguna Permanente 1 439
+SUBTOTAL
+212 385
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Chocho-
+popoloca
+Bosque de encino Secundario
+Arbórea 1 156
+Arbustiva 1 387
+Bosque de encino-pino Secundario Arbórea 326
+Bosque de tascate Secundario Arbustiva 81
+Chaparral No disponible No disponible 171
+No aplicable No disponible No disponible 374
+SUBTOTAL
+3 495
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de riego Ninguna Anual 51
+Agricultura de temporal Ninguna Anual 6 794
+Pastizal inducido No disponible No disponible 1 380
+SUBTOTAL
+6 846
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Chol
+Bosque de pino Primario Ninguna 350
+Bosque de pino-encino Primario Ninguna 263
+Bosque mesófilo de montaña
+Primario Ninguna 5 242
+Secundario
+Arbórea 4 977
+Arbustiva 4 053
+Sabana Primario Ninguna 30
+Selva alta perennifolia
+Primario Ninguna 73 081
+Secundario
+Arbórea 131 053
+Arbustiva 103 368
+----------------Page (300) Break----------------
+Anexos
+301
+Chol
+Selva alta subperennifolia
+Primario Ninguna 19 355
+Secundario
+Arbórea 19 024
+Arbustiva 2 801
+Selva baja espinosa subperennifolia
+Primario Ninguna 8 265
+Secundario
+Arbórea 13 500
+Arbustiva 15 971
+Selva mediana caducifolia Secundario Arbórea 304
+Selva mediana subcaducifolia Secundario Arbórea 2 399
+Selva mediana subperennifolia
+Primario Ninguna 10 770
+Secundario
+Arbórea 117 263
+Arbustiva 27 846
+Herbácea 1 696
+Tular No disponible No disponible 1 244
+SUBTOTAL
+562 854
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de riego Ninguna Anual 865
+Agricultura de temporal Ninguna Anual 67 903
+Pastizal inducido No disponible No disponible 407
+Pastizal cultivado Ninguna Permanente 157 008
+SUBTOTAL
+22 6183
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Chontal de 
+Oaxaca
+Bosque de encino Secundario Arbustiva 8
+Bosque de encino-pino Primario Ninguna 313
+Bosque de pino
+Primario Ninguna 600
+Secundario
+Arbórea 6 413
+Arbustiva 6
+Bosque de pino-encino
+Primario Ninguna 13 719
+Secundario
+Arbórea 20 307
+Arbustiva 18 055
+Bosque mesófilo de montaña Secundario Arbórea 15
+Sabanoide No disponible No disponible 73
+----------------Page (301) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+302
+Chontal de 
+Oaxaca
+Selva baja caducifolia
+Primario Ninguna 23 350
+Secundario
+Arbórea 1 351
+Arbustiva 4 891
+Selva mediana caducifolia
+Primario Ninguna 24 822
+Secundario
+Arbórea 2 237
+Arbustiva 9 049
+Vegetación de dunas costeras Primario Ninguna 216
+SUBTOTAL
+125 787
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de riego Ninguna Anual 1 287
+Agricultura de temporal Ninguna Anual 5 952
+Pastizal inducido No disponible No disponible 2 268
+Subtotal 9 508
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Chontal de 
+Tabasco
+Manglar Primario Ninguna 4 245
+Palmar natural Primario Ninguna 23
+Popal No disponible No disponible 3 290
+Sabana Primario Ninguna 687
+Selva alta perennifolia
+Primario Ninguna 1 641
+Secundario
+Arbórea 1 633
+Arbustiva 1 115
+Selva baja espinosa subperennifolia Secundario Arbórea 2
+Selva baja perennifolia Primario Ninguna 317
+Selva mediana subperennifolia
+Primario Ninguna 38
+Secundario
+Arbórea 73
+Arbustiva 337
+Tular No disponible No disponible 33 232
+SUBTOTAL
+46 633
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de temporal Ninguna
+Anual 1 374
+Semipermanente 19
+Agricultura de temporal Plantacion agrícola Permanente 573
+Pastizal cultivado Ninguna Permanente 25 467
+SUBTOTAL
+27 434
+----------------Page (302) Break----------------
+Anexos
+303
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Chuj
+Bosque de encino Primario Ninguna 273
+Bosque de encino-pino Primario Ninguna 19
+Bosque de pino
+Primario Ninguna 78
+Secundario
+Arbórea 18
+Arbustiva 59
+Bosque de pino-encino
+Primario Ninguna 402
+Secundario Arbórea 53
+Bosque mesófilo de montaña
+Primario Ninguna 956
+Secundario
+Arbórea 688
+Arbustiva 2 143
+Manglar Primario Ninguna 38
+Selva alta perennifolia Secundario
+Arbórea 220
+Arbustiva 844
+Selva baja caducifolia
+Primario Ninguna 70
+Secundario Arbustiva 276
+SUBTOTAL
+6 140
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de temporal Plantación agricola Permanente 317
+Pastizal cultivado Ninguna Permanente 369
+Pastizal inducido No disponible No disponible 211
+SUBTOTAL
+896
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Chuj - Kanjobal
+Bosque mesófilo de montaña Secundario Arbórea 60
+Selva alta perennifolia Secundario
+Arbórea 521
+Arbustiva 102
+SUBTOTAL
+683
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Cochimi
+Chaparral
+No disponible No disponible 5 814
+Secundario Arbustiva 948
+Vegetación de galería Primario Ninguna 53
+SUBTOTAL
+6 815
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de temporal Ninguna Anual 783
+----------------Page (303) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+304
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Cora
+Bosque de encino
+Primario Ninguna 21 557
+Secundario
+Arbórea 12 556
+Arbustiva 12 905
+Herbácea 2 399
+Bosque de encino-pino
+Primario Ninguna 16 577
+Secundario
+Arbórea 2 560
+Arbustiva 517
+Herbácea 825
+Bosque de pino
+Primario Ninguna 10 268
+Secundario
+Arbórea 2 495
+Arbustiva 398
+Herbácea 341
+Bosque de pino-encino
+Primario Ninguna 45 471
+Secundario
+Arbórea 35 473
+Arbustiva 22 547
+Herbácea 4 264
+Bosque de tascate Primario Ninguna 341
+Bosque mesófilo de montaña
+Primario Ninguna 16 621
+Secundario
+Arbórea 198
+Arbustiva 1 546
+Herbácea 106
+Sabanoide No disponible No disponible 1 824
+Selva baja caducifolia
+Primario Ninguna 29 828
+Secundario
+Arbórea 295
+Arbustiva 15 040
+Herbácea 225
+Selva mediana subcaducifolia
+Primario Ninguna 16 903
+Secundario
+Arbórea 26 784
+Arbustiva 13 953
+Herbácea 838
+Selva mediana subperennifolia
+Primario Ninguna 6 985
+Secundario
+Arbórea 13 621
+Arbustiva 2 055
+Herbácea 171
+SUBTOTAL
+338 487
+----------------Page (304) Break----------------
+Anexos
+305
+Cora
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de riego Ninguna Anual 596
+Agricultura de temporal Ninguna Anual 11 138
+Pastizal cultivado Ninguna Permanente 3 313
+Pastizal inducido No disponible No disponible 13 441
+SUBTOTAL
+28 487
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Cucapa
+Manglar Secundario Arbustiva 46
+Matorral desértico micrófilo Primario Ninguna 56 952
+Selva baja caducifolia Secundario Arbustiva 10
+Selva baja espinosa caducifolia Secundario Arbustiva 2
+Sin vegetación aparente No disponible No disponible 71 768
+Vegetación de desiertos arenosos Primario Ninguna 13 528
+Vegetación halófila Primario Ninguna 7 769
+SUBTOTAL
+150 075
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Cuicateco
+Bosque de encino
+Primario Ninguna 48
+Secundario
+Arbustiva 689
+Arbórea 1 619
+Bosque de encino-pino
+Primario Ninguna 1 747
+Secundario
+Arbustiva 1 611
+Arbórea 9 397
+Bosque de pino-encino
+Primario Ninguna 3 475
+Secundario
+Arbustiva 7 954
+Arbórea 1 087
+Bosque mesófilo de montaña
+Primario Ninguna 10 201
+Secundario
+Arbustiva 4 117
+Arbórea 5 947
+Selva alta perennifolia
+Primario Ninguna 11 855
+Secundario
+Arbustiva 4 880
+Arbórea 615
+Herbácea 304
+Selva baja caducifolia
+Primario Ninguna 9 480
+Secundario
+Arbustiva 5 375
+Arbórea 2 719
+SUBTOTAL
+83 119
+ 
+----------------Page (305) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+306
+Cuicateco
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de temporal
+Ninguna Semipermanente 14
+Plantación agrícola Permanente 1 620
+Pastizal cultivado Ninguna Permanente 4 881
+Pastizal inducido Ninguna Permanente 5 586
+SUBTOTAL
+12 101
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Guarijío
+Bosque de encino
+Primario Ninguna 20 799
+Secundario Arbustiva 3 035
+Bosque de encino-pino
+Primario Ninguna 2 753
+Secundario Arbustiva 919
+Bosque de pino Primario Ninguna 176
+Bosque de pino-encino
+Primario Ninguna 4 439
+Secundario Arbustiva 501
+Selva baja caducifolia
+Primario Ninguna 35 734
+Secundario
+Arbustiva 5 218
+Arbórea 3 111
+SUBTOTAL
+76 684
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de temporal Ninguna Anual 895
+Pastizal inducido Ninguna Permanente 5 397
+SUBTOTAL
+6 291
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Huasteco
+Bosque de encino
+Primario Ninguna 1 403
+Secundario
+Arbórea 560
+Arbustiva 1 975
+Bosque de encino-pino
+Primario Ninguna 191
+Secundario Arbórea 234
+Manglar Primario Ninguna 125
+Palmar inducido No disponible No disponible 200
+Selva alta perennifolia
+Primario Ninguna 1 063
+Secundario
+Arbórea 5 202
+Arbustiva 17 257
+----------------Page (306) Break----------------
+Anexos
+307
+Huasteco
+Selva alta subperennifolia
+Primario Ninguna 1 189
+Secundario Arbórea 1 370
+Selva baja caducifolia
+Primario Ninguna 293
+Secundario
+Arbórea 96
+Arbustiva 249
+Selva mediana subperennifolia
+Primario Ninguna 4 035
+Secundario
+Arbórea 39 620
+Arbustiva 18 287
+Herbácea 623
+Tular No disponible No disponible 75
+SUBTOTAL
+96 246
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de riego Ninguna Anual 898
+Agricultura de temporal Ninguna Anual 71 716
+Pastizal cultivado Ninguna Permanente 79 963
+SUBTOTAL
+152 577
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Huave
+Manglar
+Primario Ninguna 521
+Secundario Arbustiva 16 121
+No aplicable No disponible No disponible 12 209
+Pastizal halófilo Primario Ninguna 8 435
+Sabanoide No disponible No disponible 3 032
+Selva baja caducifolia
+Primario Ninguna 3 486
+Secundario Arbustiva 6 104
+Selva baja espinosa caducifolia
+Primario Ninguna 451
+Secundario Arbustiva 3 399
+SUBTOTAL
+53 758
+Uso del suelo Tipo de plantación T ipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de riego Ninguna Anual 483
+Agricultura de temporal Ninguna Anual 8 181
+Pastizal inducido No disponible No disponible 4 914
+SUBTOTAL
+13 578
+----------------Page (307) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+308
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Huichol
+Bosque de encino
+Primario Ninguna 93 101
+Secundario
+Arbustiva 46 778
+Arbórea 9 658
+Herbácea 4 585
+Bosque de encino-pino
+Primario Ninguna 67 491
+Secundario
+Arbustiva 4 104
+Arbórea 17 239
+Herbácea 426
+Bosque de pino
+Primario Ninguna 6 566
+Secundario
+Arbustiva 364
+Arbórea 1 543
+Herbácea 363
+Bosque de pino-encino
+Primario Ninguna 129 543
+Secundario
+Arbustiva 14 852
+Arbórea 50 784
+Herbácea 868
+Bosque mesófilo de montaña Primario Ninguna 1341
+Sabanoide No disponible No disponible 147
+Selva baja caducifolia
+Primario Ninguna 136 312
+Secundario
+Arbustiva 47 119
+Arbórea 25 191
+Herbácea 552
+Selva de galería Primario Ninguna 104
+Selva mediana subcaducifolia
+Primario Ninguna 10 705
+Secundario
+Arbustiva 19 686
+Arbórea 8 871
+Herbácea 133
+Selva mediana subperennifolia
+Primario Ninguna 4 306
+Secundario
+Arbustiva 431
+Arbórea 2 870
+Vegetación de galería Primario Ninguna 72
+SUBTOTAL
+706 106
+----------------Page (308) Break----------------
+Anexos
+309
+Huichol
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de riego Ninguna Anual 370
+Agricultura de temporal
+Ninguna Anual 15 572
+Plantacion agrícola Permanente 1
+Pastizal cultivado Ninguna Permanente 3 908
+Pastizal inducido Ninguna Permanente 98 070
+SUBTOTAL
+117 920
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Ixil
+Manglar Primario Ninguna 466
+Selva baja espinosa subperennifolia Secundario Arbustiva 1 192
+Selva baja subcaducifolia Primario Ninguna 34
+Selva mediana caducifolia Secundario
+Arbórea 9 293
+Arbustiva 398
+Selva mediana subperennifolia
+Primario Ninguna 1 050
+Secundario Arbórea 31
+Tular No disponible No disponible 1 047
+SUBTOTAL
+13 511
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Pastizal cultivado Ninguna Permanente 741
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Jacalteco
+Bosque de pino
+Primario Ninguna 521
+Secundario Arbórea 674
+Selva baja caducifolia Secundario
+Arbórea 1 113
+Arbustiva 295
+SUBTOTAL
+2 603
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de temporal Ninguna Anual 949
+Pastizal inducido No disponible No disponible 225
+SUBTOTAL
+1 174
+----------------Page (309) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+310
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Kanjobal
+Bosque de encino Secundario Arbustiva 16
+Bosque de pino Secundario
+Arbórea 90
+Arbustiva 7
+Bosque de pino-encino Secundario
+Arbórea 72
+Arbustiva 604
+Bosque mesófilo de montaña
+Primario Ninguna 525
+Secundario Arbustiva 158
+Selva alta perennifolia
+Primario Ninguna 4 432
+Secundario
+Arbórea 1 772
+Arbustiva 5 305
+Selva baja caducifolia Secundario
+Arbórea 1 896
+Arbustiva 935
+Selva mediana subcaducifolia Secundario
+Arbórea 1 875
+Arbustiva 106
+Selva mediana subperennifolia
+Primario Ninguna 931
+Secundario Arbustiva 183
+SUBTOTAL
+18 906
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de humedad Ninguna Anual 99
+Agricultura de riego Ninguna Anual 3 030
+Agricultura de temporal Ninguna Semipermanente 2 926
+Pastizal cultivado Ninguna Permanente 5 607
+Pastizal inducido No disponible No disponible 251
+SUBTOTAL
+11 912
+Pueblo
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Kekchi
+Selva mediana subcaducifolia Secundario Arbórea 791
+Selva mediana subperennifolia Secundario Arbórea 1 584
+Tular No disponible No disponible 21
+SUBTOTAL
+2 396
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de humedad Ninguna Anual 712
+Agricultura de temporal Ninguna Anual 401
+Pastizal cultivado Ninguna Permanente 6
+SUBTOTAL
+1 119
+----------------Page (310) Break----------------
+Anexos
+311
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Kikapú
+Bosque de tascate Primario Ninguna 24
+Matorral espinoso tamaulipeco Primario Ninguna 4 521
+Matorral submontano
+Primario Ninguna 750
+Secundario Arbustiva 31
+Pastizal natural Secundario Arbustiva 856
+SUBTOTAL
+6 181
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Pastizal inducido No disponible No disponible 521
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Kiliwa
+Bosque de pino Primario Ninguna 647
+Chaparral
+No disponible No disponible 9 769
+Secundario Arbustiva 386
+Matorral desértico micrófilo
+Primario Ninguna 15 109
+Secundario Arbustiva 481
+Matorral desértico rosetófilo Primario Ninguna 824
+SUBTOTAL
+27 216
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de riego Ninguna Anual 53
+Pastizal inducido No disponible No disponible 288
+SUBTOTAL
+341
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Kumiai
+Bosque de encino Primario Ninguna 78
+Chaparral
+No disponible No disponible 5 590
+Secundario Arbustiva 887
+Vegetación de galería Primario Ninguna 192
+SUBTOTAL
+6 747
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de temporal Ninguna Anual 347
+Pastizal inducido No disponible No disponible 510
+SUBTOTAL
+857
+----------------Page (311) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+312
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Mame
+Bosque de oyamel Primario Ninguna 1 270
+Bosque de pino Secundario
+Arbórea 28
+Arbustiva 46
+Bosque de pino-encino
+Primario Ninguna 331
+Secundario
+Arbórea 103
+Arbustiva 270
+Bosque mesófilo de montaña
+Primario Ninguna 3 477
+Secundario
+Arbórea 527
+Arbustiva 596
+Selva alta perennifolia
+Primario Ninguna 215
+Secundario
+Arbórea 2 930
+Arbustiva 0
+Selva baja caducifolia Secundario
+Arbórea 54
+Arbustiva 307
+Selva mediana subcaducifolia Secundario
+Arbórea 14 227
+Arbustiva 847
+Selva mediana subperennifolia Secundario Arbórea 11
+SUBTOTAL
+25 239
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de riego Ninguna Anual 124
+Agricultura de temporal Ninguna Anual 5 956
+Pastizal cultivado Ninguna Permanente 3 802
+Pastizal inducido No disponible No disponible 633
+SUBTOTAL
+10 515
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Matlatzinca
+Bosque de encino-pino Primario Ninguna 2
+Bosque de oyamel Primario Ninguna 756
+Bosque de pino
+Primario Ninguna 898
+Secundario Arbustiva 126
+Bosque de pino-encino Primario Ninguna 277
+SUBTOTAL
+2 517
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de riego Ninguna Anual 226
+Agricultura de temporal Ninguna Anual 1 324
+Pastizal inducido No disponible No disponible 457
+SUBTOTAL
+2 007
+----------------Page (312) Break----------------
+Anexos
+313
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Maya
+Manglar Primario Ninguna 76 564
+Palmar inducido No disponible No disponible 190
+Pastizal halófilo
+Primario
+Ninguna 2 470
+Sabana Ninguna 20 321
+Selva alta subperennifolia Secundario Arbórea 5 665
+Selva baja caducifolia
+Primario Ninguna 353
+Secundario
+Arbustiva 89 702
+Arbórea 68 164
+Herbácea 1 296
+Selva baja espinosa caducifolia Secundario
+Arbustiva 2 600
+Arbórea 4 312
+Selva baja espinosa subperennifolia
+Primario Ninguna 117 000
+Secundario
+Arbustiva 103 025
+Arbórea 102 104
+Herbácea 293
+Selva baja subcaducifolia
+Primario Ninguna 755
+Secundario
+Arbustiva 482
+Arbórea 7 981
+Selva de galería Secundario Arbórea 77
+Selva mediana caducifolia Secundario
+Arbustiva 175 906
+Arbórea 604 500
+Herbácea 9 855
+Selva mediana subcaducifolia
+Primario Ninguna 40 680
+Secundario
+Arbustiva 944 576
+Arbórea 1 603 389
+Herbácea 9 690
+Selva mediana subperennifolia
+Primario Ninguna 752 281
+Secundario
+Arbustiva 333 892
+Arbórea 1 289 485
+Herbácea 1 815
+Sin vegetación aparente No disponible No disponible 16 038
+Tular No disponible No disponible 48 798
+Vegetación de dunas costeras Primario Ninguna 1 361
+Vegetación de petén
+Primario Ninguna 17 374
+Secundario Arbórea 2 226
+SUBTOTAL
+6 455 220
+----------------Page (313) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+314
+Maya
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Acuícola Ninguna No aplicable 30
+Agricultura de humedad Ninguna Anual 2 644
+Agricultura de riego
+Ninguna
+Anual 36 235
+Semipermanente 1 356
+Plantación agrícola Permanente 24 963
+Agricultura de temporal
+Ninguna
+Anual 177 711
+Semipermanente 871
+Plantación agrícola Permanente 76 967
+Bosque cultivado Plantación forestal Permanente 443
+Pastizal cultivado Ninguna Permanente 553 069
+Pastizal inducido Ninguna Permanente 47 191
+Acuícola Ninguna No aplicable 3 643
+Agricultura de riego
+Ninguna Anual 94 944
+Plantación agrícola Permanente 8
+Agricultura de temporal Ninguna Anual 13 757
+Pastizal cultivado Ninguna Permanente 23 743
+Pastizal inducido Ninguna Permanente 3 430
+SUBTOTAL
+1 061 005
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Maya lacandón
+Bosque de pino Primario Ninguna 2
+Bosque mesófilo de montaña
+Primario Ninguna 12 197
+Secundario Arbustiva 849
+Sabana Primario Ninguna 174
+Selva alta perennifolia
+Primario Ninguna 376 759
+Secundario
+Arbórea 11 850
+Arbustiva 48 529
+Selva baja perennifolia Primario Ninguna 720
+Selva mediana subperennifolia Primario Ninguna 7 852
+Tular No disponible No disponible 3 592
+SUBTOTAL
+462 524
+----------------Page (314) Break----------------
+Anexos
+315
+Maya lacandón
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de temporal Ninguna Anual 6 120
+Pastizal cultivado Ninguna Permanente 17 884
+SUBTOTAL
+24 005
+Pueblo
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Mayo
+Bosque de encino Primario Ninguna 736
+Bosque de encino-pino Primario Ninguna 211
+Bosque de galería Primario Ninguna 460
+Manglar Primario Ninguna 605
+Matorral desértico micrófilo Primario Ninguna 3 842
+Matorral sarcocaule
+Primario Ninguna 60 451
+Secundario Arbustiva 3 232
+Matorral sarco-crasicaule
+Primario Ninguna 38 583
+Secundario
+Arbustiva 1 074
+Herbácea 12
+Mezquital
+Primario Ninguna 9 060
+Secundario Arbustiva 4 507
+Selva baja caducifolia
+Primario Ninguna 21 426
+Secundario
+Arbustiva 811
+Arbórea 946
+Selva baja espinosa caducifolia
+Primario Ninguna 921
+Secundario
+Arbustiva 3 392
+Arbórea 1 628
+Sin vegetación aparente No disponible No disponible 1 227
+Vegetación de dunas costeras Primario Ninguna 3 735
+Vegetación de galería Primario Ninguna 55
+Vegetación halófila
+Primario Ninguna 14 979
+Secundario Arbustiva 1 483
+SUBTOTAL
+173 376
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Acuícola Ninguna No aplicable 3 643
+Agricultura de riego Ninguna Anual 94 936
+Agricultura de temporal Ninguna Anual 13 757
+Pastizal cultivado Ninguna Permanente 23 743
+SUBTOTAL
+136 080
+----------------Page (315) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+316
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Mazahua
+Bosque de cedro Primario Ninguna 649
+Bosque de encino
+Primario Ninguna 1 493
+Secundario Arbustiva 1 981
+Bosque de encino-pino
+Primario Ninguna 825
+Secundario Arbustiva 735
+Bosque de oyamel
+Primario Ninguna 1 503
+Secundario Arbórea 713
+Bosque de pino
+Primario Ninguna 561
+Secundario
+Arbórea 1 048
+Arbustiva 766
+Bosque de pino-encino
+Primario Ninguna 9 552
+Secundario
+Arbórea 441
+Arbustiva 1 426
+SUBTOTAL
+35 308
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de humedad Ninguna Anual 1 116
+Agricultura de riego Ninguna Anual 19 324
+Agricultura de temporal Ninguna Anual 68 506
+Pastizal inducido No disponible No disponible 13 614
+SUBTOTAL
+102 559
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Mazateco
+ Bosque de encino
+Primario Ninguna 1 698
+Secundario
+Arbustiva 393
+Arbórea 1 387
+Bosque de encino-pino
+Primario Ninguna 608
+Secundario Arbustiva 65
+Bosque de pino Primario Ninguna 503
+Bosque de pino-encino Primario Ninguna 1 053
+Bosque mesófilo de montaña
+Primario Ninguna 12 503
+Secundario
+Arbustiva 11 221
+Arbórea 13 745
+Matorral crasicaule Primario Ninguna 708
+Selva alta perennifolia
+Primario Ninguna 23 684
+Secundario
+Arbustiva 16 131
+Arbórea 26 243
+Herbácea 1 070
+----------------Page (316) Break----------------
+Anexos
+317
+Mazateco
+Selva baja caducifolia
+Primario Ninguna 10 214
+Secundario
+Arbustiva 8 159
+Arbórea 3 662
+SUBTOTAL
+133 049
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de humedad Ninguna Anual 1 663
+Agricultura de riego Ninguna
+Anual 3 282
+Semipermanente 11
+Agricultura de temporal
+Ninguna
+Anual 31 720
+Semipermanente 34 779
+Plantación agrícola Permanente 20 734
+Bosque cultivado
+Plantación forestal Permanente 171
+Ninguna Permanente 56 167
+Pastizal inducido Ninguna Permanente 2 476
+SUBTOTAL
+151 003
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Mixe
+Bosque de encino
+Primario Ninguna 2 047
+Secundario
+Arbórea 5 482
+Arbustiva 1 348
+Bosque de encino-pino
+Primario Ninguna 274
+Secundario
+Arbórea 12 664
+Arbustiva 9 462
+Bosque de pino
+Primario Ninguna 1 153
+Secundario
+Arbórea 157
+Arbustiva 1 079
+Bosque de pino-encino
+Primario Ninguna 77 828
+Secundario
+Arbórea 87 429
+Arbustiva 50 566
+Bosque mesófilo de montaña
+Primario Ninguna 26 489
+Secundario
+Arbórea 21 732
+Arbustiva 70 588
+Sabanoide No disponible No disponible 2 394
+Selva alta perennifolia
+Primario Ninguna 39 293
+Secundario
+Arbórea 30 864
+Arbustiva 61 656
+Herbácea 1 431
+----------------Page (317) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+318
+Mixe
+Selva baja caducifolia
+Primario Ninguna 33 838
+Secundario
+Arbórea 5 169
+Arbustiva 11 091
+SUBTOTAL
+554 035
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de humedad Ninguna Anual 9
+Agricultura de riego Ninguna Anual 929
+Agricultura de temporal Ninguna Anual 49 861
+Bosque cultivado Plantación forestal Permanente 10 678
+Pastizal cultivado Ninguna Permanente 59 562
+Pastizal inducido No disponible No disponible 4 942
+SUBTOTAL
+125 981
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Mixteco de 
+la Mixteca 
+Alta, Baja y 
+de la Costa
+Bosque de encino
+Primario Ninguna 30 923
+Secundario
+Arbustiva 100 955
+Arbórea 24 745
+Bosque de encino-pino
+Primario Ninguna 55 900
+Secundario
+Arbustiva 41 338
+Arbórea 34 956
+Bosque de pino
+Primario Ninguna 53 476
+Secundario
+Arbustiva 29 747
+Arbórea 57 022
+Bosque de pino-encino
+Primario Ninguna 125 197
+Secundario
+Arbustiva 91 693
+Arbórea 115 827
+Bosque de tascate
+Primario Ninguna 8 571
+Secundario Arbustiva 837
+Bosque mesófilo de montaña
+Primario Ninguna 10 610
+Secundario
+Arbustiva 11 971
+Arbórea 2 185
+Chaparral
+No disponible No disponible 2 037
+Secundario Arbustiva 421
+Manglar Primario Ninguna 1 219
+----------------Page (318) Break----------------
+Anexos
+319
+Mixteco de 
+la Mixteca 
+Alta, Baja y 
+de la Costa
+Matorral crasicaule Primario Ninguna 4 015
+Matorral desértico rosetófilo Primario Ninguna 324
+Palmar inducido No disponible No disponible 19 355
+Sabanoide No disponible No disponible 10 070
+Selva alta perennifolia
+Primario Ninguna 272
+Secundario
+Arbustiva 1 737
+Arbórea 240
+Selva baja caducifolia
+Primario Ninguna 28 943
+Secundario
+Arbustiva 125 973
+Arbórea 17 443
+Selva baja espinosa caducifolia Secundario Arbustiva 1 108
+Selva mediana subcaducifolia
+Primario Ninguna 1 063
+Secundario
+Arbustiva 50 147
+Arbórea 23 988
+Selva mediana subperennifolia
+Primario Ninguna 958
+Secundario
+Arbustiva 1 612
+Arbórea 1 718
+Sin vegetación aparente No disponible No disponible 2 114
+Vegetación de dunas costeras Primario Ninguna 718
+Vegetación halófila Primario Ninguna 96
+SUBTOTAL
+1 091 528
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de riego
+Ninguna
+Anual 12 260
+Semipermanente 109
+Plantación agrícola Permanente 316
+Agricultura de temporal
+Ninguna
+Anual 264 802
+Semipermanente 1 230
+Plantación agrícola Permanente 8 899
+Pastizal cultivado Ninguna Permanente 77 864
+Pastizal inducido Ninguna Permanente 238 162
+SUBTOTAL
+603 641
+----------------Page (319) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+320
+Pueblo 
+indígena 
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Nahua del sur 
+de Veracruz
+Bosque de encino
+Primario Ninguna 231
+Secundario Arbustiva 1 782
+Bosque de pino Secundario Arbustiva 420
+Bosque de pino-encino Secundario Arbustiva 640
+Manglar Primario Ninguna 1 067
+No aplicable No disponible No disponible 8
+Palmar inducido No disponible No disponible 64
+Popal No disponible No disponible 378
+Selva alta perennifolia
+Primario Ninguna 3 208
+Secundario
+Arbórea 5 354
+Arbustiva 4 742
+SUBTOTAL
+17 894
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de humedad Ninguna Anual 1 996
+Agricultura de temporal Ninguna Anual 5 225
+Pastizal cultivado Ninguna Permanente 69 263
+Pastizal inducido No disponible No disponible 33
+SUBTOTAL
+76 517
+Pueblo
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Nahua de 
+Durango
+Bosque de encino
+Primario Ninguna 5 460
+Secundario
+Arbustiva 932
+Herbácea 245
+Bosque de encino-pino
+Primario Ninguna 4 175
+Secundario
+Arbustiva 1 190
+Herbácea 408
+Bosque de pino-encino
+Primario Ninguna 9 019
+Secundario
+Arbórea 594
+Arbustiva 2 960
+Herbácea 658
+Bosque mesófilo de montaña
+Primario Ninguna 140
+Secundario Arbórea 186
+Selva baja caducifolia Primario Ninguna 521
+Selva mediana subcaducifolia
+Primario Ninguna 5 824
+Secundario
+Arbórea 1 895
+Arbustiva 385
+Herbácea 117
+Nahua de 
+Durango
+----------------Page (320) Break----------------
+Anexos
+321
+Selva mediana subperennifolia
+Primario Ninguna 733
+Secundario
+Arbórea 204
+Arbustiva 73
+SUBTOTAL
+35 718
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de temporal Ninguna Anual 96
+Pastizal cultivado Ninguna Permanente 649
+Pastizal inducido No disponible No disponible 119
+SUBTOTAL
+863
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Nahua de 
+Michoacán
+Bosque de encino
+Primario Ninguna 803
+Secundario
+Arbórea 1 581
+Arbustiva 3 646
+Bosque de encino-pino Secundario
+Arbórea 753
+Arbustiva 854
+Bosque de pino
+Primario Ninguna 665
+Secundario
+Arbórea 994
+Arbustiva 4
+Bosque de pino-encino
+Primario Ninguna 680
+Secundario Arbustiva 4 624
+Selva baja caducifolia Secundario
+Arbórea 3 114
+Arbustiva 35 715
+Selva mediana subcaducifolia
+Primario Ninguna 2 487
+Secundario
+Arbórea 3 006
+Arbustiva 10 004
+SUBTOTAL
+68 931
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de temporal Ninguna Anual 3 203
+Pastizal cultivado Ninguna Permanente 3 371
+Pastizal inducido No disponible No disponible 585
+SUBTOTAL
+7 159
+Nahua de 
+Durango
+----------------Page (321) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+322
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Nahua de Gue-
+rrero, Altiplano, 
+Morelos, Oaxaca
+Bosque de encino
+Primario Ninguna 72 532
+Secundario
+Arbórea 3 785
+Arbustiva 32 513
+Herbácea 3 789
+Bosque de encino-pino
+Primario Ninguna 15 345
+Secundario
+Arbórea 77
+Arbustiva 2 348
+Bosque de oyamel Primario Ninguna 514
+Bosque de pino
+Primario Ninguna 4 513
+Secundario
+Arbórea 1 105
+Arbustiva 627
+Bosque de pino-encino
+Primario Ninguna 40 588
+Secundario
+Arbórea 4 816
+Arbustiva 5 120
+Bosque de tascate Secundario
+Arbórea 3 995
+Arbustiva 1 540
+Bosque mesófilo de montaña Primario Ninguna 1 113
+Matorral crasicaule
+Primario Ninguna 432
+Secundario Arbustiva 123
+Matorral desértico rosetófilo Primario Ninguna 508
+Palmar inducido No disponible No disponible 16 999
+Pradera de alta montaña Primario Ninguna 296
+Matorral espinoso tamaulipeco Primario Ninguna 1
+Selva baja caducifolia
+Primario Ninguna 38 261
+Secundario
+Arbórea 34 254
+Arbustiva 158 511
+Selva baja espinosa caducifolia Secundario Herbácea 2
+Selva mediana subperennifolia Secundario Arbórea 673
+Vegetación de galería Primario Ninguna 1
+SUBTOTAL
+444 381
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de riego Ninguna Anual 71 131
+Agricultura de temporal Ninguna Anual 158 343
+Bosque cultivado Plantación forestal Permanente 330
+Pastizal cultivado Ninguna Permanente 391
+Pastizal inducido No disponible No disponible 55 258
+SUBTOTAL
+285 453
+----------------Page (322) Break----------------
+Anexos
+323
+Pueblo
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Nahua de San 
+Luis Potosí, Sierra 
+Norte de Puebla, 
+norte de Veracruz
+Bosque de encino
+Primario Ninguna 1 351
+Secundario
+Arbórea 2 055
+Arbustiva 1 114
+Herbácea 16
+Bosque de encino-pino
+Primario Ninguna 2 439
+Secundario Arbórea 1 591
+Bosque de oyamel
+Primario Ninguna 2 658
+Secundario Arbórea 238
+Bosque de pino
+Primario Ninguna 15 823
+Secundario
+Arbórea 5 807
+Arbustiva 2 363
+Bosque de pino-encino
+Primario Ninguna 35 907
+Secundario
+Arbórea 3 554
+Arbustiva 6 448
+Herbácea 2 561
+Bosque de tascate Primario Ninguna 97
+Bosque mesófilo de montaña
+Primario Ninguna 23 418
+Secundario
+Arbórea 10 537
+Arbustiva 19 849
+Herbácea 2 573
+Manglar Primario Ninguna 305
+Matorral desértico rosetófilo Primario Ninguna 2 435
+Palmar inducido No disponible No disponible 12
+Pastizal halófilo Primario Ninguna 83
+Selva alta perennifolia
+Primario Ninguna 175
+Secundario
+Arbórea 28 169
+Arbustiva 89 174
+Herbácea 11 190
+Selva alta subperennifolia
+Primario Ninguna 4
+Secundario
+Arbórea 6 648
+Arbustiva 2 710
+Herbácea 433
+Selva baja caducifolia
+Primario Ninguna 90
+Secundario
+Arbórea 1 282
+Arbustiva 4
+----------------Page (323) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+324
+Nahua de San 
+Luis Potosí, Sierra 
+Norte de Puebla, 
+norte de Veracruz
+Selva mediana subperennifolia
+Primario Ninguna 80
+Secundario
+Arbórea 10 761
+Arbustiva 42 531
+Herbácea 4 149
+Tular No disponible No disponible 290
+Vegetación halófila Primario Ninguna 981
+SUBTOTAL
+341 904
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de humedad Ninguna Anual 50
+Agricultura de riego Ninguna Anual 552
+Agricultura de temporal Ninguna Anual 416 349
+Bosque cultivado Plantación forestal Permanente 22
+Pastizal cultivado Ninguna Permanente 170 066 
+Pastizal inducido No disponible No disponible 14 589
+SUBTOTAL
+601 627
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Nahua de
+Zongolica - 
+Pico de Orizaba
+Bosque de encino
+Primario Ninguna 3 359
+Secundario
+Arbustiva 8 923
+Herbácea 385
+Bosque de encino-pino
+Primario Ninguna 1 240
+Secundario
+Arbórea 95
+Arbustiva 1 440
+Bosque de pino
+Primario Ninguna 19 677
+Secundario
+Arbórea 4 183
+Arbustiva 9 299
+Bosque de pino-encino
+Primario Ninguna 8 734
+Secundario
+Arbórea 1 251
+Arbustiva 2640
+Bosque mesófilo de montaña
+Primario Ninguna 12 444
+Secundario
+Arbórea 8 259
+Arbustiva 26 864
+Chaparral
+No disponible No disponible 938
+Secundario Arbustiva 2 903
+----------------Page (324) Break----------------
+Anexos
+325
+Nahua de
+Zongolica - 
+Pico de Orizaba
+Matorral crasicaule Primario Ninguna 19 971
+Selva alta perennifolia
+Primario Ninguna 3 916
+Secundario
+Arbórea 22 421
+Arbustiva 17 782
+Selva baja caducifolia
+Primario Ninguna 7 037
+Secundario
+Arbórea 8 644
+Arbustiva 3 875
+SUBTOTAL
+196 281
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de riego Ninguna Anual 19 772
+Agricultura de temporal Ninguna Anual 116 328
+Pastizal cultivado Ninguna Permanente 4 979
+Pastizal inducido No disponible No disponible 8 095
+SUBTOTAL
+149 174
+Pueblo
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Otomí
+Bosque de encino
+Primario Ninguna 15 076
+Secundario
+Arbórea 382
+Arbustiva 16 408
+Bosque de encino-pino
+Primario Ninguna 3 389
+Secundario
+Arbustiva 2 594
+Herbácea 3 075
+Bosque de oyamel
+Primario Ninguna 3 163
+Secundario
+Arbórea 372
+Arbustiva 972
+Bosque de pino
+Primario Ninguna 12 274
+Secundario
+Arbórea 739
+Arbustiva 370
+Bosque de pino-encino
+Primario Ninguna 10 976
+Secundario Arbustiva 4 652
+Bosque de tascate
+Primario Ninguna 1 386
+Secundario
+Arbustiva 17 774
+Herbácea 342
+Bosque mesófilo de montaña
+Primario Ninguna 3 808
+Secundario
+Arbórea 345
+Arbustiva 6 597
+----------------Page (325) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+326
+Otomí
+Matorral crasicaule
+Primario Ninguna 22 306
+Secundario
+Arbustiva 22 483
+Herbácea 628
+Matorral desértico micrófilo
+Primario Ninguna 497
+Secundario Arbustiva 2 610
+Matorral desértico rosetófilo
+Primario Ninguna 7 918
+Secundario Arbustiva 8 348
+Matorral submontano
+Primario Ninguna 24 660
+Secundario Arbustiva 1 819
+Mezquital Secundario Arbustiva 3
+Selva alta perennifolia Secundario
+Arbórea 2 577
+Arbustiva 15 640
+Herbácea 1 178
+Selva alta subperennifolia Secundario
+Arbórea 118
+Arbustiva 64
+Selva baja caducifolia Secundario Arbustiva 535
+Selva baja espinosa subperennifolia Secundario Arbustiva 113
+Tular No disponible No disponible 26
+SUBTOTAL
+216 215
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de humedad Ninguna Anual 455
+Agricultura de riego Ninguna Anual 50 942
+Agricultura de temporal Ninguna Anual 150 545
+Pastizal cultivado Ninguna Permanente 13 629
+Pastizal inducido No disponible No disponible 49 116
+SUBTOTAL
+264 688
+Pueblo
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Paipai
+Bosque de pino Primario Ninguna 166
+Bosque de tascate
+Primario Ninguna 1 988
+Secundario Arbustiva 372
+Chaparral
+No disponible No disponible 26 548
+Secundario Arbustiva 757
+Matorral desértico micrófilo Primario Ninguna 36 237
+----------------Page (326) Break----------------
+Anexos
+327
+Paipai
+Matorral desértico rosetófilo Primario Ninguna 975
+SUBTOTAL
+67 793
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de temporal Ninguna Anual 479
+Pastizal inducido No disponible No disponible 750
+SUBTOTAL
+1 230
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Pame
+Bosque de encino
+Primario Ninguna 21 881
+Secundario
+Arbustiva 12 244
+Arbórea 1 565
+Herbácea 121
+Bosque de encino-pino Primario Ninguna 1 333
+Bosque de pino Secundario Arbustiva 360
+Bosque mesófilo de montaña
+Primario Ninguna 55
+Secundario Arbustiva 87
+Matorral submontano Primario Ninguna 4 710
+Selva baja caducifolia
+Primario Ninguna 23 904
+Secundario
+Arbustiva 1 117
+Arbórea 9 356
+Selva mediana subperennifolia
+Primario Ninguna 3 505
+Secundario
+Arbustiva 1 656
+Arbórea 6 884
+SUBTOTAL
+88 778
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de riego Ninguna Semipermanente 412
+Agricultura de temporal Ninguna
+Anual 11 595
+Semipermanente 818
+Pastizal cultivado Ninguna Permanente 1 494
+Pastizal inducido Ninguna Permanente 1 202
+SUBTOTAL
+15 521
+----------------Page (327) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+328
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Pápago
+Matorral desértico micrófilo
+Primario Ninguna 12 966
+Secundario Arbustiva 1 115
+Matorral sarcocaule Primario Ninguna 2 344
+Mezquital Primario Ninguna 182
+SUBTOTAL
+16 639
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de riego Ninguna Anual 21
+Pastizal inducido No disponible No disponible 32
+SUBTOTAL
+53
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Pima
+Bosque de encino
+Primario Ninguna 16 216
+Secundario Arbustiva 205
+Bosque de encino-pino Primario Ninguna 14 753
+Bosque de pino
+Primario Ninguna 7 674
+Secundario Arbustiva 107
+Bosque de pino-encino Primario Ninguna 11 002
+Selva baja caducifolia Primario Ninguna 901
+SUBTOTAL
+50 858
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de temporal Ninguna Anual 846
+Pastizal inducido No disponible No disponible 2 062
+SUBTOTAL
+2 908
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Popoloca
+Bosque de encino Secundario Arbustiva 152
+Bosque de tascate Primario Ninguna 392
+Chaparral
+No disponible No disponible 983
+Secundario Arbustiva 4 253
+Matorral crasicaule Primario Ninguna 229
+Matorral desértico rosetófilo Primario Ninguna 10 758
+Palmar inducido No disponible No disponible 1 220
+Selva alta perennifolia (fuera de su 
+territorio original)
+Primario Ninguna 676
+Selva alta perennifolia Secundario Arbustiva 165
+----------------Page (328) Break----------------
+Anexos
+329
+Popoloca
+Selva baja caducifolia
+Primario Ninguna 2 607
+Secundario Arbórea 943
+Secundario Arbustiva 960
+SUBTOTAL
+23 338
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de riego Plantación Semipermanente 782.4
+Agricultura de riego Ninguna Anual 1006
+Agricultura de temporal Semipermanente Permanente 1 353.9
+Agricultura de temporal Anual Anual 1 2548
+Pastizal cultivado Permanente 933
+SUBTOTAL
+16 623.3
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+ Popoluca
+Bosque de encino
+Primario Ninguna 336
+Secundario Arbustiva 3 988
+Bosque de pino Secundario Arbustiva 988
+Bosque de pino-encino Secundario Arbustiva 173
+Sabana Primario Ninguna 83
+Selva alta perennifolia
+Primario Ninguna 9 236
+Secundario
+Arbórea 1 569
+Arbustiva 6 059
+Selva baja caducifolia Secundario
+Arbórea 29
+Arbustiva 222
+SUBTOTAL
+46 022
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de temporal Ninguna Anual 35 728
+Agricultura de temporal Plantación agrícola Permanente 1 848
+Agricultura de humedad Ninguna Anual 39
+Agricultura de temporal Ninguna Semipermanente 2 086
+Pastizal cultivado Ninguna Permanente 46 351
+SUBTOTAL
+86 052
+----------------Page (329) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+330
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Purhépecha
+Bosque de encino
+Primario Ninguna 4 402
+Secundario
+Arbustiva 2 148
+Arbórea 368
+Bosque de encino-pino
+Primario Ninguna 5 031
+Secundario
+Arbustiva 152
+Arbórea 720
+Bosque de oyamel
+Primario Ninguna 208
+Secundario Arbustiva 223
+Bosque de pino
+Primario Ninguna 35 753
+Secundario
+Arbustiva 6 539
+Arbórea 1 193
+Bosque de pino-encino
+Primario Ninguna 42 595
+Secundario
+Arbustiva 8 373
+Arbórea 4 306
+Bosque mesófilo de montaña Primario Ninguna 620
+Selva baja caducifolia
+Primario Ninguna 2
+Secundario
+Arbustiva 2 439
+Arbórea 934
+Sin vegetación aparente No disponible No disponible 90
+Tular No disponible No disponible 799
+SUBTOTAL
+116 898
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de humedad Ninguna Anual 315
+Agricultura de riego Ninguna Anual 2 983
+Agricultura de temporal
+Ninguna Anual 77 391
+Plantación agrícola Permanente 1 070
+Bosque cultivado Plantación forestal Permanente 5
+Pastizal inducido Ninguna Permanente 6 975
+SUBTOTAL
+88 739
+----------------Page (330) Break----------------
+Anexos
+331
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Quiché
+Selva baja espinosa subperennifolia
+Primario Ninguna 3 943
+Secundario
+Arbórea 610
+Arbustiva 338
+Selva mediana subperennifolia Secundario
+Arbórea 23 243
+Arbustiva 2 673
+SUBTOTAL
+30 807
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de temporal Plantación agricola Permanente 264
+Pastizal cultivado Ninguna Permanente 1 344
+SUBTOTAL
+1 608
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Seri
+Manglar Primario Ninguna 1598
+Matorral desértico micrófilo Primario Ninguna 71 579
+Matorral desértico rosetófilo Primario Ninguna 674
+Matorral sarcocaule
+Primario Ninguna 121 134
+Secundario Arbustiva 878
+Mezquital Primario Ninguna 985
+No aplicable No disponible No disponible 598
+Vegetación de desiertos arenosos Primario Ninguna 657
+Vegetación de dunas costeras Primario Ninguna 955
+Vegetación halófila Primario Ninguna 12 711
+SUBTOTAL
+211 770
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Tarahumara
+Bosque de ayarin Primario Ninguna 288
+Bosque de encino
+Primario Ninguna 246 309
+Secundario
+Arbustiva 27 804
+Arbórea 3 025
+Bosque de encino-pino
+Primario Ninguna 215 291
+Secundario Arbustiva 20 191
+Bosque de oyamel Primario Ninguna 29
+Bosque de pino
+Primario Ninguna 968 313
+Secundario
+Arbustiva 172 603
+Arbórea 25 525
+----------------Page (331) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+332
+Tarahumara
+Bosque de pino-encino
+Primario Ninguna 360 329
+Secundario
+Arbustiva 28 478
+Arbórea 1 169
+Matorral desértico micrófilo
+Primario Ninguna 5 547
+Secundario Arbustiva 128
+Pastizal natural
+Primario Ninguna 28 595
+Secundario Arbustiva 13 516
+Selva baja caducifolia
+Primario Ninguna 151 263
+Secundario
+Arbustiva 37 213
+Arbórea 11 144
+SUBTOTAL
+2 316 760
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de riego Ninguna Anual 2 868
+Agricultura de temporal
+Ninguna Anual 151 164
+Plantación agrícola Permanente 82
+Pastizal cultivado Ninguna Permanente 206
+Pastizal inducido Ninguna Permanente 174 024
+SUBTOTAL
+328 343
+Pueblo
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Tepehua
+Bosque mesófilo de montaña Secundario Arbustiva 65
+Selva alta perennifolia Secundario
+Arbórea 116
+Arbustiva 2 064
+Herbácea 787
+SUBTOTAL
+3 032
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de temporal Ninguna Anual 3 766
+Pastizal cultivado Ninguna Permanente 2 166
+SUBTOTAL
+5 932
+----------------Page (332) Break----------------
+Anexos
+333
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Tepehuán
+Bosque de ayarín Primario Ninguna 5 214
+Bosque de encino
+Primario Ninguna 171 943
+Secundario
+Arbustiva 26 905
+Arbórea 13 716
+Herbácea 5 170
+Bosque de encino-pino
+Primario Ninguna 114 623
+Secundario
+Arbustiva 15 785
+Arbórea 12 740
+Herbácea 1 258
+Bosque de oyamel Primario Ninguna 477
+Bosque de pino
+Primario Ninguna 143 187
+Secundario
+Arbustiva 25 290
+Arbórea 11 997
+Herbácea 1 746
+Bosque de pino-encino
+Primario Ninguna 321 022
+Secundario
+Arbustiva 25 879
+Arbórea 37 436
+Herbácea 7 293
+Bosque mesófilo de montaña
+Primario Ninguna 3 038
+Secundario
+Arbustiva 194
+Arbórea 779
+Pastizal natural Primario Ninguna 1 200
+Sabanoide No disponible No disponible 2 925
+Selva baja caducifolia
+Primario Ninguna 82 929
+Secundario
+Arbustiva 15 987
+Arbórea 9 024
+Herbácea 211
+Selva mediana subcaducifolia
+Primario Ninguna 22 571
+Secundario
+Arbustiva 6 590
+Arbórea 20 216
+Herbácea 1 078
+Selva mediana subperennifolia
+Primario Ninguna 840
+Secundario
+Arbustiva 308
+Arbórea 1 440
+SUBTOTAL
+1 111 012
+----------------Page (333) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+334
+Tepehuán
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de riego Ninguna Anual 61
+Agricultura de temporal
+Ninguna Anual 27 238
+Plantación agrícola Permanente 96
+Pastizal cultivado Ninguna Permanente 5 954
+Pastizal inducido Ninguna Permanente 37 968
+SUBTOTAL
+71 316
+ 
+Pueblo
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Tlapaneco
+Bosque de encino
+Primario Ninguna 6 890
+Secundario Arbustiva 4 473
+Bosque de encino-pino
+Primario Ninguna 19 063
+Secundario
+Arbustiva 16 320
+Arbórea 313
+Bosque de pino
+Primario Ninguna 450
+Secundario Arbórea 25
+Bosque de pino-encino
+Primario Ninguna 145 815
+Secundario
+Arbustiva 21 177
+Arbórea 7 528
+Herbácea 187
+Bosque mesófilo de montaña
+Primario Ninguna 273
+Secundario Arbustiva 198
+Selva baja caducifolia Secundario
+Arbustiva 4 351
+Arbórea 5 636
+Selva mediana subcaducifolia Secundario
+Arbustiva 1 209
+Arbórea 1 159
+Vegetación halófila Primario Ninguna 650
+SUBTOTAL
+235 716
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de riego
+Ninguna Anual 3 077
+Ninguna Semipermanente 228
+Agricultura de temporal Ninguna Anual 16 886
+Bosque cultivado Plantación forestal Permanente 41
+Pastizal cultivado Ninguna Permanente 574
+Pastizal inducido Ninguna Permanente 37 451
+SUBTOTAL
+58 257
+----------------Page (334) Break----------------
+Anexos
+335
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Tojolabal
+Bosque de cedro Primario Ninguna 223
+Bosque de encino
+Primario Ninguna 752
+Secundario
+Arbórea 2 529
+Arbustiva 3 588
+Bosque de encino-pino
+Primario Ninguna 781
+Secundario Arbustiva 1 453
+Bosque de pino
+Primario Ninguna 7 503
+Secundario
+Arbórea 762
+Arbustiva 13 015
+Bosque de pino-encino
+Primario Ninguna 12 380
+Secundario
+Arbórea 10 337
+Arbustiva 25 295
+Bosque mesófilo de montaña
+Primario Ninguna 5 793
+Secundario
+Arbórea 11 111
+Arbustiva 21 130
+Sabana Primario Ninguna 741
+Selva alta perennifolia
+Primario Ninguna 13 499
+Secundario
+Arbórea 7770
+Arbustiva 12 735
+SUBTOTAL
+151 398
+Uso del suelo Tipo de plantación Tipo de cultivo
+Superficie de uso 
+del suelo (ha)
+Agricultura de riego Ninguna Anual 1274
+Agricultura de temporal Ninguna Anual 33 599
+Pastizal cultivado Ninguna Permanente 16 115
+Pastizal inducido No disponible No disponible 27 803
+SUBTOTAL
+78 791
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Totonaca
+Bosque de encino
+Primario Ninguna 779
+Secundario Arbórea 19
+Bosque de pino Primario Ninguna 58
+Bosque de pino-encino
+Primario Ninguna 1 024
+Secundario Arbórea 104
+Bosque mesófilo de montaña
+Primario Ninguna 5 566
+Secundario
+Arbórea 3 720
+Arbustiva 1 487
+Herbácea 1 213
+----------------Page (335) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+336
+Totonaca
+Manglar Primario Ninguna 838
+Selva alta perennifolia
+Primario Ninguna 919
+Secundario
+Arbórea 4 281
+Arbustiva 18 137
+Herbácea 6 697
+Selva alta subperennifolia Secundario Arbustiva 95
+Selva baja espinosa subperennifolia
+Primario Ninguna 1 695
+Secundario
+Arbórea 2 112
+Arbustiva 1 508
+Selva mediana subperennifolia
+Primario Ninguna 1 642
+Secundario
+Arbórea 6 806
+Arbustiva 3 580
+Herbácea 337
+Tular No disponible No disponible 442
+SUBTOTAL
+63 058
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de humedad Plantación agrícola Permanente 730
+Agricultura de riego Ninguna Semipermanente 98
+Agricultura de temporal Ninguna Anual 150 768
+Pastizal cultivado Ninguna Permanente 93 287
+Pastizal inducido No disponible No disponible 4 523
+SUBTOTAL
+244 882
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Triqui
+Bosque de encino Secundario Arbórea 24
+Bosque de encino-pino Secundario Arbórea 4
+Bosque de pino
+Primario Ninguna 5 755
+Secundario
+Arbórea 9 248
+Arbustiva 2 858
+Bosque de pino-encino
+Primario Ninguna 10 034
+Secundario
+Arbórea 4 941
+Arbustiva 4 126
+Bosque mesófilo de montaña
+Primario Ninguna 1 597
+Secundario
+Arbórea 1 945
+Arbustiva 3 280
+----------------Page (336) Break----------------
+Anexos
+337
+Triqui
+Matorral rosetófilo costero Primario Ninguna 67
+No aplicable No disponible No disponible 96
+Sabanoide No disponible No disponible 369
+Selva mediana subcaducifolia Secundario Arbustiva 14
+SUBTOTAL
+44 360
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de riego Ninguna Anual 1 298
+Agricultura de temporal Ninguna Anual 4 558
+Pastizal inducido No disponible No disponible 6 064
+SUBTOTAL
+5 856
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Tzeltal
+Bosque de encino
+Primario Ninguna 1 947
+Secundario Arbustiva 2 636
+Bosque de encino-pino
+Primario Ninguna 604
+Secundario Arbustiva 4 556
+Bosque de pino
+Primario Ninguna 17 701
+Secundario
+Arbustiva 48 039
+Arbórea 3103
+Bosque de pino-encino
+Primario Ninguna 21 964
+Secundario
+Arbustiva 105 987
+Arbórea 17 408
+Bosque mesófilo de montaña
+Primario Ninguna 48 796
+Secundario
+Arbustiva 79 452
+Arbórea 22 895
+Sabana Primario Ninguna 11
+Selva alta perennifolia
+Primario Ninguna 88 561
+Secundario
+Arbustiva 74 704
+Arbórea 84 221
+Selva baja caducifolia Secundario Arbustiva 1 609
+Selva baja espinosa subperennifolia Secundario
+Arbustiva 292
+Arbórea 6
+Selva de galería Primario Ninguna 70
+----------------Page (337) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+338
+Tzeltal
+Selva mediana subcaducifolia
+Primario
+Arbórea 50
+Arbustiva 2 918
+Secundario
+Arbórea 9 197
+Herbácea 65
+Tular No disponible No disponible 416
+SUBTOTAL
+637 208
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de humedad Ninguna Anual 455
+Agricultura de riego
+Ninguna Semipermanente 1 785
+Plantación agrícola Permanente 172
+Agricultura de temporal
+Ninguna Anual 88 287
+Plantación agrícola Permanente 16 075
+Pastizal cultivado Ninguna Permanente 146 374
+Pastizal inducido Ninguna Permanente 29 422
+SUBTOTAL
+282 569
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Tzotzil
+Bosque de encino
+Primario Ninguna 7 539
+Secundario
+Arbustiva 19 395
+Arbórea 10 242
+Bosque de encino-pino
+Primario Ninguna 13 111
+Secundario
+Arbustiva 14 700
+Arbórea 4 017
+Bosque de pino
+Primario Ninguna 21 512
+Secundario
+Arbustiva 21 771
+Arbórea 4 458
+Bosque de pino-encino
+Primario Ninguna 22 730
+Secundario
+Arbustiva 21 172
+Arbórea 15 086
+Bosque mesófilo de montaña
+Primario Ninguna 19 176
+Secundario
+Arbustiva 49 837
+Arbórea 30 002
+Manglar Primario Ninguna 1 091
+Sabana Primario Ninguna 13 726
+----------------Page (338) Break----------------
+Anexos
+339
+Tzotzil
+Selva alta perennifolia
+Primario Ninguna 41 650
+Secundario
+Arbustiva 31 969
+Arbórea 46 257
+Selva baja caducifolia
+Primario Ninguna 43
+Secundario
+Arbustiva 33 650
+Arbórea 9 423
+Selva baja espinosa subperennifolia Secundario
+Arbustiva 1 262
+Arbórea 12
+Selva mediana subcaducifolia Secundario
+Arbustiva 1 240
+Arbórea 5 534
+Selva mediana subperennifolia
+Primario Ninguna 16
+Secundario
+Arbustiva 6 853
+Arbórea 10 704
+Tular No disponible No disponible 137
+SUBTOTAL
+478 314
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de riego Ninguna
+Anual 4 307
+Semipermanente 3 782
+Agricultura de temporal
+Ninguna Anual 121 352
+Plantación agrícola Permanente 20 728
+Pastizal cultivado Ninguna Permanente 103 201
+Pastizal inducido Ninguna Permanente 30 014
+SUBTOTAL
+283 384
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Yaqui
+Bosque de galería Primario Ninguna 390
+Manglar Primario Ninguna 3 050
+Matorral desértico micrófilo
+Primario Ninguna 56 921
+Secundario Arbustiva 1 391
+Matorral sarcocaule
+Primario Ninguna 150 410
+Secundario Arbustiva 29
+Matorral subtropical
+Primario Ninguna 53 355
+Secundario Arbustiva 649
+Mezquital
+Primario Ninguna 59 017
+Secundario Arbustiva 9 905
+----------------Page (339) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+340
+Yaqui
+Selva baja caducifolia Primario Ninguna 614
+Selva baja espinosa caducifolia
+Primario Ninguna 1 945
+Secundario
+Arbustiva 2 259
+Arbórea 11 195
+Sin vegetación aparente No disponible No disponible 212
+Vegetación de dunas costeras Primario Ninguna 30
+Vegetación halófila
+Primario Ninguna 54 736
+Secundario Arbustiva 611
+SUBTOTAL
+406 719
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de riego Ninguna Anual 33 024
+Agricultura de temporal Ninguna Anual 111
+Pastizal cultivado Ninguna Permanente 990
+Pastizal inducido Ninguna Permanente 2 415
+SUBTOTAL
+36 541
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+Zapotecos
+Bosque de encino
+Primario Ninguna 15 800
+Secundario
+Arbustiva 107 392
+Arbórea 25 586
+Bosque de encino-pino
+Primario Ninguna 3 542
+Secundario
+Arbustiva 32 439
+Arbórea 10 752
+Bosque de oyamel Primario Ninguna 843
+Bosque de pino
+Primario Ninguna 43 601
+Secundario
+Arbustiva 42 427
+Arbórea 80 999
+Bosque de pino-encino
+Primario Ninguna 69 341
+Secundario
+Arbustiva 126 180
+Arbórea 119 619
+Bosque mesófilo de montaña
+Primario Ninguna 73 287
+Secundario
+Arbustiva 46 110
+Arbórea 39 196
+Chaparral Secundario Arbustiva 14
+Manglar
+Primario Ninguna 1 478
+Secundario Arbustiva 357
+----------------Page (340) Break----------------
+Anexos
+341
+Zapotecos
+Matorral desértico rosetófilo Primario Ninguna 351
+Mezquital Secundario Arbustiva 1 104
+Palmar inducido No disponible No disponible 460
+Pastizal halófilo Primario Ninguna 814
+Sabanoide No disponible No disponible 8 189
+Selva alta perennifolia
+Primario Ninguna 34 491
+Secundario
+Arbustiva 19 665
+Arbórea 13 825
+Herbácea 115
+Selva baja caducifolia
+Primario Ninguna 127 290
+Secundario
+Arbustiva 90 880
+Arbórea 48 204
+Selva baja espinosa caducifolia
+Primario Ninguna 890
+Secundario Arbustiva 13 558
+Selva mediana caducifolia Secundario
+Arbustiva 680
+Arbórea 14 150
+Selva mediana subcaducifolia Secundario
+Arbustiva 28 980
+Arbórea 15 163
+Selva mediana subperennifolia
+Primario Ninguna 20 794
+Secundario
+Arbustiva 18 617
+Arbórea 13 201
+Sin vegetación aparente No disponible No disponible 2 169
+SUBTOTAL
+1 312 551
+Uso del suelo Tipo de plantación Tipo de cultivo Superficie de uso 
+del suelo (ha)
+Agricultura de humedad Ninguna
+Anual 338
+Semipermanente 299
+Agricultura de riego Ninguna
+Anual 39 494
+Semipermanente 2 426
+Agricultura de temporal Ninguna
+Anual 208 468
+Semipermanente 1 526
+Agricultura de temporal Plantación agrícola Permanente 13 230
+Bosque cultivado
+Plantación forestal Permanente 27
+Ninguna Permanente 81 398
+Pastizal inducido Ninguna Permanente 85 149
+SUBTOTAL
+432 356
+----------------Page (341) Break----------------
+El patrimonio biocultural de los pueblos indígenas de México
+342
+Zoque
+Bosque de encino
+Primario Ninguna 4 533
+Secundario Arbustiva 389
+Bosque de encino-pino Primario Ninguna 16 809
+Bosque de pino
+Primario Ninguna 30 528
+Secundario Arbustiva 4
+Bosque de pino-encino
+Primario Ninguna 13 277
+Secundario
+Arbustiva 6 025
+Arbórea 23 540
+Bosque mesófilo de montaña
+Primario Ninguna 27 631
+Secundario
+Arbustiva 17 236
+Arbórea 9 923
+Palmar inducido No disponible No disponible 472
+Sabana Primario Ninguna 64
+Selva alta perennifolia
+Primario Ninguna 286 531
+Secundario
+Arbustiva 46 576
+Arbórea 58 182
+Selva baja caducifolia
+Primario Ninguna 2 731
+Secundario
+Arbustiva 7 155
+Arbórea 57
+Selva baja perennifolia Primario Ninguna 140
+Selva mediana subperennifolia
+Primario Ninguna 15 719
+Secundario
+Arbustiva 16 430
+Arbórea 2 913
+Sin vegetación aparente No disponible No disponible 476
+Tular No disponible No disponible 94
+SUBTOTAL
+587 436
+Uso del suelo Tipo de plantación Tipo de cultivo
+Superficie de uso 
+del suelo (ha)
+Agricultura de riego Ninguna Anual 57
+Agricultura de temporal
+Ninguna Anual 9 474
+Plantación agrícola Permanente 3 708
+Pastizal cultivado Ninguna Permanente 66 758
+Pastizal inducido Ninguna Permanente 9 930
+SUBTOTAL
+89 927
+Pueblo 
+indígena
+Tipo de vegetación Desarrollo Fase sucesional Superficie de 
+vegetación (ha)
+----------------Page (342) Break----------------
+
+----------------Page (343) Break----------------
+El patrimonio biocultural 
+de los pueblos indígenas de México
+Hacia la conservación in situ de la biodiversi-
+dad y agrodiversidad en los territorios indígenas
+se terminó de imprimir en diciembre de 2008 en los ta-
+lleres de Offset Rebosán, S.A. de C.V. Av. Acueducto 
+415, Col. San Lorenzo Huipulco, Tlalpan, 14370 México, 
+D.F. Producción: Dirección de Publicaciones de la
+Coordinación Nacional de Difusión.
+----------------Page (344) Break----------------

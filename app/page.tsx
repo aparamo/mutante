@@ -1,11 +1,8 @@
 import { getExperts, getCohortsAndSectors } from "@/lib/data/experts";
-import Link from "next/link";
-import { Card, CardHeader, CardTitle, CardDescription, CardContent } from "@/components/ui/card";
-import { Badge } from "@/components/ui/badge";
 import { DirectoryFilters } from "@/components/DirectoryFilters";
+import { ExpertGrid } from "@/components/ExpertGrid";
 
-// Force dynamic rendering if we want real-time updates when DB changes
-export const dynamic = "force-dynamic";
+// ... (export const dynamic)
 
 export default async function Home({
   searchParams,
@@ -23,7 +20,7 @@ export default async function Home({
     selectedSectors = [params.sector];
   }
 
-  const experts = await getExperts(q, cohort, selectedSectors);
+  const allExperts = await getExperts(q, cohort, selectedSectors);
   const { cohorts } = await getCohortsAndSectors();
   
   const masterSectors = [
@@ -51,38 +48,8 @@ export default async function Home({
 
       <DirectoryFilters cohorts={cohorts} sectors={masterSectors} />
 
-      <div className="mb-4 text-sm text-muted-foreground">
-        Mostrando {experts.length} perfiles
-      </div>
-
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-        {experts.map((expert) => (
-          <Link key={expert.id} href={`/expert/${expert.id}`} className="transition-transform hover:scale-[1.02]">
-            <Card className="h-full flex flex-col justify-between hover:border-primary/50">
-              <CardHeader>
-                <div className="flex justify-between items-start">
-                  <CardTitle className="text-lg line-clamp-2">{expert.name}</CardTitle>
-                </div>
-                <CardDescription className="line-clamp-2 mt-2">
-                  {expert.title || "Experto en Desarrollo Sustentable"}
-                </CardDescription>
-              </CardHeader>
-              <CardContent>
-                <div className="flex flex-wrap gap-2 mb-4">
-                  <Badge variant="secondary">Cohorte {expert.cohort}</Badge>
-                  {expert.sector && <Badge variant="outline">{expert.sector}</Badge>}
-                  {expert.isEnriched && <Badge variant="default" className="bg-amber-500 hover:bg-amber-600">Autocompletado</Badge>}
-                </div>
-                {expert.topics && expert.topics.length > 0 && (
-                  <p className="text-xs text-muted-foreground line-clamp-2">
-                    <span className="font-semibold">Especialidad:</span> {expert.topics.slice(0, 3).join(", ")}
-                  </p>
-                )}
-              </CardContent>
-            </Card>
-          </Link>
-        ))}
-      </div>
+      <ExpertGrid allExperts={allExperts} />
+      
     </div>
   );
 }

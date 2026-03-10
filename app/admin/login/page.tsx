@@ -10,8 +10,8 @@ export default async function LoginPage() {
 
   return (
     <div className="flex flex-col items-center justify-center pt-20">
-      <div className="w-full max-w-sm bg-white rounded-lg shadow-md p-8">
-        <h2 className="text-2xl font-bold text-center mb-6">Acceso Admin</h2>
+      <div className="w-full max-w-sm bg-zinc-900 rounded-lg shadow-xl border border-zinc-800 p-8">
+        <h2 className="text-2xl font-bold text-center mb-6 text-zinc-100">Acceso Admin</h2>
         <form
           action={async (formData) => {
             "use server"
@@ -23,19 +23,19 @@ export default async function LoginPage() {
           className="flex flex-col gap-4"
         >
           <div>
-            <label className="block text-sm font-medium text-gray-700 mb-1">
+            <label className="block text-sm font-medium text-zinc-400 mb-1">
               Contraseña
             </label>
             <input 
               name="password" 
               type="password" 
               required
-              className="w-full border border-gray-300 rounded-md px-3 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500"
+              className="w-full bg-zinc-950 border border-zinc-700 text-zinc-100 rounded-md px-3 py-2 focus:outline-none focus:ring-2 focus:ring-indigo-500"
             />
           </div>
           <button 
             type="submit"
-            className="w-full bg-blue-600 text-white font-medium py-2 px-4 rounded-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500"
+            className="w-full bg-indigo-600 text-white font-medium py-2 px-4 rounded-md hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 transition-colors"
           >
             Entrar
           </button>
