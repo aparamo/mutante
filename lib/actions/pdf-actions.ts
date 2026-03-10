@@ -53,8 +53,21 @@ export async function downloadAndParsePdfAction(expertId: string, referenceId: s
             pdfParser.on("pdfParser_dataError", (errData: unknown) => reject((errData as { parserError: Error }).parserError));
             pdfParser.on("pdfParser_dataReady", () => {
                  let text = pdfParser.getRawTextContent();
-                 text = text.replace(/\r\n/g, "\n").replace(/\t/g, " ").replace(/ {2,}/g, " ").replace(/\n{3,}/g, "\n\n");
-                 resolve(text);
+                 // 1. Normalize line endings
+                 text = text.replace(/\r\n/g, "\n");
+                 // 2. Format page markers: "----------------Page (1)----------------" -> "\n\n[Página $1]\n\n"
+                 text = text.replace(/-+Page \((\d+)\)-+/g, "\n\n[Página $1]\n\n");
+                 // 3. Fix hyphenated words at the end of a line
+                 text = text.replace(/-\n+/g, "");
+                 // 4. Merge sentences broken by single newlines.
+                 text = text.replace(/(?<!\n)\n(?!\n)/g, " ");
+                 // 5. Clean up tabs and excessive spaces
+                 text = text.replace(/\t/g, " ");
+                 text = text.replace(/ {2,}/g, " ");
+                 // 6. Ensure no more than 2 consecutive newlines
+                 text = text.replace(/\n{3,}/g, "\n\n");
+                 
+                 resolve(text.trim());
             });
             pdfParser.parseBuffer(buffer);
         });
@@ -215,8 +228,21 @@ export async function processAndAddReferenceAction(expertId: string, pdfUrl: str
             pdfParser.on("pdfParser_dataError", (errData: unknown) => reject((errData as { parserError: Error }).parserError));
             pdfParser.on("pdfParser_dataReady", () => {
                 let text = pdfParser.getRawTextContent();
-                text = text.replace(/\r\n/g, "\n").replace(/\t/g, " ").replace(/ {2,}/g, " ").replace(/\n{3,}/g, "\n\n");
-                resolve(text);
+                 // 1. Normalize line endings
+                 text = text.replace(/\r\n/g, "\n");
+                 // 2. Format page markers
+                 text = text.replace(/-+Page \((\d+)\)-+/g, "\n\n[Página $1]\n\n");
+                 // 3. Fix hyphenated words at the end of a line
+                 text = text.replace(/-\n+/g, "");
+                 // 4. Merge sentences broken by single newlines.
+                 text = text.replace(/(?<!\n)\n(?!\n)/g, " ");
+                 // 5. Clean up tabs and excessive spaces
+                 text = text.replace(/\t/g, " ");
+                 text = text.replace(/ {2,}/g, " ");
+                 // 6. Ensure no more than 2 consecutive newlines
+                 text = text.replace(/\n{3,}/g, "\n\n");
+                 
+                 resolve(text.trim());
             });
             pdfParser.parseBuffer(buffer);
         });

@@ -33,13 +33,29 @@ export async function extractCitationsAction(expertId: string, referenceId: stri
     const referenceTitle = reference.title;
     const content = reference.textContent;
 
-    // 1. CHUNKING LOGIC FOR RAG
-    const chunkSize = 1500;
-    const overlap = 200;
+    // 1. SEMANTIC CHUNKING LOGIC FOR RAG
+    const maxChunkSize = 1500;
+    const paragraphs = content.split(/\n{2,}/);
     const chunksArray: string[] = [];
-    for (let i = 0; i < content.length; i += chunkSize - overlap) {
-      chunksArray.push(content.substring(i, i + chunkSize));
-      if (i + chunkSize >= content.length) break;
+    let currentChunk = "";
+
+    for (const paragraph of paragraphs) {
+      const trimmed = paragraph.trim();
+      if (!trimmed) continue;
+      
+      // If adding this paragraph exceeds the limit AND we already have some text,
+      // push the current chunk and start a new one.
+      if (currentChunk.length + trimmed.length > maxChunkSize && currentChunk.length > 0) {
+        chunksArray.push(currentChunk.trim());
+        currentChunk = trimmed;
+      } else {
+        currentChunk = currentChunk ? currentChunk + "\n\n" + trimmed : trimmed;
+      }
+    }
+    
+    // Don't forget the last chunk
+    if (currentChunk) {
+      chunksArray.push(currentChunk.trim());
     }
 
     // Clear old chunks for this reference
