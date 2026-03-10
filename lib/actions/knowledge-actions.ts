@@ -13,20 +13,64 @@ export interface WorkWithAuthor extends Reference {
   expertId: string;
 }
 
-export async function extractCitationsAction(expertId: string, referenceTitle: string, markdownPath: string) {
+export async function extractCitationsAction(expertId: string, referenceId: string) {
   const session = await auth();
   if (!session) throw new Error("Unauthorized");
 
   const { db } = await connectToDatabase();
-  const absolutePath = path.join(process.cwd(), "public", markdownPath);
 
   try {
-    const content = await fs.readFile(absolutePath, "utf-8");
-    const expertDoc = await db.collection("experts").findOne({ _id: new ObjectId(expertId) });
-    const expert = expertDoc as Expert | null;
+    const expertDoc = await db.collection("experts").findOne({ 
+        _id: new ObjectId(expertId),
+        "references._id": referenceId
+    });
+    const expert = expertDoc as unknown as Expert | null;
     
-    if (!expert) throw new Error("Expert not found");
+    if (!expert || !expert.references) throw new Error("Expert or reference not found");
+    const reference = expert.references.find(r => r._id === referenceId);
+    if (!reference || !reference.textContent) throw new Error("Reference has no text content to analyze.");
 
+    const referenceTitle = reference.title;
+    const content = reference.textContent;
+
+    // 1. CHUNKING LOGIC FOR RAG
+    const chunkSize = 1500;
+    const overlap = 200;
+    const chunksArray: string[] = [];
+    for (let i = 0; i < content.length; i += chunkSize - overlap) {
+      chunksArray.push(content.substring(i, i + chunkSize));
+      if (i + chunkSize >= content.length) break;
+    }
+
+    // Clear old chunks for this reference
+    await db.collection("chunks").deleteMany({ referenceId: referenceId });
+
+    const chunkDocs = [];
+    for (let i = 0; i < chunksArray.length; i++) {
+      const chunkText = chunksArray[i];
+      try {
+        const textForEmbedding = `Experto: ${expert.name}. Obra: ${referenceTitle}. Contenido: ${chunkText}`;
+        const embedding = await getEmbeddings(textForEmbedding);
+        
+        chunkDocs.push({
+          expertId: expertId,
+          expertName: expert.name,
+          referenceId: referenceId,
+          sourceTitle: referenceTitle,
+          content: chunkText,
+          embedding: embedding,
+          order: i
+        });
+      } catch (e) {
+        console.error(`Failed to embed chunk ${i}:`, e);
+      }
+    }
+
+    if (chunkDocs.length > 0) {
+      await db.collection("chunks").insertMany(chunkDocs);
+    }
+
+    // 2. CITATION EXTRACTION LOGIC
     // Take a large sample or chunk it. For now, let's take the first 40k characters 
     // to avoid token limits but get enough substance.
     const textToAnalyze = content.substring(0, 40000);

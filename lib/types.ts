@@ -115,3 +115,18 @@ export const CitationSchema = z.object({
 });
 
 export type Citation = z.infer<typeof CitationSchema>;
+
+// -- Chunks Schema --
+// For full-text semantic search (RAG)
+export const ChunkSchema = z.object({
+  _id: z.string().optional(),
+  expertId: z.string(),
+  expertName: z.string(),
+  referenceId: z.string(),
+  sourceTitle: z.string(),
+  content: z.string(), // The actual text fragment
+  embedding: z.array(z.number()), // 3072 dims vector
+  order: z.number().int(), // To keep sequence if needed
+});
+
+export type Chunk = z.infer<typeof ChunkSchema>;

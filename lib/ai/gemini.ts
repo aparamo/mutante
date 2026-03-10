@@ -24,11 +24,12 @@ const embeddingModel = genAI.getGenerativeModel({
 });
 
 /**
- * Genera embeddings de 768 dimensiones.
+ * Genera embeddings de 3072 dimensiones.
  */
 export async function getEmbeddings(text: string): Promise<number[]> {
   try {
-    const result = await genAI.getGenerativeModel({ model: "embedding-001" }).embedContent(text);
+    const model = genAI.getGenerativeModel({ model: "gemini-embedding-001" });
+    const result = await model.embedContent(text);
     return result.embedding.values;
   } catch (error) {
     console.error("Error al generar embedding:", error);

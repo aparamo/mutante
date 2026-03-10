@@ -20,25 +20,42 @@ export async function POST(req: Request) {
 
         if (queryVector.length > 0) {
           const { db } = await connectToDatabase();
-          const citationsCollection = db.collection("citations");
-
-          const searchResults = await citationsCollection.aggregate([
+          
+          // 1. Search in Citations (exact quotes)
+          const citationsSearchResults = await db.collection("citations").aggregate([
             {
               $vectorSearch: {
                 index: "vector_index",
                 path: "embedding",
                 queryVector: queryVector,
                 numCandidates: 100,
-                limit: 7
+                limit: 4
               }
             }
           ]).toArray();
 
-          if (searchResults && searchResults.length > 0) {
-            contextText = searchResults.map((doc, idx) => {
-              return `[Cita ${idx + 1}] Experto: ${doc.expertName}\nLección/Cita: "${doc.quote}"\nContexto: ${doc.context}\nFuente: ${doc.sourceTitle}`;
-            }).join("\\n\\n---\\n\\n");
-          }
+          // 2. Search in Chunks (full text fragments)
+          const chunksSearchResults = await db.collection("chunks").aggregate([
+            {
+              $vectorSearch: {
+                index: "vector_index",
+                path: "embedding",
+                queryVector: queryVector,
+                numCandidates: 100,
+                limit: 6
+              }
+            }
+          ]).toArray();
+
+          const contextCitations = citationsSearchResults.map((doc, idx) => {
+            return `[Cita ${idx + 1}] Experto: ${doc.expertName}\nObra: ${doc.sourceTitle}\nCita: "${doc.quote}"\nContexto: ${doc.context}`;
+          }).join("\n\n---\n\n");
+
+          const contextChunks = chunksSearchResults.map((doc, idx) => {
+            return `[Fragmento ${idx + 1}] Experto: ${doc.expertName}\nObra: ${doc.sourceTitle}\nContenido: ${doc.content}`;
+          }).join("\n\n---\n\n");
+
+          contextText = `CITAS DESTACADAS:\n${contextCitations}\n\nFRAGMENTOS DEL TEXTO COMPLETO:\n${contextChunks}`;
         }
       }
     } catch (error) {

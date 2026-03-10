@@ -468,27 +468,95 @@ function ReferenceItem({ reference, expert, onUpdate, onDelete, onEditRequest }:
   const ecosiaSearchUrl = `https://www.ecosia.org/search?q=${encodeURIComponent(searchName + " " + reference.title + " filetype:pdf")}`;
 
   const handleFetchPdf = async (urlToFetch: string) => {
-    // ... (implementation remains the same)
+    setIsProcessing(true);
+    try {
+      const result = await downloadAndParsePdfAction(expert.id!, reference._id!, urlToFetch);
+      if (result.success && result.data) {
+        onUpdate(result.data as Reference);
+        setCustomUrl("");
+        setShowUrlInput(false);
+      } else {
+        alert("Error procesando PDF: " + result.error);
+      }
+    } catch(e) {
+      alert("Error: " + (e as Error).message);
+    } finally {
+      setIsProcessing(false);
+    }
   };
   
   const handleAiSearch = async () => {
-    // ... (implementation remains the same)
+    setIsFinding(true);
+    setShowAiDialog(true);
+    setAiResult(null);
+    try {
+      const result = await autoFindPdfUrlAction(expert.name, reference.title);
+      if (result.success) {
+        setAiResult(result.data);
+      } else {
+        alert("Error en la búsqueda con IA: " + result.error);
+      }
+    } catch(e) {
+      alert("Error: " + (e as Error).message);
+    } finally {
+      setIsFinding(false);
+    }
   }
 
   const handleExtractCitations = async () => {
-    // ... (implementation remains the same)
+    setIsExtracting(true);
+    try {
+      const result = await extractCitationsAction(expert.id!, reference._id!);
+      if (result.success) {
+        alert(`¡Éxito! Se extrajeron y vectorizaron ${result.count} citas textuales de la obra.`);
+        await handleToggleCitations(true);
+      } else {
+        alert("Error extrayendo citas: " + result.error);
+      }
+    } catch (e) {
+      alert("Error: " + (e as Error).message);
+    } finally {
+      setIsExtracting(false);
+    }
   };
   
   const handleToggleCitations = async (forceOpen = false) => {
-    // ... (implementation remains the same)
+    const nextShowState = forceOpen || !showCitations;
+    setShowCitations(nextShowState);
+
+    if (nextShowState && citations === null) {
+        setIsFetchingCitations(true);
+        try {
+            const fetchedCitations = await getCitationsForReferenceAction(expert.id!, reference.title);
+            setCitations(fetchedCitations as Citation[]);
+        } catch (e) {
+            alert((e as Error).message);
+        } finally {
+            setIsFetchingCitations(false);
+        }
+    }
   }
 
   const handleDeleteReference = async () => {
-    // ... (implementation remains the same)
+    if (confirm(`¿Estás seguro de que quieres eliminar la obra "${reference.title}" y TODAS sus citas asociadas?`)) {
+        try {
+            await deleteReferenceAction(expert.id!, reference._id!, reference.title);
+            onDelete(reference._id!);
+        } catch (e) {
+            alert((e as Error).message);
+        }
+    }
   }
 
   const handleDeleteCitation = async (citationId: string) => {
-    // ... (implementation remains the same)
+     if (confirm("¿Estás seguro de eliminar esta cita?")) {
+        try {
+            await deleteCitationAction(citationId);
+            setCitations(citations!.filter(c => (c.id || c._id) !== citationId));
+        } catch(e) {
+            alert((e as Error).message);
+        }
+     }
   }
 
   const typeTranslations: Record<string, string> = {

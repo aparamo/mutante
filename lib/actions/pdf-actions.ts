@@ -39,12 +39,6 @@ export async function downloadAndParsePdfAction(expertId: string, referenceId: s
         return { success: false, error: "Expert or reference not found, or reference has no URL." };
     }
 
-    const cleanName = expert.name.replace(/[^a-zA-Z0-9_]/g, "_");
-    const cleanTitle = reference.title.replace(/[^a-zA-Z0-9_]/g, "_").substring(0, 50);
-
-    const knowDir = path.join(process.cwd(), "public", "know", cleanName, cleanTitle);
-    await fs.mkdir(knowDir, { recursive: true });
-
     try {
         console.log(`Downloading ${targetUrl}...`);
         const response = await fetch(targetUrl);
@@ -53,7 +47,6 @@ export async function downloadAndParsePdfAction(expertId: string, referenceId: s
         const buffer = Buffer.from(await response.arrayBuffer());
         
         console.log(`Parsing PDF...`);
-        const mdPath = path.join(knowDir, "content.md");
         
         const pdfParser = new PDFParser(null, true);
         const textContent = await new Promise<string>((resolve, reject) => {
@@ -66,12 +59,7 @@ export async function downloadAndParsePdfAction(expertId: string, referenceId: s
             pdfParser.parseBuffer(buffer);
         });
 
-        const mdContent = `# ${reference.title}\n\n${textContent}`;
-        await fs.writeFile(mdPath, mdContent);
-
-        // Update the expert's reference in MongoDB to mark it as validated and set the markdown path
-        const relativeMdPath = `/know/${cleanName}/${cleanTitle}/content.md`;
-        
+        // Update the expert's reference in MongoDB to mark it as validated and set the textContent
         await db.collection("experts").updateOne(
             { 
               _id: new ObjectId(expertId),
@@ -79,18 +67,18 @@ export async function downloadAndParsePdfAction(expertId: string, referenceId: s
             },
             { 
               $set: { 
-                "references.$.markdownPath": relativeMdPath,
+                "references.$.markdownPath": null,
                 "references.$.isValidated": true,
                 "references.$.url": targetUrl,
                 "references.$.pdfUrl": targetUrl,
-                "references.$.textContent": textContent // Store full text in DB
+                "references.$.textContent": textContent
               } 
             }
         );
 
         const updatedReference = {
             ...reference,
-            markdownPath: relativeMdPath,
+            markdownPath: null,
             isValidated: true,
             url: targetUrl,
             pdfUrl: targetUrl,
@@ -258,16 +246,7 @@ No uses markdown. Si un campo no se encuentra, usa una cadena vacía.`;
         const responseText = result.response.text().replace(/```json/g, "").replace(/```/g, "").trim();
         const metadata = JSON.parse(responseText);
 
-        // 4. Create directory and save the .md file (NO .pdf)
-        const cleanName = expert.name.replace(/[^a-zA-Z0-9_]/g, "_");
-        const cleanTitle = (metadata.title || "Untitled").replace(/[^a-zA-Z0-9_]/g, "_").substring(0, 50);
-        
-        const knowDir = path.join(process.cwd(), "public", "know", cleanName, cleanTitle);
-        await fs.mkdir(knowDir, { recursive: true });
-        
-        const relativeMdPath = `/know/${cleanName}/${cleanTitle}/content.md`;
-        await fs.writeFile(path.join(knowDir, "content.md"), `# ${metadata.title}\n\n${textContent}`);
-
+        // 4. Create reference object
         const rawReference = {
             _id: new ObjectId().toString(),
             title: metadata.title,
@@ -278,11 +257,11 @@ No uses markdown. Si un campo no se encuentra, usa una cadena vacía.`;
             fullCitation: metadata.fullCitation || null,
             url: pdfUrl,
             isAiGenerated: false,
-            isValidated: true, // It's validated because we have the markdown
+            isValidated: true,
             isFundamental: false,
             keywords: [],
             pdfUrl: pdfUrl,
-            markdownPath: relativeMdPath,
+            markdownPath: null,
             textContent: textContent, // Store the full text
         };
 
