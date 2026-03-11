@@ -1,6 +1,8 @@
 import { getAllWorksAction } from "@/lib/actions/knowledge-actions";
 import { WorksDirectoryClient } from "@/components/WorksDirectoryClient";
 
+export const dynamic = "force-dynamic";
+
 export const metadata = {
   title: "Biblioteca de Obras | Mutante",
   description: "Directorio completo de publicaciones, tesis y artículos de los expertos en desarrollo sustentable.",
